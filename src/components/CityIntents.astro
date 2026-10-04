@@ -44,24 +44,24 @@ const n = listings.length;
   </div>
 
   <div class="city-intents__block">
-    <h2 id={`gz-${plaatsSlug}`}>GZ-schoorsteenveger in {stad}</h2>
+    <h2 id={`gz-${plaatsSlug}`}>specialisatie in {stad}</h2>
     <p>
-      Zoek je een <strong>GZ-schoorsteenveger</strong>, klinisch schoorsteenveger of psychotherapeut?
+      Zoek je een <strong>specialisatie</strong>, klinisch schoorsteenveger of psychotherapeut?
       Check de kenmerken per praktijk.
       {" "}
       Uitleg: <a href={INTENT_BLOG_LINKS.gz.href}>{INTENT_BLOG_LINKS.gz.label}</a>.
     </p>
   </div>
 
-  {(intent?.relatietherapie || intent?.emdr || showExpanded) && (
+  {(intent?.diensten || intent?.extra || showExpanded) && (
     <div class="city-intents__block">
-      <h2 id={`therapie-${plaatsSlug}`}>Relatietherapie &amp; EMDR in {stad}</h2>
+      <h2 id={`therapie-${plaatsSlug}`}>Diensten &amp; extra diensten in {stad}</h2>
       <p>
-        Relatietherapie en EMDR worden vaak gezocht. Vraag bij de praktijk of ze jouw hulpvraag behandelen.
+        Diensten en extra diensten worden vaak gezocht. Vraag bij de praktijk of ze jouw vraag behandelen.
         {" "}
         Meer: <a href={INTENT_BLOG_LINKS.relatie.href}>{INTENT_BLOG_LINKS.relatie.label}</a>
         {" · "}
-        <a href={INTENT_BLOG_LINKS.emdr.href}>{INTENT_BLOG_LINKS.emdr.label}</a>.
+        <a href={INTENT_BLOG_LINKS.extra.href}>{INTENT_BLOG_LINKS.extra.label}</a>.
       </p>
     </div>
   )}

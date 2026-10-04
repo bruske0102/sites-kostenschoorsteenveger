@@ -6,7 +6,7 @@ import { listingCount } from "../lib/nl-count";
 interface Props { city: City; listings: Listing[] }
 const { city, listings } = Astro.props;
 const n = listings.length || city.listings;
-const emdrN = kenmerkCount(listings, /emdr/i);
+const emdrN = kenmerkCount(listings, /extra/i);
 
 type Faq = { q: string; a: string };
 const faqs: Faq[] = [
@@ -19,15 +19,15 @@ const faqs: Faq[] = [
     a: `Procedures en wachtlijsten verschillen per praktijk. Bel of check de website — en vraag naar vergoeding via je zorgverzekeraar.`,
   },
   {
-    q: `Wat is het verschil tussen een GZ-schoorsteenveger en een psychotherapeut?`,
-    a: `Beide zijn geregistreerde zorgverleners. Een GZ-schoorsteenveger is gezondheidszorgschoorsteenveger (BIG); een psychotherapeut heeft een eigen registratie. Vraag bij de praktijk wat bij jouw hulpvraag past.`,
+    q: `Wat is het verschil tussen een specialisatie en een psychotherapeut?`,
+    a: `Beide zijn geregistreerde zorgverleners. Een specialisatie is gezondheidszorgschoorsteenveger (BIG); een psychotherapeut heeft een eigen registratie. Vraag bij de praktijk wat bij jouw vraag past.`,
   },
 ];
 
 if (emdrN > 0) {
   faqs.push({
-    q: `Zijn er praktijken met EMDR in ${city.naam}?`,
-    a: `Ja — ${emdrN} vermelding${emdrN === 1 ? "" : "en"} wijst op EMDR. Vraag naar beschikbaarheid en of EMDR bij jouw hulpvraag past.`,
+    q: `Zijn er praktijken met extra diensten in ${city.naam}?`,
+    a: `Ja — ${emdrN} vermelding${emdrN === 1 ? "" : "en"} wijst op extra diensten. Vraag naar beschikbaarheid en of extra diensten bij jouw vraag past.`,
   });
 }
 ---

@@ -9,7 +9,7 @@ const n = listings.length || city.listings;
 
 const gzN = kenmerkCount(listings, /gz[- ]?schoorsteenveger|gezondheidszorg/i);
 const relatieN = kenmerkCount(listings, /relatie/i);
-const emdrN = kenmerkCount(listings, /emdr/i);
+const emdrN = kenmerkCount(listings, /extra/i);
 const kinderN = kenmerkCount(listings, /kinder|jeugd|adolescent/i);
 const onlineN = kenmerkCount(listings, /online|beeldbellen|videobellen/i);
 
@@ -22,14 +22,14 @@ const cards: { title: string; body: string }[] = [
 
 if (gzN > 0) {
   cards.push({
-    title: "GZ-schoorsteenveger",
-    body: `${nlCount(gzN, "vermelding", "vermeldingen")} wijst op een GZ-schoorsteenveger in onze kenmerken.`,
+    title: "specialisatie",
+    body: `${nlCount(gzN, "vermelding", "vermeldingen")} wijst op een specialisatie in onze kenmerken.`,
   });
 }
 if (relatieN + emdrN > 0) {
   cards.push({
-    title: "Relatietherapie & EMDR",
-    body: `In de gids zie je onder meer relatietherapie en/of EMDR — vraag wat bij jouw hulpvraag past.`,
+    title: "Diensten & extra diensten",
+    body: `In de gids zie je onder meer diensten en/of extra diensten — vraag wat bij jouw vraag past.`,
   });
 }
 if (kinderN > 0) {
