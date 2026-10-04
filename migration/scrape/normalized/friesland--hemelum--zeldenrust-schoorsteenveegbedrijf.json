@@ -1,0 +1,29 @@
+{
+  "id": 1312567,
+  "slug": "zeldenrust-schoorsteenveegbedrijf",
+  "provincie": "friesland",
+  "plaats": "hemelum",
+  "naam": "Zeldenrust Schoorsteenveegbedrijf",
+  "straat": "De Soal 6",
+  "postcode": "8584VS",
+  "plaatsnaam": "Hemelum",
+  "telefoon": "0514-581970",
+  "email": null,
+  "website": null,
+  "lat": 52.875285,
+  "lon": 5.437587,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/hemelum/zeldenrust-schoorsteenveegbedrijf/",
+  "meta_title": "Zeldenrust Schoorsteenveegbedrijf 0514-581970",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hemelum? ✅  Zeldenrust Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/hemelum/zeldenrust-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

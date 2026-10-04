@@ -1,0 +1,29 @@
+{
+  "id": 1312277,
+  "slug": "bosch-intro-vd",
+  "provincie": "gelderland",
+  "plaats": "druten",
+  "naam": "Bosch Intro vd",
+  "straat": "Schipleisingel 30",
+  "postcode": "6652GJ",
+  "plaatsnaam": "Druten",
+  "telefoon": "0487-512218",
+  "email": null,
+  "website": null,
+  "lat": 51.88204,
+  "lon": 5.608661,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/druten/bosch-intro-vd/",
+  "meta_title": "Bosch Intro vd 0487-512218",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Druten? ✅  Bosch Intro vd",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/druten/bosch-intro-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

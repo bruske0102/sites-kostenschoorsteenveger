@@ -1,0 +1,29 @@
+{
+  "id": 1312613,
+  "slug": "hansen-fa",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Hansen Fa",
+  "straat": "Ribbeltsweg 13",
+  "postcode": "7514EH",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4357455",
+  "email": null,
+  "website": null,
+  "lat": 52.224802,
+  "lon": 6.908079,
+  "omschrijving": "mobiele telefoon : 06-13407336",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/hansen-fa/",
+  "meta_title": "Hansen Fa 053-4357455",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Hansen Fa",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/hansen-fa/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

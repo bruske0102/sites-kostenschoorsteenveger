@@ -1,0 +1,29 @@
+{
+  "id": 1312354,
+  "slug": "miedema-schoorsteenveger",
+  "provincie": "groningen",
+  "plaats": "noordhorn",
+  "naam": "Miedema Schoorsteenveger",
+  "straat": "Nieuwstraat 15",
+  "postcode": "9804PW",
+  "plaatsnaam": "Noordhorn",
+  "telefoon": "0594-502830",
+  "email": null,
+  "website": "http://www.schoorsteenveger-miedema.nl",
+  "lat": 53.262518,
+  "lon": 6.395259,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/noordhorn/miedema-schoorsteenveger/",
+  "meta_title": "Miedema Schoorsteenveger 0594-502830",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Noordhorn? ✅  Miedema Schoorsteenveger",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/noordhorn/miedema-schoorsteenveger/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312207,
+  "slug": "heer-j-r-de",
+  "provincie": "noord-holland",
+  "plaats": "middenbeemster",
+  "naam": "Heer J R de",
+  "straat": "Middenweg 79",
+  "postcode": "1462HE",
+  "plaatsnaam": "Middenbeemster",
+  "telefoon": "0299-684330",
+  "email": null,
+  "website": null,
+  "lat": 52.566502,
+  "lon": 4.923797,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/middenbeemster/heer-j-r-de/",
+  "meta_title": "Heer J R de 0299-684330",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middenbeemster? ✅  Heer J R de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/middenbeemster/heer-j-r-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

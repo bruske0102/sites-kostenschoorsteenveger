@@ -1,0 +1,29 @@
+{
+  "id": 1312610,
+  "slug": "schoorsteenvegersbedrijf-wivon",
+  "provincie": "noord-brabant",
+  "plaats": "made",
+  "naam": "Schoorsteenvegersbedrijf Wivon",
+  "straat": "Esdoornlaan 14",
+  "postcode": "4921DV",
+  "plaatsnaam": "Made",
+  "telefoon": "0162-683248",
+  "email": null,
+  "website": "http://www.wivon.nl",
+  "lat": 51.674075,
+  "lon": 4.802688,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/made/schoorsteenvegersbedrijf-wivon/",
+  "meta_title": "Schoorsteenvegersbedrijf Wivon 0162-683248",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Made? ✅  Schoorsteenvegersbedrijf Wivon",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/made/schoorsteenvegersbedrijf-wivon/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

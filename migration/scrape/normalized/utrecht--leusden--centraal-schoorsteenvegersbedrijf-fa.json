@@ -1,0 +1,29 @@
+{
+  "id": 1312198,
+  "slug": "centraal-schoorsteenvegersbedrijf-fa",
+  "provincie": "utrecht",
+  "plaats": "leusden",
+  "naam": "Centraal Schoorsteenvegersbedrijf Fa",
+  "straat": "Burg d Beaufortwg 36",
+  "postcode": "3833AG",
+  "plaatsnaam": "Leusden",
+  "telefoon": "033-4320462",
+  "email": null,
+  "website": null,
+  "lat": 52.137416,
+  "lon": 5.425137,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/leusden/centraal-schoorsteenvegersbedrijf-fa/",
+  "meta_title": "Centraal Schoorsteenvegersbedrijf Fa 033-4320462",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leusden? ✅  Centraal Schoorsteenvegersbedrijf Fa",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/leusden/centraal-schoorsteenvegersbedrijf-fa/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

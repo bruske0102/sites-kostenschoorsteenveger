@@ -1,0 +1,29 @@
+{
+  "id": 1312502,
+  "slug": "leeuwestijn-onderhoudsbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "voorburg",
+  "naam": "Leeuwestijn Onderhoudsbedrijf",
+  "straat": "Jan Mulderstraat 42",
+  "postcode": "2273VL",
+  "plaatsnaam": "Voorburg",
+  "telefoon": "070-3885672",
+  "email": null,
+  "website": null,
+  "lat": 52.080405,
+  "lon": 4.355316,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/voorburg/leeuwestijn-onderhoudsbedrijf/",
+  "meta_title": "Leeuwestijn Onderhoudsbedrijf 070-3885672",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Voorburg? ✅  Leeuwestijn Onderhoudsbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/voorburg/leeuwestijn-onderhoudsbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

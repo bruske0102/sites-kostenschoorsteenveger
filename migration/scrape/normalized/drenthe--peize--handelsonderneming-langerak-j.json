@@ -1,0 +1,29 @@
+{
+  "id": 1312511,
+  "slug": "handelsonderneming-langerak-j",
+  "provincie": "drenthe",
+  "plaats": "peize",
+  "naam": "Handelsonderneming Langerak J",
+  "straat": "De Losplaats 2",
+  "postcode": "9321DC",
+  "plaatsnaam": "Peize",
+  "telefoon": "050-5033437",
+  "email": null,
+  "website": null,
+  "lat": 53.153557,
+  "lon": 6.487591,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/peize/handelsonderneming-langerak-j/",
+  "meta_title": "Handelsonderneming Langerak J 050-5033437",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Peize? ✅  Handelsonderneming Langerak J",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/peize/handelsonderneming-langerak-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

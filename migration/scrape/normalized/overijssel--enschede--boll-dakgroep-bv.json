@@ -1,0 +1,29 @@
+{
+  "id": 1312357,
+  "slug": "boll-dakgroep-bv",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Boll Dakgroep BV",
+  "straat": "Het Lentfert 92",
+  "postcode": "7547SP",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4315222",
+  "email": null,
+  "website": null,
+  "lat": 52.222634,
+  "lon": 6.840382,
+  "omschrijving": "Postbus2073, 7500CB, Enschede\nhttp://www.boll.nl\n\n Doelgroep :\nParticulieren\n\n Specialisatie :\nDakterras, Plat dak, Schoorsteen, Valbeveiliging, Windbelasting berekening",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/boll-dakgroep-bv/",
+  "meta_title": "Boll Dakgroep BV 053-4315222",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Boll Dakgroep BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/boll-dakgroep-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312304,
+  "slug": "rietdekkerij-de",
+  "provincie": "gelderland",
+  "plaats": "eefde",
+  "naam": "Rietdekkerij De",
+  "straat": "Mettrayweg 24",
+  "postcode": "7211LD",
+  "plaatsnaam": "Eefde",
+  "telefoon": "0575-511465",
+  "email": null,
+  "website": "http://www.rietdekkerij.nl",
+  "lat": 52.164305,
+  "lon": 6.212075,
+  "omschrijving": "Diensten :\nDakrenovatie\n\n Specialisatie :\nEnergiebesparing, Pannendak, Schoorsteen",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/eefde/rietdekkerij-de/",
+  "meta_title": "Rietdekkerij De 0575-511465",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eefde? ✅  Rietdekkerij De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/eefde/rietdekkerij-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

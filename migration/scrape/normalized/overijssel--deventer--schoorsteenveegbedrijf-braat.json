@@ -1,0 +1,36 @@
+{
+  "id": 1312302,
+  "slug": "schoorsteenveegbedrijf-braat",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Schoorsteenveegbedrijf Braat",
+  "straat": "Giesenstraat 10",
+  "postcode": "7417BT",
+  "plaatsnaam": "Deventer",
+  "telefoon": "0570-638010",
+  "email": "info@vegerij.nl",
+  "website": "http://www.vegerij.nl",
+  "lat": 52.252357,
+  "lon": 6.190773,
+  "omschrijving": "Wat wij doen:\nBraat Schoorsteenveegbedrijf is in 2001 gestart met het schoonmaken en renoveren van schoorstenen. Anno 2004 zijn wij ook gespecialiseerd in het reinigen van ventilatiekanalen. Door middel van de nieuwste schoonmaak technieken maken wij uw schoorsteen en ventilatiekanalen weer veilig en schoon.\n\nNa 8 jaar ervaring opgedaan te hebben bij een Schoorsteenveegbedrijf is op 01-12-2001 Schoorsteenbedrijf Braat gestart. Na het volgen van de gezel opleiding van de ASPB, Het is van groot belang om aangesloten te zijn bij een goede branche-organisatie. Daarom zetten wij ons in om te voldoen aan de normen van de ASPB, de Algemene Schoorsteenvegers PatroonsBond.\n\nNaast een opleiding van de ASPB heeft Braat ook nog een opleiding gedaan om ventilatiekanalen te reinigen en diverse certificeringen behaald waaronder veilig werken op dak VCA en het keuren van ladders en steigers. Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nRenovatie / schoorsteenrenovatie, Schoorsteenvegen, Keuren van ladders en steigers, Reinigen van ventilatiekanalen, Ongediertebestrijding\n\n Reiniging van :\nMechanische ventilatie, Schoorstenen, Ventilatiekanalen\n\n Aangesloten bij / Certificering :\nASPB, VCA",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/overijssel/deventer/schoorsteenveegbedrijf-braat/",
+  "meta_title": "Schoorsteenveegbedrijf Braat 0570-638010 info@vegerij.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Deventer? ✅  Schoorsteenveegbedrijf Braat",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/deventer/schoorsteenveegbedrijf-braat/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

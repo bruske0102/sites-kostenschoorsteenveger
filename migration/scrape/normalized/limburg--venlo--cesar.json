@@ -1,0 +1,29 @@
+{
+  "id": 1312664,
+  "slug": "cesar",
+  "provincie": "limburg",
+  "plaats": "venlo",
+  "naam": "Cesar",
+  "straat": "Byronstraat 62",
+  "postcode": "5924 XN",
+  "plaatsnaam": "Venlo",
+  "telefoon": "0619660266",
+  "email": "cezicezi93.cs@gmail.com",
+  "website": null,
+  "lat": 51.3691288,
+  "lon": 6.134909099999959,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/venlo/cesar/",
+  "meta_title": "Cesar 0619660266 cezicezi93.cs@gmail.com",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Venlo? ✅  Cesar",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/venlo/cesar/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

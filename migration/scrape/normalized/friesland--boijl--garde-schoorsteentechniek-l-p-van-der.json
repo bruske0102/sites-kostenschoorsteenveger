@@ -1,0 +1,29 @@
+{
+  "id": 1312562,
+  "slug": "garde-schoorsteentechniek-l-p-van-der",
+  "provincie": "friesland",
+  "plaats": "boijl",
+  "naam": "Garde Schoorsteentechniek L P van der",
+  "straat": "Boijlerweg 29",
+  "postcode": "8392NB",
+  "plaatsnaam": "Boijl",
+  "telefoon": "0561-420505",
+  "email": null,
+  "website": null,
+  "lat": 52.906163,
+  "lon": 6.18944,
+  "omschrijving": "mobiele telefoon : 06-50235353",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/boijl/garde-schoorsteentechniek-l-p-van-der/",
+  "meta_title": "Garde Schoorsteentechniek L P van der 0561-420505",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Boijl? ✅  Garde Schoorsteentechniek L P van der",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/boijl/garde-schoorsteentechniek-l-p-van-der/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

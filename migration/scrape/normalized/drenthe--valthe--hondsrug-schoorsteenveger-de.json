@@ -1,0 +1,29 @@
+{
+  "id": 1312522,
+  "slug": "hondsrug-schoorsteenveger-de",
+  "provincie": "drenthe",
+  "plaats": "valthe",
+  "naam": "Hondsrug Schoorsteenveger De",
+  "straat": "Hoofdstraat 10",
+  "postcode": "7872PK",
+  "plaatsnaam": "Valthe",
+  "telefoon": "06-37373504",
+  "email": null,
+  "website": "http://www.schoorsteenvegerdehondsrug.nl",
+  "lat": 52.841357,
+  "lon": 6.886215,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/valthe/hondsrug-schoorsteenveger-de/",
+  "meta_title": "Hondsrug Schoorsteenveger De 06-37373504",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Valthe? ✅  Hondsrug Schoorsteenveger De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/valthe/hondsrug-schoorsteenveger-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

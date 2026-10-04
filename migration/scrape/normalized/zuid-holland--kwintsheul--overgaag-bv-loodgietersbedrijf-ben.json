@@ -1,0 +1,29 @@
+{
+  "id": 1312460,
+  "slug": "overgaag-bv-loodgietersbedrijf-ben",
+  "provincie": "zuid-holland",
+  "plaats": "kwintsheul",
+  "naam": "Overgaag BV Loodgietersbedrijf Ben",
+  "straat": "Bovendijk 35",
+  "postcode": "2295RV",
+  "plaatsnaam": "Kwintsheul",
+  "telefoon": "0174-297193",
+  "email": null,
+  "website": "http://www.benovergaag.nl",
+  "lat": 52.01465,
+  "lon": 4.26093,
+  "omschrijving": "Wat wij doen:\nOnze vakkundige monteurs plaatsen, onderhouden en repareren alle installaties bij u in huis. Bij het plaatsen van nieuwe toestellen worden de oude verwijderd en afgevoerd. Daarnaast worden de noodzakelijke aanpassingen aan de huisinstallatie aangebracht. Denk hierbij bijvoorbeeld aan nieuwe leidingen, vernieuwing van de schoorsteen en het inregelen van de verwarming.\n\n Diensten :\nRenovatie\n\n Specialisatie :\nAirconditioning, Badkamer, Dakbedekking, Waterleidingen\n\n Merken :\nGrohe, Jaga, Radson, Remeha, Sphinx, Thermic, Vaillant",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/kwintsheul/overgaag-bv-loodgietersbedrijf-ben/",
+  "meta_title": "Overgaag BV Loodgietersbedrijf Ben 0174-297193",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Kwintsheul? ✅  Overgaag BV Loodgietersbedrijf Ben",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/kwintsheul/overgaag-bv-loodgietersbedrijf-ben/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

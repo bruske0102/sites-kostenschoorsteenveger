@@ -1,0 +1,29 @@
+{
+  "id": 1312563,
+  "slug": "jaap-derks",
+  "provincie": "friesland",
+  "plaats": "lippenhuizen",
+  "naam": "Jaap Derks",
+  "straat": "Marten Janswei 35",
+  "postcode": "8408JB",
+  "plaatsnaam": "Lippenhuizen",
+  "telefoon": "06-16604053",
+  "email": null,
+  "website": "http://www.jaapderks.nl",
+  "lat": 53.017018,
+  "lon": 6.096336,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/lippenhuizen/jaap-derks/",
+  "meta_title": "Jaap Derks 06-16604053",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Lippenhuizen? ✅  Jaap Derks",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/lippenhuizen/jaap-derks/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

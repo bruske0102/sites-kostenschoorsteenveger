@@ -1,0 +1,29 @@
+{
+  "id": 1312113,
+  "slug": "engelenburg-bv-kachelspecialist-1",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Engelenburg BV Kachelspecialist",
+  "straat": "Prins Bernhardlaan 15",
+  "postcode": "6711 PB",
+  "plaatsnaam": "Ede",
+  "telefoon": "0318437790",
+  "email": "info@kachelspecialist-engelenburg.nl",
+  "website": "http://www.kachelspecialist-engelenburg.nl",
+  "lat": 52.0306517,
+  "lon": 5.6682855,
+  "omschrijving": "kachelspecialist in Ede",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/engelenburg-bv-kachelspecialist-1/",
+  "meta_title": "Engelenburg BV Kachelspecialist 0318437790 info@kachelspecialist-engelenburg.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Engelenburg BV Kachelspecialist",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/ede/engelenburg-bv-kachelspecialist-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

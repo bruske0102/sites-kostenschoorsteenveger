@@ -1,0 +1,33 @@
+{
+  "id": 1312493,
+  "slug": "groot-bv-nic-de",
+  "provincie": "zuid-holland",
+  "plaats": "hillegom",
+  "naam": "Groot BV Nic de",
+  "straat": "Marconistraat 15",
+  "postcode": "2181AK",
+  "plaatsnaam": "Hillegom",
+  "telefoon": "0252-515832",
+  "email": "info@formule-2.nl",
+  "website": null,
+  "lat": 52.289665,
+  "lon": 4.585789,
+  "omschrijving": "olie en schoorsteenveegbedrijf\n\n Wat wij doen:\nDe verkoop van brandstoffen d.m.v. de exploitatie van een benzinepomp, levering op locatie: aan huis of op het werk, en de uitoefening van een schoorsteenvegersbedrijf. Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vogelnesten verwijderen, benzinepomp, schoorsteenvegers, verkoop brandstoffen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hillegom/groot-bv-nic-de/",
+  "meta_title": "Groot BV Nic de 0252-515832 info@formule-2.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hillegom? ✅  Groot BV Nic de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hillegom/groot-bv-nic-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

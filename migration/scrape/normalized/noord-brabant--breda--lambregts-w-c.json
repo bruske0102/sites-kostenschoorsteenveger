@@ -1,0 +1,29 @@
+{
+  "id": 1312629,
+  "slug": "lambregts-w-c",
+  "provincie": "noord-brabant",
+  "plaats": "breda",
+  "naam": "Lambregts W C",
+  "straat": "Perzikkruid 20",
+  "postcode": "4823CH",
+  "plaatsnaam": "Breda",
+  "telefoon": "076-5420507",
+  "email": null,
+  "website": null,
+  "lat": 51.622029,
+  "lon": 4.742491,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/breda/lambregts-w-c/",
+  "meta_title": "Lambregts W C 076-5420507",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Breda? ✅  Lambregts W C",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/breda/lambregts-w-c/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

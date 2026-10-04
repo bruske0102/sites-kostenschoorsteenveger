@@ -1,0 +1,29 @@
+{
+  "id": 1312588,
+  "slug": "brink-kachel-service-uddel-van-de",
+  "provincie": "gelderland",
+  "plaats": "uddel",
+  "naam": "Brink Kachel Service Uddel Van de",
+  "straat": "Heegderweg 14",
+  "postcode": "3888MD",
+  "plaatsnaam": "Uddel",
+  "telefoon": "06-53314450",
+  "email": null,
+  "website": null,
+  "lat": 52.259811,
+  "lon": 5.785822,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/uddel/brink-kachel-service-uddel-van-de/",
+  "meta_title": "Brink Kachel Service Uddel Van de 06-53314450",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Uddel? ✅  Brink Kachel Service Uddel Van de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/uddel/brink-kachel-service-uddel-van-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

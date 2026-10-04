@@ -1,0 +1,29 @@
+{
+  "id": 1312092,
+  "slug": "fadili-schoorsteenveegbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Fadili Schoorsteenveegbedrijf",
+  "straat": "Pomphoekweg 4",
+  "postcode": "5222BE",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-48178077",
+  "email": null,
+  "website": null,
+  "lat": 51.700108,
+  "lon": 5.274532,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/fadili-schoorsteenveegbedrijf/",
+  "meta_title": "Fadili Schoorsteenveegbedrijf 06-48178077",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Fadili Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/fadili-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

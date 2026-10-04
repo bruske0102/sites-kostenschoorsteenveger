@@ -1,0 +1,29 @@
+{
+  "id": 1312361,
+  "slug": "lachende-schoorsteenveger-de",
+  "provincie": "groningen",
+  "plaats": "zeerijp",
+  "naam": "Lachende Schoorsteenveger De",
+  "straat": "Molenweg 12",
+  "postcode": "9914PM",
+  "plaatsnaam": "Zeerijp",
+  "telefoon": "0596-857484",
+  "email": null,
+  "website": "http://www.delachendeschoorsteenveger.nl",
+  "lat": 53.348886,
+  "lon": 6.762115,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/zeerijp/lachende-schoorsteenveger-de/",
+  "meta_title": "Lachende Schoorsteenveger De 0596-857484",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zeerijp? ✅  Lachende Schoorsteenveger De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/zeerijp/lachende-schoorsteenveger-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312114,
+  "slug": "abs-bruin-de",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "ABS Bruin De",
+  "straat": "Froukemaheerd 234",
+  "postcode": "9736RV",
+  "plaatsnaam": "Groningen (gemeente)",
+  "telefoon": "050-5412186",
+  "email": null,
+  "website": null,
+  "lat": 53.245929,
+  "lon": 6.597676,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/abs-bruin-de/",
+  "meta_title": "ABS Bruin De 050-5412186",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  ABS Bruin De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/groningen-gemeente/abs-bruin-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

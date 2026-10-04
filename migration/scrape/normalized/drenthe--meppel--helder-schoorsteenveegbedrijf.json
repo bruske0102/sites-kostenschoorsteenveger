@@ -1,0 +1,29 @@
+{
+  "id": 1312118,
+  "slug": "helder-schoorsteenveegbedrijf",
+  "provincie": "drenthe",
+  "plaats": "meppel",
+  "naam": "Helder Schoorsteenveegbedrijf",
+  "straat": "Mr. Harm Smeengekade 13",
+  "postcode": "7941XX",
+  "plaatsnaam": "Meppel",
+  "telefoon": "0522-853951",
+  "email": null,
+  "website": "http://www.helderschoorsteenveegbedrijf.nl",
+  "lat": 52.694862,
+  "lon": 6.186449,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/meppel/helder-schoorsteenveegbedrijf/",
+  "meta_title": "Helder Schoorsteenveegbedrijf 0522-853951",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Meppel? ✅  Helder Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/meppel/helder-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

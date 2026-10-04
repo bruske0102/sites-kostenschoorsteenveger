@@ -1,0 +1,29 @@
+{
+  "id": 1312136,
+  "slug": "wit-schoorsteenveger-e-de",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Wit Schoorsteenveger E de",
+  "straat": "Amstelstraat 88",
+  "postcode": "9725KX",
+  "plaatsnaam": "Groningen (gemeente)",
+  "telefoon": "050-5250943",
+  "email": null,
+  "website": null,
+  "lat": 53.204561,
+  "lon": 6.566388,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/wit-schoorsteenveger-e-de/",
+  "meta_title": "Wit Schoorsteenveger E de 050-5250943",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  Wit Schoorsteenveger E de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/groningen-gemeente/wit-schoorsteenveger-e-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

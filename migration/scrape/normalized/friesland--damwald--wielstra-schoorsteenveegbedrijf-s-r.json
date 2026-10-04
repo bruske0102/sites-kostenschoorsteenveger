@@ -1,0 +1,29 @@
+{
+  "id": 1312566,
+  "slug": "wielstra-schoorsteenveegbedrijf-s-r",
+  "provincie": "friesland",
+  "plaats": "damwald",
+  "naam": "Wielstra Schoorsteenveegbedrijf S R",
+  "straat": "Haadwei 128",
+  "postcode": "9104BJ",
+  "plaatsnaam": "Damwâld",
+  "telefoon": "06-22824296",
+  "email": null,
+  "website": null,
+  "lat": 53.285271,
+  "lon": 5.999681,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/damwald/wielstra-schoorsteenveegbedrijf-s-r/",
+  "meta_title": "Wielstra Schoorsteenveegbedrijf S R 06-22824296",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Damwâld? ✅  Wielstra Schoorsteenveegbedrijf S R",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/damwald/wielstra-schoorsteenveegbedrijf-s-r/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

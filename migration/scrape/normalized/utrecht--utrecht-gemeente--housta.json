@@ -1,0 +1,29 @@
+{
+  "id": 1312654,
+  "slug": "housta",
+  "provincie": "utrecht",
+  "plaats": "utrecht-gemeente",
+  "naam": "Housta",
+  "straat": "Marshalllaan 137",
+  "postcode": "3527TC",
+  "plaatsnaam": "Utrecht (gemeente)",
+  "telefoon": "030-2981571",
+  "email": null,
+  "website": null,
+  "lat": 52.076247,
+  "lon": 5.087925,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/utrecht-gemeente/housta/",
+  "meta_title": "Housta 030-2981571",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Housta",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/utrecht-gemeente/housta/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

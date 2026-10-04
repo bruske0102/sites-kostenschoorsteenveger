@@ -1,0 +1,29 @@
+{
+  "id": 1312423,
+  "slug": "abc-werken",
+  "provincie": "noord-holland",
+  "plaats": "hilversum",
+  "naam": "ABC Werken",
+  "straat": "Marconistraat 3",
+  "postcode": "1223BP",
+  "plaatsnaam": "Hilversum",
+  "telefoon": "035-6836623",
+  "email": null,
+  "website": null,
+  "lat": 52.230233,
+  "lon": 5.192865,
+  "omschrijving": "Postbus1693, 1200BR, Hilversum",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/hilversum/abc-werken/",
+  "meta_title": "ABC Werken 035-6836623",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  ABC Werken",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/hilversum/abc-werken/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

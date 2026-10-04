@@ -1,0 +1,29 @@
+{
+  "id": 1312425,
+  "slug": "ensotec-schoorsteentechniek",
+  "provincie": "flevoland",
+  "plaats": "almere",
+  "naam": "Ensotec Schoorsteentechniek",
+  "straat": "Televisieweg 1",
+  "postcode": "1322AC",
+  "plaatsnaam": "Almere",
+  "telefoon": "036-5290957",
+  "email": null,
+  "website": "http://www.ensotec.nl",
+  "lat": 52.353418,
+  "lon": 5.192546,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/almere/ensotec-schoorsteentechniek/",
+  "meta_title": "Ensotec Schoorsteentechniek 036-5290957",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Almere? ✅  Ensotec Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/flevoland/almere/ensotec-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

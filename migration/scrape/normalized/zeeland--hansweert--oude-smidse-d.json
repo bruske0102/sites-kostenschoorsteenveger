@@ -1,0 +1,29 @@
+{
+  "id": 1312322,
+  "slug": "oude-smidse-d",
+  "provincie": "zeeland",
+  "plaats": "hansweert",
+  "naam": "Oude Smidse d'",
+  "straat": "Pluimpot 70",
+  "postcode": "4417CG",
+  "plaatsnaam": "Hansweert",
+  "telefoon": "0113-572739",
+  "email": "installatie@doudesmidse.nl",
+  "website": null,
+  "lat": 51.448673,
+  "lon": 4.0013,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zeeland/hansweert/oude-smidse-d/",
+  "meta_title": "Oude Smidse d' 0113-572739 installatie@doudesmidse.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hansweert? ✅  Oude Smidse d",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/hansweert/oude-smidse-d/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

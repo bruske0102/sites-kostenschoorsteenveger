@@ -1,0 +1,29 @@
+{
+  "id": 1312124,
+  "slug": "meester-schoorsteenveger-haan",
+  "provincie": "gelderland",
+  "plaats": "millingen-aan-de-rijn",
+  "naam": "Meester Schoorsteenveger Haan",
+  "straat": "Nielingen 77",
+  "postcode": "6566KJ",
+  "plaatsnaam": "Millingen aan de Rijn",
+  "telefoon": "0481-355767",
+  "email": null,
+  "website": null,
+  "lat": 51.861001,
+  "lon": 6.039848,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/millingen-aan-de-rijn/meester-schoorsteenveger-haan/",
+  "meta_title": "Meester Schoorsteenveger Haan 0481-355767",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Millingen aan de Rijn? ✅  Meester Schoorsteenveger Haan",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/millingen-aan-de-rijn/meester-schoorsteenveger-haan/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312253,
+  "slug": "wetering-dienstverlening",
+  "provincie": "gelderland",
+  "plaats": "putten",
+  "naam": "Wetering Dienstverlening",
+  "straat": "Drosteweg 39",
+  "postcode": "3881PE",
+  "plaatsnaam": "Putten",
+  "telefoon": "06-53555917",
+  "email": "ronniewetering@hotmail.com",
+  "website": "http://www.wetering-schoorsteenveger.nl",
+  "lat": 52.210264,
+  "lon": 5.619934,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/putten/wetering-dienstverlening/",
+  "meta_title": "Wetering Dienstverlening 06-53555917 ronniewetering@hotmail.com",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Putten? ✅  Wetering Dienstverlening",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/putten/wetering-dienstverlening/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

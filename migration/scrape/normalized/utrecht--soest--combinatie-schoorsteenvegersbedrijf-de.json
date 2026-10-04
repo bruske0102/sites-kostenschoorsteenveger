@@ -1,0 +1,36 @@
+{
+  "id": 1312201,
+  "slug": "combinatie-schoorsteenvegersbedrijf-de",
+  "provincie": "utrecht",
+  "plaats": "soest",
+  "naam": "Combinatie Schoorsteenvegersbedrijf De",
+  "straat": "Weteringpad 46",
+  "postcode": "3762EN",
+  "plaatsnaam": "Soest",
+  "telefoon": "035-6011130",
+  "email": null,
+  "website": null,
+  "lat": 52.179206,
+  "lon": 5.273164,
+  "omschrijving": "Veeg op tijd zodat U brandweer vermijdt.\n\n mobiele telefoon : 06-53544962\n\n Wat wij doen:\nSchoonmaakbedrijf de Flevo is een middel groot bedrijf uit Soest dat al meer dan 40 jaar in en rond de regio Soest- Amersfoort- Hilversum- Utrecht- Almere en verdere gemeenten werkzaam is. Door de jaren heen hebben wij een uitstekende band opgebouwd met onze klantenkring. Schoonmaakbedrijf de Flevo is gespecialiseerd in een groot aantal facetten binnen de schoonmaak branche waaronder glasbewassing, periodiek schoonmaakonderhoud en gevelreiniging.\n\nWij zijn actief op het gebied van een verscheidenheid aan professionele schoonmaak- en onderhoudsdiensten. Onze drijvende kracht ligt in onze kwaliteit, uitstekende ervaring en goede service. U kunt de schoonmaak van uw bedrijf dus met een gerust hart aan ons overlaten. Wij hebben deskundig en gecertificeerd personeel dat schoonmaakwerkzaamheden serieus neemt en kundig uitvoert. Voor meer informatie of een vrijblijvende offerte kunt u altijd contact met ons opnemen. Specialiteiten :\nSchoonmaakdiensten, Glasbewassing, Periodiek onderhoud , Vloeren reinigen, Tapijt reinigen, Dakgoten reinigen, Gevelreiniging, Kunststof kozijnen reinigen, Graffiti verwijdering",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/soest/combinatie-schoorsteenvegersbedrijf-de/",
+  "meta_title": "Combinatie Schoorsteenvegersbedrijf De 035-6011130",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Soest? ✅  Combinatie Schoorsteenvegersbedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/soest/combinatie-schoorsteenvegersbedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

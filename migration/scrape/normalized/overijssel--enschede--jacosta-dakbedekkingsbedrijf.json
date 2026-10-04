@@ -1,0 +1,33 @@
+{
+  "id": 1312242,
+  "slug": "jacosta-dakbedekkingsbedrijf",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Jacosta Dakbedekkingsbedrijf",
+  "straat": "Magalhaesstraat 23",
+  "postcode": "7532CK",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4616887",
+  "email": "info@jacosta.nl",
+  "website": "http://www.jacosta.nl",
+  "lat": 52.218475,
+  "lon": 6.959424,
+  "omschrijving": "Diensten :\nDakreiniging\n\n Specialisatie :\nDakgoot, Gevelbekleding, Schoorsteen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/jacosta-dakbedekkingsbedrijf/",
+  "meta_title": "Jacosta Dakbedekkingsbedrijf 053-4616887 info@jacosta.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Jacosta Dakbedekkingsbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/jacosta-dakbedekkingsbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

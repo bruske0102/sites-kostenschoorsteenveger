@@ -1,0 +1,36 @@
+{
+  "id": 1312663,
+  "slug": "houtkachelwarmte-hielke-ijlstra",
+  "provincie": "friesland",
+  "plaats": "it-heidenskip",
+  "naam": "Houtkachelwarmte Hielke IJlstra",
+  "straat": "Ursuladijk 12",
+  "postcode": "8724 HR",
+  "plaatsnaam": "It Heidenskip",
+  "telefoon": "0515-543064",
+  "email": "info@houtkachelwarmte.nl",
+  "website": "http://www.houtkachelwarmte.nl",
+  "lat": 52.9613702,
+  "lon": 5.473925099999974,
+  "omschrijving": "Schoorsteenvegen, aanleggen rookkanalen en houtkachels",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/it-heidenskip/houtkachelwarmte-hielke-ijlstra/",
+  "meta_title": "Houtkachelwarmte Hielke IJlstra 0515-543064 info@houtkachelwarmte.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in It Heidenskip? ✅  Houtkachelwarmte Hielke IJlstra",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/it-heidenskip/houtkachelwarmte-hielke-ijlstra/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

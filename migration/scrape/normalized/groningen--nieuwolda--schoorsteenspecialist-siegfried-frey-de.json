@@ -1,0 +1,29 @@
+{
+  "id": 1312352,
+  "slug": "schoorsteenspecialist-siegfried-frey-de",
+  "provincie": "groningen",
+  "plaats": "nieuwolda",
+  "naam": "Schoorsteenspecialist Siegfried Frey de",
+  "straat": "Hoofdweg Oost 3",
+  "postcode": "9944BV",
+  "plaatsnaam": "Nieuwolda",
+  "telefoon": "0596-541974",
+  "email": null,
+  "website": null,
+  "lat": 53.248112,
+  "lon": 6.987594,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/nieuwolda/schoorsteenspecialist-siegfried-frey-de/",
+  "meta_title": "Schoorsteenspecialist Siegfried Frey de 0596-541974",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwolda? ✅  Schoorsteenspecialist Siegfried Frey de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/nieuwolda/schoorsteenspecialist-siegfried-frey-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312130,
+  "slug": "oost-nederland-schoorsteenvegersbedrijf",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Oost-Nederland Schoorsteenvegersbedrijf",
+  "straat": "Van Heutzplein 24",
+  "postcode": "7535ZG",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4301120",
+  "email": null,
+  "website": null,
+  "lat": 52.211119,
+  "lon": 6.913055,
+  "omschrijving": "mobiele telefoon : 06-51423656",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/oost-nederland-schoorsteenvegersbedrijf/",
+  "meta_title": "Oost-Nederland Schoorsteenvegersbedrijf 053-4301120",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Oost-Nederland Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/oost-nederland-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

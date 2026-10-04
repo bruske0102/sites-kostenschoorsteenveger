@@ -1,0 +1,33 @@
+{
+  "id": 1312213,
+  "slug": "witlox-zn-schoorsteenvegersbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "son",
+  "naam": "Witlox & Zn Schoorsteenvegersbedrijf",
+  "straat": "Sonniuswijk 28",
+  "postcode": "5691PE",
+  "plaatsnaam": "Son",
+  "telefoon": "0499-472026",
+  "email": "info@witlox-riool.nl",
+  "website": "http://www.witlox-riool.nl",
+  "lat": 51.528433,
+  "lon": 5.470552,
+  "omschrijving": "Doelgroep :\nBedrijven\n\n Diensten :\nCamera inspectie",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/son/witlox-zn-schoorsteenvegersbedrijf/",
+  "meta_title": "Witlox & Zn Schoorsteenvegersbedrijf 0499-472026 info@witlox-riool.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Son? ✅  Witlox & Zn Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/son/witlox-zn-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

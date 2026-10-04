@@ -1,0 +1,29 @@
+{
+  "id": 1312542,
+  "slug": "rager-schoorsteenbedrijf-de",
+  "provincie": "gelderland",
+  "plaats": "culemborg",
+  "naam": "Rager Schoorsteenbedrijf De",
+  "straat": "Prijssestraat 108",
+  "postcode": "4101CS",
+  "plaatsnaam": "Culemborg",
+  "telefoon": "0345-513858",
+  "email": null,
+  "website": null,
+  "lat": 51.953529,
+  "lon": 5.223623,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/culemborg/rager-schoorsteenbedrijf-de/",
+  "meta_title": "Rager Schoorsteenbedrijf De 0345-513858",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Culemborg? ✅  Rager Schoorsteenbedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/culemborg/rager-schoorsteenbedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

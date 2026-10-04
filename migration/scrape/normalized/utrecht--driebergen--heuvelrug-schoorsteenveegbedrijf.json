@@ -1,0 +1,29 @@
+{
+  "id": 1312650,
+  "slug": "heuvelrug-schoorsteenveegbedrijf",
+  "provincie": "utrecht",
+  "plaats": "driebergen",
+  "naam": "Heuvelrug Schoorsteenveegbedrijf",
+  "straat": "Zonstraat 29",
+  "postcode": "3971VD",
+  "plaatsnaam": "Driebergen",
+  "telefoon": "06-20502248",
+  "email": null,
+  "website": null,
+  "lat": 52.054236,
+  "lon": 5.292742,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/driebergen/heuvelrug-schoorsteenveegbedrijf/",
+  "meta_title": "Heuvelrug Schoorsteenveegbedrijf 06-20502248",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Driebergen? ✅  Heuvelrug Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/driebergen/heuvelrug-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

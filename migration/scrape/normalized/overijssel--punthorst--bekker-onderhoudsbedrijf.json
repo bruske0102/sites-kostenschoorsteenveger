@@ -1,0 +1,29 @@
+{
+  "id": 1312519,
+  "slug": "bekker-onderhoudsbedrijf",
+  "provincie": "overijssel",
+  "plaats": "punthorst",
+  "naam": "Bekker Onderhoudsbedrijf",
+  "straat": "Mr J B Kanlaan 59",
+  "postcode": "7715PR",
+  "plaatsnaam": "Punthorst",
+  "telefoon": "06-53338592",
+  "email": null,
+  "website": null,
+  "lat": 52.606672,
+  "lon": 6.276983,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/punthorst/bekker-onderhoudsbedrijf/",
+  "meta_title": "Bekker Onderhoudsbedrijf 06-53338592",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Punthorst? ✅  Bekker Onderhoudsbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/punthorst/bekker-onderhoudsbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

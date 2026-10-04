@@ -1,0 +1,29 @@
+{
+  "id": 1312393,
+  "slug": "schouten-schoorsteenveeg-en-klussenbedrijf",
+  "provincie": "noord-holland",
+  "plaats": "heerhugowaard",
+  "naam": "Schouten Schoorsteenveeg- en Klussenbedrijf",
+  "straat": "Rhodoniet 3",
+  "postcode": "1703GW",
+  "plaatsnaam": "Heerhugowaard",
+  "telefoon": "072-5746433",
+  "email": null,
+  "website": null,
+  "lat": 52.662436,
+  "lon": 4.819141,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heerhugowaard/schouten-schoorsteenveeg-en-klussenbedrijf/",
+  "meta_title": "Schouten Schoorsteenveeg- en Klussenbedrijf 072-5746433",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heerhugowaard? ✅  Schouten Schoorsteenveeg- en Klussenbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/heerhugowaard/schouten-schoorsteenveeg-en-klussenbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

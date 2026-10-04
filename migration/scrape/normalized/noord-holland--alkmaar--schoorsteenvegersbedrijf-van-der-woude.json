@@ -1,0 +1,36 @@
+{
+  "id": 1312378,
+  "slug": "schoorsteenvegersbedrijf-van-der-woude",
+  "provincie": "noord-holland",
+  "plaats": "alkmaar",
+  "naam": "Schoorsteenvegersbedrijf van der Woude",
+  "straat": "Karel Doormankade 23",
+  "postcode": "1813TS",
+  "plaatsnaam": "Alkmaar",
+  "telefoon": "072-5404521",
+  "email": null,
+  "website": null,
+  "lat": 52.622836,
+  "lon": 4.761245,
+  "omschrijving": "Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakgootreiniging, Reiniging / schoorsteenreiniging, Schoorsteenvegen, Vogelnesten verwijderen\n\n Reiniging van :\nHoutkachels, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen, Ventilatiekanalen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/alkmaar/schoorsteenvegersbedrijf-van-der-woude/",
+  "meta_title": "Schoorsteenvegersbedrijf van der Woude 072-5404521",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alkmaar? ✅  Schoorsteenvegersbedrijf van der Woude",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/alkmaar/schoorsteenvegersbedrijf-van-der-woude/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

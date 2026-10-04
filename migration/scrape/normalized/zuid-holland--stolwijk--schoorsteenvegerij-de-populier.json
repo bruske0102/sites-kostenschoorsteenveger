@@ -1,0 +1,33 @@
+{
+  "id": 1312467,
+  "slug": "schoorsteenvegerij-de-populier",
+  "provincie": "zuid-holland",
+  "plaats": "stolwijk",
+  "naam": "Schoorsteenvegerij De Populier",
+  "straat": "Populierenlaan 28",
+  "postcode": "2821BB",
+  "plaatsnaam": "Stolwijk",
+  "telefoon": "0182-341578",
+  "email": "info@de-populier.nl",
+  "website": "http://www.de-populier.nl",
+  "lat": 51.972011,
+  "lon": 4.769559,
+  "omschrijving": "ASPB : 0182-341578\n\n0182-341578",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/stolwijk/schoorsteenvegerij-de-populier/",
+  "meta_title": "Schoorsteenvegerij De Populier 0182-341578 info@de-populier.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Stolwijk? ✅  Schoorsteenvegerij De Populier",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/stolwijk/schoorsteenvegerij-de-populier/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

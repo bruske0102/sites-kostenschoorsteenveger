@@ -1,0 +1,29 @@
+{
+  "id": 1312363,
+  "slug": "schoorsteenvegerij-bezuidenhout",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Schoorsteenvegerij Bezuidenhout",
+  "straat": "Hekkelaan 40",
+  "postcode": "2511ZA",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "070-3633793",
+  "email": null,
+  "website": "http://www.schoorsteenvegerij.nl",
+  "lat": 52.077368,
+  "lon": 4.323058,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/schoorsteenvegerij-bezuidenhout/",
+  "meta_title": "Schoorsteenvegerij Bezuidenhout 070-3633793",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Schoorsteenvegerij Bezuidenhout",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/schoorsteenvegerij-bezuidenhout/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

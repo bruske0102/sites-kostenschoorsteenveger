@@ -1,0 +1,33 @@
+{
+  "id": 1312548,
+  "slug": "dru-verwarming-bv",
+  "provincie": "gelderland",
+  "plaats": "duiven",
+  "naam": "Dru Verwarming BV",
+  "straat": null,
+  "postcode": "6921RW",
+  "plaatsnaam": "Duiven",
+  "telefoon": "026-3195319",
+  "email": null,
+  "website": null,
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": "Wat wij doen:\nDRU werd opgericht in 1754 en is daarmee een van de oudste bedrijven van Nederland. Grote bekendheid kreeg het bedrijf door de productie van gietijzeren potten en pannen. Later werd overgeschakeld naar kachels en sinds de ontdekking van het aardgas in Slochteren is DRU zich gaan specialiseren in de ontwikkeling en productie van een breed scala aan gas verwarmingsapparaten. Inmiddels biedt DRU een toonaangevend programma van prachtige openhaarden en kachels.\n\nDe naam DRU staat al eeuwenlang garant voor top kwaliteit. DRU was dan ook een van de eerste Nederlandse bedrijven die het ISO 9000 kwaliteitscertificaat behaalde. Naast kwaliteit is de afgelopen decennia veel aandacht besteed aan vormgeving, bedienings- en installatiegemak. Vanuit deze achtergrond bieden wij u de unieke DRU collectie aan.\n Openingstijden:\n Maandag : gesloten\n Dinsdag : 09:30 - 17:30\n Woensdag : 09:30 - 17:30\n Donderdag : 09:30 - 17:30\n Vrijdag : 09:30 - 17:30\n Zaterdag : gesloten\n Zondag : gesloten Specialiteiten :\nSfeerhaarden (gas), Houtkachels vrijstaand, Houtkachels inbouw, Gaskachels schoorsteen, Gaskachels gevel, Elektrische haarden",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/duiven/dru-verwarming-bv/",
+  "meta_title": "Dru Verwarming BV 026-3195319",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Duiven? ✅  Dru Verwarming BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/duiven/dru-verwarming-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  }
+}

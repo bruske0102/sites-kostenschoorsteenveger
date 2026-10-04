@@ -1,0 +1,29 @@
+{
+  "id": 1312417,
+  "slug": "firemaster-schoorsteenservice",
+  "provincie": "noord-holland",
+  "plaats": "heemskerk",
+  "naam": "Firemaster Schoorsteenservice",
+  "straat": "Ambachtsring 7",
+  "postcode": "1969NH",
+  "plaatsnaam": "Heemskerk",
+  "telefoon": "0251-208451",
+  "email": null,
+  "website": "http://www.firemaster.nl",
+  "lat": 52.501556,
+  "lon": 4.652596,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heemskerk/firemaster-schoorsteenservice/",
+  "meta_title": "Firemaster Schoorsteenservice 0251-208451",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heemskerk? ✅  Firemaster Schoorsteenservice",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/heemskerk/firemaster-schoorsteenservice/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

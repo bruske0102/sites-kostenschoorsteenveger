@@ -1,0 +1,29 @@
+{
+  "id": 1312327,
+  "slug": "schoorsteenveegbedrijf-den-bosch",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Schoorsteenveegbedrijf Den Bosch",
+  "straat": "Taxandriaplein 9",
+  "postcode": "5212TW",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6141441",
+  "email": null,
+  "website": null,
+  "lat": 51.695749,
+  "lon": 5.307679,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/schoorsteenveegbedrijf-den-bosch/",
+  "meta_title": "Schoorsteenveegbedrijf Den Bosch 073-6141441",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Schoorsteenveegbedrijf Den Bosch",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/schoorsteenveegbedrijf-den-bosch/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

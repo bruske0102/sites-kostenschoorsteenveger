@@ -1,0 +1,29 @@
+{
+  "id": 1312196,
+  "slug": "technico-bv-installatiebedrijf-g-i-b",
+  "provincie": "limburg",
+  "plaats": "geleen",
+  "naam": "Technico BV Installatiebedrijf G I B",
+  "straat": "Gewandeweg 17",
+  "postcode": "6161DJ",
+  "plaatsnaam": "Geleen",
+  "telefoon": "046-4758355",
+  "email": null,
+  "website": null,
+  "lat": 50.961282,
+  "lon": 5.810301,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/limburg/geleen/technico-bv-installatiebedrijf-g-i-b/",
+  "meta_title": "Technico BV Installatiebedrijf G I B 046-4758355",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geleen? ✅  Technico BV Installatiebedrijf G I B",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/geleen/technico-bv-installatiebedrijf-g-i-b/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

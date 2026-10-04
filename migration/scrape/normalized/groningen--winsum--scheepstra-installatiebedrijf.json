@@ -1,0 +1,29 @@
+{
+  "id": 1312360,
+  "slug": "scheepstra-installatiebedrijf",
+  "provincie": "groningen",
+  "plaats": "winsum",
+  "naam": "Scheepstra Installatiebedrijf",
+  "straat": "Het Aanleg 11",
+  "postcode": "9951SJ",
+  "plaatsnaam": "Winsum",
+  "telefoon": "0595-422360",
+  "email": null,
+  "website": null,
+  "lat": 53.335389,
+  "lon": 6.50651,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/groningen/winsum/scheepstra-installatiebedrijf/",
+  "meta_title": "Scheepstra Installatiebedrijf 0595-422360",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Winsum? ✅  Scheepstra Installatiebedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/winsum/scheepstra-installatiebedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

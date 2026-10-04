@@ -1,0 +1,29 @@
+{
+  "id": 1312594,
+  "slug": "braat-bv-schoorsteenvegers",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Braat BV Schoorsteenvegers",
+  "straat": "Melkweg 44",
+  "postcode": "5642CT",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "040-2812558",
+  "email": null,
+  "website": "http://www.braatbv.nl",
+  "lat": 51.44256,
+  "lon": 5.506627,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/braat-bv-schoorsteenvegers/",
+  "meta_title": "Braat BV Schoorsteenvegers 040-2812558",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Braat BV Schoorsteenvegers",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/eindhoven/braat-bv-schoorsteenvegers/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312383,
+  "slug": "b-van-erve-uw-installateur",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "B van Erve Uw Installateur",
+  "straat": "Ceintuurbaan 212",
+  "postcode": "1072GD",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6620320",
+  "email": null,
+  "website": "http://www.bvanerve.nl",
+  "lat": 52.352319,
+  "lon": 4.887947,
+  "omschrijving": "020-6620320\n\n fax : 020-6730147",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/b-van-erve-uw-installateur/",
+  "meta_title": "B van Erve Uw Installateur 020-6620320",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  B van Erve Uw Installateur",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/amsterdam/b-van-erve-uw-installateur/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

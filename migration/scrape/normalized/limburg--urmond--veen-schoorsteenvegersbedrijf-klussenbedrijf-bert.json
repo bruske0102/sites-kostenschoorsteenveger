@@ -1,0 +1,29 @@
+{
+  "id": 1312264,
+  "slug": "veen-schoorsteenvegersbedrijf-klussenbedrijf-bert",
+  "provincie": "limburg",
+  "plaats": "urmond",
+  "naam": "Veen Schoorsteenvegersbedrijf & Klussenbedrijf Bert",
+  "straat": "Sint Franciscusstraat 20",
+  "postcode": "6129GN",
+  "plaatsnaam": "Urmond",
+  "telefoon": "046-4748077",
+  "email": null,
+  "website": null,
+  "lat": 50.991659,
+  "lon": 5.778448,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/urmond/veen-schoorsteenvegersbedrijf-klussenbedrijf-bert/",
+  "meta_title": "Veen Schoorsteenvegersbedrijf & Klussenbedrijf Bert 046-4748077",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Urmond? ✅  Veen Schoorsteenvegersbedrijf & Klussenbedrijf Bert",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/urmond/veen-schoorsteenvegersbedrijf-klussenbedrijf-bert/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

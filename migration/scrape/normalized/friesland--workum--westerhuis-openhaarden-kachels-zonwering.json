@@ -1,0 +1,29 @@
+{
+  "id": 1312116,
+  "slug": "westerhuis-openhaarden-kachels-zonwering",
+  "provincie": "friesland",
+  "plaats": "workum",
+  "naam": "Westerhuis Openhaarden-Kachels & Zonwering",
+  "straat": "Noard 119",
+  "postcode": "8711AD",
+  "plaatsnaam": "Workum",
+  "telefoon": "0515-542240",
+  "email": null,
+  "website": "http://www.firmawesterhuis.nl",
+  "lat": 52.982416,
+  "lon": 5.446749,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/workum/westerhuis-openhaarden-kachels-zonwering/",
+  "meta_title": "Westerhuis Openhaarden-Kachels & Zonwering 0515-542240",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Workum? ✅  Westerhuis Openhaarden-Kachels & Zonwering",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/workum/westerhuis-openhaarden-kachels-zonwering/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

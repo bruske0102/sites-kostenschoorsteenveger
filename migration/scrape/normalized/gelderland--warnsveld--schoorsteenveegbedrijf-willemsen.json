@@ -1,0 +1,29 @@
+{
+  "id": 1312295,
+  "slug": "schoorsteenveegbedrijf-willemsen",
+  "provincie": "gelderland",
+  "plaats": "warnsveld",
+  "naam": "Schoorsteenveegbedrijf Willemsen",
+  "straat": "Rijksstraatweg 92",
+  "postcode": "7231AJ",
+  "plaatsnaam": "Warnsveld",
+  "telefoon": "0575-574710",
+  "email": null,
+  "website": null,
+  "lat": 52.143764,
+  "lon": 6.225136,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/warnsveld/schoorsteenveegbedrijf-willemsen/",
+  "meta_title": "Schoorsteenveegbedrijf Willemsen 0575-574710",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Warnsveld? ✅  Schoorsteenveegbedrijf Willemsen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/warnsveld/schoorsteenveegbedrijf-willemsen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

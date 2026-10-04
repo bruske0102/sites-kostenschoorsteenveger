@@ -1,0 +1,29 @@
+{
+  "id": 1312328,
+  "slug": "schoorsteenveger-zeeland",
+  "provincie": "zeeland",
+  "plaats": "zierikzee",
+  "naam": "Schoorsteenveger Zeeland",
+  "straat": "Industrieweg 50",
+  "postcode": "4301RS",
+  "plaatsnaam": "Zierikzee",
+  "telefoon": "0111-407571",
+  "email": "info@schoorsteegveger-zeeland.nl",
+  "website": "http://www.schoorsteenveger-zeeland.nl",
+  "lat": 51.642318,
+  "lon": 3.919248,
+  "omschrijving": "bgg : 06-53540840",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/zierikzee/schoorsteenveger-zeeland/",
+  "meta_title": "Schoorsteenveger Zeeland 0111-407571 info@schoorsteegveger-zeeland.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zierikzee? ✅  Schoorsteenveger Zeeland",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/zierikzee/schoorsteenveger-zeeland/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

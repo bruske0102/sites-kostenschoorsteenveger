@@ -1,0 +1,29 @@
+{
+  "id": 1312635,
+  "slug": "gringhuis-daktechniek-j",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "Gringhuis Daktechniek J",
+  "straat": "Ekersdijk 25",
+  "postcode": "7534AX",
+  "plaatsnaam": "Enschede",
+  "telefoon": "06-52683790",
+  "email": null,
+  "website": null,
+  "lat": 52.213187,
+  "lon": 6.968983,
+  "omschrijving": "Specialisatie :\nDakgoot, Dakisolatie, Schoorsteen",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/gringhuis-daktechniek-j/",
+  "meta_title": "Gringhuis Daktechniek J 06-52683790",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Gringhuis Daktechniek J",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/gringhuis-daktechniek-j/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

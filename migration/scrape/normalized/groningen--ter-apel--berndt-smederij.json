@@ -1,0 +1,29 @@
+{
+  "id": 1312310,
+  "slug": "berndt-smederij",
+  "provincie": "groningen",
+  "plaats": "ter-apel",
+  "naam": "Berndt Smederij",
+  "straat": "Sellingerstraat 21",
+  "postcode": "9561TA",
+  "plaatsnaam": "Ter Apel",
+  "telefoon": "06-55828566",
+  "email": null,
+  "website": null,
+  "lat": 52.896047,
+  "lon": 7.07985,
+  "omschrijving": "Wat wij doen:\nAmbachtelijk smeedwerk, restauraties en kleine constructies vormen de werkzaamheden van Smederij Berndt.\n\nHet is fijn te zien dat er steeds meer belangstelling komt voor het smeedwerk. Het zou immers erg jammer zijn als zo’n oude ambacht zou uitsterven.\n\nProdukten: Hekwerken, Hang- en Sluitwerk, Schoorsteen-kappen, Vuurkorven en diversen. Specialiteiten :\ncursus smeden, diversen, hang-en sluitwerk, hekwerken, p.g.b. zorginstelling, schoorsteenkappen, smederij, teambuilding, vuurkorven\n\n Service :\nhelpen mensen met een handicap\n\n Toegankelijkheid :\ntoegankelijk voor mensen vanaf 16 jaar",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/ter-apel/berndt-smederij/",
+  "meta_title": "Berndt Smederij 06-55828566",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ter Apel? ✅  Berndt Smederij",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/ter-apel/berndt-smederij/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312546,
+  "slug": "heide-smid-bv-de",
+  "provincie": "gelderland",
+  "plaats": "duiven",
+  "naam": "Heide Smid BV De",
+  "straat": "Nieuwgraaf 1",
+  "postcode": "6921RJ",
+  "plaatsnaam": "Duiven",
+  "telefoon": "026-3192090",
+  "email": null,
+  "website": "http://www.heidesmid.nl",
+  "lat": 51.96496,
+  "lon": 5.996776,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/duiven/heide-smid-bv-de/",
+  "meta_title": "Heide Smid BV De 026-3192090",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Duiven? ✅  Heide Smid BV De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/duiven/heide-smid-bv-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

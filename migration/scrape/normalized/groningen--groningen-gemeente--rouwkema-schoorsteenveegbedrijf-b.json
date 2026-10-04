@@ -1,0 +1,29 @@
+{
+  "id": 1312135,
+  "slug": "rouwkema-schoorsteenveegbedrijf-b",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Rouwkema Schoorsteenveegbedrijf B",
+  "straat": "De Kring 48",
+  "postcode": "9727AX",
+  "plaatsnaam": "Groningen (gemeente)",
+  "telefoon": "06-55124341",
+  "email": null,
+  "website": null,
+  "lat": 53.20042,
+  "lon": 6.522471,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/rouwkema-schoorsteenveegbedrijf-b/",
+  "meta_title": "Rouwkema Schoorsteenveegbedrijf B 06-55124341",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  Rouwkema Schoorsteenveegbedrijf B",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/groningen-gemeente/rouwkema-schoorsteenveegbedrijf-b/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

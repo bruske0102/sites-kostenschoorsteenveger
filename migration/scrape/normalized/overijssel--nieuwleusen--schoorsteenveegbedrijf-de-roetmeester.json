@@ -1,0 +1,33 @@
+{
+  "id": 1312668,
+  "slug": "schoorsteenveegbedrijf-de-roetmeester",
+  "provincie": "overijssel",
+  "plaats": "nieuwleusen",
+  "naam": "schoorsteenveegbedrijf de roetmeester",
+  "straat": "Burgemeester Baron van Dedemstraat 8",
+  "postcode": "7711 HV",
+  "plaatsnaam": "Nieuwleusen",
+  "telefoon": "0522465305",
+  "email": "info@deroetmeester.nl",
+  "website": "http://www.deroetmeester.nl",
+  "lat": 52.5912289,
+  "lon": 6.280712699999981,
+  "omschrijving": "de specialist in het reinigen van schoorstenen teven uw vraagbaak over alles wat met kachels en schoorstenen te maken heeft",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/nieuwleusen/schoorsteenveegbedrijf-de-roetmeester/",
+  "meta_title": "schoorsteenveegbedrijf de roetmeester 0522465305 info@deroetmeester.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwleusen? ✅  schoorsteenveegbedrijf de roetmeester",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/nieuwleusen/schoorsteenveegbedrijf-de-roetmeester/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

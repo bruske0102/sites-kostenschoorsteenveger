@@ -1,0 +1,29 @@
+{
+  "id": 1312518,
+  "slug": "schoorsteenveegbedrijf-je-je",
+  "provincie": "drenthe",
+  "plaats": "geeuwenbrug",
+  "naam": "Schoorsteenveegbedrijf Jé-Jé",
+  "straat": "Moleneinde 14",
+  "postcode": "7991AK",
+  "plaatsnaam": "Geeuwenbrug",
+  "telefoon": "06-21933919",
+  "email": null,
+  "website": null,
+  "lat": 52.831746,
+  "lon": 6.372374,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/geeuwenbrug/schoorsteenveegbedrijf-je-je/",
+  "meta_title": "Schoorsteenveegbedrijf Jé-Jé 06-21933919",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geeuwenbrug? ✅  Schoorsteenveegbedrijf Jé-Jé",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/geeuwenbrug/schoorsteenveegbedrijf-je-je/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

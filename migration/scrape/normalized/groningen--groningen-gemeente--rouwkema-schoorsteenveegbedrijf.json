@@ -1,0 +1,36 @@
+{
+  "id": 1312324,
+  "slug": "rouwkema-schoorsteenveegbedrijf",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Rouwkema Schoorsteenveegbedrijf",
+  "straat": "De Kring 20",
+  "postcode": "9727AX",
+  "plaatsnaam": "Groningen (gemeente)",
+  "telefoon": "050-5272603",
+  "email": "info@schoorsteenveger-rouwkema.nl",
+  "website": "http://www.schoorsteenveger-rouwkema.nl",
+  "lat": 53.201598,
+  "lon": 6.523355,
+  "omschrijving": "mobiele telefoon : 06-46121589\n\n Wat wij doen:\nU bent hartelijk welkom bij schoorsteenveegbedrijf Rouwkema. Sinds 1987 een begrip voor het vegen van rookkanalen, luchtkanalen, cv kanalen, verwijdering van vogelnesten, plaatsen van diverse kappen en boldraadroosters, dakgootreinging, Reiniging en/of coaten van dakpannen. Met al jarenlange ervaring bij particulier, bedrijven en grote woningbouwverenigingen in de regio's Groningen, Drenthe en Friesland en dit na volle tevredenheid van mijn klanten. Schoorsteenveegbedrijf Rouwkema is officieel leverancier van Firemaster Schoorsteenkappen. Doelgroep :\nBedrijven\n\n Diensten :\nSchoorsteenvegen, Vervanging, cv kanalen, dakreiniging, luchtkanalen, particulier, rookkanalen, verwijdering vogelnesten\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Schoorsteenkappen, Ventilatiekanalen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/rouwkema-schoorsteenveegbedrijf/",
+  "meta_title": "Rouwkema Schoorsteenveegbedrijf 050-5272603 info@schoorsteenveger-rouwkema.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  Rouwkema Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/groningen-gemeente/rouwkema-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

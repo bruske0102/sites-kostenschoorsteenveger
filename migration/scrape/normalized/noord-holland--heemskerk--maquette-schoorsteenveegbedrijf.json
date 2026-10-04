@@ -1,0 +1,29 @@
+{
+  "id": 1312418,
+  "slug": "maquette-schoorsteenveegbedrijf",
+  "provincie": "noord-holland",
+  "plaats": "heemskerk",
+  "naam": "Maquette Schoorsteenveegbedrijf",
+  "straat": "Oosterstreng 3",
+  "postcode": "1964KA",
+  "plaatsnaam": "Heemskerk",
+  "telefoon": "0251-251595",
+  "email": null,
+  "website": null,
+  "lat": 52.50995,
+  "lon": 4.659733,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/heemskerk/maquette-schoorsteenveegbedrijf/",
+  "meta_title": "Maquette Schoorsteenveegbedrijf 0251-251595",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heemskerk? ✅  Maquette Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/heemskerk/maquette-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

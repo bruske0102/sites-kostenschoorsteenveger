@@ -1,0 +1,34 @@
+{
+  "id": 1312074,
+  "slug": "schoorsteenspecialist-de",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Schoorsteenspecialist De",
+  "straat": "Wilgenstraat 30",
+  "postcode": "5213SE",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6131522",
+  "email": null,
+  "website": null,
+  "lat": 51.692072,
+  "lon": 5.321151,
+  "omschrijving": "Postbus251, 5201AG, Den Bosch\nhttp://www.deschoorsteenspecialist.nl\n\n Wat wij doen:\nNaast schoorsteenvegen zijn wij gespecialiseerd in:\nDakinspectie\nReparatie bij lekkage aan uw dak of schoorsteen, ook bij vochtdoorslag\nReparatie en of vastzetten van: nokvorsten en dakpannen\nRepareren en voegen van schoorstenen en loodreparaties\nHet plaatsen van nieuwe afvoerkanalen, boldraadroosters, regenkappen, Firemate Coltkappen Openingstijden:\n Maandag : 08:00 - 20:00 Op openingstijden uitsluitend telefonisch bereikbaar\n Dinsdag : 08:00 - 20:00\n Woensdag : 08:00 - 20:00\n Donderdag : 08:00 - 20:00\n Vrijdag : 08:00 - 20:00\n Zaterdag : 08:00 - 20:00\n Zondag : gesloten Specialiteiten :\nImpregneren van schoorstenen en gevels, Vogelnesten verwijderen, Dakgoot reinigen, Boldraadroosters (kraaienkappen) voorkomen vogelnesten in uw schoorsteenkanaal, Regenkappen voorkomen vochtinslag in uw schoorsteenkanaal, Firemate Coltkappen zijn uitstekend geschikt voor stookkanalen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/schoorsteenspecialist-de/",
+  "meta_title": "Schoorsteenspecialist De 073-6131522",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Schoorsteenspecialist De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/schoorsteenspecialist-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

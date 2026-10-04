@@ -1,0 +1,29 @@
+{
+  "id": 1312179,
+  "slug": "wijen-schoorsteenveegbedrijf",
+  "provincie": "limburg",
+  "plaats": "stramproy",
+  "naam": "Wijen Schoorsteenveegbedrijf",
+  "straat": "Weekershof 37",
+  "postcode": "6039GP",
+  "plaatsnaam": "Stramproy",
+  "telefoon": "0495-562842",
+  "email": null,
+  "website": null,
+  "lat": 51.193797,
+  "lon": 5.712906,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/stramproy/wijen-schoorsteenveegbedrijf/",
+  "meta_title": "Wijen Schoorsteenveegbedrijf 0495-562842",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Stramproy? ✅  Wijen Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/stramproy/wijen-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

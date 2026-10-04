@@ -1,0 +1,29 @@
+{
+  "id": 1312089,
+  "slug": "attent-schoorsteenveegbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Attent Schoorsteenveegbedrijf",
+  "straat": "van Heurnstraat 26",
+  "postcode": "5211ZP",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6110699",
+  "email": null,
+  "website": null,
+  "lat": 51.694042,
+  "lon": 5.296951,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/attent-schoorsteenveegbedrijf/",
+  "meta_title": "Attent Schoorsteenveegbedrijf 073-6110699",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Attent Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/attent-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

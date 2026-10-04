@@ -1,0 +1,29 @@
+{
+  "id": 1312379,
+  "slug": "shopping-tournl",
+  "provincie": "noord-holland",
+  "plaats": "alkmaar",
+  "naam": "Shopping-Tour.nl",
+  "straat": "Leidekkerstraat 1",
+  "postcode": "1825BL",
+  "plaatsnaam": "Alkmaar",
+  "telefoon": "072-5642047",
+  "email": null,
+  "website": null,
+  "lat": 52.649203,
+  "lon": 4.749255,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/alkmaar/shopping-tournl/",
+  "meta_title": "Shopping-Tour.nl 072-5642047",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alkmaar? ✅  Shopping-Tour.nl",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/alkmaar/shopping-tournl/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

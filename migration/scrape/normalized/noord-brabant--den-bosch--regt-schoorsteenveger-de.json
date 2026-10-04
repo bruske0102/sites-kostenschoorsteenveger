@@ -1,0 +1,29 @@
+{
+  "id": 1312478,
+  "slug": "regt-schoorsteenveger-de",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Regt Schoorsteenveger De",
+  "straat": "Tweede Donk 14",
+  "postcode": "5233HR",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6421779",
+  "email": null,
+  "website": null,
+  "lat": 51.717017,
+  "lon": 5.32437,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/regt-schoorsteenveger-de/",
+  "meta_title": "Regt Schoorsteenveger De 073-6421779",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Regt Schoorsteenveger De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/regt-schoorsteenveger-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312469,
+  "slug": "rias-bv",
+  "provincie": "zuid-holland",
+  "plaats": "hellevoetsluis",
+  "naam": "Rias BV",
+  "straat": "Etudestraat 74",
+  "postcode": "3223PP",
+  "plaatsnaam": "Hellevoetsluis",
+  "telefoon": "0181-399181",
+  "email": null,
+  "website": "http://www.riasbv.nl",
+  "lat": 51.843842,
+  "lon": 4.166591,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hellevoetsluis/rias-bv/",
+  "meta_title": "Rias BV 0181-399181",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hellevoetsluis? ✅  Rias BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hellevoetsluis/rias-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

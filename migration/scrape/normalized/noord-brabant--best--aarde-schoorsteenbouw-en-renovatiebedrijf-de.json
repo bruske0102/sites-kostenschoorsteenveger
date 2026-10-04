@@ -1,0 +1,33 @@
+{
+  "id": 1312505,
+  "slug": "aarde-schoorsteenbouw-en-renovatiebedrijf-de",
+  "provincie": "noord-brabant",
+  "plaats": "best",
+  "naam": "Aarde Schoorsteenbouw en Renovatiebedrijf De",
+  "straat": "Johannes Klingenstraat 22",
+  "postcode": "5684XW",
+  "plaatsnaam": "Best",
+  "telefoon": "06-54375907",
+  "email": null,
+  "website": null,
+  "lat": 51.494027,
+  "lon": 5.393825,
+  "omschrijving": "* Expertise bij schoorsteenbrand\n* Aanleg schoorsteenpijpsystemen\n* Open haardenbouw\n* Metselen van schoorstenen\n.",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/best/aarde-schoorsteenbouw-en-renovatiebedrijf-de/",
+  "meta_title": "Aarde Schoorsteenbouw en Renovatiebedrijf De 06-54375907",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Best? ✅  Aarde Schoorsteenbouw en Renovatiebedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/best/aarde-schoorsteenbouw-en-renovatiebedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

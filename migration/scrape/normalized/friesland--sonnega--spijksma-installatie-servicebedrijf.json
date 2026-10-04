@@ -1,0 +1,29 @@
+{
+  "id": 1312558,
+  "slug": "spijksma-installatie-servicebedrijf",
+  "provincie": "friesland",
+  "plaats": "sonnega",
+  "naam": "Spijksma Installatie Servicebedrijf",
+  "straat": "Sonnegaweg 34",
+  "postcode": "8478HD",
+  "plaatsnaam": "Sonnega",
+  "telefoon": "0561-499251",
+  "email": null,
+  "website": null,
+  "lat": 52.867369,
+  "lon": 5.961839,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/friesland/sonnega/spijksma-installatie-servicebedrijf/",
+  "meta_title": "Spijksma Installatie Servicebedrijf 0561-499251",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Sonnega? ✅  Spijksma Installatie Servicebedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/sonnega/spijksma-installatie-servicebedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

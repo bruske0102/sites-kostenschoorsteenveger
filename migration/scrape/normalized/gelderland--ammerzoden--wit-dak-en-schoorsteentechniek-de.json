@@ -1,0 +1,29 @@
+{
+  "id": 1312529,
+  "slug": "wit-dak-en-schoorsteentechniek-de",
+  "provincie": "gelderland",
+  "plaats": "ammerzoden",
+  "naam": "Wit Dak en Schoorsteentechniek De",
+  "straat": "Distelkamp 6",
+  "postcode": "5324BN",
+  "plaatsnaam": "Ammerzoden",
+  "telefoon": "073-6895534",
+  "email": null,
+  "website": null,
+  "lat": 51.751845,
+  "lon": 5.221081,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ammerzoden/wit-dak-en-schoorsteentechniek-de/",
+  "meta_title": "Wit Dak en Schoorsteentechniek De 073-6895534",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ammerzoden? ✅  Wit Dak en Schoorsteentechniek De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/ammerzoden/wit-dak-en-schoorsteentechniek-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

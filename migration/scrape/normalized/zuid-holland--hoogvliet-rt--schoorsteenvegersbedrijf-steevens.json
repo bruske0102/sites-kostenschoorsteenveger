@@ -1,0 +1,29 @@
+{
+  "id": 1312497,
+  "slug": "schoorsteenvegersbedrijf-steevens",
+  "provincie": "zuid-holland",
+  "plaats": "hoogvliet-rt",
+  "naam": "Schoorsteenvegersbedrijf Steevens",
+  "straat": "Zilverschoon 52",
+  "postcode": "3191PK",
+  "plaatsnaam": "Hoogvliet rt",
+  "telefoon": "010-4168589",
+  "email": null,
+  "website": null,
+  "lat": 51.857835,
+  "lon": 4.371063,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoogvliet-rt/schoorsteenvegersbedrijf-steevens/",
+  "meta_title": "Schoorsteenvegersbedrijf Steevens 010-4168589",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoogvliet rt? ✅  Schoorsteenvegersbedrijf Steevens",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hoogvliet-rt/schoorsteenvegersbedrijf-steevens/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1312642,
+  "slug": "altor",
+  "provincie": "utrecht",
+  "plaats": "schalkwijk",
+  "naam": "Altor",
+  "straat": "Provincialeweg 34",
+  "postcode": "3998JG",
+  "plaatsnaam": "Schalkwijk",
+  "telefoon": "030-6564273",
+  "email": "info@altor-schoorsteenveger.nl",
+  "website": "http://www.altor-schoorsteenveger.nl",
+  "lat": 51.988393,
+  "lon": 5.204177,
+  "omschrijving": "ASPB : 030-6564273\n\n030-6564273\n\nhttp://www.altor-schoorsteenveger.nl\n\n Diensten :\nSchoorsteenvegen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/schalkwijk/altor/",
+  "meta_title": "Altor 030-6564273 info@altor-schoorsteenveger.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schalkwijk? ✅  Altor",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/schalkwijk/altor/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

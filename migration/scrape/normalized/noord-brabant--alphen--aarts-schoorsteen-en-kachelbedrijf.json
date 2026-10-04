@@ -1,0 +1,29 @@
+{
+  "id": 1312527,
+  "slug": "aarts-schoorsteen-en-kachelbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "alphen",
+  "naam": "Aarts Schoorsteen- en Kachelbedrijf",
+  "straat": "Goedentijd 18",
+  "postcode": "5131AS",
+  "plaatsnaam": "Alphen",
+  "telefoon": "013-5081456",
+  "email": null,
+  "website": null,
+  "lat": 51.485784,
+  "lon": 4.957158,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/alphen/aarts-schoorsteen-en-kachelbedrijf/",
+  "meta_title": "Aarts Schoorsteen- en Kachelbedrijf 013-5081456",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alphen? ✅  Aarts Schoorsteen- en Kachelbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/alphen/aarts-schoorsteen-en-kachelbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

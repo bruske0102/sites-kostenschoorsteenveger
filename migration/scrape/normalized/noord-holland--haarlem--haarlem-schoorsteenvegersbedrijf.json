@@ -1,0 +1,29 @@
+{
+  "id": 1312407,
+  "slug": "haarlem-schoorsteenvegersbedrijf",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Haarlem Schoorsteenvegersbedrijf",
+  "straat": "Kloppersingel 159",
+  "postcode": "2021CV",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "023-5388873",
+  "email": null,
+  "website": null,
+  "lat": 52.388008,
+  "lon": 4.64731,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/haarlem-schoorsteenvegersbedrijf/",
+  "meta_title": "Haarlem Schoorsteenvegersbedrijf 023-5388873",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Haarlem Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/haarlem-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

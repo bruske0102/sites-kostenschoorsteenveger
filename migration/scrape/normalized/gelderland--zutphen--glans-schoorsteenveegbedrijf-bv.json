@@ -1,0 +1,29 @@
+{
+  "id": 1312271,
+  "slug": "glans-schoorsteenveegbedrijf-bv",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Glans Schoorsteenveegbedrijf BV",
+  "straat": "Verlengde Ooyerhoekseweg 31",
+  "postcode": "7207BJ",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "0575-544828",
+  "email": null,
+  "website": "http://www.glans-bv.nl",
+  "lat": 52.116338,
+  "lon": 6.221731,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/glans-schoorsteenveegbedrijf-bv/",
+  "meta_title": "Glans Schoorsteenveegbedrijf BV 0575-544828",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zutphen? ✅  Glans Schoorsteenveegbedrijf BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/zutphen/glans-schoorsteenveegbedrijf-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

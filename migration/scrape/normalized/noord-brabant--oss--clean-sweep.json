@@ -1,0 +1,29 @@
+{
+  "id": 1312273,
+  "slug": "clean-sweep",
+  "provincie": "noord-brabant",
+  "plaats": "oss",
+  "naam": "Clean Sweep",
+  "straat": "Lievekamplaan 44",
+  "postcode": "5341GX",
+  "plaatsnaam": "Oss",
+  "telefoon": "0412-644557",
+  "email": null,
+  "website": "http://www.clean-sweep.nl",
+  "lat": 51.765261,
+  "lon": 5.521199,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/oss/clean-sweep/",
+  "meta_title": "Clean Sweep 0412-644557",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oss? ✅  Clean Sweep",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/oss/clean-sweep/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

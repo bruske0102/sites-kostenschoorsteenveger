@@ -1,0 +1,29 @@
+{
+  "id": 1312093,
+  "slug": "garant-van-ooijen-schoorsteenveegbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Garant Van Ooijen Schoorsteenveegbedrijf",
+  "straat": "Rontgenstraat 67",
+  "postcode": "5223GB",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6230255",
+  "email": null,
+  "website": null,
+  "lat": 51.694186,
+  "lon": 5.286378,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/garant-van-ooijen-schoorsteenveegbedrijf/",
+  "meta_title": "Garant Van Ooijen Schoorsteenveegbedrijf 073-6230255",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Garant Van Ooijen Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/garant-van-ooijen-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

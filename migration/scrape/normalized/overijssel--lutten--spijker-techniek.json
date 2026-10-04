@@ -1,0 +1,36 @@
+{
+  "id": 1312226,
+  "slug": "spijker-techniek",
+  "provincie": "overijssel",
+  "plaats": "lutten",
+  "naam": "Spijker Techniek",
+  "straat": "Semmelinksdijk 1",
+  "postcode": "7775PG",
+  "plaatsnaam": "Lutten",
+  "telefoon": "0523-683438",
+  "email": "info@spijkertechniek.nl",
+  "website": "http://www.spijkertechniek.nl",
+  "lat": 52.617254,
+  "lon": 6.582781,
+  "omschrijving": "Wat wij doen:\nSpijker Techniek is een zeer flexibel bedrijf dat allerlei verschillende producten maakt, zoals luifels, tafel-onderstellen, assen, klein constructiewerk en natuurlijk onze eigen inbouwhaarden. Spijker Techniek produceert, door het overnemen van Ahuis Techniek, hun eigen mooie en functionele AHUIS-inzethaarden, met ingebouwde thermostaat. Diensten :\nAdvies, Schoorsteenvegen, bouwwaterputten, haarden & kachels, metaalbewerking, repareren van voegwerk of lood, tuingereedschap onderhoud, verhuur van machines\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/lutten/spijker-techniek/",
+  "meta_title": "Spijker Techniek 0523-683438 info@spijkertechniek.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Lutten? ✅  Spijker Techniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/lutten/spijker-techniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

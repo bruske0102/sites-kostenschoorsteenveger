@@ -1,0 +1,37 @@
+{
+  "id": 1312399,
+  "slug": "schoorsteenveger-kuiper",
+  "provincie": "noord-holland",
+  "plaats": "enkhuizen",
+  "naam": "Schoorsteenveger Kuiper",
+  "straat": "Paktuinen 37",
+  "postcode": "1601GD",
+  "plaatsnaam": "Enkhuizen",
+  "telefoon": "06-51084291",
+  "email": "info@schoorsteenveger-kuiper.nl",
+  "website": "http://www.schoorsteenveger-kuiper.nl",
+  "lat": 52.701318,
+  "lon": 5.289979,
+  "omschrijving": "Wat wij doen:\nIk ben u graag van dienst met het vegen en inspecteren van uw schoorsteen. Ook het volledig reinigen van uw ventilatiesysteem behoort tot mijn werkzaamheden.\n\nOm vakwerk te kunnen leveren heb ik de ROC opleiding ‘Gezel Schoorsteenveger’ gevolgd bij het ASPB (Algemene Schoorsteenvegers Patroon Bond).\n\nVanwege mijn jarenlange ervaring als brandweerman kan ik u ook adviseren op het gebied van brandveilig wonen.\nDit allemaal zodat u met een goed gevoel van veiligheid en een frisse neus uw kachel kan gaan stoken.\n Doelgroep :\nBedrijven\n\n Diensten :\nAdvies, Camera inspectie, Schoorsteenvegen, advies brandveiligheid, ventilatiekanaal, verwijderen van verstoppingen\n\n Reiniging van :\nSchoorsteenkappen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/enkhuizen/schoorsteenveger-kuiper/",
+  "meta_title": "Schoorsteenveger Kuiper 06-51084291 info@schoorsteenveger-kuiper.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enkhuizen? ✅  Schoorsteenveger Kuiper",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/enkhuizen/schoorsteenveger-kuiper/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

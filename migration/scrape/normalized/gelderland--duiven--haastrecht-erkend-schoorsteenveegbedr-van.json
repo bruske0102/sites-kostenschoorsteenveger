@@ -1,0 +1,33 @@
+{
+  "id": 1312547,
+  "slug": "haastrecht-erkend-schoorsteenveegbedr-van",
+  "provincie": "gelderland",
+  "plaats": "duiven",
+  "naam": "Haastrecht Erkend Schoorsteenveegbedr Van",
+  "straat": "Oberon 40",
+  "postcode": "6922LJ",
+  "plaatsnaam": "Duiven",
+  "telefoon": "0316-267034",
+  "email": null,
+  "website": "http://www.schoorsteenveegbedrijf.nl",
+  "lat": 51.945348,
+  "lon": 6.003448,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/duiven/haastrecht-erkend-schoorsteenveegbedr-van/",
+  "meta_title": "Haastrecht Erkend Schoorsteenveegbedr Van 0316-267034",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Duiven? ✅  Haastrecht Erkend Schoorsteenveegbedr Van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/duiven/haastrecht-erkend-schoorsteenveegbedr-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

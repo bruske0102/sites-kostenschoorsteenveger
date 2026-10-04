@@ -1,0 +1,29 @@
+{
+  "id": 1312444,
+  "slug": "lange-dakbedekkersbedrijf-drs-de",
+  "provincie": "noord-holland",
+  "plaats": "spaarndam",
+  "naam": "Lange Dakbedekkersbedrijf DRS de",
+  "straat": "Spaarndammerdijk 13",
+  "postcode": "2064KL",
+  "plaatsnaam": "Spaarndam",
+  "telefoon": "023-5381269",
+  "email": null,
+  "website": "http://www.drs-delange.nl",
+  "lat": 52.402088,
+  "lon": 4.712921,
+  "omschrijving": "Doelgroep :\nBedrijven, Particulieren\n\n Specialisatie :\nBitumen dakbedekking, Pannendak, Schoorsteen",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/spaarndam/lange-dakbedekkersbedrijf-drs-de/",
+  "meta_title": "Lange Dakbedekkersbedrijf DRS de 023-5381269",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Spaarndam? ✅  Lange Dakbedekkersbedrijf DRS de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/spaarndam/lange-dakbedekkersbedrijf-drs-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312626,
+  "slug": "sweeper-the",
+  "provincie": "noord-brabant",
+  "plaats": "vlijmen",
+  "naam": "Sweeper The",
+  "straat": "Deken van Baarstraat 63",
+  "postcode": "5251RJ",
+  "plaatsnaam": "Vlijmen",
+  "telefoon": "073-6907357",
+  "email": null,
+  "website": null,
+  "lat": 51.691812,
+  "lon": 5.192477,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/vlijmen/sweeper-the/",
+  "meta_title": "Sweeper The 073-6907357",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlijmen? ✅  Sweeper The",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/vlijmen/sweeper-the/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

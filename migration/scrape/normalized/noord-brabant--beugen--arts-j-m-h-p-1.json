@@ -1,0 +1,37 @@
+{
+  "id": 1312645,
+  "slug": "arts-j-m-h-p-1",
+  "provincie": "noord-brabant",
+  "plaats": "beugen",
+  "naam": "Arts J M H P",
+  "straat": "Gildestraat 24",
+  "postcode": "5835BW",
+  "plaatsnaam": "Beugen",
+  "telefoon": "0485-361122",
+  "email": "info@janartsbeugen.nl",
+  "website": null,
+  "lat": 51.671431,
+  "lon": 5.934558,
+  "omschrijving": "Tevens verkoop van kachels en haarden\n\n Wat wij doen:\nOnderhoud van schoorstenen,materiaal tbv kachels en schoorstenen en tevens verkoop van kachels en haarden Openingstijden:\n Maandag : 08:00 - 17:00 onderhoud schoorsteenvegen/kachels en haarden\n Dinsdag : 08:00 - 17:00 onderhoud schoorsteenvegen particulieren\n Woensdag : 08:00 - 17:00 onderhoud schoorsteenvegen particulieren\n Donderdag : 08:00 - 17:00 onderhoud schoorsteenvegen particulieren\n Vrijdag : 08:00 - 17:00 onderhoud schoorsteenvegen/materiaal\n Zaterdag : 08:00 - 17:00 plaatsen van materiaal/ kachels en onderhoud van kachels/haarden\n Zondag : gesloten Service :\nAlleen op afspraak\n\n Diensten :\nAdvies, Inspectie / schoorsteeninspectie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Vogelnesten verwijderen\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving\n\n Aangesloten bij / Certificering :\nAlgemene schoorsteenvegersbond",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/beugen/arts-j-m-h-p-1/",
+  "meta_title": "Arts J M H P 0485-361122 info@janartsbeugen.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Beugen? ✅  Arts J M H P",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/beugen/arts-j-m-h-p-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

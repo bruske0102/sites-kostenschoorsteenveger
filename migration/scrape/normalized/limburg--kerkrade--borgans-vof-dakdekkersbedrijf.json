@@ -1,0 +1,34 @@
+{
+  "id": 1312224,
+  "slug": "borgans-vof-dakdekkersbedrijf",
+  "provincie": "limburg",
+  "plaats": "kerkrade",
+  "naam": "Borgans VOF Dakdekkersbedrijf",
+  "straat": "Bleijerheiderstraat 103",
+  "postcode": "6462AG",
+  "plaatsnaam": "Kerkrade",
+  "telefoon": "045-5457961",
+  "email": null,
+  "website": null,
+  "lat": 50.85491,
+  "lon": 6.067771,
+  "omschrijving": "Wat wij doen:\nWij zijn gespecialiseerd in het onderhouden, repareren en renoveren van bestaande en vervaardigen van nieuwe daksystemen.\n\nBorgans is actief voor zowel bedrijven als voor particulieren, met als specialismen het aanbrengen van bitumineuze dakbedekking op platte daken en pannen of shingles op hellende daken.\n\nHet vakkundig aanbrengen of vervangen van dakgoten en hemelwaterafvoeren, alsmede de dakrandafwerking behoort ook tot onze activiteiten.\n\nDaarnaast is Borgans deskundig in het aanbrengen van lichttoetreding in platte en hellende daken, zoals lichtkoepels, daklichten en dakkapellen.\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Dakonderhoud, Dakrenovatie, Dakreparatie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakgoot, Dakraam, Lichtkoepel, Pannendak, Plat dak, Shingle dakbedekking, dakkapel, isolatie, ontluchtingen, reinigen van daken en goten, timmerwerk, verwijderen schoorstenen en antennes\n\n Aangesloten bij / Certificering :\nKOKO, stichting 'Het Hellende Dak'",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/kerkrade/borgans-vof-dakdekkersbedrijf/",
+  "meta_title": "Borgans VOF Dakdekkersbedrijf 045-5457961",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Kerkrade? ✅  Borgans VOF Dakdekkersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/kerkrade/borgans-vof-dakdekkersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

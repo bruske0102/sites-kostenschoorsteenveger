@@ -1,0 +1,29 @@
+{
+  "id": 1312126,
+  "slug": "vdh-schoorsteentechniek",
+  "provincie": "gelderland",
+  "plaats": "nieuwaal",
+  "naam": "VDH Schoorsteentechniek",
+  "straat": "Waalbandijk 5",
+  "postcode": "5313AJ",
+  "plaatsnaam": "Nieuwaal",
+  "telefoon": "0418-639086",
+  "email": null,
+  "website": null,
+  "lat": 51.81193,
+  "lon": 5.185157,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nieuwaal/vdh-schoorsteentechniek/",
+  "meta_title": "VDH Schoorsteentechniek 0418-639086",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwaal? ✅  VDH Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/nieuwaal/vdh-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

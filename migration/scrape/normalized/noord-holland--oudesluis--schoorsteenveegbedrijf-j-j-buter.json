@@ -1,0 +1,33 @@
+{
+  "id": 1312437,
+  "slug": "schoorsteenveegbedrijf-j-j-buter",
+  "provincie": "noord-holland",
+  "plaats": "oudesluis",
+  "naam": "Schoorsteenveegbedrijf J & J Buter",
+  "straat": "Melchiorstraat 30",
+  "postcode": "1757PN",
+  "plaatsnaam": "Oudesluis",
+  "telefoon": "0224-221752",
+  "email": null,
+  "website": null,
+  "lat": 52.832159,
+  "lon": 4.806729,
+  "omschrijving": "Schoorsteenveger Lid ASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/oudesluis/schoorsteenveegbedrijf-j-j-buter/",
+  "meta_title": "Schoorsteenveegbedrijf J & J Buter 0224-221752",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oudesluis? ✅  Schoorsteenveegbedrijf J & J Buter",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/oudesluis/schoorsteenveegbedrijf-j-j-buter/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

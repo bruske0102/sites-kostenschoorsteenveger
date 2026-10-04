@@ -1,0 +1,29 @@
+{
+  "id": 1312098,
+  "slug": "roetman-schoorsteenveegbedrijf-de",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Roetman Schoorsteenveegbedrijf De",
+  "straat": "Leystraat 32",
+  "postcode": "5215CB",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6126656",
+  "email": null,
+  "website": "http://www.deroetman.nl",
+  "lat": 51.689426,
+  "lon": 5.331423,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/roetman-schoorsteenveegbedrijf-de/",
+  "meta_title": "Roetman Schoorsteenveegbedrijf De 073-6126656",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Roetman Schoorsteenveegbedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/roetman-schoorsteenveegbedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

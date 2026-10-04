@@ -1,0 +1,29 @@
+{
+  "id": 1312498,
+  "slug": "plas-dakbedekking-lood-en-zinkwerk-van-der",
+  "provincie": "zuid-holland",
+  "plaats": "katwijk",
+  "naam": "Plas Dakbedekking Lood en Zinkwerk Van der",
+  "straat": "Boslaan 62",
+  "postcode": "2224HJ",
+  "plaatsnaam": "Katwijk",
+  "telefoon": "06-12880392",
+  "email": null,
+  "website": "http://www.plasdak.nl",
+  "lat": 52.198215,
+  "lon": 4.408789,
+  "omschrijving": "Specialisatie :\nSchoorsteen",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/katwijk/plas-dakbedekking-lood-en-zinkwerk-van-der/",
+  "meta_title": "Plas Dakbedekking Lood en Zinkwerk Van der 06-12880392",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Katwijk? ✅  Plas Dakbedekking Lood en Zinkwerk Van der",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/katwijk/plas-dakbedekking-lood-en-zinkwerk-van-der/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

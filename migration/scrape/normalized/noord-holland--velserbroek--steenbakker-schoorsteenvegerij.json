@@ -1,0 +1,29 @@
+{
+  "id": 1312445,
+  "slug": "steenbakker-schoorsteenvegerij",
+  "provincie": "noord-holland",
+  "plaats": "velserbroek",
+  "naam": "Steenbakker Schoorsteenvegerij",
+  "straat": "Fregat 41",
+  "postcode": "1991MB",
+  "plaatsnaam": "Velserbroek",
+  "telefoon": "023-5260900",
+  "email": "info@firmasteenbakker.nl",
+  "website": "http://www.firmasteenbakker.nl",
+  "lat": 52.428261,
+  "lon": 4.655474,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/velserbroek/steenbakker-schoorsteenvegerij/",
+  "meta_title": "Steenbakker Schoorsteenvegerij 023-5260900 info@firmasteenbakker.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Velserbroek? ✅  Steenbakker Schoorsteenvegerij",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/velserbroek/steenbakker-schoorsteenvegerij/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

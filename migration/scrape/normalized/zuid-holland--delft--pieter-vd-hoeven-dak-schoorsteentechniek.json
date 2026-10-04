@@ -1,0 +1,29 @@
+{
+  "id": 1312280,
+  "slug": "pieter-vd-hoeven-dak-schoorsteentechniek",
+  "provincie": "zuid-holland",
+  "plaats": "delft",
+  "naam": "Pieter vd Hoeven Dak- & Schoorsteentechniek",
+  "straat": "Laan van Overvest 29",
+  "postcode": "2613DK",
+  "plaatsnaam": "Delft",
+  "telefoon": "06-24753761",
+  "email": null,
+  "website": null,
+  "lat": 52.011452,
+  "lon": 4.35013,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/delft/pieter-vd-hoeven-dak-schoorsteentechniek/",
+  "meta_title": "Pieter vd Hoeven Dak- & Schoorsteentechniek 06-24753761",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Delft? ✅  Pieter vd Hoeven Dak- & Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/delft/pieter-vd-hoeven-dak-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

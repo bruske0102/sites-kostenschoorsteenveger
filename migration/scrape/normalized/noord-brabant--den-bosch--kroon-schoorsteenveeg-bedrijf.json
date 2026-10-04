@@ -1,0 +1,29 @@
+{
+  "id": 1312096,
+  "slug": "kroon-schoorsteenveeg-bedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Kroon Schoorsteenveeg bedrijf",
+  "straat": "Eerste Hambaken 81",
+  "postcode": "5231RB",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6428784",
+  "email": null,
+  "website": null,
+  "lat": 51.71413,
+  "lon": 5.30772,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/kroon-schoorsteenveeg-bedrijf/",
+  "meta_title": "Kroon Schoorsteenveeg bedrijf 073-6428784",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Kroon Schoorsteenveeg bedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/kroon-schoorsteenveeg-bedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

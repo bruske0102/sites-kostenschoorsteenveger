@@ -1,0 +1,29 @@
+{
+  "id": 1312640,
+  "slug": "pot-a",
+  "provincie": "overijssel",
+  "plaats": "nieuwleusen",
+  "naam": "Pot A",
+  "straat": "Weth. Prinsstraat 7",
+  "postcode": "7711AV",
+  "plaatsnaam": "Nieuwleusen",
+  "telefoon": "06-45200292",
+  "email": null,
+  "website": null,
+  "lat": 52.57478,
+  "lon": 6.292905,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/nieuwleusen/pot-a/",
+  "meta_title": "Pot A 06-45200292",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwleusen? ✅  Pot A",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/nieuwleusen/pot-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

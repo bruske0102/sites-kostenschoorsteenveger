@@ -1,0 +1,29 @@
+{
+  "id": 1312084,
+  "slug": "bij-tijds",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Bij Tijds",
+  "straat": "Amelandseplein 48",
+  "postcode": "3083SH",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4388600",
+  "email": null,
+  "website": null,
+  "lat": 51.888404,
+  "lon": 4.481763,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/bij-tijds/",
+  "meta_title": "Bij Tijds 010-4388600",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Bij Tijds",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/rotterdam/bij-tijds/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

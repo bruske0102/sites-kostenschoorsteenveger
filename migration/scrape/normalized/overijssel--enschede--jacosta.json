@@ -1,0 +1,33 @@
+{
+  "id": 1312184,
+  "slug": "jacosta",
+  "provincie": "overijssel",
+  "plaats": "enschede",
+  "naam": "JACOSTA",
+  "straat": "Magalhaesstraat 23",
+  "postcode": "7532CK",
+  "plaatsnaam": "Enschede",
+  "telefoon": "053-4616887",
+  "email": "info@jacosta.nl",
+  "website": "http://www.jacosta.nl",
+  "lat": 52.218475,
+  "lon": 6.959424,
+  "omschrijving": "Ook voor lekke en doorslaande\nschoorstenen\nTevens herstel schoorsteenbrandschades\nSier, regen, trekkende kappen\n\n bgg : 053-4163347\n\nhttp://www.jacosta.nl\n\n Wat wij doen:\nJacosta V.O.F. is een bedrijf dat sinds 7 mMei 1957 bestaat. Ons bedrijf bestaat uit 4 personen 3 broers en een zoon van de oudste broer.\n\nWaar komt de naam Jacosta vandaan?\nOnze vader heette Jan Koster. Toen hij zijn bedrijf op ging zetten in de jaren '50 waren er veel Italiaanse gastarbeiders in ons land. Ze werkten voornamelijk als schoorsteenvegers, terrazzowerkers of ijscomannen. Om het bedrijf Italiaans te laten klinken heeft onze vader van de naam Jan Koster Jacosta gemaakt. Specialiteiten :\nKachels, Haarden, Schoorsteenkappen , Dakbedekkingen, Dakwerkzaamheden , Schoorsteenwerkzaamheden, Alle lood- en zinkwerken, Boei en gevel werken, Gevelreiniging, Gevelimpregnering\n\n Aangesloten bij / Certificering :\nkvk: 06027755",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/enschede/jacosta/",
+  "meta_title": "JACOSTA 053-4616887 info@jacosta.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  JACOSTA",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/enschede/jacosta/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

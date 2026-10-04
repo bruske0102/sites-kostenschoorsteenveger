@@ -1,0 +1,29 @@
+{
+  "id": 1312585,
+  "slug": "all-round-bv-schoorsteenveegbedrijf",
+  "provincie": "gelderland",
+  "plaats": "kerkdriel",
+  "naam": "All-Round BV Schoorsteenveegbedrijf",
+  "straat": "Nijverheidsstraat 11",
+  "postcode": "5331PT",
+  "plaatsnaam": "Kerkdriel",
+  "telefoon": "0418-639115",
+  "email": null,
+  "website": null,
+  "lat": 51.772439,
+  "lon": 5.324119,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/kerkdriel/all-round-bv-schoorsteenveegbedrijf/",
+  "meta_title": "All-Round BV Schoorsteenveegbedrijf 0418-639115",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Kerkdriel? ✅  All-Round BV Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/kerkdriel/all-round-bv-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

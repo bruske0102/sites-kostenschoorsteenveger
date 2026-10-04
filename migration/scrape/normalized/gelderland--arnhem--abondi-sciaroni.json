@@ -1,0 +1,29 @@
+{
+  "id": 1312532,
+  "slug": "abondi-sciaroni",
+  "provincie": "gelderland",
+  "plaats": "arnhem",
+  "naam": "Abondi Sciaroni",
+  "straat": "Prins Hendrikstraat 53",
+  "postcode": "6828GP",
+  "plaatsnaam": "Arnhem",
+  "telefoon": "026-4421758",
+  "email": null,
+  "website": null,
+  "lat": 51.980949,
+  "lon": 5.921185,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/arnhem/abondi-sciaroni/",
+  "meta_title": "Abondi Sciaroni 026-4421758",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Arnhem? ✅  Abondi Sciaroni",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/arnhem/abondi-sciaroni/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

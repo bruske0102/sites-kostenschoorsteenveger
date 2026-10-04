@@ -1,0 +1,29 @@
+{
+  "id": 1312637,
+  "slug": "rondhuis-guus",
+  "provincie": "overijssel",
+  "plaats": "denekamp",
+  "naam": "Rondhuis Guus",
+  "straat": "Burg Hoogklimmerstraat 13",
+  "postcode": "7591ER",
+  "plaatsnaam": "Denekamp",
+  "telefoon": "0541-353252",
+  "email": null,
+  "website": null,
+  "lat": 52.374817,
+  "lon": 7.003272,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/denekamp/rondhuis-guus/",
+  "meta_title": "Rondhuis Guus 0541-353252",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Denekamp? ✅  Rondhuis Guus",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/denekamp/rondhuis-guus/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

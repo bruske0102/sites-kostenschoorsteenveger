@@ -1,0 +1,33 @@
+{
+  "id": 1312066,
+  "slug": "steevens-schoorsteenvegersbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "hoogvliet-rotterdam",
+  "naam": "Steevens Schoorsteenvegersbedrijf",
+  "straat": "Zilverschoon 52",
+  "postcode": "3191 PK",
+  "plaatsnaam": "Hoogvliet Rotterdam",
+  "telefoon": "010-4168589",
+  "email": "info@steevens-vof.nl",
+  "website": "http://www.schoorsteenveger-steevens.nl",
+  "lat": 51.857986,
+  "lon": 4.37127780000003,
+  "omschrijving": "Voor veilig stoken lid branche organisatie ASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoogvliet-rotterdam/steevens-schoorsteenvegersbedrijf/",
+  "meta_title": "Steevens Schoorsteenvegersbedrijf 010-4168589 info@steevens-vof.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoogvliet Rotterdam? ✅  Steevens Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hoogvliet-rotterdam/steevens-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

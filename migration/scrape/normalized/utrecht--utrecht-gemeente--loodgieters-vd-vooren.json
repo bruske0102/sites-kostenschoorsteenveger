@@ -1,0 +1,29 @@
+{
+  "id": 1312656,
+  "slug": "loodgieters-vd-vooren",
+  "provincie": "utrecht",
+  "plaats": "utrecht-gemeente",
+  "naam": "Loodgieters vd Vooren",
+  "straat": "Mijdrechtstraat 26",
+  "postcode": "3522HX",
+  "plaatsnaam": "Utrecht (gemeente)",
+  "telefoon": "030-2891038",
+  "email": "wim@vandevoorenloodgieters.nl",
+  "website": null,
+  "lat": 52.07533,
+  "lon": 5.117528,
+  "omschrijving": "Loodgieters - Installateurs\nAlgemene Dakwerkzaamheden\nLood - Zink\nSchoorstenen\n\n [email protected]",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/utrecht-gemeente/loodgieters-vd-vooren/",
+  "meta_title": "Loodgieters vd Vooren 030-2891038 wim@vandevoorenloodgieters.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Loodgieters vd Vooren",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/utrecht-gemeente/loodgieters-vd-vooren/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312405,
+  "slug": "feije-schoorsteenvegerij",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Feije Schoorsteenvegerij",
+  "straat": "Rijnstraat 58",
+  "postcode": "2025RS",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "023-5381803",
+  "email": "mail@feije.nl",
+  "website": "http://www.feije.nl",
+  "lat": 52.414703,
+  "lon": 4.648937,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/feije-schoorsteenvegerij/",
+  "meta_title": "Feije Schoorsteenvegerij 023-5381803 mail@feije.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Feije Schoorsteenvegerij",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/feije-schoorsteenvegerij/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

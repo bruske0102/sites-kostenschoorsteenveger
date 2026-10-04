@@ -1,0 +1,33 @@
+{
+  "id": 1312535,
+  "slug": "manen-schoorsteenvegen-van",
+  "provincie": "gelderland",
+  "plaats": "barneveld",
+  "naam": "Manen schoorsteenvegen Van",
+  "straat": "Copernicusstraat 27",
+  "postcode": "3772CV",
+  "plaatsnaam": "Barneveld",
+  "telefoon": "06-27503466",
+  "email": null,
+  "website": null,
+  "lat": 52.136871,
+  "lon": 5.578273,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/barneveld/manen-schoorsteenvegen-van/",
+  "meta_title": "Manen schoorsteenvegen Van 06-27503466",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Barneveld? ✅  Manen schoorsteenvegen Van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/barneveld/manen-schoorsteenvegen-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

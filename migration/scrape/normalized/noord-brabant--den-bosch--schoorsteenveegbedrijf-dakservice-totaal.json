@@ -1,0 +1,29 @@
+{
+  "id": 1312600,
+  "slug": "schoorsteenveegbedrijf-dakservice-totaal",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Schoorsteenveegbedrijf Dakservice Totaal",
+  "straat": "Dongestraat 26",
+  "postcode": "5215BV",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6129977",
+  "email": "dakservicetotaal@home.nl",
+  "website": "http://www.dakservicetotaal.nl",
+  "lat": 51.688824,
+  "lon": 5.333144,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/schoorsteenveegbedrijf-dakservice-totaal/",
+  "meta_title": "Schoorsteenveegbedrijf Dakservice Totaal 073-6129977 dakservicetotaal@home.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Schoorsteenveegbedrijf Dakservice Totaal",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/schoorsteenveegbedrijf-dakservice-totaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

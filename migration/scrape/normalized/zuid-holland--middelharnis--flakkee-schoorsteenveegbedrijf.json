@@ -1,0 +1,29 @@
+{
+  "id": 1312503,
+  "slug": "flakkee-schoorsteenveegbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "middelharnis",
+  "naam": "Flakkee Schoorsteenveegbedrijf",
+  "straat": "Van der Waalsweg 36",
+  "postcode": "3241ME",
+  "plaatsnaam": "Middelharnis",
+  "telefoon": "0187-641020",
+  "email": null,
+  "website": null,
+  "lat": 51.761164,
+  "lon": 4.192382,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/middelharnis/flakkee-schoorsteenveegbedrijf/",
+  "meta_title": "Flakkee Schoorsteenveegbedrijf 0187-641020",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middelharnis? ✅  Flakkee Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/middelharnis/flakkee-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

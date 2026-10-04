@@ -1,0 +1,29 @@
+{
+  "id": 1312282,
+  "slug": "kemperman-schoorsteenveegbedrijf-joop",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Kemperman Schoorsteenveegbedrijf Joop",
+  "straat": "Danackers 78",
+  "postcode": "7824PR",
+  "plaatsnaam": "Emmen",
+  "telefoon": "0591-624255",
+  "email": null,
+  "website": null,
+  "lat": 52.780561,
+  "lon": 6.943055,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/emmen/kemperman-schoorsteenveegbedrijf-joop/",
+  "meta_title": "Kemperman Schoorsteenveegbedrijf Joop 0591-624255",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Emmen? ✅  Kemperman Schoorsteenveegbedrijf Joop",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/emmen/kemperman-schoorsteenveegbedrijf-joop/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1312593,
+  "slug": "europa-schoorsteenveegbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Europa Schoorsteenveegbedrijf",
+  "straat": "Grasplant 58",
+  "postcode": "5658GS",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "040-2926151",
+  "email": "info@svb-europa.nl",
+  "website": "http://www.svb-europa.nl",
+  "lat": 51.439506,
+  "lon": 5.419562,
+  "omschrijving": "ASPB : 040-2926151\n\n040-2926151",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/europa-schoorsteenveegbedrijf/",
+  "meta_title": "Europa Schoorsteenveegbedrijf 040-2926151 info@svb-europa.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Europa Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/eindhoven/europa-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312486,
+  "slug": "boon-schoorsteenvegersbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Boon Schoorsteenvegersbedrijf",
+  "straat": "Helena van Doeverenplnts 24",
+  "postcode": "2512ZB",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-16750631",
+  "email": null,
+  "website": null,
+  "lat": 52.071739,
+  "lon": 4.308999,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/boon-schoorsteenvegersbedrijf/",
+  "meta_title": "Boon Schoorsteenvegersbedrijf 06-16750631",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Boon Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/boon-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

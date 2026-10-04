@@ -1,0 +1,33 @@
+{
+  "id": 1312104,
+  "slug": "wils-schoorsteenvegersbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "valkenswaard",
+  "naam": "Wils Schoorsteenvegersbedrijf",
+  "straat": "Peperstraat 8",
+  "postcode": "5554EJ",
+  "plaatsnaam": "Valkenswaard",
+  "telefoon": "040-2018925",
+  "email": "schoorsteenvegerwils@gmail.com",
+  "website": null,
+  "lat": 51.349089,
+  "lon": 5.459717,
+  "omschrijving": "ASPB : 040-2018925\n\n040-2018925",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/valkenswaard/wils-schoorsteenvegersbedrijf/",
+  "meta_title": "Wils Schoorsteenvegersbedrijf 040-2018925 schoorsteenvegerwils@gmail.com",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Valkenswaard? ✅  Wils Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/valkenswaard/wils-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

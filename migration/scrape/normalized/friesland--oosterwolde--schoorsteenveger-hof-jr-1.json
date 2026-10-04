@@ -1,0 +1,46 @@
+{
+  "id": 2409485,
+  "slug": "schoorsteenveger-hof-jr-1",
+  "provincie": "friesland",
+  "plaats": "oosterwolde",
+  "naam": "schoorsteenveger hof jr",
+  "straat": "Prakkenlaan 71",
+  "postcode": "8431 JL",
+  "plaatsnaam": "Oosterwolde",
+  "telefoon": "0639221203",
+  "email": "info@schoorsteenvegerhofjr.nl",
+  "website": "http://www.schoorsteenvegerhofjr.nl",
+  "lat": 52.9895557,
+  "lon": 6.300561999999999,
+  "omschrijving": "Openingstijden:\r\nMaandag : 08:00 - 21:30 \r\nDinsdag : 08:00 - 21:30 \r\nWoensdag : 08:00 - 21:30 \r\nDonderdag : 08:00 - 21:30 \r\nVrijdag : 08:00 - 21:30 \r\nZaterdag : 08:00 - 21:30 \r\nZondag : gesloten\r\n\r\nDoelgroep:\r\nBedrijven, Particulieren\r\n\r\nDiensten: \r\nAdvies, Camera inspectie, Dakgootreiniging, Inspectie / schoorsteeninspectie, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vogelnesten verwijderen, Wespennest verwijderen \r\n\r\nReiniging van: \r\nGashaarden, Haarden, Houtkachels, Kachels, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen\r\n\r\nBetalingsmogelijkheden: \r\nContant, pin\r\n\r\nAangesloten bij / Certificering: \r\nASPB, Algemene schoorsteenvegers patroon bond, ASPB",
+  "openingstijden": {
+    "ma": "08:00 - 21:30 ",
+    "di": "08:00 - 21:30 ",
+    "wo": "08:00 - 21:30 ",
+    "do": "08:00 - 21:30 ",
+    "vr": "08:00 - 21:30 ",
+    "za": "08:00 - 21:30 ",
+    "zo": "gesloten "
+  },
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend",
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/oosterwolde/schoorsteenveger-hof-jr-1/",
+  "meta_title": "schoorsteenveger hof jr 0639221203 info@schoorsteenvegerhofjr.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oosterwolde? ✅  schoorsteenveger hof jr",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/oosterwolde/schoorsteenveger-hof-jr-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

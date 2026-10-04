@@ -1,0 +1,29 @@
+{
+  "id": 1312582,
+  "slug": "blaauwijkel-schoorsteenvegersbedrijf-a",
+  "provincie": "overijssel",
+  "plaats": "hengelo",
+  "naam": "Blaauwijkel Schoorsteenvegersbedrijf A",
+  "straat": "Javastraat 30",
+  "postcode": "7556SG",
+  "plaatsnaam": "Hengelo",
+  "telefoon": "074-2433008",
+  "email": null,
+  "website": null,
+  "lat": 52.266669,
+  "lon": 6.784769,
+  "omschrijving": "mobiele telefoon : 06-51976125",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/hengelo/blaauwijkel-schoorsteenvegersbedrijf-a/",
+  "meta_title": "Blaauwijkel Schoorsteenvegersbedrijf A 074-2433008",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hengelo? ✅  Blaauwijkel Schoorsteenvegersbedrijf A",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/hengelo/blaauwijkel-schoorsteenvegersbedrijf-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

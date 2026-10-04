@@ -1,0 +1,29 @@
+{
+  "id": 1312451,
+  "slug": "schoorsteen-onderhoud-delft",
+  "provincie": "zuid-holland",
+  "plaats": "delft",
+  "naam": "Schoorsteen Onderhoud Delft",
+  "straat": "Aan 't Verlaat 20",
+  "postcode": "2612XZ",
+  "plaatsnaam": "Delft",
+  "telefoon": "06-51843730",
+  "email": null,
+  "website": null,
+  "lat": 52.018477,
+  "lon": 4.359875,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/delft/schoorsteen-onderhoud-delft/",
+  "meta_title": "Schoorsteen Onderhoud Delft 06-51843730",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Delft? ✅  Schoorsteen Onderhoud Delft",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/delft/schoorsteen-onderhoud-delft/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

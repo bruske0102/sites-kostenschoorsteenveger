@@ -1,0 +1,33 @@
+{
+  "id": 1312197,
+  "slug": "roger-soons-dakservice",
+  "provincie": "limburg",
+  "plaats": "geleen",
+  "naam": "Roger Soons Dakservice",
+  "straat": "Ruysdaellaan 33",
+  "postcode": "6165TX",
+  "plaatsnaam": "Geleen",
+  "telefoon": "06-51615438",
+  "email": null,
+  "website": "http://www.rogersoonsdakservice.nl",
+  "lat": 50.960328,
+  "lon": 5.827386,
+  "omschrijving": "Doelgroep :\nBedrijven\n\n Diensten :\nDakinspectie\n\n Specialisatie :\nGevelbekleding, Plat dak, Schoorsteen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/geleen/roger-soons-dakservice/",
+  "meta_title": "Roger Soons Dakservice 06-51615438",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geleen? ✅  Roger Soons Dakservice",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/geleen/roger-soons-dakservice/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

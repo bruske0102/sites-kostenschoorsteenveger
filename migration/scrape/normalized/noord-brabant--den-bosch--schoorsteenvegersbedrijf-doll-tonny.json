@@ -1,0 +1,29 @@
+{
+  "id": 1312103,
+  "slug": "schoorsteenvegersbedrijf-doll-tonny",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Schoorsteenvegersbedrijf Döll Tonny",
+  "straat": "Copernicuslaan 3",
+  "postcode": "5223EA",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-21511113",
+  "email": null,
+  "website": null,
+  "lat": 51.69587,
+  "lon": 5.289281,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/schoorsteenvegersbedrijf-doll-tonny/",
+  "meta_title": "Schoorsteenvegersbedrijf Döll Tonny 06-21511113",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Schoorsteenvegersbedrijf Döll Tonny",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/schoorsteenvegersbedrijf-doll-tonny/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

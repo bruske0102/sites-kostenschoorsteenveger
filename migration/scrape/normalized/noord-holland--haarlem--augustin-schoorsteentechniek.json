@@ -1,0 +1,29 @@
+{
+  "id": 1312409,
+  "slug": "augustin-schoorsteentechniek",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Augustin Schoorsteentechniek",
+  "straat": "Wijde Geldelozepad 19",
+  "postcode": "2012EJ",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-83599494",
+  "email": null,
+  "website": null,
+  "lat": 52.375202,
+  "lon": 4.629181,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/augustin-schoorsteentechniek/",
+  "meta_title": "Augustin Schoorsteentechniek 06-83599494",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Augustin Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/augustin-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

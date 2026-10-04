@@ -1,0 +1,29 @@
+{
+  "id": 1312083,
+  "slug": "berg-rijnmond",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Berg-Rijnmond",
+  "straat": "Groene Hilledijk 203",
+  "postcode": "3073AD",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4846332",
+  "email": "info@berg-rijnmond.nl",
+  "website": "http://www.berg-rijnmond.nl",
+  "lat": 51.891997,
+  "lon": 4.50861,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/berg-rijnmond/",
+  "meta_title": "Berg-Rijnmond 010-4846332 info@berg-rijnmond.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Berg-Rijnmond",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/rotterdam/berg-rijnmond/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

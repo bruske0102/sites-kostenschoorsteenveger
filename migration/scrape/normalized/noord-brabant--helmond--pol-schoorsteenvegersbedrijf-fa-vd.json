@@ -1,0 +1,29 @@
+{
+  "id": 1312621,
+  "slug": "pol-schoorsteenvegersbedrijf-fa-vd",
+  "provincie": "noord-brabant",
+  "plaats": "helmond",
+  "naam": "Pol Schoorsteenvegersbedrijf Fa vd",
+  "straat": "Kanaaldijk Z.O. 62",
+  "postcode": "5705BE",
+  "plaatsnaam": "Helmond",
+  "telefoon": "0492-550763",
+  "email": null,
+  "website": null,
+  "lat": 51.466484,
+  "lon": 5.662602,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/helmond/pol-schoorsteenvegersbedrijf-fa-vd/",
+  "meta_title": "Pol Schoorsteenvegersbedrijf Fa vd 0492-550763",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Helmond? ✅  Pol Schoorsteenvegersbedrijf Fa vd",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/helmond/pol-schoorsteenvegersbedrijf-fa-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

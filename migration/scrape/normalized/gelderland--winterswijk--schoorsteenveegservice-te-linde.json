@@ -1,0 +1,29 @@
+{
+  "id": 1312189,
+  "slug": "schoorsteenveegservice-te-linde",
+  "provincie": "gelderland",
+  "plaats": "winterswijk",
+  "naam": "Schoorsteenveegservice Te Linde",
+  "straat": "Blekkinkhofweg 10",
+  "postcode": "7108AL",
+  "plaatsnaam": "Winterswijk",
+  "telefoon": "0543-564454",
+  "email": null,
+  "website": null,
+  "lat": 51.922141,
+  "lon": 6.668007,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/winterswijk/schoorsteenveegservice-te-linde/",
+  "meta_title": "Schoorsteenveegservice Te Linde 0543-564454",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Winterswijk? ✅  Schoorsteenveegservice Te Linde",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/winterswijk/schoorsteenveegservice-te-linde/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

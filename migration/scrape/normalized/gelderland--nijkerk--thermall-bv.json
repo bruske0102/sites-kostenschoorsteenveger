@@ -1,0 +1,29 @@
+{
+  "id": 1312127,
+  "slug": "thermall-bv",
+  "provincie": "gelderland",
+  "plaats": "nijkerk",
+  "naam": "ThermAll BV",
+  "straat": "Galvanistraat 28",
+  "postcode": "3861NJ",
+  "plaatsnaam": "Nijkerk",
+  "telefoon": "085-2735895",
+  "email": null,
+  "website": "http://www.thermall.nl",
+  "lat": 52.237554,
+  "lon": 5.469478,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijkerk/thermall-bv/",
+  "meta_title": "ThermAll BV 085-2735895",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nijkerk? ✅  ThermAll BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/nijkerk/thermall-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

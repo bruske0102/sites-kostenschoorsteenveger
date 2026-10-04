@@ -1,0 +1,33 @@
+{
+  "id": 1312186,
+  "slug": "huizing-gevelonderhoud-koos",
+  "provincie": "groningen",
+  "plaats": "uithuizermeeden",
+  "naam": "Huizing Gevelonderhoud Koos",
+  "straat": "Uithuizerweg 19",
+  "postcode": "9982ND",
+  "plaatsnaam": "Uithuizermeeden",
+  "telefoon": "0595-434420",
+  "email": "info@khgevelonderhoud.nl",
+  "website": "http://www.khgevelonderhoud.nl",
+  "lat": 53.411141,
+  "lon": 6.701918,
+  "omschrijving": "0595-434420\n\n fax : 0595-432781\n\nhttp://www.khgevelonderhoud.nl\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nGraffiti verwijderen, Hydrofoberen, Impregneren, Onderhoud / gevelonderhoud, Renovatie / gevelrenovatie, Restauratie / gevelrestauratie, Schoorsteen renovatie, Stralen, Uithakken, Vochtwering\n\n Specialisme :\nGevel, Metselwerk, Voegen / voegwerk, aardbevingsschadeherstel\n\n Soort reiniging :\nDakreiniging, Gevelreiniging, Hogedrukreiniging\n\n Aangesloten bij / Certificering :\nVNV, Vereniging Nederlandse Voegbedrijven, RIE, NEDCON",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/uithuizermeeden/huizing-gevelonderhoud-koos/",
+  "meta_title": "Huizing Gevelonderhoud Koos 0595-434420 info@khgevelonderhoud.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Uithuizermeeden? ✅  Huizing Gevelonderhoud Koos",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/uithuizermeeden/huizing-gevelonderhoud-koos/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

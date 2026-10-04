@@ -1,0 +1,29 @@
+{
+  "id": 1312494,
+  "slug": "steen-en-zoon-bram-van-der",
+  "provincie": "zuid-holland",
+  "plaats": "hoogmade",
+  "naam": "Steen en Zoon Bram van der",
+  "straat": "Bospolderweg 8",
+  "postcode": "2355CG",
+  "plaatsnaam": "Hoogmade",
+  "telefoon": "071-5769507",
+  "email": null,
+  "website": null,
+  "lat": 52.163218,
+  "lon": 4.56336,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoogmade/steen-en-zoon-bram-van-der/",
+  "meta_title": "Steen en Zoon Bram van der 071-5769507",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoogmade? ✅  Steen en Zoon Bram van der",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hoogmade/steen-en-zoon-bram-van-der/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

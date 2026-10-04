@@ -1,0 +1,29 @@
+{
+  "id": 1312090,
+  "slug": "correct-schoorsteenbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Correct Schoorsteenbedrijf",
+  "straat": "Ketsheuvel 5",
+  "postcode": "5231PR",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6400020",
+  "email": null,
+  "website": null,
+  "lat": 51.706244,
+  "lon": 5.303379,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/correct-schoorsteenbedrijf/",
+  "meta_title": "Correct Schoorsteenbedrijf 073-6400020",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Correct Schoorsteenbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/correct-schoorsteenbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

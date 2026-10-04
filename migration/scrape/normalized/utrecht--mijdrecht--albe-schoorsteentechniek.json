@@ -1,0 +1,29 @@
+{
+  "id": 1312648,
+  "slug": "albe-schoorsteentechniek",
+  "provincie": "utrecht",
+  "plaats": "mijdrecht",
+  "naam": "ALBE Schoorsteentechniek",
+  "straat": "Korenmolen 16",
+  "postcode": "3642AG",
+  "plaatsnaam": "Mijdrecht",
+  "telefoon": "0297-257560",
+  "email": null,
+  "website": null,
+  "lat": 52.200271,
+  "lon": 4.869333,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/mijdrecht/albe-schoorsteentechniek/",
+  "meta_title": "ALBE Schoorsteentechniek 0297-257560",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Mijdrecht? ✅  ALBE Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/mijdrecht/albe-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

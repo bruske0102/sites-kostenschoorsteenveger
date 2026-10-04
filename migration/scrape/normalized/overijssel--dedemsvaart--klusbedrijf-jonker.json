@@ -1,0 +1,29 @@
+{
+  "id": 1312076,
+  "slug": "klusbedrijf-jonker",
+  "provincie": "overijssel",
+  "plaats": "dedemsvaart",
+  "naam": "Klusbedrijf Jonker",
+  "straat": "Lepelaarweg 36",
+  "postcode": "7701KH",
+  "plaatsnaam": "Dedemsvaart",
+  "telefoon": "0523-611646",
+  "email": null,
+  "website": null,
+  "lat": 52.595746,
+  "lon": 6.454407,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/dedemsvaart/klusbedrijf-jonker/",
+  "meta_title": "Klusbedrijf Jonker 0523-611646",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dedemsvaart? ✅  Klusbedrijf Jonker",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/dedemsvaart/klusbedrijf-jonker/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

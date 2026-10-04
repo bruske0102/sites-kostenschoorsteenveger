@@ -1,0 +1,37 @@
+{
+  "id": 1312554,
+  "slug": "boudewijn-schoorsteenvegers",
+  "provincie": "gelderland",
+  "plaats": "wadenoijen",
+  "naam": "Boudewijn Schoorsteenvegers",
+  "straat": "Vergardeweg 25",
+  "postcode": "4014MX",
+  "plaatsnaam": "Wadenoijen",
+  "telefoon": "0344-661208",
+  "email": "info@boudewijnschoorsteenvegers.nl",
+  "website": "http://www.boudewijnschoorsteenvegers.nl",
+  "lat": 51.874992,
+  "lon": 5.357027,
+  "omschrijving": "schoorsteenveger\n\n Wat wij doen:\nDe Kachelshop, van de familie Boudewijn, is een echt familiebedrijf bevestigd in Wadenoijen.\nU kunt bij ons terecht voor hout en gas kachels/haarden, accessoires, dubbelwandige en enkelwandige\nrookafvoerkanalen en natuurlijk ook voor het laten vegen en controleren van uw schoorsteen. Doelgroep :\nParticulieren\n\n Diensten :\nCamera inspectie, Dakgootreiniging, Inspectie / schoorsteeninspectie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Schoorsteenvegen, Verstopping verwijderen, Vogelnesten verwijderen, accessoires, gaskachels, haardstellen, houtbakken, reparatie en isolatie, rookafvoerkanalen, vloerplaten, vonkenschermen\n\n Reiniging van :\nHoutkachels",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/wadenoijen/boudewijn-schoorsteenvegers/",
+  "meta_title": "Boudewijn Schoorsteenvegers 0344-661208 info@boudewijnschoorsteenvegers.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wadenoijen? ✅  Boudewijn Schoorsteenvegers",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/wadenoijen/boudewijn-schoorsteenvegers/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

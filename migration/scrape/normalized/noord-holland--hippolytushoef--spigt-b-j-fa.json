@@ -1,0 +1,29 @@
+{
+  "id": 1312433,
+  "slug": "spigt-b-j-fa",
+  "provincie": "noord-holland",
+  "plaats": "hippolytushoef",
+  "naam": "Spigt B J Fa",
+  "straat": "Hoge Elft 2",
+  "postcode": "1777PC",
+  "plaatsnaam": "Hippolytushoef",
+  "telefoon": "0227-591221",
+  "email": null,
+  "website": null,
+  "lat": 52.910665,
+  "lon": 4.974985,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/hippolytushoef/spigt-b-j-fa/",
+  "meta_title": "Spigt B J Fa 0227-591221",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hippolytushoef? ✅  Spigt B J Fa",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/hippolytushoef/spigt-b-j-fa/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

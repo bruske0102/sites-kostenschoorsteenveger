@@ -1,0 +1,29 @@
+{
+  "id": 1312577,
+  "slug": "kleisterlee-stads-schoorsteenveger",
+  "provincie": "noord-brabant",
+  "plaats": "grave",
+  "naam": "Kleisterlee Stads Schoorsteenveger",
+  "straat": "Ravelijn 8",
+  "postcode": "5361EJ",
+  "plaatsnaam": "Grave",
+  "telefoon": "024-3553460",
+  "email": null,
+  "website": null,
+  "lat": 51.759988,
+  "lon": 5.737206,
+  "omschrijving": "bgg : 0486-475147",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/grave/kleisterlee-stads-schoorsteenveger/",
+  "meta_title": "Kleisterlee Stads Schoorsteenveger 024-3553460",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Grave? ✅  Kleisterlee Stads Schoorsteenveger",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/grave/kleisterlee-stads-schoorsteenveger/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1312622,
+  "slug": "vermunt-bv",
+  "provincie": "noord-brabant",
+  "plaats": "wagenberg",
+  "naam": "Vermunt BV",
+  "straat": "Thijssenweg 19",
+  "postcode": "4845PJ",
+  "plaatsnaam": "Wagenberg",
+  "telefoon": "076-5934425",
+  "email": null,
+  "website": "http://www.vermuntwagenberg.nl",
+  "lat": 51.6687,
+  "lon": 4.747725,
+  "omschrijving": "Wat wij doen:\nEen specialiteit van Vermunt bv is maatwerk. Op de plaats die u wenst, naar de eisen die u stelt, wordt uw kachel of haard geïnstalleerd.\nWij maken eventueel de ombouw, leggen de leidingen aan, maken het rookkanaal en de schoorsteen in orde en werken de haard helemaal af.\nWilt u een vrijblijvend advies en een offerte neem dan contact met ons op Openingstijden:\n Maandag : 08:00 - 17:30\n Dinsdag : 08:00 - 17:30\n Woensdag : 08:00 - 17:30\n Donderdag : 08:00 - 17:30\n Vrijdag : 08:00 - 17:30\n Zaterdag : 09:00 - 16:00\n Zondag : gesloten Diensten :\nInstallatie, Maatwerk\n\n Producten :\naanleg of aanpassing van het schoorsteenkanaal, constructie, elektrische haarden, gaskachels, houtkachels, leverancier van diverse top merken, openhaarden, plaatsing",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-brabant/wagenberg/vermunt-bv/",
+  "meta_title": "Vermunt BV 076-5934425",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wagenberg? ✅  Vermunt BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/wagenberg/vermunt-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

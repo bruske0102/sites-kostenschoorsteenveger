@@ -1,0 +1,29 @@
+{
+  "id": 1312353,
+  "slug": "meijer-schoorsteenvegers-jos",
+  "provincie": "groningen",
+  "plaats": "ten-boer",
+  "naam": "Meijer Schoorsteenvegers Jos",
+  "straat": "Hendrik Westerstraat 17",
+  "postcode": "9791CS",
+  "plaatsnaam": "Ten Boer",
+  "telefoon": "050-8506818",
+  "email": null,
+  "website": null,
+  "lat": 53.276226,
+  "lon": 6.693277,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/ten-boer/meijer-schoorsteenvegers-jos/",
+  "meta_title": "Meijer Schoorsteenvegers Jos 050-8506818",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ten Boer? ✅  Meijer Schoorsteenvegers Jos",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/ten-boer/meijer-schoorsteenvegers-jos/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

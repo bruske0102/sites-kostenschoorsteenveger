@@ -1,0 +1,29 @@
+{
+  "id": 1312564,
+  "slug": "noord-schoorsteentechniek",
+  "provincie": "friesland",
+  "plaats": "twijzel",
+  "naam": "Noord Schoorsteentechniek",
+  "straat": "Bosselan 12",
+  "postcode": "9286GJ",
+  "plaatsnaam": "Twijzel",
+  "telefoon": "06-15144937",
+  "email": null,
+  "website": null,
+  "lat": 53.234278,
+  "lon": 6.088218,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/twijzel/noord-schoorsteentechniek/",
+  "meta_title": "Noord Schoorsteentechniek 06-15144937",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Twijzel? ✅  Noord Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/twijzel/noord-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

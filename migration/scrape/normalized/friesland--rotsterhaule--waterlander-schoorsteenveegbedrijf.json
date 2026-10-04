@@ -1,0 +1,29 @@
+{
+  "id": 1312557,
+  "slug": "waterlander-schoorsteenveegbedrijf",
+  "provincie": "friesland",
+  "plaats": "rotsterhaule",
+  "naam": "Waterlander Schoorsteenveegbedrijf",
+  "straat": "Boerestreek 1",
+  "postcode": "8463TH",
+  "plaatsnaam": "Rotsterhaule",
+  "telefoon": "0513-551067",
+  "email": "schoorsteenveegbedrijfwaterlander@kpnmail.nl",
+  "website": null,
+  "lat": 52.922379,
+  "lon": 5.844651,
+  "omschrijving": "mobiele telefoon : 06-54266009",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/rotsterhaule/waterlander-schoorsteenveegbedrijf/",
+  "meta_title": "Waterlander Schoorsteenveegbedrijf 0513-551067 schoorsteenveegbedrijfwaterlander@kpnmail.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotsterhaule? ✅  Waterlander Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/rotsterhaule/waterlander-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

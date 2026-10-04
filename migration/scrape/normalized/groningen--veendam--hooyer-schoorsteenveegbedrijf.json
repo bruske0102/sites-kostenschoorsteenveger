@@ -1,0 +1,29 @@
+{
+  "id": 1312344,
+  "slug": "hooyer-schoorsteenveegbedrijf",
+  "provincie": "groningen",
+  "plaats": "veendam",
+  "naam": "Hooyer Schoorsteenveegbedrijf",
+  "straat": "Frans Spiekmanstraat 44",
+  "postcode": "9645AC",
+  "plaatsnaam": "Veendam",
+  "telefoon": "0598-612215",
+  "email": null,
+  "website": null,
+  "lat": 53.119383,
+  "lon": 6.874323,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/veendam/hooyer-schoorsteenveegbedrijf/",
+  "meta_title": "Hooyer Schoorsteenveegbedrijf 0598-612215",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Veendam? ✅  Hooyer Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/veendam/hooyer-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312300,
+  "slug": "ueberle-schoorsteentechniek",
+  "provincie": "gelderland",
+  "plaats": "zutphen",
+  "naam": "Ueberle Schoorsteentechniek",
+  "straat": "Zonnehorst 5",
+  "postcode": "7207BT",
+  "plaatsnaam": "Zutphen",
+  "telefoon": "0575-520240",
+  "email": null,
+  "website": null,
+  "lat": 52.110842,
+  "lon": 6.220971,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/zutphen/ueberle-schoorsteentechniek/",
+  "meta_title": "Ueberle Schoorsteentechniek 0575-520240",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zutphen? ✅  Ueberle Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/zutphen/ueberle-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

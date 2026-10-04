@@ -1,0 +1,29 @@
+{
+  "id": 1312627,
+  "slug": "djanaida-dak-en-schoorsteen-techniek",
+  "provincie": "noord-brabant",
+  "plaats": "vlijmen",
+  "naam": "Djanaida Dak- en Schoorsteen-Techniek",
+  "straat": "Irenelaan 18",
+  "postcode": "5251JP",
+  "plaatsnaam": "Vlijmen",
+  "telefoon": "06-23584646",
+  "email": null,
+  "website": null,
+  "lat": 51.692456,
+  "lon": 5.196017,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/vlijmen/djanaida-dak-en-schoorsteen-techniek/",
+  "meta_title": "Djanaida Dak- en Schoorsteen-Techniek 06-23584646",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlijmen? ✅  Djanaida Dak- en Schoorsteen-Techniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/vlijmen/djanaida-dak-en-schoorsteen-techniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

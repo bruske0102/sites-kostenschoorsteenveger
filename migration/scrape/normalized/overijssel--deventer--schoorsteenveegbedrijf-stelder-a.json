@@ -1,0 +1,29 @@
+{
+  "id": 1312286,
+  "slug": "schoorsteenveegbedrijf-stelder-a",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Schoorsteenveegbedrijf Stelder A",
+  "straat": "Pamontstraat 4",
+  "postcode": "7415TL",
+  "plaatsnaam": "Deventer",
+  "telefoon": "0570-628948",
+  "email": null,
+  "website": null,
+  "lat": 52.266432,
+  "lon": 6.161215,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/deventer/schoorsteenveegbedrijf-stelder-a/",
+  "meta_title": "Schoorsteenveegbedrijf Stelder A 0570-628948",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Deventer? ✅  Schoorsteenveegbedrijf Stelder A",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/deventer/schoorsteenveegbedrijf-stelder-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312320,
+  "slug": "hemert-g-h-van",
+  "provincie": "zeeland",
+  "plaats": "scharendijke",
+  "naam": "Hemert G H van",
+  "straat": "Kabbelaarsbankstraat 9",
+  "postcode": "4322BH",
+  "plaatsnaam": "Scharendijke",
+  "telefoon": "0111-672221",
+  "email": null,
+  "website": null,
+  "lat": 51.737165,
+  "lon": 3.842669,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/scharendijke/hemert-g-h-van/",
+  "meta_title": "Hemert G H van 0111-672221",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Scharendijke? ✅  Hemert G H van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/scharendijke/hemert-g-h-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

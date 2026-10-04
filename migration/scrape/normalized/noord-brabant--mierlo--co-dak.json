@@ -1,0 +1,33 @@
+{
+  "id": 1312665,
+  "slug": "co-dak",
+  "provincie": "noord-brabant",
+  "plaats": "mierlo",
+  "naam": "Co-Dak",
+  "straat": "Meester van Busselstraat 50",
+  "postcode": "5731 ND",
+  "plaatsnaam": "Mierlo",
+  "telefoon": "06-54730708",
+  "email": "tino.coolen@outlook.com",
+  "website": "http://www.co-dak.nl",
+  "lat": 51.44009,
+  "lon": 5.627536,
+  "omschrijving": "schoorsteenvegen schoorsteenveger vogelnest verwijderen dakgoot reiniging dakgoot reparatie\r\n24 uur service \r\nvoor nood gevallen ook op zon en feestdagen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/mierlo/co-dak/",
+  "meta_title": "Co-Dak 06-54730708 tino.coolen@outlook.com",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Mierlo? ✅  Co-Dak",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/mierlo/co-dak/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1312401,
+  "slug": "koopman-zn-fa-g",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Koopman & Zn Fa G",
+  "straat": "Jan Gijzenkade 143",
+  "postcode": "2025BD",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "023-5382478",
+  "email": "koopmanmarco@hetnet.nl",
+  "website": null,
+  "lat": 52.409071,
+  "lon": 4.652411,
+  "omschrijving": "ASPB : 023-5382478\n\n023-5382478\n\n Wat wij doen:\nProfessionele en Veilige Reiniging van Schoorstenen & Rookkanalen. Specialiteiten :\nReiniging, Schoorstenen, Rookkanalen\n\n Service :\nGratis offerte\n\n Aangesloten bij / Certificering :\n ASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/koopman-zn-fa-g/",
+  "meta_title": "Koopman & Zn Fa G 023-5382478 koopmanmarco@hetnet.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Koopman & Zn Fa G",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/koopman-zn-fa-g/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

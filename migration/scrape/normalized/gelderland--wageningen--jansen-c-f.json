@@ -1,0 +1,29 @@
+{
+  "id": 1312071,
+  "slug": "jansen-c-f",
+  "provincie": "gelderland",
+  "plaats": "wageningen",
+  "naam": "Jansen C F",
+  "straat": "Pad van Dikkertje Dap 13",
+  "postcode": "6708TC",
+  "plaatsnaam": "Wageningen",
+  "telefoon": "0317-424304",
+  "email": null,
+  "website": null,
+  "lat": 51.98531,
+  "lon": 5.646365,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/wageningen/jansen-c-f/",
+  "meta_title": "Jansen C F 0317-424304",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  Jansen C F",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/wageningen/jansen-c-f/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

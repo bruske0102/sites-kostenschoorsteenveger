@@ -1,0 +1,19 @@
+{
+  "total_normalized": 612,
+  "parsed_ok": 611,
+  "actief": 464,
+  "with_website": 312,
+  "with_phone": 611,
+  "with_coords": 580,
+  "run_ok": 611,
+  "run_fail": 1,
+  "run_skip": 0,
+  "errors": [
+    {
+      "url": "https://kostenschoorsteenveger.nl/zuid-holland/hardinxveld-giessendam/dak-techniek-holland-bv/",
+      "reason": "not_listing_html",
+      "http_status": 404
+    }
+  ],
+  "content_dir": "src/content/schoorsteenvegers"
+}

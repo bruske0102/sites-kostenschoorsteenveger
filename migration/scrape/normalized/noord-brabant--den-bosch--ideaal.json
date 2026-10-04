@@ -1,0 +1,29 @@
+{
+  "id": 1312095,
+  "slug": "ideaal",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Ideaal",
+  "straat": "Almhof 2",
+  "postcode": "5215CC",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "06-39313331",
+  "email": null,
+  "website": null,
+  "lat": 51.688481,
+  "lon": 5.330006,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/ideaal/",
+  "meta_title": "Ideaal 06-39313331",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Ideaal",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/ideaal/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

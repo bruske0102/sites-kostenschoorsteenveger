@@ -1,0 +1,32 @@
+{
+  "id": 1312389,
+  "slug": "emo-daktechniek-schoorstenen-pannen-nieuw-reparatie-h",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Emo Daktechniek Schoorstenen-pannen Nieuw & Reparatie H",
+  "straat": "Oetgensstraat 26",
+  "postcode": "1091RE",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6938153",
+  "email": null,
+  "website": null,
+  "lat": 52.355067,
+  "lon": 4.909332,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": {
+    "gemiddeld": 3.97,
+    "aantal": 31
+  },
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/emo-daktechniek-schoorstenen-pannen-nieuw-reparatie-h/",
+  "meta_title": "Emo Daktechniek Schoorstenen-pannen Nieuw & Reparatie H 020-6938153",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  Emo Daktechniek Schoorstenen-pannen Nieuw & Reparatie H",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/amsterdam/emo-daktechniek-schoorstenen-pannen-nieuw-reparatie-h/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

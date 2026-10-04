@@ -1,0 +1,29 @@
+{
+  "id": 1312110,
+  "slug": "dishoeck-schoorsteenvegersbedr-f-j-m-van",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Dishoeck Schoorsteenvegersbedr F J M van",
+  "straat": "Maxwellstraat 35",
+  "postcode": "6716BX",
+  "plaatsnaam": "Ede",
+  "telefoon": "0318-641479",
+  "email": null,
+  "website": null,
+  "lat": 52.028776,
+  "lon": 5.616396,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/dishoeck-schoorsteenvegersbedr-f-j-m-van/",
+  "meta_title": "Dishoeck Schoorsteenvegersbedr F J M van 0318-641479",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Dishoeck Schoorsteenvegersbedr F J M van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/ede/dishoeck-schoorsteenvegersbedr-f-j-m-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

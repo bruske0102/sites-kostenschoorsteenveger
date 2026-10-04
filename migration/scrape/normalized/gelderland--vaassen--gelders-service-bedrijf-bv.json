@@ -1,0 +1,38 @@
+{
+  "id": 1312346,
+  "slug": "gelders-service-bedrijf-bv",
+  "provincie": "gelderland",
+  "plaats": "vaassen",
+  "naam": "Gelders Service Bedrijf BV",
+  "straat": "Oude Apeldoornseweg 77",
+  "postcode": "8171LV",
+  "plaatsnaam": "Vaassen",
+  "telefoon": "0578-572615",
+  "email": "info@geldersservicebedrijf.nl",
+  "website": "http://www.geldersservicebedrijf.nl",
+  "lat": 52.274886,
+  "lon": 5.969168,
+  "omschrijving": "Wat wij doen:\nHet Gelders Service Bedrijf is allround installatiebedrijf dat zich bezighoudt met verschillende disciplines. Onze opdrachtgevers bestaan voornamelijk uit particulieren en aannemers, waarvoor wij werk verrichten in de renovatie, onderhoud, woningbouw, verbouw en kleine utiliteitsbouw.\n\nIn de loop der jaren zijn de werkgebieden aanzienlijk uitgebreid. Inmiddels kunnen alle technische installaties in zowel woningen als kleine utiliteit worden aangelegd en onderhouden. Voordeel voor de opdrachtgever, zowel particulier als aannemer is één aanspreekpunt voor alle disciplines.\n Openingstijden:\n Maandag : 07:30 - 16:30 Storingsdienst buiten kantoortijden\n Dinsdag : 07:30 - 16:30 Storingsdienst buiten kantoortijden\n Woensdag : 07:30 - 16:30 Storingsdienst buiten kantoortijden\n Donderdag : 07:30 - 16:30 Storingsdienst buiten kantoortijden\n Vrijdag : 07:30 - 16:30 Storingsdienst buiten kantoortijden\n Zaterdag : gesloten\n Zondag : gesloten Service :\n24-uurs service, Alleen op afspraak, Gratis offerte\n\n Toegankelijkheid :\nBegane grond, Toegankelijk voor rolstoelen\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Dakgootreiniging, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vervanging, Vogelnesten verwijderen\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Mechanische ventilatie, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen, Ventilatiekanalen\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving\n\n Aangesloten bij / Certificering :\nASPB (Algemene Schoorsteenvegers Patroons Bond ), Uneto-VNI Sterkin",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend",
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/gelderland/vaassen/gelders-service-bedrijf-bv/",
+  "meta_title": "Gelders Service Bedrijf BV 0578-572615 info@geldersservicebedrijf.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vaassen? ✅  Gelders Service Bedrijf BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/vaassen/gelders-service-bedrijf-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

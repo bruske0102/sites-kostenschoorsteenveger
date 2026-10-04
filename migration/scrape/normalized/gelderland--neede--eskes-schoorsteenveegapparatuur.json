@@ -1,0 +1,29 @@
+{
+  "id": 1312125,
+  "slug": "eskes-schoorsteenveegapparatuur",
+  "provincie": "gelderland",
+  "plaats": "neede",
+  "naam": "Eskes Schoorsteenveegapparatuur",
+  "straat": "Borculoseweg 135",
+  "postcode": "7161GV",
+  "plaatsnaam": "Neede",
+  "telefoon": "0545-291814",
+  "email": null,
+  "website": null,
+  "lat": 52.134008,
+  "lon": 6.596255,
+  "omschrijving": "Fabriek schoorsteenveeg apparatuur",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/neede/eskes-schoorsteenveegapparatuur/",
+  "meta_title": "Eskes Schoorsteenveegapparatuur 0545-291814",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Neede? ✅  Eskes Schoorsteenveegapparatuur",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/neede/eskes-schoorsteenveegapparatuur/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

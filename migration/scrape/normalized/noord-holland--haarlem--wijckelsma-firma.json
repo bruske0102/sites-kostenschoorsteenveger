@@ -1,0 +1,29 @@
+{
+  "id": 1312408,
+  "slug": "wijckelsma-firma",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Wijckelsma Firma",
+  "straat": "Geusevesperstraat 20",
+  "postcode": "2026SJ",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "06-53335250",
+  "email": null,
+  "website": null,
+  "lat": 52.420315,
+  "lon": 4.65096,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/wijckelsma-firma/",
+  "meta_title": "Wijckelsma Firma 06-53335250",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Wijckelsma Firma",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/wijckelsma-firma/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

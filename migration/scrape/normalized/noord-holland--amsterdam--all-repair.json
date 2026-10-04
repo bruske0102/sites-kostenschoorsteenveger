@@ -1,0 +1,33 @@
+{
+  "id": 1312175,
+  "slug": "all-repair",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "All Repair",
+  "straat": "Hilversumstraat 165",
+  "postcode": "1024JX",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-3460606",
+  "email": "info@all-repair.nl",
+  "website": "http://www.all-repair.nl",
+  "lat": 52.390622,
+  "lon": 4.961056,
+  "omschrijving": "Wat wij doen:\nALL Repair - Snelle Reparatie Service\n\nOnderhoud en reparatie.\nVerkoop, levering en installatie.\n\n* Dakbedekking\n* Elektra-storing\n* Loodgieterswerk\n* Schoorsteenvegen\n* Afvoer & Riolering\n* Sloten & Anti-inbraak\n* Gashaarden & Geisers\n* Centrale verwarming\n* Afwasmachines\n* Was- & Droogautomaten\n Aangesloten bij / Certificering :\nUNETO-VNI",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/amsterdam/all-repair/",
+  "meta_title": "All Repair 020-3460606 info@all-repair.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  All Repair",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/amsterdam/all-repair/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

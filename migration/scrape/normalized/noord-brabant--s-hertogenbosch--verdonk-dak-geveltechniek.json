@@ -1,0 +1,29 @@
+{
+  "id": 1312672,
+  "slug": "verdonk-dak-geveltechniek",
+  "provincie": "noord-brabant",
+  "plaats": "s-hertogenbosch",
+  "naam": "Verdonk Dak- & Geveltechniek",
+  "straat": "Balistraat 2",
+  "postcode": "5215 AW",
+  "plaatsnaam": "'s-Hertogenbosch",
+  "telefoon": "073-6122002",
+  "email": "dakengeveltechniek.verdonk@hotmail.nl",
+  "website": null,
+  "lat": 51.6872305,
+  "lon": 5.3293859999999995,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/s-hertogenbosch/verdonk-dak-geveltechniek/",
+  "meta_title": "Verdonk Dak- & Geveltechniek 073-6122002 dakengeveltechniek.verdonk@hotmail.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/s-hertogenbosch/verdonk-dak-geveltechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

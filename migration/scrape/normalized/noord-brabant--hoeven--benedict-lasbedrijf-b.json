@@ -1,0 +1,33 @@
+{
+  "id": 1312244,
+  "slug": "benedict-lasbedrijf-b",
+  "provincie": "noord-brabant",
+  "plaats": "hoeven",
+  "naam": "Benedict Lasbedrijf B",
+  "straat": "Tuin van Gerlagh 27",
+  "postcode": "4741AR",
+  "plaatsnaam": "Hoeven",
+  "telefoon": "0165-504441",
+  "email": null,
+  "website": "http://www.benedict.nl",
+  "lat": 51.580154,
+  "lon": 4.5861,
+  "omschrijving": "Wat wij doen:\nLasbedrijf Benedict is een metaalbewerkingsbedrijf waar zowel bedrijven als particulieren terecht kunnen voor het laten maken van diverse producten en reparaties.\n\nOnze specialiteit is het maken van houtkachels ,vonkenschermen en openhaard roosters.\n\nWij verkopen schoorsteen materialen , kachelonderdelen en div. kachel accessoires.\n\n Diensten :\nOnderhoud, Plaatsen\n\n Productgroepen :\nKachels\n\n Soort kachels :\nKachel\n\n Soort haarden :\nHaard",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/hoeven/benedict-lasbedrijf-b/",
+  "meta_title": "Benedict Lasbedrijf B 0165-504441",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoeven? ✅  Benedict Lasbedrijf B",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/hoeven/benedict-lasbedrijf-b/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

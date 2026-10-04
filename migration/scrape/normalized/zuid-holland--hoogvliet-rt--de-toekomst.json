@@ -1,0 +1,37 @@
+{
+  "id": 1312496,
+  "slug": "de-toekomst",
+  "provincie": "zuid-holland",
+  "plaats": "hoogvliet-rt",
+  "naam": "De Toekomst",
+  "straat": "Noordzijdsedijk 133",
+  "postcode": "3194TA",
+  "plaatsnaam": "Hoogvliet rt",
+  "telefoon": "010-4388600",
+  "email": "toekomstde@upcmail.nl",
+  "website": null,
+  "lat": 51.866003,
+  "lon": 4.369644,
+  "omschrijving": "010-4388600\n\n fax : 010-4387604\n\n Wat wij doen:\nVegen van alle soorten schoorstenen en reinigen van dakgoten. Openingstijden:\n Maandag : 08:30 - 18:00\n Dinsdag : 08:30 - 18:00\n Woensdag : 08:30 - 18:00\n Donderdag : 08:30 - 18:00\n Vrijdag : 08:30 - 18:00\n Zaterdag : gesloten\n Zondag : gesloten Service :\nAlleen op afspraak\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Camera inspectie, Dakgootreiniging, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vervanging, Vogelnesten verwijderen\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Mechanische ventilatie, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen, Ventilatiekanalen\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving\n\n Aangesloten bij / Certificering :\nA S P B, Schoorsteenvegers Bond, A S P B - P B N A, V C A",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/hoogvliet-rt/de-toekomst/",
+  "meta_title": "De Toekomst 010-4388600 toekomstde@upcmail.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoogvliet rt? ✅  De Toekomst",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hoogvliet-rt/de-toekomst/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

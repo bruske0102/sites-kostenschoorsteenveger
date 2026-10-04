@@ -1,0 +1,29 @@
+{
+  "id": 1312595,
+  "slug": "deko-dakservice",
+  "provincie": "noord-brabant",
+  "plaats": "eindhoven",
+  "naam": "Deko Dakservice",
+  "straat": "Grassteppe 8",
+  "postcode": "5658HW",
+  "plaatsnaam": "Eindhoven",
+  "telefoon": "06-10468621",
+  "email": null,
+  "website": null,
+  "lat": 51.43176,
+  "lon": 5.413258,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/eindhoven/deko-dakservice/",
+  "meta_title": "Deko Dakservice 06-10468621",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Deko Dakservice",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/eindhoven/deko-dakservice/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

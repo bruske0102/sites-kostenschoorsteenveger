@@ -1,0 +1,33 @@
+{
+  "id": 1312660,
+  "slug": "multysyst-bv",
+  "provincie": "utrecht",
+  "plaats": "veenendaal",
+  "naam": "Multysyst BV",
+  "straat": "Middelbuurtseweg 5",
+  "postcode": "3903LB",
+  "plaatsnaam": "Veenendaal",
+  "telefoon": "0318-528781",
+  "email": "info@multysyst.nl",
+  "website": "http://www.multysyst.nl",
+  "lat": 52.007346,
+  "lon": 5.559587,
+  "omschrijving": "0318-528781\n\n fax : 0318-555729\n\n Wat wij doen:\nMultySyst is groothandelaar in r.v.s. rookgasafvoersystemen, dat wil zeggen voor gas, hout, olie en kolen, welke wij via de vakhandel distribueren.\nTevens zijn wij importeur van Skantherm en Spartherm haardkachels, de verkoop van deze Design-haardkachels, vindt plaats door middel van uitgebreid dealernetwerk. Service :\nGratis offerte, Showroom aanwezig\n\n Toegankelijkheid :\nBegane grond\n\n Diensten :\nVerkoop\n\n Productgroepen :\nHaarden, Kachels, Rookkanalen, Schoorsteenkanalen, Sfeerverwarming\n\n Soort kachels :\nHoutkachel, Voorzetkachel\n\n Soort haarden :\nHaard, Sfeerhaard\n\n Producten :\nKachelpijp, diverse artikelen, rvs concentrisch systeem, rvs dubbelwandig systeem, rvs eneklwandig systeem, rvs flexibele buis met toebehoren, schoorsteen sierkappen, skantherm haardkachels, wbox, design houtstandaards",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/veenendaal/multysyst-bv/",
+  "meta_title": "Multysyst BV 0318-528781 info@multysyst.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Veenendaal? ✅  Multysyst BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/veenendaal/multysyst-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

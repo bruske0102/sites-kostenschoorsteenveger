@@ -1,0 +1,29 @@
+{
+  "id": 1312510,
+  "slug": "nds-schoonmaak-schoorsteenvegersbedrijf",
+  "provincie": "friesland",
+  "plaats": "drachten",
+  "naam": "NDS Schoonmaak- & Schoorsteenvegersbedrijf",
+  "straat": "Vogelzang 132",
+  "postcode": "9201SG",
+  "plaatsnaam": "Drachten",
+  "telefoon": "0512-521884",
+  "email": null,
+  "website": null,
+  "lat": 53.110317,
+  "lon": 6.106374,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/drachten/nds-schoonmaak-schoorsteenvegersbedrijf/",
+  "meta_title": "NDS Schoonmaak- & Schoorsteenvegersbedrijf 0512-521884",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Drachten? ✅  NDS Schoonmaak- & Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/drachten/nds-schoonmaak-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

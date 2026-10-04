@@ -1,0 +1,37 @@
+{
+  "id": 1312448,
+  "slug": "de-baan-schoorsteenvegersbedrijf",
+  "provincie": "noord-holland",
+  "plaats": "waarland",
+  "naam": "De Baan schoorsteenvegersbedrijf",
+  "straat": "Kerkstraat 88",
+  "postcode": "1738BM",
+  "plaatsnaam": "Waarland",
+  "telefoon": "0226-341623",
+  "email": "g.bleijinga@quicknet.nl",
+  "website": "http://www.aspb.nl",
+  "lat": 52.726502,
+  "lon": 4.824085,
+  "omschrijving": "Meesterschoorsteenveger lid ASPB\n\n Wat wij doen:\nwe zijn een gecertificeerd bedrijf met 25 jaar ervaring en in bezit van gezel en meester diploma.\nons doel is fair en goed werk te levering wat wij ook doen voor een reele prijs.\n Openingstijden:\n Maandag : 09:00 - 18:00\n Dinsdag : 09:00 - 18:00\n Woensdag : 09:00 - 18:00\n Donderdag : 09:00 - 18:00\n Vrijdag : 09:00 - 18:00\n Zaterdag : gesloten\n Zondag : gesloten Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Camera inspectie, Dakgootreiniging, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoonmaken haarden, Schoorsteenvegen, Verstopping verwijderen, Vervanging, Vogelnesten verwijderen\n\n Reiniging van :\nHaarden, Mechanische ventilatie, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen, Ventilatiekanalen\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving\n\n Aangesloten bij / Certificering :\nASPB patroonsbond, schoorsteen- installatie techniek, aspb bond",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/noord-holland/waarland/de-baan-schoorsteenvegersbedrijf/",
+  "meta_title": "De Baan schoorsteenvegersbedrijf 0226-341623 g.bleijinga@quicknet.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Waarland? ✅  De Baan schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/waarland/de-baan-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

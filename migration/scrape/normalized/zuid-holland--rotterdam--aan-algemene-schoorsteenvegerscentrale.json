@@ -1,0 +1,29 @@
+{
+  "id": 1312079,
+  "slug": "aan-algemene-schoorsteenvegerscentrale",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "AAN Algemene Schoorsteenvegerscentrale",
+  "straat": "Pupillenstraat 60",
+  "postcode": "3023VW",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4768847",
+  "email": null,
+  "website": null,
+  "lat": 51.91187,
+  "lon": 4.450274,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/aan-algemene-schoorsteenvegerscentrale/",
+  "meta_title": "AAN Algemene Schoorsteenvegerscentrale 010-4768847",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  AAN Algemene Schoorsteenvegerscentrale",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/rotterdam/aan-algemene-schoorsteenvegerscentrale/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

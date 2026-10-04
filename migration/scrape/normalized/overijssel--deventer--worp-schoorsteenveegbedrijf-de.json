@@ -1,0 +1,29 @@
+{
+  "id": 1312303,
+  "slug": "worp-schoorsteenveegbedrijf-de",
+  "provincie": "overijssel",
+  "plaats": "deventer",
+  "naam": "Worp Schoorsteenveegbedrijf De",
+  "straat": "Hogestraat 47",
+  "postcode": "7412BS",
+  "plaatsnaam": "Deventer",
+  "telefoon": "0570-615513",
+  "email": null,
+  "website": null,
+  "lat": 52.257689,
+  "lon": 6.145552,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/deventer/worp-schoorsteenveegbedrijf-de/",
+  "meta_title": "Worp Schoorsteenveegbedrijf De 0570-615513",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Deventer? ✅  Worp Schoorsteenveegbedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/deventer/worp-schoorsteenveegbedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

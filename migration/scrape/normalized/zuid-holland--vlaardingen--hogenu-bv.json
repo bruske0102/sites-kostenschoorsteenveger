@@ -1,0 +1,29 @@
+{
+  "id": 1312068,
+  "slug": "hogenu-bv",
+  "provincie": "zuid-holland",
+  "plaats": "vlaardingen",
+  "naam": "Hogenu BV",
+  "straat": "Fultonstraat 4",
+  "postcode": "3133KH",
+  "plaatsnaam": "Vlaardingen",
+  "telefoon": "010-4350757",
+  "email": null,
+  "website": null,
+  "lat": 51.903363,
+  "lon": 4.311355,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/vlaardingen/hogenu-bv/",
+  "meta_title": "Hogenu BV 010-4350757",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Hogenu BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/vlaardingen/hogenu-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

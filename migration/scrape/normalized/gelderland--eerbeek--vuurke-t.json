@@ -1,0 +1,29 @@
+{
+  "id": 1312301,
+  "slug": "vuurke-t",
+  "provincie": "gelderland",
+  "plaats": "eerbeek",
+  "naam": "Vuurke 't",
+  "straat": "Boerhaavelaan 47",
+  "postcode": "6961ZS",
+  "plaatsnaam": "Eerbeek",
+  "telefoon": "0313-651872",
+  "email": null,
+  "website": null,
+  "lat": 52.105234,
+  "lon": 6.05766,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/eerbeek/vuurke-t/",
+  "meta_title": "Vuurke 't 0313-651872",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eerbeek? ✅  Vuurke",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/eerbeek/vuurke-t/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

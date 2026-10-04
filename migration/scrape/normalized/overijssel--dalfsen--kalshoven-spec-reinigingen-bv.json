@@ -1,0 +1,37 @@
+{
+  "id": 1312231,
+  "slug": "kalshoven-spec-reinigingen-bv",
+  "provincie": "overijssel",
+  "plaats": "dalfsen",
+  "naam": "Kalshoven Spec Reinigingen BV",
+  "straat": "De Singel 14",
+  "postcode": "7722RR",
+  "plaatsnaam": "Dalfsen",
+  "telefoon": "0529-431207",
+  "email": null,
+  "website": "http://www.kalshovendalfsen.nl",
+  "lat": 52.510754,
+  "lon": 6.269966,
+  "omschrijving": "meer info rubr: schoonmaakbedrijven\n\n Wat wij doen:\nWanneer u veilig en ontspannen wilt genieten van kachel of haardvuur, is het regelmatig laten controleren en laten schoonmaken van uw schoorsteen door een ASPB-erkende schoorsteenveger geen overbodige luxe. Kalshoven is zo'n erkende schoorsteenveger. Wij komen bij u langs op afroep, maar werken ook met diverse abonnementsvormen. Door de zorgen voor een schone schoorsteen, dragen wij ons steentje bij aan uw veiligheid.\n\nDe schoorsteenveger doet meer dan alleen het verwijderen van vogelnesten en het vegen van de schoorsteen, maar plaatst indien nodig ook kraaienkapjes en vonkenvangers. Wij controleren deze vonkenvangers op gezette tijden. Voor een zo goed en veilig mogelijk resultaat, spuiten wij de schoorstenen ook aan de buitenzijde af om ze vervolgens te impregneren.\n\nWanneer er onverhoopt tóch iets mocht gebeuren, dan verrichten wij in opdracht van brandweer en verzekering een grondige camera-inspectie en leggen de beelden voor u en uw verzekering vast op een dvd en een inspectierapport. Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nBrandpreventie, Camera inspectie, Plaatsen schoorsteenkappen, Schoorsteenvegen, Vogelnesten verwijderen, Vonkenvangers plaatsen\n\n Reiniging van :\nSchoorstenen\n\n Aangesloten bij / Certificering :\nASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/dalfsen/kalshoven-spec-reinigingen-bv/",
+  "meta_title": "Kalshoven Spec Reinigingen BV 0529-431207",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dalfsen? ✅  Kalshoven Spec Reinigingen BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/dalfsen/kalshoven-spec-reinigingen-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

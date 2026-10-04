@@ -1,0 +1,29 @@
+{
+  "id": 1312439,
+  "slug": "schoorsteentechniek-en-onderhoudsbedrijf-r-l-op-der-heijde",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Schoorsteentechniek en Onderhoudsbedrijf R L op der Heijde",
+  "straat": "Dallashof 2",
+  "postcode": "2548JG",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-18631908",
+  "email": null,
+  "website": null,
+  "lat": 52.031773,
+  "lon": 4.283598,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/schoorsteentechniek-en-onderhoudsbedrijf-r-l-op-der-heijde/",
+  "meta_title": "Schoorsteentechniek en Onderhoudsbedrijf R L op der Heijde 06-18631908",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Schoorsteentechniek en Onderhoudsbedrijf R L op der Heijde",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/schoorsteentechniek-en-onderhoudsbedrijf-r-l-op-der-heijde/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

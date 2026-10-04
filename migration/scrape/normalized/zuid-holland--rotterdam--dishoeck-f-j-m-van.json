@@ -1,0 +1,33 @@
+{
+  "id": 1312474,
+  "slug": "dishoeck-f-j-m-van",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Dishoeck F J M van",
+  "straat": "Jericholaan 31",
+  "postcode": "3061HA",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4520013",
+  "email": null,
+  "website": null,
+  "lat": 51.931464,
+  "lon": 4.507039,
+  "omschrijving": "ASPB : 010-4520013\n\n010-4520013",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/dishoeck-f-j-m-van/",
+  "meta_title": "Dishoeck F J M van 010-4520013",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Dishoeck F J M van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/rotterdam/dishoeck-f-j-m-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

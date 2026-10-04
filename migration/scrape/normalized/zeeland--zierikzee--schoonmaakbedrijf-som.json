@@ -1,0 +1,29 @@
+{
+  "id": 1312329,
+  "slug": "schoonmaakbedrijf-som",
+  "provincie": "zeeland",
+  "plaats": "zierikzee",
+  "naam": "Schoonmaakbedrijf SOM",
+  "straat": "Oudeweg 21",
+  "postcode": "4301TC",
+  "plaatsnaam": "Zierikzee",
+  "telefoon": "0111-408862",
+  "email": "info@smb-som.com",
+  "website": "http://www.smb-som.com",
+  "lat": 51.658497,
+  "lon": 3.917596,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/zierikzee/schoonmaakbedrijf-som/",
+  "meta_title": "Schoonmaakbedrijf SOM 0111-408862 info@smb-som.com",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zierikzee? ✅  Schoonmaakbedrijf SOM",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/zierikzee/schoonmaakbedrijf-som/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

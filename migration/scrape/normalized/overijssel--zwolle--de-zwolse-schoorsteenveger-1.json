@@ -1,0 +1,33 @@
+{
+  "id": 1312673,
+  "slug": "de-zwolse-schoorsteenveger-1",
+  "provincie": "overijssel",
+  "plaats": "zwolle",
+  "naam": "De Zwolse Schoorsteenveger",
+  "straat": "Riouwstraat 16",
+  "postcode": "8022 PT",
+  "plaatsnaam": "Zwolle",
+  "telefoon": "0647141806",
+  "email": "efeller@live.nl",
+  "website": "http://zwolseschoorsteenveger.com",
+  "lat": 52.5168876,
+  "lon": 6.1099425,
+  "omschrijving": "Voor het vegen van uw schoorsteen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/zwolle/de-zwolse-schoorsteenveger-1/",
+  "meta_title": "De Zwolse Schoorsteenveger 0647141806 efeller@live.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zwolle? ✅  De Zwolse Schoorsteenveger",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/zwolle/de-zwolse-schoorsteenveger-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

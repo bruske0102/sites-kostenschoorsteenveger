@@ -1,0 +1,29 @@
+{
+  "id": 1312129,
+  "slug": "dakman-dak-schoorsteentechniek",
+  "provincie": "gelderland",
+  "plaats": "nijmegen",
+  "naam": "Dakman Dak- & Schoorsteentechniek",
+  "straat": "Tolhuis 7079",
+  "postcode": "6537RJ",
+  "plaatsnaam": "Nijmegen",
+  "telefoon": "024-8457408",
+  "email": null,
+  "website": null,
+  "lat": 51.818944,
+  "lon": 5.790095,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/nijmegen/dakman-dak-schoorsteentechniek/",
+  "meta_title": "Dakman Dak- & Schoorsteentechniek 024-8457408",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nijmegen? ✅  Dakman Dak- & Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/nijmegen/dakman-dak-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

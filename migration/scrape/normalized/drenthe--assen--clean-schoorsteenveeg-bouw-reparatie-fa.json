@@ -1,0 +1,29 @@
+{
+  "id": 1312514,
+  "slug": "clean-schoorsteenveeg-bouw-reparatie-fa",
+  "provincie": "drenthe",
+  "plaats": "assen",
+  "naam": "Clean Schoorsteenveeg Bouw Reparatie Fa",
+  "straat": "Mauritsstraat 8",
+  "postcode": "9402GA",
+  "plaatsnaam": "Assen",
+  "telefoon": "0592-345000",
+  "email": null,
+  "website": null,
+  "lat": 53.000935,
+  "lon": 6.552284,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/assen/clean-schoorsteenveeg-bouw-reparatie-fa/",
+  "meta_title": "Clean Schoorsteenveeg Bouw Reparatie Fa 0592-345000",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Assen? ✅  Clean Schoorsteenveeg Bouw Reparatie Fa",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/assen/clean-schoorsteenveeg-bouw-reparatie-fa/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

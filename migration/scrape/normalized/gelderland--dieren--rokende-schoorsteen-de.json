@@ -1,0 +1,29 @@
+{
+  "id": 1312543,
+  "slug": "rokende-schoorsteen-de",
+  "provincie": "gelderland",
+  "plaats": "dieren",
+  "naam": "Rokende Schoorsteen De",
+  "straat": "Spoorstraat 17",
+  "postcode": "6953BW",
+  "plaatsnaam": "Dieren",
+  "telefoon": "06-47012770",
+  "email": null,
+  "website": null,
+  "lat": 52.044637,
+  "lon": 6.106022,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/dieren/rokende-schoorsteen-de/",
+  "meta_title": "Rokende Schoorsteen De 06-47012770",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dieren? ✅  Rokende Schoorsteen De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/dieren/rokende-schoorsteen-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

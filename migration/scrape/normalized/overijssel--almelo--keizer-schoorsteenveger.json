@@ -1,0 +1,29 @@
+{
+  "id": 1312120,
+  "slug": "keizer-schoorsteenveger",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Keizer Schoorsteenveger",
+  "straat": "Garenboom 27",
+  "postcode": "7603WD",
+  "plaatsnaam": "Almelo",
+  "telefoon": "0546-871664",
+  "email": null,
+  "website": null,
+  "lat": 52.36567,
+  "lon": 6.683092,
+  "omschrijving": "mobiele telefoon : 06-23059230",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/almelo/keizer-schoorsteenveger/",
+  "meta_title": "Keizer Schoorsteenveger 0546-871664",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Almelo? ✅  Keizer Schoorsteenveger",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/almelo/keizer-schoorsteenveger/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

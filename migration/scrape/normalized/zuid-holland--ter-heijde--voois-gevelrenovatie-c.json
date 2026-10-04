@@ -1,0 +1,29 @@
+{
+  "id": 1312108,
+  "slug": "voois-gevelrenovatie-c",
+  "provincie": "zuid-holland",
+  "plaats": "ter-heijde",
+  "naam": "Voois Gevelrenovatie C",
+  "straat": "van Speykstraat 24",
+  "postcode": "2684XZ",
+  "plaatsnaam": "Ter Heijde",
+  "telefoon": "0174-243791",
+  "email": null,
+  "website": null,
+  "lat": 52.031526,
+  "lon": 4.170922,
+  "omschrijving": "Doelgroep :\nParticulieren\n\n Diensten :\nAdvies, Impregneren, Onderhoud / gevelonderhoud, Renovatie / gevelrenovatie, Reparatie, Restauratie / gevelrestauratie, Schoorsteen renovatie, Stralen, Uithakken, Zandstralen\n\n Specialisme :\nDak, Gevel, Metselwerk, Voegen / voegwerk",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/ter-heijde/voois-gevelrenovatie-c/",
+  "meta_title": "Voois Gevelrenovatie C 0174-243791",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ter Heijde? ✅  Voois Gevelrenovatie C",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/ter-heijde/voois-gevelrenovatie-c/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

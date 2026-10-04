@@ -1,0 +1,29 @@
+{
+  "id": 1312257,
+  "slug": "klompenmaker-nijverdal-schoorsteenveegbedrijf",
+  "provincie": "overijssel",
+  "plaats": "nijverdal",
+  "naam": "Klompenmaker Nijverdal Schoorsteenveegbedrijf",
+  "straat": "Potgieterstraat 45",
+  "postcode": "7442XR",
+  "plaatsnaam": "Nijverdal",
+  "telefoon": "0548-618758",
+  "email": null,
+  "website": null,
+  "lat": 52.353825,
+  "lon": 6.47399,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/nijverdal/klompenmaker-nijverdal-schoorsteenveegbedrijf/",
+  "meta_title": "Klompenmaker Nijverdal Schoorsteenveegbedrijf 0548-618758",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nijverdal? ✅  Klompenmaker Nijverdal Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/nijverdal/klompenmaker-nijverdal-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

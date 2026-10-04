@@ -1,0 +1,33 @@
+{
+  "id": 1312173,
+  "slug": "niedekker-schoorsteenveger",
+  "provincie": "limburg",
+  "plaats": "panningen",
+  "naam": "Niedekker Schoorsteenveger",
+  "straat": "Wietelweg 60",
+  "postcode": "5981TK",
+  "plaatsnaam": "Panningen",
+  "telefoon": "077-3073201",
+  "email": "fredniedekker@live.nl",
+  "website": null,
+  "lat": 51.323139,
+  "lon": 5.980808,
+  "omschrijving": "mobiele telefoon : 06-40074763\nGediplomeerd schoorsteenveger ASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/panningen/niedekker-schoorsteenveger/",
+  "meta_title": "Niedekker Schoorsteenveger 077-3073201 fredniedekker@live.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Panningen? ✅  Niedekker Schoorsteenveger",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/panningen/niedekker-schoorsteenveger/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

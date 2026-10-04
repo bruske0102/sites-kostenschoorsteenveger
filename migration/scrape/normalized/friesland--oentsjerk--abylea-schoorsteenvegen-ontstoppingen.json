@@ -1,0 +1,33 @@
+{
+  "id": 1312560,
+  "slug": "abylea-schoorsteenvegen-ontstoppingen",
+  "provincie": "friesland",
+  "plaats": "oentsjerk",
+  "naam": "Abylea Schoorsteenvegen & Ontstoppingen",
+  "straat": "Jan de Wittstraat 10",
+  "postcode": "9062EX",
+  "plaatsnaam": "Oentsjerk",
+  "telefoon": "06-53380840",
+  "email": null,
+  "website": null,
+  "lat": 53.250973,
+  "lon": 5.899862,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/oentsjerk/abylea-schoorsteenvegen-ontstoppingen/",
+  "meta_title": "Abylea Schoorsteenvegen & Ontstoppingen 06-53380840",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oentsjerk? ✅  Abylea Schoorsteenvegen & Ontstoppingen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/oentsjerk/abylea-schoorsteenvegen-ontstoppingen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1312312,
+  "slug": "hermsen-schoonmaakbedrijf",
+  "provincie": "zeeland",
+  "plaats": "hulst",
+  "naam": "Hermsen Schoonmaakbedrijf",
+  "straat": "Australieweg 24",
+  "postcode": "4561PD",
+  "plaatsnaam": "Hulst",
+  "telefoon": "06-44418235",
+  "email": null,
+  "website": null,
+  "lat": 51.269926,
+  "lon": 4.036236,
+  "omschrijving": "Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Dakgootreiniging, Gevelreiniging, Glazenwassen, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vervanging, Vogelnesten verwijderen\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/hulst/hermsen-schoonmaakbedrijf/",
+  "meta_title": "Hermsen Schoonmaakbedrijf 06-44418235",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hulst? ✅  Hermsen Schoonmaakbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/hulst/hermsen-schoonmaakbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

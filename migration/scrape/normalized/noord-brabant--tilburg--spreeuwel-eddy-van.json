@@ -1,0 +1,29 @@
+{
+  "id": 1312138,
+  "slug": "spreeuwel-eddy-van",
+  "provincie": "noord-brabant",
+  "plaats": "tilburg",
+  "naam": "Spreeuwel Eddy van",
+  "straat": "Zuivelstraat 9",
+  "postcode": "5022HT",
+  "plaatsnaam": "Tilburg",
+  "telefoon": "013-5426682",
+  "email": null,
+  "website": null,
+  "lat": 51.539226,
+  "lon": 5.09167,
+  "omschrijving": "Zuivelstraat9, 5022HT, Tilburg\n06-53771870",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/tilburg/spreeuwel-eddy-van/",
+  "meta_title": "Spreeuwel Eddy van 013-5426682",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tilburg? ✅  Spreeuwel Eddy van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/tilburg/spreeuwel-eddy-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

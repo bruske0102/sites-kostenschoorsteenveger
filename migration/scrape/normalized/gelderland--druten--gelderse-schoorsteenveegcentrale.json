@@ -1,0 +1,29 @@
+{
+  "id": 1312275,
+  "slug": "gelderse-schoorsteenveegcentrale",
+  "provincie": "gelderland",
+  "plaats": "druten",
+  "naam": "Gelderse Schoorsteenveegcentrale",
+  "straat": "Frijnheuvel 30",
+  "postcode": "6651GL",
+  "plaatsnaam": "Druten",
+  "telefoon": "0487-511037",
+  "email": null,
+  "website": null,
+  "lat": 51.883562,
+  "lon": 5.597412,
+  "omschrijving": "0487-511037\n\n fax : 0487-511223",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/druten/gelderse-schoorsteenveegcentrale/",
+  "meta_title": "Gelderse Schoorsteenveegcentrale 0487-511037",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Druten? ✅  Gelderse Schoorsteenveegcentrale",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/druten/gelderse-schoorsteenveegcentrale/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

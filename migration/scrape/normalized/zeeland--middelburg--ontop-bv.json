@@ -1,0 +1,33 @@
+{
+  "id": 1312323,
+  "slug": "ontop-bv",
+  "provincie": "zeeland",
+  "plaats": "middelburg",
+  "naam": "Ontop BV",
+  "straat": "Oude Veerseweg 23",
+  "postcode": "4332SH",
+  "plaatsnaam": "Middelburg",
+  "telefoon": "0118-689900",
+  "email": "info.nl@metaloterm.com",
+  "website": null,
+  "lat": 51.502019,
+  "lon": 3.631191,
+  "omschrijving": "RVS schoorstenen en rookgasafvoeren\n\nPostbus135, 4330AC, Middelburg\nhttp://www.metaloterm.com\n\nhttp://www.metaloterm.com\n\n [email protected]\n\n Wat wij doen:\nOntop B.V. is de Europese specialist op het gebied van rookgasafvoeren. Wij bieden u:\n\nmeer dan 40 jaar ervaring met het ontwerpen, produceren en distribueren van prefab modulaire rookgasafvoersystemen, moderne productiefaciliteiten, ISO 9001 gecertificeerd en producten voorzien van CE markering.\nEn meer... Specialiteiten :\nadvies, cad-tekeningen, rookgasafvoeren, rookgasafvoersystemen, testfaciliteiten\n\n Aangesloten bij / Certificering :\n9001",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/middelburg/ontop-bv/",
+  "meta_title": "Ontop BV 0118-689900",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middelburg? ✅  Ontop BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/middelburg/ontop-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312158,
+  "slug": "dgv-services",
+  "provincie": "limburg",
+  "plaats": "swalmen",
+  "naam": "DGV Services",
+  "straat": "Voskinerf 6",
+  "postcode": "6071MB",
+  "plaatsnaam": "Swalmen",
+  "telefoon": "0475-785697",
+  "email": null,
+  "website": "http://www.dgv-services.nl",
+  "lat": 51.234465,
+  "lon": 6.032852,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/swalmen/dgv-services/",
+  "meta_title": "DGV Services 0475-785697",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Swalmen? ✅  DGV Services",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/swalmen/dgv-services/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

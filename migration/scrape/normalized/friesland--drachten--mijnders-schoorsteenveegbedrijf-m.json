@@ -1,0 +1,36 @@
+{
+  "id": 1312669,
+  "slug": "mijnders-schoorsteenveegbedrijf-m",
+  "provincie": "friesland",
+  "plaats": "drachten",
+  "naam": "Mijnders Schoorsteenveegbedrijf M",
+  "straat": "De Wetterwille 153",
+  "postcode": "9207 BM",
+  "plaatsnaam": "Drachten",
+  "telefoon": "0512-530005",
+  "email": "info@m-mijnders.nl",
+  "website": "http://www.schoorsteenveegbedrijf-mijnders.nl",
+  "lat": 53.12301309999999,
+  "lon": 6.086639699999978,
+  "omschrijving": "Lid ASPB\n\n Wat wij doen:\nSchoorsteenveegbedrijf M Mijnders, gevestigd in Drachten. Diensten :\nSchoorsteenvegen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ],
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/drachten/mijnders-schoorsteenveegbedrijf-m/",
+  "meta_title": "Mijnders Schoorsteenveegbedrijf M 0512-530005 info@m-mijnders.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Drachten? ✅  Mijnders Schoorsteenveegbedrijf M",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/drachten/mijnders-schoorsteenveegbedrijf-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1312237,
+  "slug": "absoluut-schoorsteenvegen",
+  "provincie": "limburg",
+  "plaats": "heerlen",
+  "naam": "Absoluut Schoorsteenvegen",
+  "straat": "Sint Barbarastraat 82",
+  "postcode": "6415RX",
+  "plaatsnaam": "Heerlen",
+  "telefoon": "045-8502882",
+  "email": null,
+  "website": null,
+  "lat": 50.902876,
+  "lon": 5.988129,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/heerlen/absoluut-schoorsteenvegen/",
+  "meta_title": "Absoluut Schoorsteenvegen 045-8502882",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heerlen? ✅  Absoluut Schoorsteenvegen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/heerlen/absoluut-schoorsteenvegen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312156,
+  "slug": "stassen-en-zns",
+  "provincie": "limburg",
+  "plaats": "maastricht",
+  "naam": "Stassen en Zns",
+  "straat": "Meester Ulrichweg 22",
+  "postcode": "6214PX",
+  "plaatsnaam": "Maastricht",
+  "telefoon": "043-3210304",
+  "email": null,
+  "website": null,
+  "lat": 50.846727,
+  "lon": 5.676231,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/maastricht/stassen-en-zns/",
+  "meta_title": "Stassen en Zns 043-3210304",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Stassen en Zns",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/maastricht/stassen-en-zns/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

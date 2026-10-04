@@ -1,0 +1,29 @@
+{
+  "id": 169527,
+  "slug": "dak-techniek-holland-bv",
+  "provincie": "zuid-holland",
+  "plaats": "hardinxveld-giessendam",
+  "naam": "kosten schoorsteenveger",
+  "straat": null,
+  "postcode": null,
+  "plaatsnaam": null,
+  "telefoon": null,
+  "email": null,
+  "website": null,
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/zuid-holland/hardinxveld-giessendam/dak-techniek-holland-bv/",
+  "meta_title": "kosten schoorsteenveger",
+  "meta_description": null,
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/hardinxveld-giessendam/dak-techniek-holland-bv/",
+    "http_status": 404,
+    "parsed_ok": false,
+    "has_coords": false
+  }
+}

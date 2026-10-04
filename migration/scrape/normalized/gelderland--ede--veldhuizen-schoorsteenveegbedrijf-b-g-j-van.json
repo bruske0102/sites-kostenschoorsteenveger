@@ -1,0 +1,29 @@
+{
+  "id": 1312112,
+  "slug": "veldhuizen-schoorsteenveegbedrijf-b-g-j-van",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Veldhuizen Schoorsteenveegbedrijf B G J van",
+  "straat": "Meikade 14",
+  "postcode": "6718VJ",
+  "plaatsnaam": "Ede",
+  "telefoon": "0318-572645",
+  "email": null,
+  "website": null,
+  "lat": 52.050898,
+  "lon": 5.605473,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/veldhuizen-schoorsteenveegbedrijf-b-g-j-van/",
+  "meta_title": "Veldhuizen Schoorsteenveegbedrijf B G J van 0318-572645",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Veldhuizen Schoorsteenveegbedrijf B G J van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/ede/veldhuizen-schoorsteenveegbedrijf-b-g-j-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

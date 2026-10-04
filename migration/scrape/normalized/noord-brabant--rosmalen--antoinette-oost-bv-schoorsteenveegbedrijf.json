@@ -1,0 +1,29 @@
+{
+  "id": 1312141,
+  "slug": "antoinette-oost-bv-schoorsteenveegbedrijf",
+  "provincie": "noord-brabant",
+  "plaats": "rosmalen",
+  "naam": "Antoinette Oost BV Schoorsteenveegbedrijf",
+  "straat": "Postbus 275",
+  "postcode": "5240AG",
+  "plaatsnaam": "Rosmalen",
+  "telefoon": "073-6425625",
+  "email": null,
+  "website": "http://www.antoinette-oost.nl",
+  "lat": 0.0,
+  "lon": 0.0,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/rosmalen/antoinette-oost-bv-schoorsteenveegbedrijf/",
+  "meta_title": "Antoinette Oost BV Schoorsteenveegbedrijf 073-6425625",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rosmalen? ✅  Antoinette Oost BV Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/rosmalen/antoinette-oost-bv-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": false
+  }
+}

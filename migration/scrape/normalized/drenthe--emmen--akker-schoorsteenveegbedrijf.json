@@ -1,0 +1,29 @@
+{
+  "id": 1312308,
+  "slug": "akker-schoorsteenveegbedrijf",
+  "provincie": "drenthe",
+  "plaats": "emmen",
+  "naam": "Akker Schoorsteenveegbedrijf",
+  "straat": "Beentepol 39",
+  "postcode": "7815KB",
+  "plaatsnaam": "Emmen",
+  "telefoon": "0591-612066",
+  "email": null,
+  "website": null,
+  "lat": 52.799801,
+  "lon": 6.888721,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/emmen/akker-schoorsteenveegbedrijf/",
+  "meta_title": "Akker Schoorsteenveegbedrijf 0591-612066",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Emmen? ✅  Akker Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/emmen/akker-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312296,
+  "slug": "betuws-schoorsteenveegbedrijf",
+  "provincie": "gelderland",
+  "plaats": "warnsveld",
+  "naam": "Betuws Schoorsteenveegbedrijf",
+  "straat": "Rijksstraatweg 92",
+  "postcode": "7231AJ",
+  "plaatsnaam": "Warnsveld",
+  "telefoon": "0575-574710",
+  "email": null,
+  "website": null,
+  "lat": 52.143764,
+  "lon": 6.225136,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/warnsveld/betuws-schoorsteenveegbedrijf/",
+  "meta_title": "Betuws Schoorsteenveegbedrijf 0575-574710",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Warnsveld? ✅  Betuws Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/warnsveld/betuws-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

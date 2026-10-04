@@ -1,0 +1,29 @@
+{
+  "id": 1312070,
+  "slug": "poujoulat-bv",
+  "provincie": "gelderland",
+  "plaats": "terborg",
+  "naam": "Poujoulat BV",
+  "straat": "Ettensestraat 60",
+  "postcode": "7061AC",
+  "plaatsnaam": "Terborg",
+  "telefoon": "0315-340050",
+  "email": null,
+  "website": null,
+  "lat": 51.917129,
+  "lon": 6.34933,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/terborg/poujoulat-bv/",
+  "meta_title": "Poujoulat BV 0315-340050",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Terborg? ✅  Poujoulat BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/terborg/poujoulat-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

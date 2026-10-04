@@ -1,0 +1,34 @@
+{
+  "id": 1312599,
+  "slug": "ven-schoorsteenveegbedrijf-vd",
+  "provincie": "noord-brabant",
+  "plaats": "den-bosch",
+  "naam": "Ven Schoorsteenveegbedrijf vd",
+  "straat": "Derde Hambaken 52",
+  "postcode": "5231SJ",
+  "plaatsnaam": "Den Bosch",
+  "telefoon": "073-6430130",
+  "email": "info@gvandeven.nl",
+  "website": null,
+  "lat": 51.712798,
+  "lon": 5.3049,
+  "omschrijving": "Wat wij doen:\nSchoorsteenveegbedrijf\nSchoorsteenvegers Openingstijden:\n Maandag : 09:00 - 20:00\n Dinsdag : 09:00 - 20:00\n Woensdag : 09:00 - 20:00\n Donderdag : 09:00 - 20:00\n Vrijdag : 09:00 - 17:00\n Zaterdag : gesloten\n Zondag : gesloten Doelgroep :\nParticulieren\n\n Diensten :\nDakgootreiniging, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoorsteenvegen, Vogelnesten verwijderen\n\n Reiniging van :\nRookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen\n\n Betalingsmogelijkheden :\nContant, Pin",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/den-bosch/ven-schoorsteenveegbedrijf-vd/",
+  "meta_title": "Ven Schoorsteenveegbedrijf vd 073-6430130 info@gvandeven.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Ven Schoorsteenveegbedrijf vd",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/den-bosch/ven-schoorsteenveegbedrijf-vd/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

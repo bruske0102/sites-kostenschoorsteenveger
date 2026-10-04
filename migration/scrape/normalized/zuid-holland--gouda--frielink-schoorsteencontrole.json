@@ -1,0 +1,29 @@
+{
+  "id": 1312491,
+  "slug": "frielink-schoorsteencontrole",
+  "provincie": "zuid-holland",
+  "plaats": "gouda",
+  "naam": "Frielink Schoorsteencontrole",
+  "straat": "van Middelantstraat 15",
+  "postcode": "2806XK",
+  "plaatsnaam": "Gouda",
+  "telefoon": "0182-514595",
+  "email": null,
+  "website": "http://www.schoorsteencontrole.nl",
+  "lat": 52.01281,
+  "lon": 4.720286,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/gouda/frielink-schoorsteencontrole/",
+  "meta_title": "Frielink Schoorsteencontrole 0182-514595",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Gouda? ✅  Frielink Schoorsteencontrole",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/gouda/frielink-schoorsteencontrole/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

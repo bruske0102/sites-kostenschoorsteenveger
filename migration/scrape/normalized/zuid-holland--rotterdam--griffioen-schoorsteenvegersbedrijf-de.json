@@ -1,0 +1,29 @@
+{
+  "id": 1312473,
+  "slug": "griffioen-schoorsteenvegersbedrijf-de",
+  "provincie": "zuid-holland",
+  "plaats": "rotterdam",
+  "naam": "Griffioen Schoorsteenvegersbedrijf De",
+  "straat": "Oostzeedijk Beneden 157",
+  "postcode": "3061VR",
+  "plaatsnaam": "Rotterdam",
+  "telefoon": "010-4046459",
+  "email": null,
+  "website": "http://www.griffioenrotterdam.nl",
+  "lat": 51.922211,
+  "lon": 4.504138,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/rotterdam/griffioen-schoorsteenvegersbedrijf-de/",
+  "meta_title": "Griffioen Schoorsteenvegersbedrijf De 010-4046459",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Griffioen Schoorsteenvegersbedrijf De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/rotterdam/griffioen-schoorsteenvegersbedrijf-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312388,
+  "slug": "erve-haardendokter-schoorsteenveger-louis-van",
+  "provincie": "noord-holland",
+  "plaats": "amsterdam",
+  "naam": "Erve Haardendokter Schoorsteenveger Louis van",
+  "straat": "Bennebroekstraat 9",
+  "postcode": "1058LJ",
+  "plaatsnaam": "Amsterdam",
+  "telefoon": "020-6158032",
+  "email": null,
+  "website": null,
+  "lat": 52.352822,
+  "lon": 4.848986,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/amsterdam/erve-haardendokter-schoorsteenveger-louis-van/",
+  "meta_title": "Erve Haardendokter Schoorsteenveger Louis van 020-6158032",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  Erve Haardendokter Schoorsteenveger Louis van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/amsterdam/erve-haardendokter-schoorsteenveger-louis-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

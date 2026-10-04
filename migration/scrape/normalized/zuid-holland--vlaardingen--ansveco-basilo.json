@@ -1,0 +1,29 @@
+{
+  "id": 1312440,
+  "slug": "ansveco-basilo",
+  "provincie": "zuid-holland",
+  "plaats": "vlaardingen",
+  "naam": "Ansveco-Basilo",
+  "straat": "Waalstraat 45",
+  "postcode": "3131CS",
+  "plaatsnaam": "Vlaardingen",
+  "telefoon": "010-4354407",
+  "email": null,
+  "website": null,
+  "lat": 51.908812,
+  "lon": 4.340437,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/vlaardingen/ansveco-basilo/",
+  "meta_title": "Ansveco-Basilo 010-4354407",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Ansveco-Basilo",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/vlaardingen/ansveco-basilo/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

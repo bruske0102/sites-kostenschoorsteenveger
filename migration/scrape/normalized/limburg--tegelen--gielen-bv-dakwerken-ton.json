@@ -1,0 +1,29 @@
+{
+  "id": 1312285,
+  "slug": "gielen-bv-dakwerken-ton",
+  "provincie": "limburg",
+  "plaats": "tegelen",
+  "naam": "Gielen BV Dakwerken Ton",
+  "straat": "Erkenkamp 5",
+  "postcode": "5931BR",
+  "plaatsnaam": "Tegelen",
+  "telefoon": "077-7119155",
+  "email": "info@dakwerkentongielen.nl",
+  "website": null,
+  "lat": 51.340393,
+  "lon": 6.128984,
+  "omschrijving": "Wat wij doen:\nGielen BV Dakwerken Ton",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/tegelen/gielen-bv-dakwerken-ton/",
+  "meta_title": "Gielen BV Dakwerken Ton 077-7119155 info@dakwerkentongielen.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tegelen? ✅  Gielen BV Dakwerken Ton",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/tegelen/gielen-bv-dakwerken-ton/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

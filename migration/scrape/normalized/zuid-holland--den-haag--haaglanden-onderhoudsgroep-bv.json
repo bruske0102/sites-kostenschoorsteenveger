@@ -1,0 +1,29 @@
+{
+  "id": 1312441,
+  "slug": "haaglanden-onderhoudsgroep-bv",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Haaglanden Onderhoudsgroep BV",
+  "straat": "H. Marsmanplantsoen 28",
+  "postcode": "2548EJ",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-14016233",
+  "email": null,
+  "website": null,
+  "lat": 52.035135,
+  "lon": 4.275077,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/haaglanden-onderhoudsgroep-bv/",
+  "meta_title": "Haaglanden Onderhoudsgroep BV 06-14016233",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Haaglanden Onderhoudsgroep BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/haaglanden-onderhoudsgroep-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

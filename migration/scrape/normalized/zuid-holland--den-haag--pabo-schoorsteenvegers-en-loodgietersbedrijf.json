@@ -1,0 +1,29 @@
+{
+  "id": 1312279,
+  "slug": "pabo-schoorsteenvegers-en-loodgietersbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "PABO Schoorsteenvegers- en Loodgietersbedrijf",
+  "straat": "Larensestraat 83",
+  "postcode": "2574VE",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "06-47892085",
+  "email": null,
+  "website": null,
+  "lat": 52.066473,
+  "lon": 4.277259,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/pabo-schoorsteenvegers-en-loodgietersbedrijf/",
+  "meta_title": "PABO Schoorsteenvegers- en Loodgietersbedrijf 06-47892085",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  PABO Schoorsteenvegers- en Loodgietersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/pabo-schoorsteenvegers-en-loodgietersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312121,
+  "slug": "roet-schoorsteenvegersbedrijf",
+  "provincie": "overijssel",
+  "plaats": "almelo",
+  "naam": "Roet Schoorsteenvegersbedrijf",
+  "straat": "Rembrandtlaan 314",
+  "postcode": "7606GW",
+  "plaatsnaam": "Almelo",
+  "telefoon": "06-46428860",
+  "email": null,
+  "website": null,
+  "lat": 52.344731,
+  "lon": 6.647741,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/almelo/roet-schoorsteenvegersbedrijf/",
+  "meta_title": "Roet Schoorsteenvegersbedrijf 06-46428860",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Almelo? ✅  Roet Schoorsteenvegersbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/almelo/roet-schoorsteenvegersbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

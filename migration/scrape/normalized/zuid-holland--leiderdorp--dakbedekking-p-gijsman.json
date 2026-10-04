@@ -1,0 +1,34 @@
+{
+  "id": 1312349,
+  "slug": "dakbedekking-p-gijsman",
+  "provincie": "zuid-holland",
+  "plaats": "leiderdorp",
+  "naam": "Dakbedekking P Gijsman",
+  "straat": "Jacoba van Beierenlaan 45",
+  "postcode": "2353DS",
+  "plaatsnaam": "Leiderdorp",
+  "telefoon": "071-5820521",
+  "email": "gijsmandakbedekking@live.nl",
+  "website": null,
+  "lat": 52.172558,
+  "lon": 4.538219,
+  "omschrijving": "Wat wij doen:\nAl 35 jaar gespecialiseerd in alle soorten dakbedekking. Service :\nGeen voorrijkosten, Gratis advies, Gratis offerte, Uitgevoerde werkzaamheden onder volledige garantie, Weekendservice\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakcoating, Dakgoot, Dakisolatie, Dakraam, Dakterras, Duurzame dakbedekking, Hemelwaterafvoer / regenpijp, Lichtkoepel, Lichtstraat, Loodwerk en zinkwerk, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/leiderdorp/dakbedekking-p-gijsman/",
+  "meta_title": "Dakbedekking P Gijsman 071-5820521 gijsmandakbedekking@live.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leiderdorp? ✅  Dakbedekking P Gijsman",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/leiderdorp/dakbedekking-p-gijsman/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

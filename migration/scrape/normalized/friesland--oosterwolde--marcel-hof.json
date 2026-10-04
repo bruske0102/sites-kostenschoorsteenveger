@@ -1,0 +1,46 @@
+{
+  "id": 2409484,
+  "slug": "marcel-hof",
+  "provincie": "friesland",
+  "plaats": "oosterwolde",
+  "naam": "marcel hof",
+  "straat": "Prakkenlaan 71",
+  "postcode": "8431 JL",
+  "plaatsnaam": "Oosterwolde",
+  "telefoon": "0639221203",
+  "email": "info@schoorsteenhofjr.nl",
+  "website": "http://www.schoorsteenvegerhofjr.nl",
+  "lat": 52.9895557,
+  "lon": 6.300561999999999,
+  "omschrijving": "Openingstijden:\r\nMaandag : 08:00 - 21:00 \r\nDinsdag : 08:00 - 21:00 \r\nWoensdag : 08:00 - 21:00 \r\nDonderdag : 08:00 - 21:00 \r\nVrijdag : 08:00 - 21:00 \r\nZaterdag : 08:00 - 21:00 \r\nZondag : gesloten\r\n\r\n:Bedrijven, Particulieren\r\n\r\nDiensten: \r\nAdvies, Camera inspectie, Dakgootreiniging, Inspectie / schoorsteeninspectie, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vogelnesten verwijderen\r\n\r\nReiniging van: \r\nGashaarden, Haarden, Houtkachels, Kachels, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen\r\n\r\nBetalingsmogelijkheden: \r\nContant, pin\r\n\r\nAangesloten bij / Certificering: \r\nASPB, Algemene schoorsteenvegers patroon bond, ASPB",
+  "openingstijden": {
+    "ma": "08:00 - 21:00 ",
+    "di": "08:00 - 21:00 ",
+    "wo": "08:00 - 21:00 ",
+    "do": "08:00 - 21:00 ",
+    "vr": "08:00 - 21:00 ",
+    "za": "08:00 - 21:00 ",
+    "zo": "gesloten "
+  },
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend",
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/oosterwolde/marcel-hof/",
+  "meta_title": "marcel hof 0639221203 info@schoorsteenhofjr.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oosterwolde? ✅  marcel hof",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/oosterwolde/marcel-hof/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

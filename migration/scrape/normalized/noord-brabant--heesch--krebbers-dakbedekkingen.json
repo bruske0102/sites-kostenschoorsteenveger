@@ -1,0 +1,33 @@
+{
+  "id": 1312278,
+  "slug": "krebbers-dakbedekkingen",
+  "provincie": "noord-brabant",
+  "plaats": "heesch",
+  "naam": "Krebbers Dakbedekkingen",
+  "straat": "Bachlaan 42",
+  "postcode": "5384BM",
+  "plaatsnaam": "Heesch",
+  "telefoon": "06-24291955",
+  "email": null,
+  "website": null,
+  "lat": 51.732641,
+  "lon": 5.536389,
+  "omschrijving": "Dakreparaties & Pannedaken\n\n Wat wij doen:\nKrebbers dakbedekkingen voor goede dakbedekkingen. Service :\nGratis offerte\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Dakonderhoud, Dakrenovatie, Dakreparatie\n\n Specialisatie :\nBitumen dakbedekking, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Kleisteen / schalie dakbedekking, Kunststof dakbedekking (EPDM / PVC / TPE), Leisteen dakbedekking, Lichtkoepel, Loodwerk en zinkwerk, Metalen dakbedekking, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/heesch/krebbers-dakbedekkingen/",
+  "meta_title": "Krebbers Dakbedekkingen 06-24291955",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heesch? ✅  Krebbers Dakbedekkingen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/heesch/krebbers-dakbedekkingen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

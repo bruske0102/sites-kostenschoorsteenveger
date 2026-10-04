@@ -1,0 +1,33 @@
+{
+  "id": 1312674,
+  "slug": "frans-schoorsteenvegen",
+  "provincie": "overijssel",
+  "plaats": "kampen",
+  "naam": "Frans schoorsteenvegen",
+  "straat": "Prins Bernhardstraat 25",
+  "postcode": "8262 DJ",
+  "plaatsnaam": "Kampen",
+  "telefoon": "06 52 54 13 47",
+  "email": "info@schoorsteenvegenfrans.nl",
+  "website": null,
+  "lat": 52.5617131,
+  "lon": 5.906350800000041,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/kampen/frans-schoorsteenvegen/",
+  "meta_title": "Frans schoorsteenvegen 06 52 54 13 47 info@schoorsteenvegenfrans.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Kampen? ✅  Frans schoorsteenvegen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/kampen/frans-schoorsteenvegen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

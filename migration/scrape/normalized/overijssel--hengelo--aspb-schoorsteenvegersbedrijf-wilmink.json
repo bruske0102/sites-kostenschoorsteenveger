@@ -1,0 +1,33 @@
+{
+  "id": 1312581,
+  "slug": "aspb-schoorsteenvegersbedrijf-wilmink",
+  "provincie": "overijssel",
+  "plaats": "hengelo",
+  "naam": "ASPB Schoorsteenvegersbedrijf Wilmink",
+  "straat": "Beckumerstraat 50",
+  "postcode": "7553VC",
+  "plaatsnaam": "Hengelo",
+  "telefoon": "074-2425045",
+  "email": null,
+  "website": "http://www.schoorsteenvegen.net",
+  "lat": 52.258203,
+  "lon": 6.783873,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/hengelo/aspb-schoorsteenvegersbedrijf-wilmink/",
+  "meta_title": "ASPB Schoorsteenvegersbedrijf Wilmink 074-2425045",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hengelo? ✅  ASPB Schoorsteenvegersbedrijf Wilmink",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/hengelo/aspb-schoorsteenvegersbedrijf-wilmink/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

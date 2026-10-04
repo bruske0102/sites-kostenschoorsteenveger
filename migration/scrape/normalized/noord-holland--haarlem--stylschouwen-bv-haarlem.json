@@ -1,0 +1,29 @@
+{
+  "id": 1312404,
+  "slug": "stylschouwen-bv-haarlem",
+  "provincie": "noord-holland",
+  "plaats": "haarlem",
+  "naam": "Stylschouwen BV Haarlem",
+  "straat": "A. Hofmanweg 45",
+  "postcode": "2031BH",
+  "plaatsnaam": "Haarlem",
+  "telefoon": "023-5323666",
+  "email": null,
+  "website": "http://www.stylschouwen-haarlem.nl",
+  "lat": 52.397052,
+  "lon": 4.66507,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/haarlem/stylschouwen-bv-haarlem/",
+  "meta_title": "Stylschouwen BV Haarlem 023-5323666",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Stylschouwen BV Haarlem",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/haarlem/stylschouwen-bv-haarlem/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

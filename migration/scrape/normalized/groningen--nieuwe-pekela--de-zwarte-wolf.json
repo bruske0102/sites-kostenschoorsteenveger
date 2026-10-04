@@ -1,0 +1,29 @@
+{
+  "id": 1312067,
+  "slug": "de-zwarte-wolf",
+  "provincie": "groningen",
+  "plaats": "nieuwe-pekela",
+  "naam": "De Zwarte Wolf",
+  "straat": "Dominee S. Tjadenstraat 58",
+  "postcode": "9663 RC",
+  "plaatsnaam": "Nieuwe Pekela",
+  "telefoon": "0653524217",
+  "email": "Maurice@dezwartewolf.nl",
+  "website": "http://www.dezwartewolf.nl",
+  "lat": 53.07335119999999,
+  "lon": 6.960726700000009,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/nieuwe-pekela/de-zwarte-wolf/",
+  "meta_title": "De Zwarte Wolf 0653524217 Maurice@dezwartewolf.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwe Pekela? ✅  De Zwarte Wolf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/nieuwe-pekela/de-zwarte-wolf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

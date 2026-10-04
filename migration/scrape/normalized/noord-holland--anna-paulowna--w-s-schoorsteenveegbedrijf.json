@@ -1,0 +1,29 @@
+{
+  "id": 1312318,
+  "slug": "w-s-schoorsteenveegbedrijf",
+  "provincie": "noord-holland",
+  "plaats": "anna-paulowna",
+  "naam": "W & S Schoorsteenveegbedrijf",
+  "straat": "Sluisweg 4",
+  "postcode": "1761JV",
+  "plaatsnaam": "Anna Paulowna",
+  "telefoon": "0223-533381",
+  "email": null,
+  "website": "http://www.wens.info",
+  "lat": 52.884153,
+  "lon": 4.874704,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/anna-paulowna/w-s-schoorsteenveegbedrijf/",
+  "meta_title": "W & S Schoorsteenveegbedrijf 0223-533381",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Anna Paulowna? ✅  W & S Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/anna-paulowna/w-s-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

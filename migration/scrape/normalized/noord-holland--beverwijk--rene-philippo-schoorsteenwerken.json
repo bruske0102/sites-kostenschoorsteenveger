@@ -1,0 +1,29 @@
+{
+  "id": 1312395,
+  "slug": "rene-philippo-schoorsteenwerken",
+  "provincie": "noord-holland",
+  "plaats": "beverwijk",
+  "naam": "René Philippo Schoorsteenwerken",
+  "straat": "Beatrixlaan 3",
+  "postcode": "1947HS",
+  "plaatsnaam": "Beverwijk",
+  "telefoon": "085-4011790",
+  "email": null,
+  "website": null,
+  "lat": 52.486322,
+  "lon": 4.664347,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-holland/beverwijk/rene-philippo-schoorsteenwerken/",
+  "meta_title": "René Philippo Schoorsteenwerken 085-4011790",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Beverwijk? ✅  René Philippo Schoorsteenwerken",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-holland/beverwijk/rene-philippo-schoorsteenwerken/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

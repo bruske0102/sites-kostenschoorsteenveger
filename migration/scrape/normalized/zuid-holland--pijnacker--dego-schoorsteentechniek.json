@@ -1,0 +1,29 @@
+{
+  "id": 1312452,
+  "slug": "dego-schoorsteentechniek",
+  "provincie": "zuid-holland",
+  "plaats": "pijnacker",
+  "naam": "Dego Schoorsteentechniek",
+  "straat": "Zuiderstraat 7",
+  "postcode": "2641GW",
+  "plaatsnaam": "Pijnacker",
+  "telefoon": "06-50278109",
+  "email": "info@dego-schoon.nl",
+  "website": null,
+  "lat": 52.011287,
+  "lon": 4.433717,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/pijnacker/dego-schoorsteentechniek/",
+  "meta_title": "Dego Schoorsteentechniek 06-50278109 info@dego-schoon.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Pijnacker? ✅  Dego Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/pijnacker/dego-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

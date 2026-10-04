@@ -1,0 +1,33 @@
+{
+  "id": 1312259,
+  "slug": "frans-schoorsteenvegen-bestrating",
+  "provincie": "overijssel",
+  "plaats": "kampen",
+  "naam": "Frans Schoorsteenvegen & Bestrating",
+  "straat": "Prins Bernhardstraat 25",
+  "postcode": "8262DJ",
+  "plaatsnaam": "Kampen",
+  "telefoon": "038-3375291",
+  "email": null,
+  "website": null,
+  "lat": 52.561723,
+  "lon": 5.906307,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/kampen/frans-schoorsteenvegen-bestrating/",
+  "meta_title": "Frans Schoorsteenvegen & Bestrating 038-3375291",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Kampen? ✅  Frans Schoorsteenvegen & Bestrating",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/kampen/frans-schoorsteenvegen-bestrating/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

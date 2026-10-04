@@ -1,0 +1,29 @@
+{
+  "id": 1312122,
+  "slug": "aardema-schilderstucadoorschoorsteenveg",
+  "provincie": "drenthe",
+  "plaats": "schoonebeek",
+  "naam": "Aardema Schilder/Stucadoor/Schoorsteenveg",
+  "straat": "Hankenhofweg 19",
+  "postcode": "7761BX",
+  "plaatsnaam": "Schoonebeek",
+  "telefoon": "0524-531558",
+  "email": null,
+  "website": null,
+  "lat": 52.662734,
+  "lon": 6.887052,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/drenthe/schoonebeek/aardema-schilderstucadoorschoorsteenveg/",
+  "meta_title": "Aardema Schilder/Stucadoor/Schoorsteenveg 0524-531558",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schoonebeek? ✅  Aardema Schilder/Stucadoor/Schoorsteenveg",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/schoonebeek/aardema-schilderstucadoorschoorsteenveg/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

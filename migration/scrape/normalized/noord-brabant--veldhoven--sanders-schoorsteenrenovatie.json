@@ -1,0 +1,33 @@
+{
+  "id": 1312618,
+  "slug": "sanders-schoorsteenrenovatie",
+  "provincie": "noord-brabant",
+  "plaats": "veldhoven",
+  "naam": "Sanders Schoorsteenrenovatie",
+  "straat": "Provisorstraat 1",
+  "postcode": "5504JE",
+  "plaatsnaam": "Veldhoven",
+  "telefoon": "040-2540651",
+  "email": "sanders20@12move.nl",
+  "website": null,
+  "lat": 51.406944,
+  "lon": 5.403571,
+  "omschrijving": "Aangesloten bij ASPB",
+  "openingstijden": null,
+  "kenmerken": {
+    "Type": [
+      "erkend"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/veldhoven/sanders-schoorsteenrenovatie/",
+  "meta_title": "Sanders Schoorsteenrenovatie 040-2540651 sanders20@12move.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Veldhoven? ✅  Sanders Schoorsteenrenovatie",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/veldhoven/sanders-schoorsteenrenovatie/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312463,
+  "slug": "rook-alert-schoorsteenveegbedrijf",
+  "provincie": "zuid-holland",
+  "plaats": "alphen-aan-den-rijn",
+  "naam": "Rook Alert Schoorsteenveegbedrijf",
+  "straat": "Plutostraat 130",
+  "postcode": "2402XG",
+  "plaatsnaam": "Alphen aan den Rijn",
+  "telefoon": "0172-477372",
+  "email": null,
+  "website": "http://www.rookalert.nl",
+  "lat": 52.141697,
+  "lon": 4.668911,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/alphen-aan-den-rijn/rook-alert-schoorsteenveegbedrijf/",
+  "meta_title": "Rook Alert Schoorsteenveegbedrijf 0172-477372",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alphen aan den Rijn? ✅  Rook Alert Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/alphen-aan-den-rijn/rook-alert-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

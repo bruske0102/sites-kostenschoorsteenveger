@@ -1,0 +1,29 @@
+{
+  "id": 1312163,
+  "slug": "menten-dakwerken",
+  "provincie": "limburg",
+  "plaats": "posterholt",
+  "naam": "Menten Dakwerken",
+  "straat": "Christinalaan 39",
+  "postcode": "6061CV",
+  "plaatsnaam": "Posterholt",
+  "telefoon": "0475-472436",
+  "email": null,
+  "website": "http://www.mentendakwerken.nl",
+  "lat": 51.122642,
+  "lon": 6.039193,
+  "omschrijving": "Specialisatie :\nSchoorsteen",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/posterholt/menten-dakwerken/",
+  "meta_title": "Menten Dakwerken 0475-472436",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Posterholt? ✅  Menten Dakwerken",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/posterholt/menten-dakwerken/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

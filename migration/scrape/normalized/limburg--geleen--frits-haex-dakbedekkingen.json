@@ -1,0 +1,29 @@
+{
+  "id": 1312194,
+  "slug": "frits-haex-dakbedekkingen",
+  "provincie": "limburg",
+  "plaats": "geleen",
+  "naam": "Frits Haex Dakbedekkingen",
+  "straat": "Pieterstraat 70",
+  "postcode": "6166AS",
+  "plaatsnaam": "Geleen",
+  "telefoon": "046-4744514",
+  "email": null,
+  "website": null,
+  "lat": 50.967645,
+  "lon": 5.839086,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/geleen/frits-haex-dakbedekkingen/",
+  "meta_title": "Frits Haex Dakbedekkingen 046-4744514",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geleen? ✅  Frits Haex Dakbedekkingen",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/geleen/frits-haex-dakbedekkingen/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

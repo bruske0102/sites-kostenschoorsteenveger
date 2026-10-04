@@ -1,0 +1,29 @@
+{
+  "id": 1312526,
+  "slug": "vries-schoorsteenveger-r-de",
+  "provincie": "flevoland",
+  "plaats": "urk",
+  "naam": "Vries Schoorsteenveger R de",
+  "straat": "De Reede 4",
+  "postcode": "8321DA",
+  "plaatsnaam": "Urk",
+  "telefoon": "0527-685265",
+  "email": null,
+  "website": null,
+  "lat": 52.66205,
+  "lon": 5.608533,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/flevoland/urk/vries-schoorsteenveger-r-de/",
+  "meta_title": "Vries Schoorsteenveger R de 0527-685265",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Urk? ✅  Vries Schoorsteenveger R de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/flevoland/urk/vries-schoorsteenveger-r-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312568,
+  "slug": "janco-de-jong-schoorsteenservice",
+  "provincie": "friesland",
+  "plaats": "gorredijk",
+  "naam": "Janco de Jong Schoorsteenservice",
+  "straat": "Tolbaas 8",
+  "postcode": "8401GD",
+  "plaatsnaam": "Gorredijk",
+  "telefoon": "0513-571563",
+  "email": null,
+  "website": null,
+  "lat": 53.01251,
+  "lon": 6.063184,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/gorredijk/janco-de-jong-schoorsteenservice/",
+  "meta_title": "Janco de Jong Schoorsteenservice 0513-571563",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Gorredijk? ✅  Janco de Jong Schoorsteenservice",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/gorredijk/janco-de-jong-schoorsteenservice/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

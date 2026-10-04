@@ -1,0 +1,29 @@
+{
+  "id": 1312065,
+  "slug": "wivon-1",
+  "provincie": "noord-brabant",
+  "plaats": "made",
+  "naam": "Wivon",
+  "straat": "Esdoornlaan 14",
+  "postcode": "4921 DV",
+  "plaatsnaam": "Made",
+  "telefoon": "0162683248",
+  "email": "info@wivon.nl",
+  "website": "http://www.wivon.nl",
+  "lat": 51.6740298,
+  "lon": 4.80275979999999,
+  "omschrijving": "Uw schoorsteenveger voor Brabant",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/noord-brabant/made/wivon-1/",
+  "meta_title": "Wivon 0162683248 info@wivon.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Made? ✅  Wivon",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/noord-brabant/made/wivon-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

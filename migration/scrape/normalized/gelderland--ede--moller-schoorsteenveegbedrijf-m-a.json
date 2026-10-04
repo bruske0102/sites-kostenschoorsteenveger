@@ -1,0 +1,29 @@
+{
+  "id": 1312111,
+  "slug": "moller-schoorsteenveegbedrijf-m-a",
+  "provincie": "gelderland",
+  "plaats": "ede",
+  "naam": "Möller Schoorsteenveegbedrijf M A",
+  "straat": "Edendreef 93",
+  "postcode": "6716HG",
+  "plaatsnaam": "Ede",
+  "telefoon": "06-34048894",
+  "email": null,
+  "website": null,
+  "lat": 52.021435,
+  "lon": 5.637061,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/gelderland/ede/moller-schoorsteenveegbedrijf-m-a/",
+  "meta_title": "Möller Schoorsteenveegbedrijf M A 06-34048894",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Möller Schoorsteenveegbedrijf M A",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/gelderland/ede/moller-schoorsteenveegbedrijf-m-a/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1312200,
+  "slug": "schoppenboer-schoorsteentechniek",
+  "provincie": "utrecht",
+  "plaats": "soest",
+  "naam": "Schoppenboer Schoorsteentechniek",
+  "straat": "Hommel 31",
+  "postcode": "3766HL",
+  "plaatsnaam": "Soest",
+  "telefoon": "035-6029280",
+  "email": null,
+  "website": "http://www.schoppenboer.com",
+  "lat": 52.167868,
+  "lon": 5.278177,
+  "omschrijving": "Wat wij doen:\nHartelijk welkom bij Schoppenboer Montage & Onderhoud. Wij zijn een landelijk werkend bedrijf gespecialiseerd in:\n\n* Schoorsteenvegen\n* Rookkanalen\n* Openhaarden en kachels\n* Schoorsteenrenovatie\n* Hardhouten terrassen\n* Stuc- en schilderwerk\n* Vlonders en bruggen\n* Vastgoedonderhoud Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nAdvies, Brandpreventie, Camera inspectie, Dakgootreiniging, Gevelreiniging, Glazenwassen, Inspectie / schoorsteeninspectie, Loodreparatie, Onderhoud / schoorsteenonderhoud, Plaatsen schoorsteenkappen, Reiniging / schoorsteenreiniging, Renovatie / schoorsteenrenovatie, Reparatie / schoorsteenreparatie, Schoonmaken haarden, Schoonmaken kachels, Schoorsteenvegen, Verstopping verwijderen, Vervanging, Vogelnesten verwijderen\n\n Reiniging van :\nGashaarden, Haarden, Houtkachels, Kachels, Mechanische ventilatie, Rookkanalen / rookafvoerkanalen, Schoorsteenkappen, Schoorstenen, Ventilatiekanalen",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ],
+    "Type": [
+      "erkend",
+      "houtkachel"
+    ]
+  },
+  "beoordeling": null,
+  "status": "gesloten",
+  "oude_url": "/utrecht/soest/schoppenboer-schoorsteentechniek/",
+  "meta_title": "Schoppenboer Schoorsteentechniek 035-6029280",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Soest? ✅  Schoppenboer Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/soest/schoppenboer-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

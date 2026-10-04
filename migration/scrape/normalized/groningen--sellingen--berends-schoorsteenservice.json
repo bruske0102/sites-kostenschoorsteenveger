@@ -1,0 +1,29 @@
+{
+  "id": 1312137,
+  "slug": "berends-schoorsteenservice",
+  "provincie": "groningen",
+  "plaats": "sellingen",
+  "naam": "Berend's Schoorsteenservice",
+  "straat": "Leemdobben 18",
+  "postcode": "9551AR",
+  "plaatsnaam": "Sellingen",
+  "telefoon": "0599-322821",
+  "email": null,
+  "website": null,
+  "lat": 52.957462,
+  "lon": 7.1574,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/sellingen/berends-schoorsteenservice/",
+  "meta_title": "Berend's Schoorsteenservice 0599-322821",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Sellingen? ✅  Berend",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/sellingen/berends-schoorsteenservice/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

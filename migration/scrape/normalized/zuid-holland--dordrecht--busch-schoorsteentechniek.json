@@ -1,0 +1,29 @@
+{
+  "id": 1312229,
+  "slug": "busch-schoorsteentechniek",
+  "provincie": "zuid-holland",
+  "plaats": "dordrecht",
+  "naam": "Busch Schoorsteentechniek",
+  "straat": "Marthinus Steynstraat 96",
+  "postcode": "3312EN",
+  "plaatsnaam": "Dordrecht",
+  "telefoon": "078-6318869",
+  "email": null,
+  "website": "http://www.buschschoorsteentechniek.nl",
+  "lat": 51.806832,
+  "lon": 4.676384,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/dordrecht/busch-schoorsteentechniek/",
+  "meta_title": "Busch Schoorsteentechniek 078-6318869",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dordrecht? ✅  Busch Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/dordrecht/busch-schoorsteentechniek/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

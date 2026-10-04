@@ -1,0 +1,29 @@
+{
+  "id": 1312086,
+  "slug": "array-industries",
+  "provincie": "zuid-holland",
+  "plaats": "nieuwerkerk-aan-den-ijssel",
+  "naam": "Array Industries",
+  "straat": "Hoogeveenenweg 29",
+  "postcode": "2913LV",
+  "plaatsnaam": "Nieuwerkerk aan den IJssel",
+  "telefoon": "0180-331655",
+  "email": null,
+  "website": "http://www.arrayindustries.com",
+  "lat": 51.979615,
+  "lon": 4.61033,
+  "omschrijving": "Wat wij doen:\nArray Industries is een vooraanstaand leverancier van totaaloplossingen op het gebied van rookgaskanalen en schoorstenen. Van het complete ontwerp en de engineering, tot en met de bouw en het gehele onderhoudstraject. Om u daarbij zo optimaal mogelijk van dienst te zijn, hebben we onze activiteiten ondergebracht in drie gespecialiseerde divisies: Array Engineering, Array Construction en Array Service. Drie divisies die kunnen profiteren van elkaars kennis en kunde en de schat aan ervaring in het bouwen en monteren van kwaliteitssystemen. Dankzij de synergie weet u zich verzekerd van de beste en economisch meest rendabele oplossingen.\n Specialiteiten :\nPlantdesign, Array Engineering, Array Construction, Array Service, Warmtekracht, Drnkwater- en Rioolwaterzuiveringen, Tankparken voor olie overslag, Utiliteit, Industrie, Tuinbouw\n\n Aangesloten bij / Certificering :\n9001, VCA",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/nieuwerkerk-aan-den-ijssel/array-industries/",
+  "meta_title": "Array Industries 0180-331655",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwerkerk aan den IJssel? ✅  Array Industries",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/nieuwerkerk-aan-den-ijssel/array-industries/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

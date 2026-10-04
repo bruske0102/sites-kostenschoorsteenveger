@@ -1,0 +1,29 @@
+{
+  "id": 1312338,
+  "slug": "kernebeek-j-van",
+  "provincie": "drenthe",
+  "plaats": "roden",
+  "naam": "Kernebeek J van",
+  "straat": "Bakkerstraat 15",
+  "postcode": "9301EK",
+  "plaatsnaam": "Roden",
+  "telefoon": "06-20038746",
+  "email": null,
+  "website": "http://www.kernebeekmetselwerken.nl",
+  "lat": 53.140923,
+  "lon": 6.417775,
+  "omschrijving": "Metsel werk en lijmblokken\n\n Wat wij doen:\nvoor al u metsel- en lijmwerken. van fundering tot schoorsteen Service :\nGratis offerte, Geen voorrijkosten",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/drenthe/roden/kernebeek-j-van/",
+  "meta_title": "Kernebeek J van 06-20038746",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Roden? ✅  Kernebeek J van",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/drenthe/roden/kernebeek-j-van/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312598,
+  "slug": "audrey-schoorsteentechniek-1",
+  "provincie": "zeeland",
+  "plaats": "biervliet",
+  "naam": "Audrey Schoorsteentechniek",
+  "straat": "Boterzandestraat 24B",
+  "postcode": "4521 AT",
+  "plaatsnaam": "Biervliet",
+  "telefoon": "06-30386087",
+  "email": "audrey-schoorsteentechniek@xs4all.nl",
+  "website": null,
+  "lat": 51.32611,
+  "lon": 3.6830651,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/biervliet/audrey-schoorsteentechniek-1/",
+  "meta_title": "Audrey Schoorsteentechniek 06-30386087 audrey-schoorsteentechniek@xs4all.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Biervliet? ✅  Audrey Schoorsteentechniek",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/biervliet/audrey-schoorsteentechniek-1/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

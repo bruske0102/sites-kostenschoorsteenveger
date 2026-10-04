@@ -1,0 +1,29 @@
+{
+  "id": 1312199,
+  "slug": "runel",
+  "provincie": "utrecht",
+  "plaats": "leusden",
+  "naam": "Runel",
+  "straat": "Zadel 17",
+  "postcode": "3833XH",
+  "plaatsnaam": "Leusden",
+  "telefoon": "033-4701746",
+  "email": null,
+  "website": null,
+  "lat": 52.127116,
+  "lon": 5.424077,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/utrecht/leusden/runel/",
+  "meta_title": "Runel 033-4701746",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leusden? ✅  Runel",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/utrecht/leusden/runel/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}
