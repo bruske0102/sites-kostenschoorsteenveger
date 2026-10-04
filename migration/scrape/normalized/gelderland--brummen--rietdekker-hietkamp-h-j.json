@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "gesloten",
+  "status": "actief",
   "oude_url": "/gelderland/brummen/rietdekker-hietkamp-h-j/",
   "meta_title": "Rietdekker Hietkamp H J 0575-564290",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Brummen? ✅  Rietdekker Hietkamp H J",
@@ -29,9 +29,5 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
-  },
-  "_triage": {
-    "reason": "hard junk name",
-    "pass": "off-niche-1c"
   }
 }

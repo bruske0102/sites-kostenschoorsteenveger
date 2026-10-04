@@ -43,7 +43,7 @@ export function shopDescription(opts: {
   if (cleaned && cleaned.length >= 40) {
     return cleaned.length > 160 ? cleaned.slice(0, 157).trim() + "…" : cleaned;
   }
-  return `${opts.naam} — schoorsteenveger / praktijk in ${opts.plaats}: adres${
+  return `${opts.naam} — schoorsteenveger in ${opts.plaats}: adres${
     opts.telefoon ? " en telefoonnummer" : ""
-  }${opts.website ? " en website" : ""}. Route en contact — bel voor een kennismaking of intake.`;
+  }${opts.website ? " en website" : ""}. Route en contact — bel voor een afspraak of prijsindicatie.`;
 }

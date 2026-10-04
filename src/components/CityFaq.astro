@@ -6,28 +6,45 @@ import { listingCount } from "../lib/nl-count";
 interface Props { city: City; listings: Listing[] }
 const { city, listings } = Astro.props;
 const n = listings.length || city.listings;
-const emdrN = kenmerkCount(listings, /extra/i);
+const veegN = kenmerkCount(listings, /veeg/i);
+const inspectN = kenmerkCount(listings, /inspect/i);
+const erkendN = kenmerkCount(listings, /erkend/i);
+const houtN = kenmerkCount(listings, /houtkachel/i);
 
 type Faq = { q: string; a: string };
 const faqs: Faq[] = [
   {
     q: `Waar vind ik een schoorsteenveger in ${city.naam}?`,
-    a: `Op deze pagina ${n === 1 ? "staat" : "staan"} ${listingCount(n)} in ${city.naam} met adres en telefoon. Gebruik de route-link of bel voor een kennismaking.`,
+    a: `Op deze pagina ${n === 1 ? "staat" : "staan"} ${listingCount(n)} in ${city.naam} met adres en telefoon. Bel voor een afspraak of prijsindicatie.`,
   },
   {
-    q: `Hoe maak ik een afspraak bij een schoorsteenveger in ${city.naam}?`,
-    a: `Procedures en wachtlijsten verschillen per praktijk. Bel of check de website — en vraag naar vergoeding via je zorgverzekeraar.`,
-  },
-  {
-    q: `Wat is het verschil tussen een specialisatie en een psychotherapeut?`,
-    a: `Beide zijn geregistreerde zorgverleners. Een specialisatie is gezondheidszorgschoorsteenveger (BIG); een psychotherapeut heeft een eigen registratie. Vraag bij de praktijk wat bij jouw vraag past.`,
+    q: `Wat kost een schoorsteenveger in ${city.naam}?`,
+    a: `Kosten hangen af van veegbeurt, inspectie of houtkachel. Vraag om een vaste prijs voordat het werk start.`,
   },
 ];
 
-if (emdrN > 0) {
+if (veegN > 0) {
   faqs.push({
-    q: `Zijn er praktijken met extra diensten in ${city.naam}?`,
-    a: `Ja — ${emdrN} vermelding${emdrN === 1 ? "" : "en"} wijst op extra diensten. Vraag naar beschikbaarheid en of extra diensten bij jouw vraag past.`,
+    q: `Wie veegt schoorstenen in ${city.naam}?`,
+    a: `${veegN} vermelding${veegN === 1 ? "" : "en"} noemt vegen. Vraag naar beschikbaarheid in het stookseizoen.`,
+  });
+}
+if (inspectN > 0) {
+  faqs.push({
+    q: `Kan ik een schoorsteeninspectie laten doen in ${city.naam}?`,
+    a: `Ja — ${inspectN} vermelding${inspectN === 1 ? "" : "en"} noemt inspectie. Handig bij aankoop of na een lange stookperiode.`,
+  });
+}
+if (erkendN > 0) {
+  faqs.push({
+    q: `Zijn er erkende schoorsteenvegers in ${city.naam}?`,
+    a: `${erkendN} vermelding${erkendN === 1 ? "" : "en"} staat als erkend in onze kenmerken. Vraag naar certificering als je dat belangrijk vindt.`,
+  });
+}
+if (houtN > 0) {
+  faqs.push({
+    q: `Helpen ze ook bij een houtkachel in ${city.naam}?`,
+    a: `${houtN} vermelding${houtN === 1 ? "" : "en"} noemt houtkachel. Bel voor vegen of advies over veilige stook.`,
   });
 }
 ---

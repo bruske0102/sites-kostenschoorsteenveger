@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "gesloten",
+  "status": "actief",
   "oude_url": "/drenthe/schoonebeek/aardema-schilderstucadoorschoorsteenveg/",
   "meta_title": "Aardema Schilder/Stucadoor/Schoorsteenveg 0524-531558",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schoonebeek? ✅  Aardema Schilder/Stucadoor/Schoorsteenveg",
@@ -25,9 +25,5 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
-  },
-  "_triage": {
-    "reason": "hard junk name",
-    "pass": "off-niche-1c"
   }
 }

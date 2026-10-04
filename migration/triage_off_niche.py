@@ -19,7 +19,7 @@ REPORT = ROOT / "OFF_NICHE_PASS.json"
 MD = ROOT / "OFF_NICHE_TRIAGE.md"
 
 STRONG = re.compile(
-    r"schoorsteenveger|schoorsteenveeg|schoorsteen\s*veeg|"
+    r"schoorsteenveg|schoorsteenveeg|schoorsteen\s*veeg|"
     r"veegbedrijf|roetveeg|kachelveeg|haardveeg|"
     r"\bramoneur\b|\bsweep\b|clean\s*sweep|pro\s*sweep|"
     r"schoorsteenreinig|schouwveeg|schouw\s*reinig|"

@@ -1,20 +1,16 @@
 {
   "counts": {
     "twijfel": 0,
-    "closed": 201,
-    "actief": 411
+    "closed": 198,
+    "actief": 414
   },
   "reasons": {
-    "hard junk name": 92,
+    "hard junk name": 89,
     "twijfel → gesloten (no schoorsteen/veeg signal)": 109
   },
   "samples": [
     {
       "naam": "24-uurs Dakdekkersservice Drenthe",
-      "reason": "hard junk name"
-    },
-    {
-      "naam": "Luinge Schoonmaakbedrijf BV",
       "reason": "hard junk name"
     },
     {
@@ -28,10 +24,6 @@
     {
       "naam": "Handelsonderneming Langerak J",
       "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
-    },
-    {
-      "naam": "Aardema Schilder/Stucadoor/Schoorsteenveg",
-      "reason": "hard junk name"
     },
     {
       "naam": "Lugtmeijer Rietdekkersbedrijf",
@@ -96,10 +88,6 @@
     {
       "naam": "MCB Moors Constructie Bergharen BV",
       "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
-    },
-    {
-      "naam": "Rietdekker Hietkamp H J",
-      "reason": "hard junk name"
     },
     {
       "naam": "24-uurs Dakdekkersservice Doetinchem",
@@ -167,6 +155,18 @@
     },
     {
       "naam": "Wetering Dienstverlening",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Poujoulat BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Vegu Onderhoud",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Jansen C F",
       "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
     }
   ]

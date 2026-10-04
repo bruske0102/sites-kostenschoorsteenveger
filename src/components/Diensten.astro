@@ -7,47 +7,46 @@ interface Props { city: City; listings: Listing[] }
 const { city, listings } = Astro.props;
 const n = listings.length || city.listings;
 
-const gzN = kenmerkCount(listings, /gz[- ]?schoorsteenveger|gezondheidszorg/i);
-const relatieN = kenmerkCount(listings, /relatie/i);
-const emdrN = kenmerkCount(listings, /extra/i);
-const kinderN = kenmerkCount(listings, /kinder|jeugd|adolescent/i);
-const onlineN = kenmerkCount(listings, /online|beeldbellen|videobellen/i);
+const veegN = kenmerkCount(listings, /veeg/i);
+const inspectN = kenmerkCount(listings, /inspect/i);
+const erkendN = kenmerkCount(listings, /erkend/i);
+const houtN = kenmerkCount(listings, /houtkachel/i);
 
 const cards: { title: string; body: string }[] = [
   {
-    title: "Adres & route",
+    title: "Adres & contact",
     body: `${listingCount(n)} in ${city.naam} met adres en telefoon in onze gids.`,
   },
 ];
 
-if (gzN > 0) {
+if (veegN > 0) {
   cards.push({
-    title: "specialisatie",
-    body: `${nlCount(gzN, "vermelding", "vermeldingen")} wijst op een specialisatie in onze kenmerken.`,
+    title: "Vegen",
+    body: `${nlCount(veegN, "vermelding", "vermeldingen")} noemt schoorsteenvegen.`,
   });
 }
-if (relatieN + emdrN > 0) {
+if (inspectN > 0) {
   cards.push({
-    title: "Diensten & extra diensten",
-    body: `In de gids zie je onder meer diensten en/of extra diensten — vraag wat bij jouw vraag past.`,
+    title: "Inspectie",
+    body: `${nlCount(inspectN, "vermelding", "vermeldingen")} noemt inspectie.`,
   });
 }
-if (kinderN > 0) {
+if (erkendN > 0) {
   cards.push({
-    title: "Kinder / jeugd",
-    body: `${nlCount(kinderN, "vermelding", "vermeldingen")} wijst op kinder- of jeugdhulp.`,
+    title: "Erkend",
+    body: `${nlCount(erkendN, "vermelding", "vermeldingen")} staat als erkend in de kenmerken.`,
   });
 }
-if (onlineN > 0) {
+if (houtN > 0) {
   cards.push({
-    title: "Online",
-    body: `${nlCount(onlineN, "praktijk", "praktijken")} biedt (ook) online of beeldbellen aan.`,
+    title: "Houtkachel",
+    body: `${nlCount(houtN, "vermelding", "vermeldingen")} noemt houtkachel-werk.`,
   });
 }
 if (cards.length < 3) {
   cards.push({
-    title: "Oriëntatie",
-    body: `Plan een kennismaking en vraag naar wachtlijst en vergoeding — dat verschilt per praktijk.`,
+    title: "Afspraak",
+    body: `Bel voor beschikbaarheid en prijs in ${city.naam} — vooral in het stookseizoen.`,
   });
 }
 ---
