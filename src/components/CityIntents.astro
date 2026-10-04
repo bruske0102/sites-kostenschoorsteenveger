@@ -1,15 +1,9 @@
 ---
 /**
- * Intent H2s for every Group A city page.
- * Copy follows local intents — short, honest, no keyword stuffing.
- * Semrush volumes land later in city-intents.ts.
+ * Intent H2s for Group A city pages — Kostenschoorsteenveger.nl
  */
 import type { Listing } from "../lib/model";
-import {
-  cityIntent,
-  isHighTrafficCity,
-  INTENT_BLOG_LINKS,
-} from "../lib/city-intents";
+import { cityIntent, isHighTrafficCity, INTENT_BLOG_LINKS } from "../lib/city-intents";
 import { listingCount } from "../lib/nl-count";
 
 interface Props {
@@ -18,7 +12,6 @@ interface Props {
   listings: Listing[];
   expanded?: boolean;
 }
-
 const { stad, plaatsSlug, listings, expanded = false } = Astro.props;
 const intent = cityIntent(plaatsSlug);
 const showExpanded = expanded || isHighTrafficCity(plaatsSlug);
@@ -29,65 +22,43 @@ const n = listings.length;
   <p class="city-intents__lead">
     Wat zoekers in {stad} vaak willen weten, kort en eerlijk.
     Vergelijk {n === 1 ? "de schoorsteenveger" : "de schoorsteenvegers"} hierboven op adres en telefoon.
-    Bel of mail voor een kennismaking of intake.
   </p>
-
   <div class="city-intents__block">
-    <h2 id={`schoorsteenveger-${plaatsSlug}`}>Schoorsteenveger in {stad}</h2>
+    <h2 id={`schoorsteen-${plaatsSlug}`}>Schoorsteenveger in {stad}</h2>
     <p>
       {n === 1
-        ? `In onze gids staat 1 schoorsteenveger in ${stad}. Check adres, telefoon en route hierboven.`
-        : `In onze gids staan ${listingCount(n)} in ${stad}. Gebruik adres en telefoon om praktijken te vergelijken.`}
+        ? `In onze gids staat 1 schoorsteenveger in ${stad}. Check adres en telefoon hierboven.`
+        : `In onze gids staan ${listingCount(n)} in ${stad}. Gebruik adres en telefoon om te vergelijken.`}
       {" "}
-      Hulp bij de keuze: <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
+      Hulp: <a href={INTENT_BLOG_LINKS.kosten.href}>{INTENT_BLOG_LINKS.kosten.label}</a>.
     </p>
   </div>
-
   <div class="city-intents__block">
-    <h2 id={`gz-${plaatsSlug}`}>specialisatie in {stad}</h2>
+    <h2 id={`kosten-${plaatsSlug}`}>Kosten &amp; hoe vaak vegen in {stad}</h2>
     <p>
-      Zoek je een <strong>specialisatie</strong>, klinisch schoorsteenveger of psychotherapeut?
-      Check de kenmerken per praktijk.
+      Prijzen hangen af van type schoorsteen, bereikbaarheid en of je een inspectie of veegbeurt wilt.
+      Bel voor een actuele prijsindicatie.
       {" "}
-      Uitleg: <a href={INTENT_BLOG_LINKS.gz.href}>{INTENT_BLOG_LINKS.gz.label}</a>.
+      Tip: <a href={INTENT_BLOG_LINKS.onderhoud.href}>{INTENT_BLOG_LINKS.onderhoud.label}</a>.
     </p>
   </div>
-
-  {(intent?.diensten || intent?.extra || showExpanded) && (
+  {showExpanded && (
     <div class="city-intents__block">
-      <h2 id={`therapie-${plaatsSlug}`}>Diensten &amp; extra diensten in {stad}</h2>
+      <h2 id={`haard-${plaatsSlug}`}>Haard of kachel laten nakijken?</h2>
       <p>
-        Diensten en extra diensten worden vaak gezocht. Vraag bij de praktijk of ze jouw vraag behandelen.
+        Veel veegbedrijven controleren ook de aansluiting van haard of kachel. Vraag of ze dat meenemen.
         {" "}
-        Meer: <a href={INTENT_BLOG_LINKS.relatie.href}>{INTENT_BLOG_LINKS.relatie.label}</a>
-        {" · "}
-        <a href={INTENT_BLOG_LINKS.extra.href}>{INTENT_BLOG_LINKS.extra.label}</a>.
+        <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
       </p>
     </div>
   )}
-
   <div class="city-intents__block">
-    <h2 id={`intake-${plaatsSlug}`}>Intake bij een schoorsteenveger in {stad}</h2>
+    <h2 id={`buurt-${plaatsSlug}`}>Schoorsteenveger in de buurt van {stad}</h2>
     <p>
-      Wachtlijsten en vergoedingen verschillen per praktijk en zorgverzekeraar.
-      Bel of check hun website voor de actuele procedure.
-      {" "}
-      Stappenplan: <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
+      Geen geschikte vakman in {stad}? Kijk ook in buurgemeenten via <a href="/zoeken/">zoeken</a>.
     </p>
   </div>
-
-  {(intent?.buurt || showExpanded) && (
-    <div class="city-intents__block">
-      <h2 id={`buurt-${plaatsSlug}`}>Schoorsteenveger in de buurt van {stad}</h2>
-      <p>
-        Zoek je iets dichterbij of in een omliggende plaats? Scroll naar “Ook voor de omgeving”
-        of kies een naburige stad via de provinciepagina.
-        Landelijk zoeken: <a href="/zoeken/">zoeken</a>.
-      </p>
-    </div>
-  )}
 </section>
-
 <style>
   .city-intents__lead { color: var(--muted); max-width: 62ch; }
   .city-intents__block { margin-top: 1.5rem; }
