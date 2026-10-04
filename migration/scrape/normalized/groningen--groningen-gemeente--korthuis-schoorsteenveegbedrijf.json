@@ -1,0 +1,29 @@
+{
+  "id": 1312134,
+  "slug": "korthuis-schoorsteenveegbedrijf",
+  "provincie": "groningen",
+  "plaats": "groningen-gemeente",
+  "naam": "Korthuis Schoorsteenveegbedrijf",
+  "straat": "Antaresstraat 11",
+  "postcode": "9742LA",
+  "plaatsnaam": "Groningen (gemeente)",
+  "telefoon": "050-5730540",
+  "email": null,
+  "website": null,
+  "lat": 53.229136,
+  "lon": 6.541765,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/groningen/groningen-gemeente/korthuis-schoorsteenveegbedrijf/",
+  "meta_title": "Korthuis Schoorsteenveegbedrijf 050-5730540",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  Korthuis Schoorsteenveegbedrijf",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/groningen/groningen-gemeente/korthuis-schoorsteenveegbedrijf/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

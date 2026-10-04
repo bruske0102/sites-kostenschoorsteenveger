@@ -1,0 +1,33 @@
+{
+  "id": 1312115,
+  "slug": "boer-alkema-schoonmaakbedrijf-t-de",
+  "provincie": "friesland",
+  "plaats": "bolsward",
+  "naam": "Boer-Alkema Schoonmaakbedrijf T de",
+  "straat": "Koningsburg 17",
+  "postcode": "8702BB",
+  "plaatsnaam": "Bolsward",
+  "telefoon": "0515-573993",
+  "email": "info@deboeralkema.nl",
+  "website": "http://www.deboeralkema.nl",
+  "lat": 53.072022,
+  "lon": 5.533827,
+  "omschrijving": "mobiele telefoon : 06-51697871\n\n Wat wij doen:\nBij schoonmaakbedrijf De Boer staan we voor kwaliteit en service.\n\nWij zorgen dat u op ieder moment van de dag een heldere kijk op het leven houdt door uw omgeving er netjes en verzorgd uit te laten zien Specialiteiten :\nSchoonmaakdiensten, Onderhoudswerkzaamheden, Hogedruk reiniging, Naar verbouwing of nieuwbouw, Grafonderhoud, Glazenwasserij, Boedel ontruiming, Interieurverzorging",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/bolsward/boer-alkema-schoonmaakbedrijf-t-de/",
+  "meta_title": "Boer-Alkema Schoonmaakbedrijf T de 0515-573993 info@deboeralkema.nl",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Bolsward? ✅  Boer-Alkema Schoonmaakbedrijf T de",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/bolsward/boer-alkema-schoonmaakbedrijf-t-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

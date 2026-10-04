@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /*/verwijderen/
+Disallow: /*/wijzigen/
+
+Sitemap: https://kostenschoorsteenveger.nl/sitemap-index.xml

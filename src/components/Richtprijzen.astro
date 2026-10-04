@@ -1,0 +1,26 @@
+---
+/**
+ * Practical tips block for city pages (no price lists for psychology).
+ * Kept as Richtprijzen.astro so existing imports stay valid.
+ */
+interface Props { stad: string }
+const { stad } = Astro.props;
+---
+<section class="section" aria-labelledby="tips-schoorsteenveger">
+  <h2 id="tips-schoorsteenveger">Tips voor oriëntatie in {stad}</h2>
+  <div class="prijzen">
+    <p>
+      Handig om te weten voordat je praktijken belt:
+    </p>
+    <ul>
+      <li>Vraag naar een kennismaking of intake</li>
+      <li>Check wachtlijst en of ze jouw hulpvraag behandelen</li>
+      <li>Vraag naar vergoeding via je zorgverzekeraar of particulier tarief</li>
+    </ul>
+    <p class="fine">
+      Geen landelijke “richtprijzen” voor deze niche. Zie onze gidsen over
+      <a href="/blog/schoorsteenveger-kiezen/">schoorsteenveger kiezen</a> en
+      <a href="/blog/gz-schoorsteenveger/">GZ-schoorsteenveger</a>.
+    </p>
+  </div>
+</section>

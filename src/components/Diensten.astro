@@ -1,0 +1,65 @@
+---
+import type { City, Listing } from "../lib/model";
+import { kenmerkCount } from "../lib/model";
+import { listingCount, nlCount } from "../lib/nl-count";
+
+interface Props { city: City; listings: Listing[] }
+const { city, listings } = Astro.props;
+const n = listings.length || city.listings;
+
+const gzN = kenmerkCount(listings, /gz[- ]?schoorsteenveger|gezondheidszorg/i);
+const relatieN = kenmerkCount(listings, /relatie/i);
+const emdrN = kenmerkCount(listings, /emdr/i);
+const kinderN = kenmerkCount(listings, /kinder|jeugd|adolescent/i);
+const onlineN = kenmerkCount(listings, /online|beeldbellen|videobellen/i);
+
+const cards: { title: string; body: string }[] = [
+  {
+    title: "Adres & route",
+    body: `${listingCount(n)} in ${city.naam} met adres en telefoon in onze gids.`,
+  },
+];
+
+if (gzN > 0) {
+  cards.push({
+    title: "GZ-schoorsteenveger",
+    body: `${nlCount(gzN, "vermelding", "vermeldingen")} wijst op een GZ-schoorsteenveger in onze kenmerken.`,
+  });
+}
+if (relatieN + emdrN > 0) {
+  cards.push({
+    title: "Relatietherapie & EMDR",
+    body: `In de gids zie je onder meer relatietherapie en/of EMDR — vraag wat bij jouw hulpvraag past.`,
+  });
+}
+if (kinderN > 0) {
+  cards.push({
+    title: "Kinder / jeugd",
+    body: `${nlCount(kinderN, "vermelding", "vermeldingen")} wijst op kinder- of jeugdhulp.`,
+  });
+}
+if (onlineN > 0) {
+  cards.push({
+    title: "Online",
+    body: `${nlCount(onlineN, "praktijk", "praktijken")} biedt (ook) online of beeldbellen aan.`,
+  });
+}
+if (cards.length < 3) {
+  cards.push({
+    title: "Oriëntatie",
+    body: `Plan een kennismaking en vraag naar wachtlijst en vergoeding — dat verschilt per praktijk.`,
+  });
+}
+---
+<section class="section" aria-labelledby="diensten">
+  <h2 id="diensten">Wat je in {city.naam} tegenkomt</h2>
+  <p>Gebaseerd op de vermeldingen in onze gids — bel altijd voor actuele details.</p>
+  <div class="diensten-grid">
+    {cards.slice(0, 4).map((c) => (
+      <div class="dienst">
+        <h3>{c.title}</h3>
+        <p>{c.body}</p>
+      </div>
+    ))}
+  </div>
+</section>

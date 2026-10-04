@@ -1,0 +1,29 @@
+{
+  "id": 1312106,
+  "slug": "wetering-vogelsangh-schoorsteenbedrijf-h",
+  "provincie": "overijssel",
+  "plaats": "ommen",
+  "naam": "Wetering Vogelsangh Schoorsteenbedrijf H",
+  "straat": "Nieuwe Hammerweg 7",
+  "postcode": "7731TV",
+  "plaatsnaam": "Ommen",
+  "telefoon": "06-51476120",
+  "email": null,
+  "website": "http://www.devogelsangh.nl/",
+  "lat": 52.492155,
+  "lon": 6.507638,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/overijssel/ommen/wetering-vogelsangh-schoorsteenbedrijf-h/",
+  "meta_title": "Wetering Vogelsangh Schoorsteenbedrijf H 06-51476120",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ommen? ✅  Wetering Vogelsangh Schoorsteenbedrijf H",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/overijssel/ommen/wetering-vogelsangh-schoorsteenbedrijf-h/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

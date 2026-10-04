@@ -1,0 +1,44 @@
+---
+import type { City, Listing } from "../lib/model";
+import { kenmerkCount } from "../lib/model";
+import { listingCount } from "../lib/nl-count";
+
+interface Props { city: City; listings: Listing[] }
+const { city, listings } = Astro.props;
+const n = listings.length || city.listings;
+const emdrN = kenmerkCount(listings, /emdr/i);
+
+type Faq = { q: string; a: string };
+const faqs: Faq[] = [
+  {
+    q: `Waar vind ik een schoorsteenveger in ${city.naam}?`,
+    a: `Op deze pagina ${n === 1 ? "staat" : "staan"} ${listingCount(n)} in ${city.naam} met adres en telefoon. Gebruik de route-link of bel voor een kennismaking.`,
+  },
+  {
+    q: `Hoe maak ik een afspraak bij een schoorsteenveger in ${city.naam}?`,
+    a: `Procedures en wachtlijsten verschillen per praktijk. Bel of check de website — en vraag naar vergoeding via je zorgverzekeraar.`,
+  },
+  {
+    q: `Wat is het verschil tussen een GZ-schoorsteenveger en een psychotherapeut?`,
+    a: `Beide zijn geregistreerde zorgverleners. Een GZ-schoorsteenveger is gezondheidszorgschoorsteenveger (BIG); een psychotherapeut heeft een eigen registratie. Vraag bij de praktijk wat bij jouw hulpvraag past.`,
+  },
+];
+
+if (emdrN > 0) {
+  faqs.push({
+    q: `Zijn er praktijken met EMDR in ${city.naam}?`,
+    a: `Ja — ${emdrN} vermelding${emdrN === 1 ? "" : "en"} wijst op EMDR. Vraag naar beschikbaarheid en of EMDR bij jouw hulpvraag past.`,
+  });
+}
+---
+<section class="section" aria-labelledby="faq">
+  <h2 id="faq">Veelgestelde vragen over schoorsteenvegers in {city.naam}</h2>
+  <div class="stack">
+    {faqs.map((f) => (
+      <article class="faq-item">
+        <h3>{f.q}</h3>
+        <p>{f.a}</p>
+      </article>
+    ))}
+  </div>
+</section>

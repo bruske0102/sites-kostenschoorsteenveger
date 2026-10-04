@@ -1,0 +1,29 @@
+{
+  "id": 1312565,
+  "slug": "schoorsteenwacht-de",
+  "provincie": "friesland",
+  "plaats": "wolvega",
+  "naam": "Schoorsteenwacht De",
+  "straat": "Heerenveenseweg 44",
+  "postcode": "8471BG",
+  "plaatsnaam": "Wolvega",
+  "telefoon": "06-43076171",
+  "email": null,
+  "website": null,
+  "lat": 52.879402,
+  "lon": 6.001555,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/friesland/wolvega/schoorsteenwacht-de/",
+  "meta_title": "Schoorsteenwacht De 06-43076171",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wolvega? ✅  Schoorsteenwacht De",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/friesland/wolvega/schoorsteenwacht-de/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1312330,
+  "slug": "hago-food-industry",
+  "provincie": "zeeland",
+  "plaats": "terneuzen",
+  "naam": "Hago food & industry",
+  "straat": "Mr. F.J. Haarmanweg 53",
+  "postcode": "4538AN",
+  "plaatsnaam": "Terneuzen",
+  "telefoon": "0115-687470",
+  "email": null,
+  "website": null,
+  "lat": 51.314861,
+  "lon": 3.840129,
+  "omschrijving": null,
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zeeland/terneuzen/hago-food-industry/",
+  "meta_title": "Hago food & industry 0115-687470",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Terneuzen? ✅  Hago food & industry",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zeeland/terneuzen/hago-food-industry/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

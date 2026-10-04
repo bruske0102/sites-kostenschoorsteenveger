@@ -1,0 +1,33 @@
+---
+import fs from "node:fs";
+import path from "node:path";
+import Layout from "../../layouts/Layout.astro";
+
+const dir = path.join(process.cwd(), "migration/blog-export/posts");
+const posts = fs.existsSync(dir)
+  ? fs
+      .readdirSync(dir)
+      .filter((f) => f.endsWith(".json"))
+      .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")))
+      .sort((a, b) => String(a.title).localeCompare(String(b.title), "nl"))
+  : [];
+---
+<Layout
+  title="Blog — Kostenschoorsteenveger.nl"
+  description="Gidsen over schoorsteenveger kiezen, GZ-schoorsteenveger, relatietherapie, EMDR, online hulp en praktijken in de buurt."
+>
+  <header class="page-intro">
+    <h1>Blog</h1>
+    <p class="lead">
+      Praktische uitleg over schoorsteenvegers in Nederland: specialisaties, intake en oriëntatie.
+    </p>
+  </header>
+  <ul class="linklist">
+    {posts.map((p) => (
+      <li>
+        <a href={`/blog/${p.slug}/`}>{p.title}</a>
+        <span class="muted">{p.excerpt}</span>
+      </li>
+    ))}
+  </ul>
+</Layout>

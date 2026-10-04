@@ -1,0 +1,40 @@
+{
+  "site": {
+    "naam": "Kostenschoorsteenveger.nl",
+    "url": "https://kostenschoorsteenveger.nl",
+    "email": "info@kostenschoorsteenveger.nl",
+    "_email_uitleg": "Public address is always info@<domein.nl> via Cloudflare Email Routing (forwarder). Same for every niche site."
+  },
+  "groepB": {
+    "_uitleg": "Plaats zonder schoorsteenveger krijgt een eigen 'dichtstbijzijnde schoorsteenvegers'-pagina als hij minstens zoveel adressen heeft (BAG) en, als het zoekvolume bekend is, minstens zoveel zoekopdrachten per maand. Anders: 301 naar de dichtstbijzijnde plaats met schoorsteenvegers.",
+    "minAdressen": 4000,
+    "minZoekvolume": 10,
+    "aantal": 6,
+    "maxKm": 20
+  },
+  "omgeving": {
+    "_uitleg": "Op een plaatspagina: 'Ook voor de omgeving van ...' met de dichtstbijzijnde plaatsen die hierheen doorverwijzen (301). Maximaal zoveel namen.",
+    "max": 12
+  },
+  "redirects": {
+    "/cookies/": "/p/disclaimer/",
+    "/sitemap.xml": "/sitemap-index.xml",
+    "/sitemap.xml/": "/sitemap-index.xml"
+  },
+  "samenvoegen": {},
+  "web3forms": {
+    "_uitleg": "Web3Forms access key (publiek in HTML). Same key/inbox pattern as other niches until niche-specific key is set. PUBLIC_WEB3FORMS_KEY overrides.",
+    "key": "a8ab78d6-60c1-465f-adcf-2529fff00bee"
+  },
+  "monetization": {
+    "_uitleg": "Old Django site already has AdSense ca-pub-1164977516474335 — keep. No affiliates for this niche.",
+    "mode": "adsense",
+    "adsense": {
+      "client": "ca-pub-1164977516474335",
+      "slots": {
+        "link": "9271726430",
+        "auto": "2985496306"
+      }
+    }
+  }
+}

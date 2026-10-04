@@ -1,0 +1,100 @@
+---
+/**
+ * Intent H2s for every Group A city page.
+ * Copy follows local intents — short, honest, no keyword stuffing.
+ * Semrush volumes land later in city-intents.ts.
+ */
+import type { Listing } from "../lib/model";
+import {
+  cityIntent,
+  isHighTrafficCity,
+  INTENT_BLOG_LINKS,
+} from "../lib/city-intents";
+import { listingCount } from "../lib/nl-count";
+
+interface Props {
+  stad: string;
+  plaatsSlug: string;
+  listings: Listing[];
+  expanded?: boolean;
+}
+
+const { stad, plaatsSlug, listings, expanded = false } = Astro.props;
+const intent = cityIntent(plaatsSlug);
+const showExpanded = expanded || isHighTrafficCity(plaatsSlug);
+const n = listings.length;
+---
+<section class="section city-intents" aria-labelledby="intents-intro">
+  <h2 id="intents-intro" class="visually-hidden">Schoorsteenveger kiezen in {stad}</h2>
+  <p class="city-intents__lead">
+    Wat zoekers in {stad} vaak willen weten, kort en eerlijk.
+    Vergelijk {n === 1 ? "de schoorsteenveger" : "de schoorsteenvegers"} hierboven op adres en telefoon.
+    Bel of mail voor een kennismaking of intake.
+  </p>
+
+  <div class="city-intents__block">
+    <h2 id={`schoorsteenveger-${plaatsSlug}`}>Schoorsteenveger in {stad}</h2>
+    <p>
+      {n === 1
+        ? `In onze gids staat 1 schoorsteenveger in ${stad}. Check adres, telefoon en route hierboven.`
+        : `In onze gids staan ${listingCount(n)} in ${stad}. Gebruik adres en telefoon om praktijken te vergelijken.`}
+      {" "}
+      Hulp bij de keuze: <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
+    </p>
+  </div>
+
+  <div class="city-intents__block">
+    <h2 id={`gz-${plaatsSlug}`}>GZ-schoorsteenveger in {stad}</h2>
+    <p>
+      Zoek je een <strong>GZ-schoorsteenveger</strong>, klinisch schoorsteenveger of psychotherapeut?
+      Check de kenmerken per praktijk.
+      {" "}
+      Uitleg: <a href={INTENT_BLOG_LINKS.gz.href}>{INTENT_BLOG_LINKS.gz.label}</a>.
+    </p>
+  </div>
+
+  {(intent?.relatietherapie || intent?.emdr || showExpanded) && (
+    <div class="city-intents__block">
+      <h2 id={`therapie-${plaatsSlug}`}>Relatietherapie &amp; EMDR in {stad}</h2>
+      <p>
+        Relatietherapie en EMDR worden vaak gezocht. Vraag bij de praktijk of ze jouw hulpvraag behandelen.
+        {" "}
+        Meer: <a href={INTENT_BLOG_LINKS.relatie.href}>{INTENT_BLOG_LINKS.relatie.label}</a>
+        {" · "}
+        <a href={INTENT_BLOG_LINKS.emdr.href}>{INTENT_BLOG_LINKS.emdr.label}</a>.
+      </p>
+    </div>
+  )}
+
+  <div class="city-intents__block">
+    <h2 id={`intake-${plaatsSlug}`}>Intake bij een schoorsteenveger in {stad}</h2>
+    <p>
+      Wachtlijsten en vergoedingen verschillen per praktijk en zorgverzekeraar.
+      Bel of check hun website voor de actuele procedure.
+      {" "}
+      Stappenplan: <a href={INTENT_BLOG_LINKS.kiezen.href}>{INTENT_BLOG_LINKS.kiezen.label}</a>.
+    </p>
+  </div>
+
+  {(intent?.buurt || showExpanded) && (
+    <div class="city-intents__block">
+      <h2 id={`buurt-${plaatsSlug}`}>Schoorsteenveger in de buurt van {stad}</h2>
+      <p>
+        Zoek je iets dichterbij of in een omliggende plaats? Scroll naar “Ook voor de omgeving”
+        of kies een naburige stad via de provinciepagina.
+        Landelijk zoeken: <a href="/zoeken/">zoeken</a>.
+      </p>
+    </div>
+  )}
+</section>
+
+<style>
+  .city-intents__lead { color: var(--muted); max-width: 62ch; }
+  .city-intents__block { margin-top: 1.5rem; }
+  .city-intents__block h2 { font-size: 1.25rem; margin: 0 0 0.4rem; }
+  .city-intents__block p { margin: 0; max-width: 65ch; }
+  .visually-hidden {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+  }
+</style>

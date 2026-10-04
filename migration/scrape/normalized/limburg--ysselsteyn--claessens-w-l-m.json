@@ -1,0 +1,29 @@
+{
+  "id": 1312311,
+  "slug": "claessens-w-l-m",
+  "provincie": "limburg",
+  "plaats": "ysselsteyn",
+  "naam": "Claessens W L M",
+  "straat": "Pioniersstraat 27",
+  "postcode": "5813BW",
+  "plaatsnaam": "Ysselsteyn",
+  "telefoon": "0478-541637",
+  "email": null,
+  "website": null,
+  "lat": 51.487797,
+  "lon": 5.897446,
+  "omschrijving": "CV Onderhouds- en Schoorsteenbedrijf",
+  "openingstijden": null,
+  "kenmerken": null,
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/limburg/ysselsteyn/claessens-w-l-m/",
+  "meta_title": "Claessens W L M 0478-541637",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ysselsteyn? ✅  Claessens W L M",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/limburg/ysselsteyn/claessens-w-l-m/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}

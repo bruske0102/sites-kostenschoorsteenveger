@@ -1,0 +1,34 @@
+{
+  "id": 1312107,
+  "slug": "groenehuizen-dakwerken-bv",
+  "provincie": "zuid-holland",
+  "plaats": "den-haag",
+  "naam": "Groenehuizen Dakwerken BV",
+  "straat": "Zuiderbrink 61",
+  "postcode": "2553GE",
+  "plaatsnaam": "Den Haag",
+  "telefoon": "070-3235190",
+  "email": null,
+  "website": "http://www.groenehuizen.nl",
+  "lat": 52.050912,
+  "lon": 4.232243,
+  "omschrijving": "Wat wij doen:\nWelkom bij Groenehuizen Dakwerken BV\nHet dakdekkersbedrijf voor alle dienstverlening op het gebied van dakwerken. Service :\nGratis offerte, Gratis dakinspectie\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Dakraam, Hemelwaterafvoer / regenpijp, Lichtkoepel, Loodwerk en zinkwerk, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking",
+  "openingstijden": null,
+  "kenmerken": {
+    "Dienst": [
+      "vegen",
+      "inspectie"
+    ]
+  },
+  "beoordeling": null,
+  "status": "actief",
+  "oude_url": "/zuid-holland/den-haag/groenehuizen-dakwerken-bv/",
+  "meta_title": "Groenehuizen Dakwerken BV 070-3235190",
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Groenehuizen Dakwerken BV",
+  "_scrape": {
+    "source_url": "https://kostenschoorsteenveger.nl/zuid-holland/den-haag/groenehuizen-dakwerken-bv/",
+    "http_status": 200,
+    "parsed_ok": true,
+    "has_coords": true
+  }
+}
