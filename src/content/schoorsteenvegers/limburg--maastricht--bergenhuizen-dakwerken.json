@@ -11,7 +11,7 @@
   "website": "http://www.bergenhuizendakwerken.nl",
   "lat": 50.823247,
   "lon": 5.726122,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/maastricht/bergenhuizen-dakwerken/",
   "email": "info@bergenhuizendakwerken.nl",
   "omschrijving": "043-3616139\n\n fax : 043-4553937\n\nhttp://www.bergenhuizendakwerken.nl\n\n Wat wij doen:\nDakbedekking:\nHet vernieuwen, renoveren en repareren van bitumineuze,leien en pannedaken.\n\nOok het aanleggen van nieuwbouw.\n\nDakisolatie:\nHet aanleggen van dakisolaties, zoals:\nPS, PU, PIB, unidek, isobouw, unisupur en unilin isolaties.\n\nPannendakken:\nVerschillende soorten dakpannen.\n\nDakkappellen:\nHet volledg op maat bouwen van diverse dakkapellen met houten of kunstof kozijnen.\nHet geheel afgewerkt met trespa.\n\nMaak van een onbegaanbare zolder een bruikbare ruimte.\n\nZinkwerken:\nHet vernieuwen van zinken/koperen dakgoten, dakkapellen, hemelwaterafvoer en muurafdekkingen.\n\nSchoorstenen opnieuw in het loodzetten.\n\nKunststof:\nHet onderhoudsvrij aanbrengen van kunstofbeplating aan overstekken en boeiboorden.\n\nOok het bekleden van dakkapellen.\n Openingstijden:\n Maandag : 07:30 - 18:00\n Dinsdag : 07:30 - 18:00\n Woensdag : 07:30 - 18:00\n Donderdag : 07:30 - 18:00\n Vrijdag : 07:30 - 18:00\n Zaterdag : gesloten\n Zondag : gesloten Service :\nAlleen op afspraak, Gratis offerte\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie, Dakkapellen\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakbestrating, Dakcoating, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Dakterras, Duurzame dakbedekking, Hemelwaterafvoer / regenpijp, Kunststof dakbedekking (EPDM / PVC / TPE), Leisteen dakbedekking, Lichtkoepel, Lichtstraat, Loodwerk en zinkwerk, Monumentaal dak, Pannendak, dakkappellen\n\n Betalingsmogelijkheden :\nBank / Giro overschrijving, factuur",
@@ -22,5 +22,9 @@
     ]
   },
   "meta_title": "Bergenhuizen Dakwerken 043-3616139 info@bergenhuizendakwerken.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Bergenhuizen Dakwerken"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Bergenhuizen Dakwerken",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

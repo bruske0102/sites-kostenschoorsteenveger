@@ -10,8 +10,12 @@
   "telefoon": "079-3310416",
   "lat": 52.054025,
   "lon": 4.507181,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/zoetermeer/tetteroo-p-t-c/",
   "meta_title": "Tetteroo P T C 079-3310416",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zoetermeer? ✅  Tetteroo P T C"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zoetermeer? ✅  Tetteroo P T C",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

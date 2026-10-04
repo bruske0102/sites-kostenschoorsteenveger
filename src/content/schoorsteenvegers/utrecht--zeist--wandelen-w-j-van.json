@@ -10,7 +10,7 @@
   "telefoon": "030-6933027",
   "lat": 52.079775,
   "lon": 5.228909,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/zeist/wandelen-w-j-van/",
   "email": "w.wandelen@planet.nl",
   "omschrijving": "ASPB : 030-6933027\n\n030-6933027",
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Wandelen W J van 030-6933027 w.wandelen@planet.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zeist? ✅  Wandelen W J van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zeist? ✅  Wandelen W J van",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

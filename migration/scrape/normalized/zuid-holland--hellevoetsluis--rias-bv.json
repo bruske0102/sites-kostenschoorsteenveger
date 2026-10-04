@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/hellevoetsluis/rias-bv/",
   "meta_title": "Rias BV 0181-399181",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hellevoetsluis? ✅  Rias BV",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

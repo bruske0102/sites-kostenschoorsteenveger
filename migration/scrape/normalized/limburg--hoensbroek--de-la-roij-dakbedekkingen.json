@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/hoensbroek/de-la-roij-dakbedekkingen/",
   "meta_title": "De La Roij Dakbedekkingen 045-7113520 info@delaroijdakbedekkingen.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoensbroek? ✅  De La Roij Dakbedekkingen",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

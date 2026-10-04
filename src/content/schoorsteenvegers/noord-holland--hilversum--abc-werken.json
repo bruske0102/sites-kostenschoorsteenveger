@@ -10,9 +10,13 @@
   "telefoon": "035-6836623",
   "lat": 52.230233,
   "lon": 5.192865,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/hilversum/abc-werken/",
   "omschrijving": "Postbus1693, 1200BR, Hilversum",
   "meta_title": "ABC Werken 035-6836623",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  ABC Werken"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  ABC Werken",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

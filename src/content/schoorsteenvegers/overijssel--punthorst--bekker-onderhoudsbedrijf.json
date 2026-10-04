@@ -10,8 +10,12 @@
   "telefoon": "06-53338592",
   "lat": 52.606672,
   "lon": 6.276983,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/punthorst/bekker-onderhoudsbedrijf/",
   "meta_title": "Bekker Onderhoudsbedrijf 06-53338592",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Punthorst? ✅  Bekker Onderhoudsbedrijf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Punthorst? ✅  Bekker Onderhoudsbedrijf",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "06-39313331",
   "lat": 51.688481,
   "lon": 5.330006,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/den-bosch/ideaal/",
   "meta_title": "Ideaal 06-39313331",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Ideaal"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Bosch? ✅  Ideaal",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

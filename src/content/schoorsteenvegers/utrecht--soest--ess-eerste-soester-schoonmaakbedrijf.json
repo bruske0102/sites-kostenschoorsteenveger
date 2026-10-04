@@ -11,8 +11,12 @@
   "website": "http://www.eerstesoester.nl",
   "lat": 52.185085,
   "lon": 5.27467,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/soest/ess-eerste-soester-schoonmaakbedrijf/",
   "meta_title": "ESS Eerste Soester Schoonmaakbedrijf 035-6013995",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Soest? ✅  ESS Eerste Soester Schoonmaakbedrijf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Soest? ✅  ESS Eerste Soester Schoonmaakbedrijf",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "076-5420507",
   "lat": 51.622029,
   "lon": 4.742491,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/breda/lambregts-w-c/",
   "meta_title": "Lambregts W C 076-5420507",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Breda? ✅  Lambregts W C"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Breda? ✅  Lambregts W C",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

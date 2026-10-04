@@ -10,7 +10,7 @@
   "telefoon": "010-4520013",
   "lat": 51.931464,
   "lon": 4.507039,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/rotterdam/dishoeck-f-j-m-van/",
   "omschrijving": "ASPB : 010-4520013\n\n010-4520013",
   "kenmerken": {
@@ -19,5 +19,9 @@
     ]
   },
   "meta_title": "Dishoeck F J M van 010-4520013",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Dishoeck F J M van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Dishoeck F J M van",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

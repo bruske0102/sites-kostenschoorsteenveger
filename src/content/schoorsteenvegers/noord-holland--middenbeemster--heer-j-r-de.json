@@ -10,8 +10,12 @@
   "telefoon": "0299-684330",
   "lat": 52.566502,
   "lon": 4.923797,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/middenbeemster/heer-j-r-de/",
   "meta_title": "Heer J R de 0299-684330",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middenbeemster? ✅  Heer J R de"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middenbeemster? ✅  Heer J R de",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

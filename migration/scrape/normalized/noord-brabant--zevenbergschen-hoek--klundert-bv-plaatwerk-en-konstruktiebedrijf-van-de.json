@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/zevenbergschen-hoek/klundert-bv-plaatwerk-en-konstruktiebedrijf-van-de/",
   "meta_title": "Klundert BV Plaatwerk- en Konstruktiebedrijf Van de 0168-452750",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zevenbergschen Hoek? ✅  Klundert BV Plaatwerk- en Konstruktiebedrijf Van de",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

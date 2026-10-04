@@ -11,9 +11,13 @@
   "website": "http://www.smitmultiservice.nl",
   "lat": 52.569672,
   "lon": 6.488912,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/dedemsvaart/smit-multiservice/",
   "email": "info@smitmultiservice.nl",
   "meta_title": "Smit Multiservice 0523-638280 info@smitmultiservice.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dedemsvaart? ✅  Smit Multiservice"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dedemsvaart? ✅  Smit Multiservice",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

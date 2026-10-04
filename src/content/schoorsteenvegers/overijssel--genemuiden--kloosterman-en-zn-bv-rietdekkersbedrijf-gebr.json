@@ -10,7 +10,7 @@
   "telefoon": "038-3446426",
   "lat": 52.597925,
   "lon": 6.009077,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/genemuiden/kloosterman-en-zn-bv-rietdekkersbedrijf-gebr/",
   "omschrijving": "038-3446426\n\n bgg : 038-3856649\n\n mobiele telefoon : 06-27228155\n\n fax : 038-3858845\n\nhttp://www.rietpromotie.nl/kloosterman.htm\n\n Wat wij doen:\nIn de familie Kloosterman wordt al vier generaties lang het rietdekkersvak uitgeoefend. Door onze ruime ervaring bent u verzekerd van gedegen vakmanschap. Het spreekt vanzelf dat wij uitsluitend eerste kwaliteit materialen selecteren en verwerken.\n\nDuidelijke afspraken, persoonlijk contact en doorlopende advisering zijn echter net zo belangrijk. Daarom staan uw wensen altijd centraal en begeleiden wij onze klanten van het begin tot het eind Doelgroep :\nBedrijven\n\n Diensten :\nDakafwerking, Dakreiniging\n\n Specialisatie :\nDakisolatie, Gevelbekleding, Pannendak, Schoorsteen",
   "kenmerken": {
@@ -19,5 +19,9 @@
     ]
   },
   "meta_title": "Kloosterman en Zn BV Rietdekkersbedrijf Gebr 038-3446426",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Genemuiden? ✅  Kloosterman en Zn BV Rietdekkersbedrijf Gebr"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Genemuiden? ✅  Kloosterman en Zn BV Rietdekkersbedrijf Gebr",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

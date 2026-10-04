@@ -10,8 +10,12 @@
   "telefoon": "0541-519634",
   "lat": 52.315769,
   "lon": 6.922869,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/oldenzaal/vlutters-john/",
   "meta_title": "Vlutters John 0541-519634",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oldenzaal? ✅  Vlutters John"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oldenzaal? ✅  Vlutters John",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -11,7 +11,7 @@
   "website": "http://www.hurkdoeze.nl",
   "lat": 51.395656,
   "lon": 5.56395,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/heeze/dakbedekkersbedrijf-hurk-doeze-bv-vd/",
   "omschrijving": "Wij geven u waterdichte garantie\nop al onze werkzaamheden!\n\n Wat wij doen:\nAl meer dan dertig jaar timmert dakdekkersbedrijf v.d. Hurk & Doezé aan de weg, of liever gezegd aan het dak. Met hard werken zijn we van een eenmanszaak uitgegroeid tot een succesvol dakdekkersbedrijf met zo’n 45 vakspecialisten in vaste dienst.\n\nDakdekkersbedrijf v.d. Hurk & Doezé luistert naar uw wensen en vertaalt deze op basis van kennis en ervaring en vakmanschap naar een dakwerk op maat. Van recht-toe recht-aan daken tot zeer complexe kapconstructies. Bij ons bedrijf krijgt u alleen het beste op uw dak!\n\nDakdekkersbedrijf v.d. Hurk & Doezé is werkzaam in de regio’s Brabant en Limburg en is gespecialiseerd in dakconstructies en het vakkundig aanbrengen van dakpannen. Wij verzorgen nieuwbouw- en renovatiewerken, van advies tot en met uitvoering en het opmaken van onderhouds-contracten. Voor grootschalige en kleinere projecten en voor professionele- en particuliere opdrachtgevers. Specialisatie :\nDakgoot\n\n Aangesloten bij / Certificering :\nHet Hellende Dak, Certificatie onder BKB-Bouwbesluitnummer 93123 PCC, Erkend door Stichting Dakmeesters'. Erkend leerbedrijf Bouwradius",
   "kenmerken": {
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Dakbedekkersbedrijf Hurk-Doezé BV vd 040-2264119",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heeze? ✅  Dakbedekkersbedrijf Hurk-Doezé BV vd"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heeze? ✅  Dakbedekkersbedrijf Hurk-Doezé BV vd",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

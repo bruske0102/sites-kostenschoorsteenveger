@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/arnhem/dakbedekking-heuveling/",
   "meta_title": "Dakbedekking Heuveling 026-3218659 info@heuveling-dakdekkers.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Arnhem? ✅  Dakbedekking Heuveling",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

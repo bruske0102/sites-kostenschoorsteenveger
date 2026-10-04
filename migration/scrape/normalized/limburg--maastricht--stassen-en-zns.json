@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/maastricht/stassen-en-zns/",
   "meta_title": "Stassen en Zns 043-3210304",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Stassen en Zns",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/zierikzee/schoonmaakbedrijf-som/",
   "meta_title": "Schoonmaakbedrijf SOM 0111-408862 info@smb-som.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zierikzee? ✅  Schoonmaakbedrijf SOM",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

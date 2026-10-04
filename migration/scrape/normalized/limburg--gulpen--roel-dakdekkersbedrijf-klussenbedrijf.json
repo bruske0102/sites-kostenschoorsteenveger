@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/gulpen/roel-dakdekkersbedrijf-klussenbedrijf/",
   "meta_title": "Roel Dakdekkersbedrijf & Klussenbedrijf 043-4506140",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Gulpen? ✅  Roel Dakdekkersbedrijf & Klussenbedrijf",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

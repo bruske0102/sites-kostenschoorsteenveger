@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/eefde/rietdekkersbedrijf-dijkerman/",
   "meta_title": "Rietdekkersbedrijf Dijkerman 0575-546228 info@dijkermanrietdekkers.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eefde? ✅  Rietdekkersbedrijf Dijkerman",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

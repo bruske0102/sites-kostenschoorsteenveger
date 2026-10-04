@@ -11,7 +11,7 @@
   "website": "http://www.aad-dakbedekkingen.nl",
   "lat": 52.159766,
   "lon": 5.394174,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/amersfoort/aad-amersfoortse-algemene-dakbedekkingen/",
   "email": "a.a.d.amersfoort@casema.nl",
   "omschrijving": "http://www.aad-dakbedekkingen.nl\n\n Wat wij doen:\nA.A.D (Amersfoortse Algemene Dakbedekking) is gespecialiseerd in de dakdekkerbranche. Door jarenlange ervaring in deze branche kunnen wij u een goed staaltje vakmanschap leveren in het dakwerk. Onze diensten zijn ontwikkeld en gegroeid naar de wensen van onze klanten en de markt. Het bedrijf is gespecialiseerd op de volgende onderdelen:\n\n•Alle soorten dakbedekkingen voor bestaande bouw en nieuwbouw\n•Bitumineus, zinken kilgoten en kunststof dakbedekkingen\n•Onderhoud, reparatie, inspectie of renovatie van uw dak\n•Isolatie en bescherming\n•Vervangen van boeiboorden\n•Zinken dakgoten\n•Zinken afdeklijsten\n•Kunststofdaken\n•Bitumineuze daken onderdelen Specialisatie :\nBoeidelen, Dakgoot, Schoorsteen",
@@ -21,5 +21,9 @@
     ]
   },
   "meta_title": "AAD Amersfoortse Algemene Dakbedekkingen 06-55345641 a.a.d.amersfoort@casema.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amersfoort? ✅  AAD Amersfoortse Algemene Dakbedekkingen"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amersfoort? ✅  AAD Amersfoortse Algemene Dakbedekkingen",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

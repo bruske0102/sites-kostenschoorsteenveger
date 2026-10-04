@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/wageningen/jjd-onderhoudreparatie-1/",
   "meta_title": "JJD onderhoud&reparatie 0630495100 jjd457@hotmail.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  JJD onderhoud&reparatie",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

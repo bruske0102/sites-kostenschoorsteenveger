@@ -10,9 +10,13 @@
   "telefoon": "078-6912502",
   "lat": 51.860018,
   "lon": 4.664642,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/alblasserdam/dijk-g-van/",
   "omschrijving": "Van oudsher het bekende adres",
   "meta_title": "Dijk G van 078-6912502",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alblasserdam? ✅  Dijk G van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alblasserdam? ✅  Dijk G van",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

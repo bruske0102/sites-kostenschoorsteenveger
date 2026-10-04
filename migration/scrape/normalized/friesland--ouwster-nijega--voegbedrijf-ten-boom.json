@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/friesland/ouwster-nijega/voegbedrijf-ten-boom/",
   "meta_title": "Voegbedrijf ten Boom 06-51333191",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ouwster Nijega? ✅  Voegbedrijf ten Boom",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

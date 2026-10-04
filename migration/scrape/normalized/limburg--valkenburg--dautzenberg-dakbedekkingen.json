@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/valkenburg/dautzenberg-dakbedekkingen/",
   "meta_title": "Dautzenberg Dakbedekkingen 043-6015360 info@dautzenbergdakbedekkingen.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Valkenburg? ✅  Dautzenberg Dakbedekkingen",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

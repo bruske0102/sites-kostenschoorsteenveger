@@ -10,7 +10,7 @@
   "telefoon": "0318-637597",
   "lat": 52.017257,
   "lon": 5.656762,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/ede/gebr-schimmel/",
   "omschrijving": "mobiele telefoon : 06-21563823\n\n Wat wij doen:\nUw huis of bedrijfspand is een waardevol bezit.\nOmdat een gevelrenovatie er ook over 10 jaar nog goed uit moet zien is het\nbelangrijk dat uw eigendom door deskundigen onder handen wordt genomen.\nMet Gebr.schimmel gevelrenovatie haalt u die deskundigheid in huis!\n Diensten :\nGraffiti verwijderen, Hydrofoberen\n\n Specialisme :\nonderhoud gevels, renovatie gevels, restauratie gevels, restauratie panden, restauratie schoorstenen, vochtbestrijding, voegwerk\n\n Soort reiniging :\nGevelreiniging",
   "kenmerken": {
@@ -19,5 +19,9 @@
     ]
   },
   "meta_title": "Gebr Schimmel 0318-637597",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Gebr Schimmel"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ede? ✅  Gebr Schimmel",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/schiedam/dako-dakbedekking/",
   "meta_title": "Dako Dakbedekking 010-4719703 dakodak@caiway.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schiedam? ✅  Dako Dakbedekking",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

@@ -11,7 +11,7 @@
   "website": "http://www.dedakenmaker.nl",
   "lat": 52.221466,
   "lon": 5.169957,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/hilversum/dakdekkersbedrijf-warmerdam/",
   "email": "c.warmerdam1@gmail.com",
   "omschrijving": "http://www.dedakenmaker.nl\n\n Wat wij doen:\nChris Warmerdam, de daken maker, doet verschillende soorten dak werk.\n\nWe branden en föhnen platte en schuine daken met betumen dakbedekking. Tevens hebben we ons de laatste jaren gespecialiseerd in het lijmen van daken. Dit doen we met kunststofdakbedekkingen zoals EPDM en Rhepanol.\n\nNaast het branden en lijmen van daken, vervangen en repareren we pannenkappen en leipannendaken.\n\nWe hebben ook veel werkzaamheden verricht op monumentale panden en zijn ons hierbij bewust van de regels.\n\nMet onze eigen zetbank kunnen we zelf zink zetten. Dit zorgt voor o.a. prachtige deklijsten en goten op maat die beter aansluiten op het dak. Daarnaast kunnen we ook al het lood rondom een huis vervangen. Denk hierbij aan loketten in de muren en kilgoten.\n\nAl vier jaar werk ik samen met mijn broer Niels die ook zijn eigen bedrijf heeft: Dakdekkersbedrijf Niels Warmerdam. We hebben beide veel plezier in ons werk en houden van ons vak. We zijn volledig op elkaar ingespeeld en staan altijd voor elkaar klaar. Door deze samenwerking kunnen we er ook voor zorgen dat een van ons altijd beschikbaar is bij bijvoorbeeld spoedgevallen. Ook in de vakanties houden we hier rekening mee. Tijdens de bouwvak gaan wij gewoon door! Service :\nGratis offerte, Online offerteaanvraag\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakcoating, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Dakterras, Hemelwaterafvoer / regenpijp, Kunststof dakbedekking (EPDM / PVC / TPE), Leisteen dakbedekking, Lichtkoepel, Loodwerk en zinkwerk, Monumentaal dak, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking, Valbeveiliging, aluminium pannen, natuur daken",
@@ -21,5 +21,9 @@
     ]
   },
   "meta_title": "Dakdekkersbedrijf Warmerdam 06-24639555 c.warmerdam1@gmail.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  Dakdekkersbedrijf Warmerdam"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  Dakdekkersbedrijf Warmerdam",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

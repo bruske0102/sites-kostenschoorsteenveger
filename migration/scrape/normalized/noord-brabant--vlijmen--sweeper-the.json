@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/vlijmen/sweeper-the/",
   "meta_title": "Sweeper The 073-6907357",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlijmen? ✅  Sweeper The",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

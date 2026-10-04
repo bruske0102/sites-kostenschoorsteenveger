@@ -10,8 +10,12 @@
   "telefoon": "070-3885672",
   "lat": 52.080405,
   "lon": 4.355316,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/voorburg/leeuwestijn-onderhoudsbedrijf/",
   "meta_title": "Leeuwestijn Onderhoudsbedrijf 070-3885672",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Voorburg? ✅  Leeuwestijn Onderhoudsbedrijf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Voorburg? ✅  Leeuwestijn Onderhoudsbedrijf",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

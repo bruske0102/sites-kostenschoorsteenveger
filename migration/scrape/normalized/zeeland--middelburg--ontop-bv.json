@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/middelburg/ontop-bv/",
   "meta_title": "Ontop BV 0118-689900",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middelburg? ✅  Ontop BV",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

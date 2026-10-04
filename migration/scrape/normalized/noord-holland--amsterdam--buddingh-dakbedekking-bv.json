@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/amsterdam/buddingh-dakbedekking-bv/",
   "meta_title": "Buddingh Dakbedekking BV 020-6113446 info@buddingh-dak.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  Buddingh Dakbedekking BV",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

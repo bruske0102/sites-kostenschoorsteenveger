@@ -10,9 +10,13 @@
   "telefoon": "053-4357455",
   "lat": 52.224802,
   "lon": 6.908079,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/enschede/hansen-fa/",
   "omschrijving": "mobiele telefoon : 06-13407336",
   "meta_title": "Hansen Fa 053-4357455",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Hansen Fa"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enschede? ✅  Hansen Fa",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

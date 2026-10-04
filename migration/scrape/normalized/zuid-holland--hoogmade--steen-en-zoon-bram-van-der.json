@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/hoogmade/steen-en-zoon-bram-van-der/",
   "meta_title": "Steen en Zoon Bram van der 071-5769507",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hoogmade? ✅  Steen en Zoon Bram van der",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

@@ -10,8 +10,12 @@
   "telefoon": "043-3210304",
   "lat": 50.846727,
   "lon": 5.676231,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/maastricht/stassen-en-zns/",
   "meta_title": "Stassen en Zns 043-3210304",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Stassen en Zns"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Stassen en Zns",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

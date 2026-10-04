@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/tilburg/spreeuwel-eddy-van/",
   "meta_title": "Spreeuwel Eddy van 013-5426682",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tilburg? ✅  Spreeuwel Eddy van",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

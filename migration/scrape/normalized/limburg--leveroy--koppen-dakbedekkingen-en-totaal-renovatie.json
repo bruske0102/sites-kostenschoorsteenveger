@@ -23,7 +23,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/leveroy/koppen-dakbedekkingen-en-totaal-renovatie/",
   "meta_title": "Koppen Dakbedekkingen en Totaal Renovatie 0495-711375 geertkoppen@hotmail.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leveroy? ✅  Koppen Dakbedekkingen en Totaal Renovatie",
@@ -32,5 +32,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/utrecht-gemeente/rossen-lei-dakdekkersbedrijf/",
   "meta_title": "Rossen Lei-Dakdekkersbedrijf 06-46396006 wim.rossen@home.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Rossen Lei-Dakdekkersbedrijf",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

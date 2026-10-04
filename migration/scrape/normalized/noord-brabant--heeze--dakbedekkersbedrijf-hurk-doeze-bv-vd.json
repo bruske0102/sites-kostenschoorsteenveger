@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/heeze/dakbedekkersbedrijf-hurk-doeze-bv-vd/",
   "meta_title": "Dakbedekkersbedrijf Hurk-Doezé BV vd 040-2264119",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heeze? ✅  Dakbedekkersbedrijf Hurk-Doezé BV vd",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

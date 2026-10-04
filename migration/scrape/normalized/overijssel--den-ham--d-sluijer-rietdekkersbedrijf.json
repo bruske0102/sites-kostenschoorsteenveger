@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/den-ham/d-sluijer-rietdekkersbedrijf/",
   "meta_title": "D Sluijer Rietdekkersbedrijf 06-46181088 dsluyer@hetnet.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Ham? ✅  D Sluijer Rietdekkersbedrijf",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

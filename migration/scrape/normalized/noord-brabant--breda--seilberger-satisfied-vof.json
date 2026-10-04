@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/breda/seilberger-satisfied-vof/",
   "meta_title": "Seilberger & Satisfied VOF 076-5422080",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Breda? ✅  Seilberger & Satisfied VOF",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

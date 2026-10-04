@@ -11,9 +11,13 @@
   "website": "http://www.smb-som.com",
   "lat": 51.658497,
   "lon": 3.917596,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/zierikzee/schoonmaakbedrijf-som/",
   "email": "info@smb-som.com",
   "meta_title": "Schoonmaakbedrijf SOM 0111-408862 info@smb-som.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zierikzee? ✅  Schoonmaakbedrijf SOM"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Zierikzee? ✅  Schoonmaakbedrijf SOM",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

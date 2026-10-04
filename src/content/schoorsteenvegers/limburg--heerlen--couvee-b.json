@@ -10,7 +10,7 @@
   "telefoon": "045-5416105",
   "lat": 50.884608,
   "lon": 6.000539,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/heerlen/couvee-b/",
   "email": "b.couvee@hotmail.com",
   "omschrijving": "ASPB : 045-5416105\n\n045-5416105",
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Couvee B 045-5416105 b.couvee@hotmail.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heerlen? ✅  Couvee B"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heerlen? ✅  Couvee B",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

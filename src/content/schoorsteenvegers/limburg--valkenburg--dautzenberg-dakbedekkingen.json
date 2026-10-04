@@ -11,7 +11,7 @@
   "website": "http://www.dautzenbergdakbedekkingen.nl",
   "lat": 50.845979,
   "lon": 5.827889,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/valkenburg/dautzenberg-dakbedekkingen/",
   "email": "info@dautzenbergdakbedekkingen.nl",
   "omschrijving": "Wat wij doen:\nDautzenberg dakbedekkingen BV is gespecialiseerd in complete dakconstructies. Van pannen- en kunststofdaken, bitumineuze dakbedekkingen, koper- en zinkwerken tot leiwerk en restauratie.\n\nDaarnaast kunt u bij ons terecht voor constructieve berekeningen, bouwkundig en bouwfysisch advies en is Dautzenberg dakbedekkingen BV bouwkundig dakdekker. Doelgroep :\nParticulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Bouwkundige werkzaamheden, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Dakterras, Duurzame dakbedekking, Hemelwaterafvoer / regenpijp, Kunststof dakbedekking (EPDM / PVC / TPE), Leisteen dakbedekking, Lichtkoepel, Lichtstraat, Loodwerk en zinkwerk, Monumentaal dak, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking, Windbelasting berekening, leiwerk",
@@ -22,5 +22,9 @@
     ]
   },
   "meta_title": "Dautzenberg Dakbedekkingen 043-6015360 info@dautzenbergdakbedekkingen.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Valkenburg? ✅  Dautzenberg Dakbedekkingen"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Valkenburg? ✅  Dautzenberg Dakbedekkingen",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

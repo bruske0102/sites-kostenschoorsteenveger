@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/renswoude/schut-rietdekkersbedrijf-e/",
   "meta_title": "Schut Rietdekkersbedrijf E 0342-442046",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Renswoude? ✅  Schut Rietdekkersbedrijf E",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

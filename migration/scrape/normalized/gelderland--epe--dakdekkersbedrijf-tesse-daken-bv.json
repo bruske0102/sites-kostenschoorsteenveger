@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/epe/dakdekkersbedrijf-tesse-daken-bv/",
   "meta_title": "Dakdekkersbedrijf Tesse-Daken BV 06-51515162 m.tessemaker@chello.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Epe? ✅  Dakdekkersbedrijf Tesse-Daken BV",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

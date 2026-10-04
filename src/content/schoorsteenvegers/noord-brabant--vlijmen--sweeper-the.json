@@ -10,8 +10,12 @@
   "telefoon": "073-6907357",
   "lat": 51.691812,
   "lon": 5.192477,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/vlijmen/sweeper-the/",
   "meta_title": "Sweeper The 073-6907357",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlijmen? ✅  Sweeper The"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlijmen? ✅  Sweeper The",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

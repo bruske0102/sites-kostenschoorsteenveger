@@ -10,8 +10,12 @@
   "telefoon": "0487-512218",
   "lat": 51.88204,
   "lon": 5.608661,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/druten/bosch-intro-vd/",
   "meta_title": "Bosch Intro vd 0487-512218",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Druten? ✅  Bosch Intro vd"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Druten? ✅  Bosch Intro vd",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

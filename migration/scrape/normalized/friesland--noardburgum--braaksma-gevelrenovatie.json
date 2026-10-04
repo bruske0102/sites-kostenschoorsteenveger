@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/friesland/noardburgum/braaksma-gevelrenovatie/",
   "meta_title": "Braaksma Gevelrenovatie 0511-477788 info@gevelrenovatiebraaksma.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Noardburgum? ✅  Braaksma Gevelrenovatie",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

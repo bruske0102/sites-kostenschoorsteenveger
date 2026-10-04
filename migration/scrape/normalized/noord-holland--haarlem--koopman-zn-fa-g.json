@@ -23,7 +23,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/haarlem/koopman-zn-fa-g/",
   "meta_title": "Koopman & Zn Fa G 023-5382478 koopmanmarco@hetnet.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Koopman & Zn Fa G",
@@ -32,5 +32,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

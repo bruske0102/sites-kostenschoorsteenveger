@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/s-hertogenbosch/verdonk-dak-geveltechniek/",
   "meta_title": "Verdonk Dak- & Geveltechniek 073-6122002 dakengeveltechniek.verdonk@hotmail.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

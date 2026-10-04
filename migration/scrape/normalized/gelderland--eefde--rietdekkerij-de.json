@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/eefde/rietdekkerij-de/",
   "meta_title": "Rietdekkerij De 0575-511465",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eefde? ✅  Rietdekkerij De",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

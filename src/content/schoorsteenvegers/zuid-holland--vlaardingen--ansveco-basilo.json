@@ -10,8 +10,12 @@
   "telefoon": "010-4354407",
   "lat": 51.908812,
   "lon": 4.340437,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/vlaardingen/ansveco-basilo/",
   "meta_title": "Ansveco-Basilo 010-4354407",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Ansveco-Basilo"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Ansveco-Basilo",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "0111-672221",
   "lat": 51.737165,
   "lon": 3.842669,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/scharendijke/hemert-g-h-van/",
   "meta_title": "Hemert G H van 0111-672221",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Scharendijke? ✅  Hemert G H van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Scharendijke? ✅  Hemert G H van",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

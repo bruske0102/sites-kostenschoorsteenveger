@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/muntendam/veen-m-vd/",
   "meta_title": "Veen M vd 0598-623812",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Muntendam? ✅  Veen M vd",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

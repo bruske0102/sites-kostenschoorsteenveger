@@ -11,10 +11,14 @@
   "website": "http://www.rohofmetselwerken.nl",
   "lat": 52.699298,
   "lon": 5.056041,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/benningbroek/rohof-metselwerken-en-gevelrenovatie/",
   "email": "rohofmetselwerken@quicknet.nl",
   "omschrijving": "Wat wij doen:\nIn 1982 ben ik begonnen als metselaar en heb ik bij verschillende bedrijven gewerkt. Met al deze ervaring heb ik in 2000 besloten om een eigen bedrijf te starten namelijk, Rohof Metselwerken.\n\nWerkzaamheden die ik allemaal op het gebied van metselen doe zijn bijvoorbeeld:\n\n- Betonreparatie's\n- Woningen\n- Aanbouwen\n- Schoorstenen (ook voor boerderijen)\n- Tuinmuren\n- Lijmwerk\n- Bruggen\n- Monumentaal werk\n- Bijzonder metselwerk (toogen, boerenvlechten, alle soorten kammen, enz.)\n- Diverse kunstwerken\n\nZoals het u misschien wel opviel ligt mijn passie vooral bij oud ambachtswerk. Specialiteiten :\nalle gangbare mortels, alle soorten kammen, boerenvlechten, enz., kalkmortel, toogen, trasmortel\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\naanbouw, bijzonder metselwerk, lijmwerk, metselwerk, monumentaal werk, restauratie, schoorstenen",
   "meta_title": "Rohof Metselwerken en Gevelrenovatie 0229-571285 rohofmetselwerken@quicknet.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Benningbroek? ✅  Rohof Metselwerken en Gevelrenovatie"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Benningbroek? ✅  Rohof Metselwerken en Gevelrenovatie",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

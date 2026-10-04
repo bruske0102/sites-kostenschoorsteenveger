@@ -10,8 +10,12 @@
   "telefoon": "010-4388600",
   "lat": 51.888404,
   "lon": 4.481763,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/rotterdam/bij-tijds/",
   "meta_title": "Bij Tijds 010-4388600",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Bij Tijds"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Bij Tijds",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

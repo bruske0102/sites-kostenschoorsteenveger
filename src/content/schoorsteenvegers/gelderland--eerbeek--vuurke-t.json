@@ -10,8 +10,12 @@
   "telefoon": "0313-651872",
   "lat": 52.105234,
   "lon": 6.05766,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/eerbeek/vuurke-t/",
   "meta_title": "Vuurke 't 0313-651872",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eerbeek? ✅  Vuurke"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eerbeek? ✅  Vuurke",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "0118-593753",
   "lat": 51.568116,
   "lon": 3.5459,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/oostkapelle/provoost-technische-dienstverlening/",
   "meta_title": "Provoost Technische Dienstverlening 0118-593753",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oostkapelle? ✅  Provoost Technische Dienstverlening"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oostkapelle? ✅  Provoost Technische Dienstverlening",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

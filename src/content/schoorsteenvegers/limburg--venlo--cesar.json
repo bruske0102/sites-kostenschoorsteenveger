@@ -10,9 +10,13 @@
   "telefoon": "0619660266",
   "lat": 51.3691288,
   "lon": 6.134909099999959,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/venlo/cesar/",
   "email": "cezicezi93.cs@gmail.com",
   "meta_title": "Cesar 0619660266 cezicezi93.cs@gmail.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Venlo? ✅  Cesar"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Venlo? ✅  Cesar",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

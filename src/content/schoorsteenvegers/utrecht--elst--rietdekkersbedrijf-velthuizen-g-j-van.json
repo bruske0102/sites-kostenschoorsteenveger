@@ -11,7 +11,7 @@
   "website": "http://www.velthuizenrietdekkers.nl",
   "lat": 51.985179,
   "lon": 5.49347,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/elst/rietdekkersbedrijf-velthuizen-g-j-van/",
   "email": "info@velthuizenrietdekkers.nl",
   "omschrijving": "Wat wij doen:\nRietdekkersbedrijf Van Velthuizen is gespecialiseerd in onderhoud en nieuwbouw van rieten daken. Wij voeren werkzaamheden uit op de zogenoemde \"open kap\" (traditioneel) en op een gesloten kap waarbij beplating op dakspanten wordt aangebracht. Gesloten constructie biedt meer comfort zoals, tochtvrij, lagere stookkosten en een grotere brandveiligheid Service :\nwij geven 10 jaar garantie op een door ons gelegd rieten dak.\n\n Doelgroep :\nParticulieren\n\n Diensten :\nDakdekken, Dakinspectie, Dakonderhoud, Dakreiniging, Dakrestauratie\n\n Specialisatie :\nPannendak, Rieten dak / rietdekker, Schoorsteen\n\n Aangesloten bij / Certificering :\nVakfederatie Rietdekkers, Er wordt gewerkt volgens recente veiligheids- en kwaliteitsnormen.",
@@ -22,5 +22,9 @@
     ]
   },
   "meta_title": "Rietdekkersbedrijf Velthuizen G J van 0318-478003 info@velthuizenrietdekkers.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Elst? ✅  Rietdekkersbedrijf Velthuizen G J van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Elst? ✅  Rietdekkersbedrijf Velthuizen G J van",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

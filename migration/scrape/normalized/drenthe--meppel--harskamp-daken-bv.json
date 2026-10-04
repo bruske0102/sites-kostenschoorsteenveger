@@ -23,7 +23,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/drenthe/meppel/harskamp-daken-bv/",
   "meta_title": "Harskamp Daken BV 0522-253520 info@harskampdaken.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Meppel? ✅  Harskamp Daken BV",
@@ -32,5 +32,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

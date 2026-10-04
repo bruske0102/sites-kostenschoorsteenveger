@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/drenthe/peize/handelsonderneming-langerak-j/",
   "meta_title": "Handelsonderneming Langerak J 050-5033437",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Peize? ✅  Handelsonderneming Langerak J",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

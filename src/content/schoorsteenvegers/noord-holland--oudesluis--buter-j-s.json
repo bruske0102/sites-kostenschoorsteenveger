@@ -11,8 +11,12 @@
   "website": "http://www.schoorsteendokter.nl",
   "lat": 52.832159,
   "lon": 4.806729,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/oudesluis/buter-j-s/",
   "meta_title": "Buter J S 0224-221752",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oudesluis? ✅  Buter J S"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Oudesluis? ✅  Buter J S",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

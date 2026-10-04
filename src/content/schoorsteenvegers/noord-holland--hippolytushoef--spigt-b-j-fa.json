@@ -10,8 +10,12 @@
   "telefoon": "0227-591221",
   "lat": 52.910665,
   "lon": 4.974985,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/hippolytushoef/spigt-b-j-fa/",
   "meta_title": "Spigt B J Fa 0227-591221",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hippolytushoef? ✅  Spigt B J Fa"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hippolytushoef? ✅  Spigt B J Fa",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

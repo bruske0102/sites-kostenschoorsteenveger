@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/den-ham/vegt-rietdekkersbedrijf-van-der/",
   "meta_title": "Vegt Rietdekkersbedrijf Van der 0546-671088 info@vandervegtrietdekkers.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Ham? ✅  Vegt Rietdekkersbedrijf Van der",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

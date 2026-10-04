@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/katwijk/plas-dakbedekking-lood-en-zinkwerk-van-der/",
   "meta_title": "Plas Dakbedekking Lood en Zinkwerk Van der 06-12880392",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Katwijk? ✅  Plas Dakbedekking Lood en Zinkwerk Van der",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

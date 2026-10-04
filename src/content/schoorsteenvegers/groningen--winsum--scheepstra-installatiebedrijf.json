@@ -13,5 +13,9 @@
   "status": "gesloten",
   "oude_url": "/groningen/winsum/scheepstra-installatiebedrijf/",
   "meta_title": "Scheepstra Installatiebedrijf 0595-422360",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Winsum? ✅  Scheepstra Installatiebedrijf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Winsum? ✅  Scheepstra Installatiebedrijf",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

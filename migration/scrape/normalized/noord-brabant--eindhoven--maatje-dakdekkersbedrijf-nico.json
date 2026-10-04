@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/eindhoven/maatje-dakdekkersbedrijf-nico/",
   "meta_title": "Maatje Dakdekkersbedrijf Nico 040-2623080 info@nicomaatjedakwerken.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Maatje Dakdekkersbedrijf Nico",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

@@ -10,8 +10,12 @@
   "telefoon": "015-2121309",
   "lat": 52.013253,
   "lon": 4.362777,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/delft/advance/",
   "meta_title": "Advance 015-2121309",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Delft? ✅  Advance"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Delft? ✅  Advance",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/utrecht-gemeente/evers-schoonmaakbedrijf-bv/",
   "meta_title": "Evers Schoonmaakbedrijf BV 030-2411299 info@eversbv.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Evers Schoonmaakbedrijf BV",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

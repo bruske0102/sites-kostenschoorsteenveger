@@ -11,7 +11,7 @@
   "website": "http://www.voegbedrijftenboom.nl",
   "lat": 52.925821,
   "lon": 5.820627,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/friesland/ouwster-nijega/voegbedrijf-ten-boom/",
   "omschrijving": "Nieuwbouw : 06-51366127\n\n Wat wij doen:\nVoegbedrijf H.A. ten Boom is een fries familiebedrijf met een hecht constant personeelsbestand van ongeveer dertig mensen. Het bedrijf heeft al ruim dertig jaar ervaring in nieuwbouw- en renovatiewerk. Specialiteiten :\nVervangen voegwerk, Metselreparatie, Nieuwbouw, Buitenblad vervangen, Vervangen oude schoorstenen, Hoge druk reiniging, Impregneren\n\n Aangesloten bij / Certificering :\nVCA, BHV",
   "kenmerken": {
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Voegbedrijf ten Boom 06-51333191",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ouwster Nijega? ✅  Voegbedrijf ten Boom"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ouwster Nijega? ✅  Voegbedrijf ten Boom",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

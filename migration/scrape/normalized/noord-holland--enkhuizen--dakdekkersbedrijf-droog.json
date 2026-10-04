@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/enkhuizen/dakdekkersbedrijf-droog/",
   "meta_title": "Dakdekkersbedrijf Droog 0228-323304 info@droogdak.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Enkhuizen? ✅  Dakdekkersbedrijf Droog",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

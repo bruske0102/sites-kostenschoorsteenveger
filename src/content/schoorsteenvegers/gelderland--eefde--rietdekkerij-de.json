@@ -11,9 +11,13 @@
   "website": "http://www.rietdekkerij.nl",
   "lat": 52.164305,
   "lon": 6.212075,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/eefde/rietdekkerij-de/",
   "omschrijving": "Diensten :\nDakrenovatie\n\n Specialisatie :\nEnergiebesparing, Pannendak, Schoorsteen",
   "meta_title": "Rietdekkerij De 0575-511465",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eefde? ✅  Rietdekkerij De"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eefde? ✅  Rietdekkerij De",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

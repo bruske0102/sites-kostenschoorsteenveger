@@ -10,8 +10,12 @@
   "telefoon": "06-10468621",
   "lat": 51.43176,
   "lon": 5.413258,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/eindhoven/deko-dakservice/",
   "meta_title": "Deko Dakservice 06-10468621",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Deko Dakservice"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Deko Dakservice",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

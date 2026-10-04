@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/venray/tuhman-dakbedekkingen/",
   "meta_title": "Tuhman Dakbedekkingen 0478-533702",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Venray? ✅  Tuhman Dakbedekkingen",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

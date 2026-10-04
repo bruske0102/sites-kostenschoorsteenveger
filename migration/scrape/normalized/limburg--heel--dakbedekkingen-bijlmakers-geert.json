@@ -24,7 +24,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/heel/dakbedekkingen-bijlmakers-geert/",
   "meta_title": "Dakbedekkingen Bijlmakers Geert 0475-572257 info@bijlmakers.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heel? ✅  Dakbedekkingen Bijlmakers Geert",
@@ -33,5 +33,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

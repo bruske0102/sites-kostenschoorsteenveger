@@ -11,7 +11,7 @@
   "website": "http://www.benvandenbergrietdekkersbedrijf.nl",
   "lat": 52.566882,
   "lon": 6.258996,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/nieuwleusen/rietdekkersbedrijf-ben-vd-berg/",
   "omschrijving": "mobiele telefoon : 06-11155117\n\nhttp://www.benvandenbergrietdekkersbedrijf.nl\n\n Wat wij doen:\nRietdekkersbedrijf Ben van den Berg is een erkend rietdekkersbedrijf. Wij garanderen u een goed kwalitatief hoogwaardig afgewerkt dak. Ons bedrijf staat voor duurzaamheid en vakmanschap. Onze zorgvuldigheid komt niet alleen de kwaliteit maar ook de levensduur van uw dak ten goede.\n\nNaast het aanbrengen van een nieuw rieten dak kunt u bij ons bedrijf terecht voor onderhoud, reparatie en reinigen van uw rieten dak. Het dak kunt u bij ons ook laten behandelen tegen alg en mos. Tevens kunnen wij u een onderhoudscontract voor uw rieten dak aanbieden.\n\nEen dakraam, een dak doorvoer, zonne panelen plaatsen aansluiten en indekken in het riet en zelfs een dakkapel plaatsen in een bestaand rieten dak behoord tot de mogelijkheden.\n Service :\nOnline offerteaanvraag, vragen? bel 06-11155117\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie, alg en mos bestrijding, rietdekken, riet reparatie, stormschade rieten dak\n\n Specialisatie :\nDakraam, Rieten dak / rietdekker, Schoorsteen, alg en mosbestrijding, nokafwerking, schoorsteenkappen, dakdoorvoer in riet, rietdekken\n\n Aangesloten bij / Certificering :\nVCA, erkend vakdiploma rietdekken",
   "kenmerken": {
@@ -24,5 +24,9 @@
     ]
   },
   "meta_title": "Rietdekkersbedrijf Ben vd Berg 0529-481123",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwleusen? ✅  Rietdekkersbedrijf Ben vd Berg"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwleusen? ✅  Rietdekkersbedrijf Ben vd Berg",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

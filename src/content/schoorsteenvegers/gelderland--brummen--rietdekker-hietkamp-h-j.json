@@ -11,7 +11,7 @@
   "website": "http://www.rietdekkersbedrijfhietkamp.nl",
   "lat": 52.113624,
   "lon": 6.143032,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/brummen/rietdekker-hietkamp-h-j/",
   "omschrijving": "Wat wij doen:\nRietdekkersbedrijf Hietkamp in Oeken (gemeente Brummen).\n\nBij ons kunt u terecht voor alle werkzaamheden op het gebied van rietdekken. Zoals:\n\nNieuwbouw\nRestauratie\nReparatie\nOnderhoud\n\nOok kunt u bij ons terecht voor:\n\nSchoorsteenvegen\nDakgoot reiniging\n\nOver ons\nIn 1976 is Han begonnen als leerling rietdekker. Han heeft zijn vakdiploma's gehaald en veel werkervaring opgedaan bij verschillende bedrijven.\n\nHan is rietdekkersbedrijf Hietkamp in 1992 begonnen in Oeken. Voordat hij begon met zijn bedrijf heeft hij samengewerkt met rietdekkersbedrijf Van Galen uit Hall die al vele generaties in het rietdekkersvak werkzaam was. Zij hadden geen opvolgers, vandaar dat Han is begonnen met zijn eigen bedrijf.\n\nNadat Johan zijn rietdekkersdiploma heeft gehaald heeft hij drie jaar ervaring opgedaan bij een collega rietdekker. Sinds 2010 is Johan mede-eigenaar en tevens werkzaam bij rietdekkersbedrijf Hietkamp.\n\nOns werk bestaat het meest uit renovatie en vernieuwen, maar ook uit het repareren en schoonmaken van rietendaken. Tevens spuiten wij het dak tegen algengroei.\n\nWij werken veel in de regio Brummen, maar ook wel daarbuiten. Voor hele grote projecten werken wij samen met Nederlandse collega rietdekkers om de kwaliteit te kunnen blijven garanderen.\n\nGraag willen wij door de jarenlange ervaring de klanten informeren en adviseren over rietendaken.\n\nOok bieden wij de mogelijkheid om schoorstenen te vegen en dakgoten te reinigen.\n\nHan en Johan Hietkamp\n\n Service :\nTevens schoorsteen vegen\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakdekken, Dakonderhoud, Dakreiniging, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nRieten dak / rietdekker\n\n Aangesloten bij / Certificering :\nVakfederatie Rietdekkers",
   "kenmerken": {
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Rietdekker Hietkamp H J 0575-564290",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Brummen? ✅  Rietdekker Hietkamp H J"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Brummen? ✅  Rietdekker Hietkamp H J",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

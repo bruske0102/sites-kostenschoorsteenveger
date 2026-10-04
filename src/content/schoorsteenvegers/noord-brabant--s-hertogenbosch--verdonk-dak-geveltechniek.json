@@ -10,9 +10,13 @@
   "telefoon": "073-6122002",
   "lat": 51.6872305,
   "lon": 5.3293859999999995,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/s-hertogenbosch/verdonk-dak-geveltechniek/",
   "email": "dakengeveltechniek.verdonk@hotmail.nl",
   "meta_title": "Verdonk Dak- & Geveltechniek 073-6122002 dakengeveltechniek.verdonk@hotmail.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

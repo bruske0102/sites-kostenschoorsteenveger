@@ -10,8 +10,12 @@
   "telefoon": "033-4701746",
   "lat": 52.127116,
   "lon": 5.424077,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/leusden/runel/",
   "meta_title": "Runel 033-4701746",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leusden? ✅  Runel"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leusden? ✅  Runel",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

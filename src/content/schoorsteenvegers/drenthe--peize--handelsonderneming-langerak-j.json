@@ -10,8 +10,12 @@
   "telefoon": "050-5033437",
   "lat": 53.153557,
   "lon": 6.487591,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/drenthe/peize/handelsonderneming-langerak-j/",
   "meta_title": "Handelsonderneming Langerak J 050-5033437",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Peize? ✅  Handelsonderneming Langerak J"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Peize? ✅  Handelsonderneming Langerak J",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

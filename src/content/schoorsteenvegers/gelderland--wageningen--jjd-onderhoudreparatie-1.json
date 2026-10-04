@@ -10,10 +10,14 @@
   "telefoon": "0630495100",
   "lat": 51.9763057,
   "lon": 5.664753499999961,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/wageningen/jjd-onderhoudreparatie-1/",
   "email": "jjd457@hotmail.com",
   "omschrijving": "U krijgt bij ons altijd een veeg bewijs als garantie voor verzekering",
   "meta_title": "JJD onderhoud&reparatie 0630495100 jjd457@hotmail.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  JJD onderhoud&reparatie"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  JJD onderhoud&reparatie",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

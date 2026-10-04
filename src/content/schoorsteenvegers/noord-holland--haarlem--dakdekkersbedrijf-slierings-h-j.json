@@ -10,7 +10,7 @@
   "telefoon": "023-5320895",
   "lat": 52.390832,
   "lon": 4.653433,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/haarlem/dakdekkersbedrijf-slierings-h-j/",
   "email": "sliering@xs4all.nl",
   "omschrijving": "De dakbedekkers voor regio Haarlem\nSpecialist in dakbedekking, nieuwbouw,\nrenovatie en onderhoud van daken\nVoor platte daken, pannen daken of\nshingles daken\nOok voor al uw zinkwerk of loodwerk\n\nhttp://www.hjslierings.nl\n\n [email protected]\n\n Wat wij doen:\nWij zijn een dakdekkersbedrijf gevestigd op de Kuppersweg 1 in Haarlem. U kunt bij ons terecht voor alle soorten dakbedekking, nieuwbouw, renovatie en onderhoud van daken (platte daken, pannen daken of shingles daken), maar ook voor zinkwerk (goten, erkers of zinken dakjes) of loodwerk, bijvoorbeeld aan uw gevel of schoorsteen. In de loop der jaren hebben wij een goede reputatie opgebouwd op het gebied van kwaliteit en service. U krijgt bij ons dan ook 10 jaar garantie op geheel door ons verzorgde projecten!\n Openingstijden:\n Maandag : 07:00 - 16:00\n Dinsdag : 07:00 - 16:00\n Woensdag : 07:00 - 16:00\n Donderdag : 07:00 - 16:00\n Vrijdag : 07:00 - 16:00\n Zaterdag : gesloten\n Zondag : gesloten Service :\nAlleen op afspraak, Gratis advies, Gratis offerte, 10 jaar garantie op door ons gerealiseerde projecten, bij spoed kunt u ons buiten openingstijden bereiken op telefoonnumer: 06-51573177\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakgoot, Dakisolatie, Dakraam, Hemelwaterafvoer / regenpijp, Kunststof dakbedekking (EPDM / PVC / TPE), Leisteen dakbedekking, Lichtkoepel, Loodwerk en zinkwerk, Monumentaal dak, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking, Valbeveiliging\n\n Aangesloten bij / Certificering :\nVCA, Erkend leerbedrijf",
@@ -24,5 +24,9 @@
     ]
   },
   "meta_title": "Dakdekkersbedrijf Slierings H J 023-5320895 sliering@xs4all.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Dakdekkersbedrijf Slierings H J"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Dakdekkersbedrijf Slierings H J",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

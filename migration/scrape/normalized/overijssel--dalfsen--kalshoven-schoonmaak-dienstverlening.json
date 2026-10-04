@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/dalfsen/kalshoven-schoonmaak-dienstverlening/",
   "meta_title": "Kalshoven Schoonmaak Dienstverlening 0529-431207 info@kalshovendalfsen.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Dalfsen? ✅  Kalshoven Schoonmaak Dienstverlening",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/friesland/bolsward/boer-alkema-schoonmaakbedrijf-t-de/",
   "meta_title": "Boer-Alkema Schoonmaakbedrijf T de 0515-573993 info@deboeralkema.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Bolsward? ✅  Boer-Alkema Schoonmaakbedrijf T de",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

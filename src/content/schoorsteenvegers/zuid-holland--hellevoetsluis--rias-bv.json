@@ -11,8 +11,12 @@
   "website": "http://www.riasbv.nl",
   "lat": 51.843842,
   "lon": 4.166591,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/hellevoetsluis/rias-bv/",
   "meta_title": "Rias BV 0181-399181",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hellevoetsluis? ✅  Rias BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hellevoetsluis? ✅  Rias BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

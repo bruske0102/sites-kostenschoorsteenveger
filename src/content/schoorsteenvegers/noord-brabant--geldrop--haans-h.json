@@ -10,8 +10,12 @@
   "telefoon": "040-2854372",
   "lat": 51.421646,
   "lon": 5.542658,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/geldrop/haans-h/",
   "meta_title": "Haans H 040-2854372",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geldrop? ✅  Haans H"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geldrop? ✅  Haans H",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

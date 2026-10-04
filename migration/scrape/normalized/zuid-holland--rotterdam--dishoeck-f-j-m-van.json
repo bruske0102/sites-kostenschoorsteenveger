@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/rotterdam/dishoeck-f-j-m-van/",
   "meta_title": "Dishoeck F J M van 010-4520013",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Dishoeck F J M van",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

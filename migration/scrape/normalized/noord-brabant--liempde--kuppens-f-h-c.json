@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/liempde/kuppens-f-h-c/",
   "meta_title": "Kuppens F H C 0411-631666",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Liempde? ✅  Kuppens F H C",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

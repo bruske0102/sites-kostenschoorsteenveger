@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/elst/rietdekkersbedrijf-velthuizen-g-j-van/",
   "meta_title": "Rietdekkersbedrijf Velthuizen G J van 0318-478003 info@velthuizenrietdekkers.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Elst? ✅  Rietdekkersbedrijf Velthuizen G J van",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

@@ -10,8 +10,12 @@
   "telefoon": "030-2981571",
   "lat": 52.076247,
   "lon": 5.087925,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/utrecht-gemeente/housta/",
   "meta_title": "Housta 030-2981571",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Housta"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Utrecht (gemeente)? ✅  Housta",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

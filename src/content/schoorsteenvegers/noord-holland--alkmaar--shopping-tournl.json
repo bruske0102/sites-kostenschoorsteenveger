@@ -10,8 +10,12 @@
   "telefoon": "072-5642047",
   "lat": 52.649203,
   "lon": 4.749255,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/alkmaar/shopping-tournl/",
   "meta_title": "Shopping-Tour.nl 072-5642047",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alkmaar? ✅  Shopping-Tour.nl"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Alkmaar? ✅  Shopping-Tour.nl",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

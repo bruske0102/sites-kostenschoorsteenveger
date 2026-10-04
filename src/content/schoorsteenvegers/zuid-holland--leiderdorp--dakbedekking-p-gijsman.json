@@ -10,7 +10,7 @@
   "telefoon": "071-5820521",
   "lat": 52.172558,
   "lon": 4.538219,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/leiderdorp/dakbedekking-p-gijsman/",
   "email": "gijsmandakbedekking@live.nl",
   "omschrijving": "Wat wij doen:\nAl 35 jaar gespecialiseerd in alle soorten dakbedekking. Service :\nGeen voorrijkosten, Gratis advies, Gratis offerte, Uitgevoerde werkzaamheden onder volledige garantie, Weekendservice\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakcoating, Dakgoot, Dakisolatie, Dakraam, Dakterras, Duurzame dakbedekking, Hemelwaterafvoer / regenpijp, Lichtkoepel, Lichtstraat, Loodwerk en zinkwerk, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking\n\n Betalingsmogelijkheden :\nContant, Bank / Giro overschrijving",
@@ -21,5 +21,9 @@
     ]
   },
   "meta_title": "Dakbedekking P Gijsman 071-5820521 gijsmandakbedekking@live.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leiderdorp? ✅  Dakbedekking P Gijsman"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leiderdorp? ✅  Dakbedekking P Gijsman",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

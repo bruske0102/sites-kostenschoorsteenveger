@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/renswoude/rietdekkersbedrijf-e-schut/",
   "meta_title": "Rietdekkersbedrijf E Schut 0318-573058",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Renswoude? ✅  Rietdekkersbedrijf E Schut",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

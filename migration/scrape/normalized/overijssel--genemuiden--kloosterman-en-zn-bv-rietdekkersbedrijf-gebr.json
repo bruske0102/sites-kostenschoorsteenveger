@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/genemuiden/kloosterman-en-zn-bv-rietdekkersbedrijf-gebr/",
   "meta_title": "Kloosterman en Zn BV Rietdekkersbedrijf Gebr 038-3446426",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Genemuiden? ✅  Kloosterman en Zn BV Rietdekkersbedrijf Gebr",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

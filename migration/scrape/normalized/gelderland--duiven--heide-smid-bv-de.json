@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/duiven/heide-smid-bv-de/",
   "meta_title": "Heide Smid BV De 026-3192090",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Duiven? ✅  Heide Smid BV De",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

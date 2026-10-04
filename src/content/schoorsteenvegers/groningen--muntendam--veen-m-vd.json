@@ -10,8 +10,12 @@
   "telefoon": "0598-623812",
   "lat": 53.139241,
   "lon": 6.868115,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/muntendam/veen-m-vd/",
   "meta_title": "Veen M vd 0598-623812",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Muntendam? ✅  Veen M vd"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Muntendam? ✅  Veen M vd",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

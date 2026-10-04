@@ -11,7 +11,7 @@
   "website": "http://www.sluyerrietdekkers.nl",
   "lat": 52.472204,
   "lon": 6.515816,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/den-ham/d-sluijer-rietdekkersbedrijf/",
   "email": "dsluyer@hetnet.nl",
   "omschrijving": "http://www.sluyerrietdekkers.nl\n\n Wat wij doen:\nUw rietdekkersbedrijf als u kiest voor kwaliteit! Kwaliteit voor, tijdens en na de werkzaamheden.\nBij ons staat kwaliteit niet alleen synoniem aan een mooi gedekte rietenkap.\nOok een duidelijke offerte, persoonlijke aandacht en een eerlijke prijs zijn zaken die wij onder kwaliteit scharen.\nBij ons gaat het zowel om het proces als om het eindresultaat: een riet gedekte woning waar de eigenaar jarenlang plezier van heeft.\nNiet alleen omdat het eindresultaat mooi is, maar ook omdat de werkzaamheden duidelijk, eerlijk en prettig zijn uitgevoerd.\n\nBij ons gaat het niet alleen om mooie woorden. Om u, als klant, te kunnen aantonen dat kwaliteit voor ons belangrijk is, zijn wij lid van de Vakfederatie Rietdekkers. Hierdoor heeft u de garantie dat het rietdekken gebeurt door een gediplomeerde instelling die zich houdt aan de kwaliteitseisen die door de federatie worden opgesteld. Service :\nGratis advies, Gratis offerte, Uitgevoerde werkzaamheden onder volledige garantie, onderhoudscontract\n\n Doelgroep :\nParticulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nPannendak, Rieten dak / rietdekker, Schoorsteen, bestrijding van algen en mossen, gesloten constructie ( schroefdak), open constructie ( traditioneel)\n\n Aangesloten bij / Certificering :\nVakfederatie Rietdekkers, Kamer van Koophandel",
@@ -22,5 +22,9 @@
     ]
   },
   "meta_title": "D Sluijer Rietdekkersbedrijf 06-46181088 dsluyer@hetnet.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Ham? ✅  D Sluijer Rietdekkersbedrijf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Ham? ✅  D Sluijer Rietdekkersbedrijf",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

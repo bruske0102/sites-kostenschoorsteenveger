@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/maastricht/bergenhuizen-dakwerken/",
   "meta_title": "Bergenhuizen Dakwerken 043-3616139 info@bergenhuizendakwerken.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Bergenhuizen Dakwerken",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

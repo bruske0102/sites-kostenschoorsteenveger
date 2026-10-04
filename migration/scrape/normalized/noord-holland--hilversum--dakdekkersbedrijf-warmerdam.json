@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/hilversum/dakdekkersbedrijf-warmerdam/",
   "meta_title": "Dakdekkersbedrijf Warmerdam 06-24639555 c.warmerdam1@gmail.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hilversum? ✅  Dakdekkersbedrijf Warmerdam",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

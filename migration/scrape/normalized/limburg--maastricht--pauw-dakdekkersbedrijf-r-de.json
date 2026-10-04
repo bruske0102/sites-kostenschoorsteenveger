@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/maastricht/pauw-dakdekkersbedrijf-r-de/",
   "meta_title": "Pauw Dakdekkersbedrijf R de 043-3622021 rdepauw@hotmail.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maastricht? ✅  Pauw Dakdekkersbedrijf R de",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

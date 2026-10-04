@@ -10,7 +10,7 @@
   "telefoon": "023-5382478",
   "lat": 52.409071,
   "lon": 4.652411,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/haarlem/koopman-zn-fa-g/",
   "email": "koopmanmarco@hetnet.nl",
   "omschrijving": "ASPB : 023-5382478\n\n023-5382478\n\n Wat wij doen:\nProfessionele en Veilige Reiniging van Schoorstenen & Rookkanalen. Specialiteiten :\nReiniging, Schoorstenen, Rookkanalen\n\n Service :\nGratis offerte\n\n Aangesloten bij / Certificering :\n ASPB",
@@ -23,5 +23,9 @@
     ]
   },
   "meta_title": "Koopman & Zn Fa G 023-5382478 koopmanmarco@hetnet.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Koopman & Zn Fa G"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Koopman & Zn Fa G",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

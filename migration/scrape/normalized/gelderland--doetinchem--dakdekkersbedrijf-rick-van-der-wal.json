@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/doetinchem/dakdekkersbedrijf-rick-van-der-wal/",
   "meta_title": "Dakdekkersbedrijf Rick van der Wal 0314-330025 rick.vanderwal@12move.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Doetinchem? ✅  Dakdekkersbedrijf Rick van der Wal",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

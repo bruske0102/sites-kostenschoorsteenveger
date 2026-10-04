@@ -11,7 +11,7 @@
   "website": "http://www.dakodak.nl",
   "lat": 51.940118,
   "lon": 4.392878,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/schiedam/dako-dakbedekking/",
   "email": "dakodak@caiway.nl",
   "omschrijving": "http://www.dakodak.nl\n\n Wat wij doen:\nWij zijn actief in deze regio sinds 1997. In al deze jaren hebben wij door onze kennis een brede klantenkring op kunnen bouwen.\nOnze werkzaamheden bestaan voornamelijk uit het aanbrengen van diverse dakbedekkingen zoals bitumen en PVC. Ook hellende daken van dakpannen en shingles behoren tot onze activiteiten.\nOok voor dakgoten en zinkwerk. Openingstijden:\n Maandag : 08:00 - 18:00\n Dinsdag : 08:00 - 18:00\n Woensdag : 08:00 - 18:00\n Donderdag : 08:00 - 18:00\n Vrijdag : 09:00 - 18:00\n Zaterdag : 09:00 - 15:00\n Zondag : gesloten Service :\nGeen voorrijkosten, Gratis advies, Gratis offerte, Online offerteaanvraag, Uitgevoerde werkzaamheden onder volledige garantie\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakreiniging, Dakrenovatie, Dakreparatie, Dakrestauratie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakbestrating, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Dakterras, Duurzame dakbedekking, Energiebesparing, Kunststof dakbedekking (EPDM / PVC / TPE), Lichtkoepel, Lichtstraat, Loodwerk en zinkwerk, Pannendak, Plat dak, Schoorsteen, Shingle dakbedekking, Valbeveiliging, Windbelasting berekening, hellend dak\n\n Betalingsmogelijkheden :\nBank / Giro overschrijving, alle betalingen binnen 15 dagen na factuurdatum.\n\n Aangesloten bij / Certificering :\n9001, VCA",
@@ -22,5 +22,9 @@
     ]
   },
   "meta_title": "Dako Dakbedekking 010-4719703 dakodak@caiway.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schiedam? ✅  Dako Dakbedekking"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Schiedam? ✅  Dako Dakbedekking",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

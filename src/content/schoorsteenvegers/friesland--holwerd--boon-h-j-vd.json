@@ -10,8 +10,12 @@
   "telefoon": "0519-321302",
   "lat": 53.366707,
   "lon": 5.92421,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/friesland/holwerd/boon-h-j-vd/",
   "meta_title": "Boon H J vd 0519-321302",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Holwerd? ✅  Boon H J vd"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Holwerd? ✅  Boon H J vd",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

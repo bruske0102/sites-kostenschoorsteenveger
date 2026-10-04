@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/heerlen/couvee-b/",
   "meta_title": "Couvee B 045-5416105 b.couvee@hotmail.com",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heerlen? ✅  Couvee B",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

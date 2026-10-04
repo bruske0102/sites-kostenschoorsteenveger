@@ -1,0 +1,3160 @@
+{
+  "checked": [
+    {
+      "id": 1312117,
+      "naam": "Dekker Schoorsteentechniek J J",
+      "website": "http://www.schoorsteenvegerij.com",
+      "status": "dood",
+      "final": "https://www.schoorsteenvegerij.com",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:11Z",
+      "source": "http://www.schoorsteenvegerij.com"
+    },
+    {
+      "id": 1312335,
+      "naam": "Jans en Zwiggelaar Voegwerken",
+      "website": "http://www.jansenzwiggelaarvoegwerken.nl",
+      "status": "ok",
+      "final": "http://www.jansenzwiggelaarvoegwerken.nl",
+      "checked_at": "2026-10-04T14:42:11Z",
+      "source": "http://www.jansenzwiggelaarvoegwerken.nl"
+    },
+    {
+      "id": 1312182,
+      "naam": "Zuijdwijk Schoorsteenservice",
+      "website": "http://www.schoorsteenservice.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenservice.nl/",
+      "checked_at": "2026-10-04T14:42:11Z",
+      "source": "http://www.schoorsteenservice.nl"
+    },
+    {
+      "id": 1312338,
+      "naam": "Kernebeek J van",
+      "website": "http://www.kernebeekmetselwerken.nl",
+      "status": "twijfel",
+      "final": "http://www.kernebeekmetselwerken.nl",
+      "reason": "HTTP 502",
+      "checked_at": "2026-10-04T14:42:12Z",
+      "source": "http://www.kernebeekmetselwerken.nl"
+    },
+    {
+      "id": 1312521,
+      "naam": "Lugtmeijer Rietdekkersbedrijf",
+      "website": "http://www.rietdekkersbedrijf-lugtmeijer.nl",
+      "status": "dood",
+      "final": "https://www.rietdekkersbedrijf-lugtmeijer.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:12Z",
+      "source": "http://www.rietdekkersbedrijf-lugtmeijer.nl"
+    },
+    {
+      "id": 2409154,
+      "naam": "HVS-Schoorsteenveegbedrijf",
+      "website": "http://www.HVS-Schoorsteenveegbedrijf.nl",
+      "status": "ok",
+      "final": "https://www.hvs-schoorsteenveegbedrijf.nl/",
+      "checked_at": "2026-10-04T14:42:12Z",
+      "source": "http://www.HVS-Schoorsteenveegbedrijf.nl"
+    },
+    {
+      "id": 1312075,
+      "naam": "Popping Schoorsteentechniek",
+      "website": "http://www.poppingschoorsteentechniek.nl",
+      "status": "ok",
+      "final": "https://www.poppingschoorsteentechniek.nl/",
+      "checked_at": "2026-10-04T14:42:12Z",
+      "source": "http://www.poppingschoorsteentechniek.nl"
+    },
+    {
+      "id": 1312232,
+      "naam": "Harskamp Daken BV",
+      "website": "http://www.harskampdaken.nl",
+      "status": "ander_domein",
+      "final": "https://www.daktecdolfsma.nl/",
+      "reason": "unrelated redirect harskampdaken.nl → daktecdolfsma.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.harskampdaken.nl"
+    },
+    {
+      "id": 1312425,
+      "naam": "Ensotec Schoorsteentechniek",
+      "website": "http://www.ensotec.nl",
+      "status": "ok",
+      "final": "http://www.ensotec.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.ensotec.nl"
+    },
+    {
+      "id": 1312115,
+      "naam": "Boer-Alkema Schoonmaakbedrijf T de",
+      "website": "http://www.deboeralkema.nl",
+      "status": "ok",
+      "final": "https://www.deboeralkema.nl/",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.deboeralkema.nl"
+    },
+    {
+      "id": 1312516,
+      "naam": "Luinge Schoonmaakbedrijf BV",
+      "website": "http://www.luinge.nl",
+      "status": "ander_domein",
+      "final": "https://www.effektief.nl/",
+      "reason": "unrelated redirect luinge.nl → effektief.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.luinge.nl"
+    },
+    {
+      "id": 1312669,
+      "naam": "Mijnders Schoorsteenveegbedrijf M",
+      "website": "http://www.schoorsteenveegbedrijf-mijnders.nl",
+      "status": "ok",
+      "final": "http://www.schoorsteenveegbedrijf-mijnders.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.schoorsteenveegbedrijf-mijnders.nl"
+    },
+    {
+      "id": 1312522,
+      "naam": "Hondsrug Schoorsteenveger De",
+      "website": "http://www.schoorsteenvegerdehondsrug.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenvegerdehondsrug.nl/",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.schoorsteenvegerdehondsrug.nl"
+    },
+    {
+      "id": 1312570,
+      "naam": "Haan Renovatie De",
+      "website": "http://www.dehaanrenovatie.nl",
+      "status": "ok",
+      "final": "https://www.dehaanrenovatie.nl/",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.dehaanrenovatie.nl"
+    },
+    {
+      "id": 1312283,
+      "naam": "Cekadak Beilen BV",
+      "website": "http://www.cekadak.nl",
+      "status": "ander_domein",
+      "final": "https://jalving.nl/",
+      "reason": "unrelated redirect cekadak.nl → jalving.nl",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.cekadak.nl"
+    },
+    {
+      "id": 1312572,
+      "naam": "Schippers Gevelrenovatie H J",
+      "website": "http://www.stucsteen.nl",
+      "status": "spam",
+      "final": "https://www.stucsteen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.stucsteen.nl"
+    },
+    {
+      "id": 1312118,
+      "naam": "Helder Schoorsteenveegbedrijf",
+      "website": "http://www.helderschoorsteenveegbedrijf.nl",
+      "status": "ok",
+      "final": "https://helderschoorsteenveegbedrijf.nl/",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.helderschoorsteenveegbedrijf.nl"
+    },
+    {
+      "id": 1312663,
+      "naam": "Houtkachelwarmte Hielke IJlstra",
+      "website": "http://www.houtkachelwarmte.nl",
+      "status": "ok",
+      "final": "https://www.houtkachelwarmte.nl/",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.houtkachelwarmte.nl"
+    },
+    {
+      "id": 1312208,
+      "naam": "Menno Sappé BV Reinigingsspecialisten",
+      "website": "http://www.sappe.nl",
+      "status": "ok",
+      "final": "https://www.sappe.nl/",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.sappe.nl"
+    },
+    {
+      "id": 1312666,
+      "naam": "Multiservice Terschelling",
+      "website": "http://www.edplanting.nl",
+      "status": "dood",
+      "final": "https://www.edplanting.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.edplanting.nl"
+    },
+    {
+      "id": 1312212,
+      "naam": "Alkimon",
+      "website": "http://www.alkimon.nl",
+      "status": "ok",
+      "final": "https://alkimon.nl/",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.alkimon.nl"
+    },
+    {
+      "id": 1312181,
+      "naam": "Hof Schoorsteenveger",
+      "website": "https://schoorsteenveger-hof.nl",
+      "status": "ok",
+      "final": "https://schoorsteenveger-hof.nl",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "https://schoorsteenveger-hof.nl"
+    },
+    {
+      "id": 1312307,
+      "naam": "Kor Fidder Schoorsteenveger",
+      "website": "http://www.korfidder.nl",
+      "status": "ok",
+      "final": "https://www.korfidder.nl/",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.korfidder.nl"
+    },
+    {
+      "id": 1312569,
+      "naam": "Huitema Schoorsteen- en Kacheltechniek",
+      "website": "http://www.huitema-kachels.nl",
+      "status": "ander_domein",
+      "final": "https://www.speksteenkachel.nl/",
+      "reason": "unrelated redirect huitema-kachels.nl → speksteenkachel.nl",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.huitema-kachels.nl"
+    },
+    {
+      "id": 1312209,
+      "naam": "Vogelzang Schoorsteenveger",
+      "website": "http://www.schoorsteenveger-vogelzang.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenveger-vogelzang.nl/",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.schoorsteenveger-vogelzang.nl"
+    },
+    {
+      "id": 1312116,
+      "naam": "Westerhuis Openhaarden-Kachels & Zonwering",
+      "website": "http://www.firmawesterhuis.nl",
+      "status": "ok",
+      "final": "http://www.firmawesterhuis.nl",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.firmawesterhuis.nl"
+    },
+    {
+      "id": 1312210,
+      "naam": "Kachelspeciaalzaak De Smidse",
+      "website": "http://www.desmidse.nl",
+      "status": "ok",
+      "final": "https://www.desmidse.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.desmidse.nl"
+    },
+    {
+      "id": 1312574,
+      "naam": "Braaksma Gevelrenovatie",
+      "website": "http://www.gevelrenovatiebraaksma.nl",
+      "status": "ok",
+      "final": "https://www.gevelrenovatiebraaksma.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.gevelrenovatiebraaksma.nl"
+    },
+    {
+      "id": 2409485,
+      "naam": "schoorsteenveger hof jr",
+      "website": "http://www.schoorsteenvegerhofjr.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenvegerhofjr.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.schoorsteenvegerhofjr.nl"
+    },
+    {
+      "id": 2409484,
+      "naam": "marcel hof",
+      "website": "http://www.schoorsteenvegerhofjr.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenvegerhofjr.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.schoorsteenvegerhofjr.nl"
+    },
+    {
+      "id": 1312523,
+      "naam": "ATT Schoorsteentechniek",
+      "website": "https://www.attschoorsteentechniek.nl/",
+      "status": "ok",
+      "final": "https://www.attschoorsteentechniek.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "https://www.attschoorsteentechniek.nl/"
+    },
+    {
+      "id": 1312348,
+      "naam": "OMBU Gevelrenovatie & Voegwerken",
+      "website": "http://www.ombu.nl",
+      "status": "ok",
+      "final": "https://ombu.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.ombu.nl"
+    },
+    {
+      "id": 1312573,
+      "naam": "Voegbedrijf ten Boom",
+      "website": "http://www.voegbedrijftenboom.nl",
+      "status": "ok",
+      "final": "https://www.voegbedrijftenboom.nl/",
+      "checked_at": "2026-10-04T14:42:16Z",
+      "source": "http://www.voegbedrijftenboom.nl"
+    },
+    {
+      "id": 1312563,
+      "naam": "Jaap Derks",
+      "website": "http://www.jaapderks.nl",
+      "status": "ok",
+      "final": "https://www.jaapderks.nl/",
+      "checked_at": "2026-10-04T14:42:17Z",
+      "source": "http://www.jaapderks.nl"
+    },
+    {
+      "id": 1312268,
+      "naam": "Dakbedekking Heuveling",
+      "website": "http://www.heuveling-dakdekkers.nl",
+      "status": "ok",
+      "final": "https://www.heuveling-dakdekkers.nl/",
+      "checked_at": "2026-10-04T14:42:17Z",
+      "source": "http://www.heuveling-dakdekkers.nl"
+    },
+    {
+      "id": 1312276,
+      "naam": "De Gelderse Schoorsteenveeg- centrale",
+      "website": "http://www.gelderseschoorsteenveegcentrale.nl",
+      "status": "dood",
+      "final": "https://www.gelderseschoorsteenveegcentrale.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:17Z",
+      "source": "http://www.gelderseschoorsteenveegcentrale.nl"
+    },
+    {
+      "id": 1312192,
+      "naam": "Dakdekkersbedrijf Rick van der Wal",
+      "website": "http://www.dakdekkersbedrijf-rickvanderwal.nl",
+      "status": "ok",
+      "final": "https://www.dakdekkersbedrijf-rickvanderwal.nl/",
+      "checked_at": "2026-10-04T14:42:17Z",
+      "source": "http://www.dakdekkersbedrijf-rickvanderwal.nl"
+    },
+    {
+      "id": 1312531,
+      "naam": "Kersten Schoorsteenveeg Dak & Reparatie Bedrijf",
+      "website": "http://www.lkersten.nl",
+      "status": "ok",
+      "final": "https://www.lkersten.nl/",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.lkersten.nl"
+    },
+    {
+      "id": 1312534,
+      "naam": "SelTec-Maatwerk InstallatieTechniek",
+      "website": "http://www.seltec-maatwerk.nl",
+      "status": "ok",
+      "final": "https://www.seltec-maatwerk.nl/",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.seltec-maatwerk.nl"
+    },
+    {
+      "id": 1312113,
+      "naam": "Engelenburg BV Kachelspecialist",
+      "website": "http://www.kachelspecialist-engelenburg.nl",
+      "status": "ok",
+      "final": "http://www.kachelspecialist-engelenburg.nl",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.kachelspecialist-engelenburg.nl"
+    },
+    {
+      "id": 1312109,
+      "naam": "Hafkamp Installatietechniek BV",
+      "website": "http://www.hafkamp.nu",
+      "status": "ander_domein",
+      "final": "https://www.drmtechniek.com/",
+      "reason": "unrelated redirect hafkamp.nu → drmtechniek.com",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.hafkamp.nu"
+    },
+    {
+      "id": 1312546,
+      "naam": "Heide Smid BV De",
+      "website": "http://www.heidesmid.nl",
+      "status": "ok",
+      "final": "https://www.heidesmid.nl/",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.heidesmid.nl"
+    },
+    {
+      "id": 1312227,
+      "naam": "Engels Erkend Schoorsteenveegbedrijf F",
+      "website": "http://www.schoorsteenveegbedrijfengels.nl",
+      "status": "verhuisd",
+      "url": "https://www.schoorsteenveegbedrijf.nl/",
+      "final": "https://www.schoorsteenveegbedrijf.nl/",
+      "reason": "schoorsteenveegbedrijfengels.nl → schoorsteenveegbedrijf.nl",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.schoorsteenveegbedrijfengels.nl"
+    },
+    {
+      "id": 1312538,
+      "naam": "Janssen Dakwerken",
+      "website": "http://www.janssendakwerken.nl",
+      "status": "ok",
+      "final": "https://www.janssendakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.janssendakwerken.nl"
+    },
+    {
+      "id": 1312270,
+      "naam": "Veldhuizen Installatiebedrijf BV H J van",
+      "website": "http://www.veldhuizenbv.nl",
+      "status": "ok",
+      "final": "https://www.veldhuizenbv.nl/",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.veldhuizenbv.nl"
+    },
+    {
+      "id": 1312262,
+      "naam": "Panflex flexibel voor u",
+      "website": "http://www.panflex.nl",
+      "status": "ok",
+      "final": "https://www.panflex.nl/",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.panflex.nl"
+    },
+    {
+      "id": 1312552,
+      "naam": "Hoorn Schoorsteenveegbedrijf Van den",
+      "website": "http://www.schoorsteenveegbedrijfvdhoorn.nl",
+      "status": "dood",
+      "final": "https://www.schoorsteenveegbedrijfvdhoorn.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.schoorsteenveegbedrijfvdhoorn.nl"
+    },
+    {
+      "id": 1312547,
+      "naam": "Haastrecht Erkend Schoorsteenveegbedr Van",
+      "website": "http://www.schoorsteenveegbedrijf.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenveegbedrijf.nl/",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.schoorsteenveegbedrijf.nl"
+    },
+    {
+      "id": 1312304,
+      "naam": "Rietdekkerij De",
+      "website": "http://www.rietdekkerij.nl",
+      "status": "ok",
+      "final": "https://www.rietdekkerij.nl/",
+      "checked_at": "2026-10-04T14:42:19Z",
+      "source": "http://www.rietdekkerij.nl"
+    },
+    {
+      "id": 1312305,
+      "naam": "Rietdekkersbedrijf Dijkerman",
+      "website": "http://www.dijkermanrietdekkers.nl",
+      "status": "ok",
+      "final": "http://www.dijkermanrietdekkers.nl",
+      "checked_at": "2026-10-04T14:42:20Z",
+      "source": "http://www.dijkermanrietdekkers.nl"
+    },
+    {
+      "id": 1312551,
+      "naam": "Loonwerk en Transport vh Goor",
+      "website": "http://www.vanhetgoor.nl",
+      "status": "ok",
+      "final": "https://www.vanhetgoor.nl/",
+      "checked_at": "2026-10-04T14:42:20Z",
+      "source": "http://www.vanhetgoor.nl"
+    },
+    {
+      "id": 1312579,
+      "naam": "Heide Smid BV",
+      "website": "http://www.heidesmid.nl",
+      "status": "ok",
+      "final": "https://www.heidesmid.nl/",
+      "checked_at": "2026-10-04T14:42:20Z",
+      "source": "http://www.heidesmid.nl"
+    },
+    {
+      "id": 1312584,
+      "naam": "Veggelers Sfeerverwarming D",
+      "website": "http://www.schoorsteenveger.af.nl",
+      "status": "dood",
+      "final": "https://www.schoorsteenveger.af.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:20Z",
+      "source": "http://www.schoorsteenveger.af.nl"
+    },
+    {
+      "id": 1312555,
+      "naam": "Kramer Loodgietersbedrijf",
+      "website": "http://www.kramer-epe.nl",
+      "status": "ok",
+      "final": "https://www.kramer-epe.nl/",
+      "checked_at": "2026-10-04T14:42:20Z",
+      "source": "http://www.kramer-epe.nl"
+    },
+    {
+      "id": 1312358,
+      "naam": "Dakdekkersbedrijf Tesse-Daken BV",
+      "website": "http://www.tessedaken.nl",
+      "status": "ok",
+      "final": "https://www.tessedaken.nl/",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.tessedaken.nl"
+    },
+    {
+      "id": 1312536,
+      "naam": "Harmsen Voegwerken & Reinigingstechniek BV",
+      "website": "http://www.harmsenvoegwerken.nl",
+      "status": "ok",
+      "final": "https://www.harmsenvoegwerken.nl/",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.harmsenvoegwerken.nl"
+    },
+    {
+      "id": 1312414,
+      "naam": "Insta-Sterk",
+      "website": "http://www.insta-sterk.nl",
+      "status": "ok",
+      "final": "https://insta-sterk.nl/",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.insta-sterk.nl"
+    },
+    {
+      "id": 1312127,
+      "naam": "ThermAll BV",
+      "website": "http://www.thermall.nl",
+      "status": "ok",
+      "final": "https://thermall.nl/",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.thermall.nl"
+    },
+    {
+      "id": 1312549,
+      "naam": "Blokker Daksystemen BV",
+      "website": "http://www.dakdenker.nl",
+      "status": "verhuisd",
+      "url": "https://www.blokkerdaksystemen.nl/",
+      "final": "https://www.blokkerdaksystemen.nl/",
+      "reason": "dakdenker.nl → blokkerdaksystemen.nl",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.dakdenker.nl"
+    },
+    {
+      "id": 1312253,
+      "naam": "Wetering Dienstverlening",
+      "website": "http://www.wetering-schoorsteenveger.nl",
+      "status": "ok",
+      "final": "http://www.wetering-schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:42:21Z",
+      "source": "http://www.wetering-schoorsteenveger.nl"
+    },
+    {
+      "id": 1312261,
+      "naam": "Bosvelt en Haisch Dak- & Isolatietechniek",
+      "website": "http://www.bhisolatietechniek.nl",
+      "status": "ok",
+      "final": "https://bhisolatietechniek.nl/",
+      "checked_at": "2026-10-04T14:42:22Z",
+      "source": "http://www.bhisolatietechniek.nl"
+    },
+    {
+      "id": 1312556,
+      "naam": "Trapspecialist De",
+      "website": "http://www.de-trapspecialist.nl",
+      "status": "ok",
+      "final": "http://de-trapspecialist.nl/",
+      "checked_at": "2026-10-04T14:42:22Z",
+      "source": "http://www.de-trapspecialist.nl"
+    },
+    {
+      "id": 1312670,
+      "naam": "Schoorsteenveger Foppen",
+      "website": "http://www.schoorsteenvegerfoppen.nl",
+      "status": "ok",
+      "final": "https://schoorsteenvegerfoppen.nl/",
+      "checked_at": "2026-10-04T14:42:22Z",
+      "source": "http://www.schoorsteenvegerfoppen.nl"
+    },
+    {
+      "id": 1312466,
+      "naam": "Tromp en Van Eck BV",
+      "website": "http://www.trompenvaneck.nl",
+      "status": "dood",
+      "final": "https://www.trompenvaneck.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:22Z",
+      "source": "http://www.trompenvaneck.nl"
+    },
+    {
+      "id": 1312554,
+      "naam": "Boudewijn Schoorsteenvegers",
+      "website": "http://www.boudewijnschoorsteenvegers.nl",
+      "status": "ok",
+      "final": "https://www.boudewijnschoorsteenvegers.nl/",
+      "checked_at": "2026-10-04T14:42:23Z",
+      "source": "http://www.boudewijnschoorsteenvegers.nl"
+    },
+    {
+      "id": 1312589,
+      "naam": "Rietdekkersbedrijf Wekerom",
+      "website": "http://www.rietdekkersbedrijfwekerom.nl",
+      "status": "ok",
+      "final": "https://rietdekkersbedrijfwekerom.nl/",
+      "checked_at": "2026-10-04T14:42:23Z",
+      "source": "http://www.rietdekkersbedrijfwekerom.nl"
+    },
+    {
+      "id": 1312190,
+      "naam": "Schoorsteenveegcentrale O-G",
+      "website": "http://www.schoorsteenveegcentrale.com",
+      "status": "ok",
+      "final": "https://www.schoorsteenveegcentrale.com/",
+      "checked_at": "2026-10-04T14:42:24Z",
+      "source": "http://www.schoorsteenveegcentrale.com"
+    },
+    {
+      "id": 1312592,
+      "naam": "Ekogras Dakbegroeiing",
+      "website": "http://www.ekogras.com",
+      "status": "verhuisd",
+      "url": "https://www.ekogras.info/",
+      "final": "https://www.ekogras.info/",
+      "reason": "ekogras.com → ekogras.info",
+      "checked_at": "2026-10-04T14:42:24Z",
+      "source": "http://www.ekogras.com"
+    },
+    {
+      "id": 1312346,
+      "naam": "Gelders Service Bedrijf BV",
+      "website": "http://www.geldersservicebedrijf.nl",
+      "status": "ok",
+      "final": "https://www.geldersservicebedrijf.nl/",
+      "checked_at": "2026-10-04T14:42:25Z",
+      "source": "http://www.geldersservicebedrijf.nl"
+    },
+    {
+      "id": 1312306,
+      "naam": "Rietdekker Hietkamp H J",
+      "website": "http://www.rietdekkersbedrijfhietkamp.nl",
+      "status": "ok",
+      "final": "https://rietdekkersbedrijfhietkamp.nl/",
+      "checked_at": "2026-10-04T14:42:25Z",
+      "source": "http://www.rietdekkersbedrijfhietkamp.nl"
+    },
+    {
+      "id": 1312067,
+      "naam": "De Zwarte Wolf",
+      "website": "http://www.dezwartewolf.nl",
+      "status": "dood",
+      "final": "https://www.dezwartewolf.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:25Z",
+      "source": "http://www.dezwartewolf.nl"
+    },
+    {
+      "id": 1312299,
+      "naam": "Boddeke Schoorsteenveegbedrijf",
+      "website": "http://www.boddeke.nl",
+      "status": "ok",
+      "final": "https://www.boddeke.nl/",
+      "checked_at": "2026-10-04T14:42:26Z",
+      "source": "http://www.boddeke.nl"
+    },
+    {
+      "id": 1312530,
+      "naam": "Boddeke Schoorsteenvegersbedrijf",
+      "website": "http://www.boddeke.nl",
+      "status": "ok",
+      "final": "https://www.boddeke.nl/",
+      "checked_at": "2026-10-04T14:42:26Z",
+      "source": "http://www.boddeke.nl"
+    },
+    {
+      "id": 1312072,
+      "naam": "Brandt Daktechniek & Onderhoud VOF",
+      "website": "http://www.bdto.nl",
+      "status": "verhuisd",
+      "url": "https://www.brandtonderhoudreparatie.nl/",
+      "final": "https://www.brandtonderhoudreparatie.nl/",
+      "reason": "bdto.nl → brandtonderhoudreparatie.nl",
+      "checked_at": "2026-10-04T14:42:26Z",
+      "source": "http://www.bdto.nl"
+    },
+    {
+      "id": 1312351,
+      "naam": "Koerts Dakwerken BV",
+      "website": "http://www.koertsdakwerken.nl",
+      "status": "ok",
+      "final": "https://www.koertsdakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:26Z",
+      "source": "http://www.koertsdakwerken.nl"
+    },
+    {
+      "id": 1312324,
+      "naam": "Rouwkema Schoorsteenveegbedrijf",
+      "website": "http://www.schoorsteenveger-rouwkema.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenveger-rouwkema.nl/",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.schoorsteenveger-rouwkema.nl"
+    },
+    {
+      "id": 1312187,
+      "naam": "Bouwbedrijf Henk Slagter",
+      "website": "http://www.bouwbedrijfhenkslagter.nl",
+      "status": "ok",
+      "final": "https://bouwbedrijfhenkslagter.nl/",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.bouwbedrijfhenkslagter.nl"
+    },
+    {
+      "id": 1312298,
+      "naam": "JD Klus-Schoorsteenveegbedrijf",
+      "website": "http://www.klusschoorsteenveegbedrijfjd.nl",
+      "status": "dood",
+      "final": "http://www.klusschoorsteenveegbedrijfjd.nl",
+      "reason": "HTTP 404",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.klusschoorsteenveegbedrijfjd.nl"
+    },
+    {
+      "id": 1312355,
+      "naam": "Schoorsteenveegbedrijf Van Haren",
+      "website": "http://www.vanharenschoorsteenveegbedrijf.nl",
+      "status": "twijfel",
+      "final": "http://www.vanharenschoorsteenveegbedrijf.nl",
+      "reason": "HTTP 500",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.vanharenschoorsteenveegbedrijf.nl"
+    },
+    {
+      "id": 1312580,
+      "naam": "Brandenbarg Schoorsteenveeg-Bedrijf Gerard",
+      "website": "http://www.schoorsteenveegbedrijfzelhem.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenveegbedrijfzelhem.nl/",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.schoorsteenveegbedrijfzelhem.nl"
+    },
+    {
+      "id": 1312354,
+      "naam": "Miedema Schoorsteenveger",
+      "website": "http://www.schoorsteenveger-miedema.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteenveger-miedema.nl/",
+      "checked_at": "2026-10-04T14:42:27Z",
+      "source": "http://www.schoorsteenveger-miedema.nl"
+    },
+    {
+      "id": 1312186,
+      "naam": "Huizing Gevelonderhoud Koos",
+      "website": "http://www.khgevelonderhoud.nl",
+      "status": "ok",
+      "final": "https://www.khgevelonderhoud.nl/",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.khgevelonderhoud.nl"
+    },
+    {
+      "id": 1312345,
+      "naam": "Koster Installatietechniek",
+      "website": "http://www.koster-installatietechniek.nl",
+      "status": "dood",
+      "final": "https://koster-installatietechniek.nl/",
+      "reason": "HTTP 410",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.koster-installatietechniek.nl"
+    },
+    {
+      "id": 1312361,
+      "naam": "Lachende Schoorsteenveger De",
+      "website": "http://www.delachendeschoorsteenveger.nl",
+      "status": "ok",
+      "final": "https://www.delachendeschoorsteenveger.nl/",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.delachendeschoorsteenveger.nl"
+    },
+    {
+      "id": 1312183,
+      "naam": "Pijper Aannemingsbedrijf",
+      "website": "http://www.pijperbouw.nl",
+      "status": "ok",
+      "final": "https://www.pijperbouw.nl/",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.pijperbouw.nl"
+    },
+    {
+      "id": 1312157,
+      "naam": "Arend vd Meer Dakbedekkersbedrijf",
+      "website": "http://www.arendvandermeer.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.arendvandermeer.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.arendvandermeer.nl"
+    },
+    {
+      "id": 1312197,
+      "naam": "Roger Soons Dakservice",
+      "website": "http://www.rogersoonsdakservice.nl",
+      "status": "dood",
+      "final": "https://www.rogersoonsdakservice.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:28Z",
+      "source": "http://www.rogersoonsdakservice.nl"
+    },
+    {
+      "id": 1312336,
+      "naam": "Le Ramoneur",
+      "website": "http://www.leramoneur.nl",
+      "status": "ok",
+      "final": "http://leramoneur.nl/",
+      "checked_at": "2026-10-04T14:42:29Z",
+      "source": "http://www.leramoneur.nl"
+    },
+    {
+      "id": 1312147,
+      "naam": "Fijten Gevelverzorging BV",
+      "website": "http://www.fijten.nl",
+      "status": "ok",
+      "final": "https://www.fijten.nl/",
+      "checked_at": "2026-10-04T14:42:29Z",
+      "source": "http://www.fijten.nl"
+    },
+    {
+      "id": 1312356,
+      "naam": "Bolt Aannemersbedrijf",
+      "website": "http://www.boltbouwbedrijf.nl",
+      "status": "ok",
+      "final": "https://boltbouwbedrijf.nl/cmcc/",
+      "checked_at": "2026-10-04T14:42:30Z",
+      "source": "http://www.boltbouwbedrijf.nl"
+    },
+    {
+      "id": 1312146,
+      "naam": "Moerkerk VOF Dakdekkers- & Loodgietersbedrijf V",
+      "website": "http://www.vanmoerkerk.com",
+      "status": "ok",
+      "final": "https://www.vanmoerkerk.com/",
+      "checked_at": "2026-10-04T14:42:30Z",
+      "source": "http://www.vanmoerkerk.com"
+    },
+    {
+      "id": 1312151,
+      "naam": "Dakbedekkingen Bijlmakers Geert",
+      "website": "http://www.bijlmakers.nl",
+      "status": "twijfel",
+      "final": "http://www.bijlmakers.nl",
+      "reason": "bijna lege response",
+      "checked_at": "2026-10-04T14:42:30Z",
+      "source": "http://www.bijlmakers.nl"
+    },
+    {
+      "id": 1312265,
+      "naam": "Jurgens Dakbedekkingen P",
+      "website": "http://www.jurgensdakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://www.jurgensdakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.jurgensdakbedekkingen.nl"
+    },
+    {
+      "id": 1312154,
+      "naam": "Koppen Dakbedekkingen en Totaal Renovatie",
+      "website": "http://www.koppendakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://www.koppendakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.koppendakbedekkingen.nl"
+    },
+    {
+      "id": 1312150,
+      "naam": "Bergenhuizen Dakwerken",
+      "website": "http://www.bergenhuizendakwerken.nl",
+      "status": "dood",
+      "final": "https://www.bergenhuizendakwerken.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.bergenhuizendakwerken.nl"
+    },
+    {
+      "id": 1312142,
+      "naam": "Pauw Dakdekkersbedrijf R de",
+      "website": "http://www.dakrdepauw.nl",
+      "status": "dood",
+      "final": "https://www.dakrdepauw.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.dakrdepauw.nl"
+    },
+    {
+      "id": 1312260,
+      "naam": "Peters Dak en Renovatie VOF Gebroeders",
+      "website": "http://www.peters-dakwerken.nl",
+      "status": "ok",
+      "final": "https://peters-dakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.peters-dakwerken.nl"
+    },
+    {
+      "id": 1312144,
+      "naam": "De La Roij Dakbedekkingen",
+      "website": "http://www.delaroijdakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://delaroijdakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:31Z",
+      "source": "http://www.delaroijdakbedekkingen.nl"
+    },
+    {
+      "id": 1312155,
+      "naam": "Neuhof & Haans Gevelrenovatie en Voegwerken",
+      "website": "http://www.neuhofhaans.nl",
+      "status": "ok",
+      "final": "https://www.neuhofhaans.nl/",
+      "checked_at": "2026-10-04T14:42:32Z",
+      "source": "http://www.neuhofhaans.nl"
+    },
+    {
+      "id": 1312671,
+      "naam": "Schoorsteenvegersbedrijf GEJA",
+      "website": "http://www.geja.info",
+      "status": "ok",
+      "final": "http://www.geja.info",
+      "checked_at": "2026-10-04T14:42:32Z",
+      "source": "http://www.geja.info"
+    },
+    {
+      "id": 1312263,
+      "naam": "Verkoulen Roermond",
+      "website": "http://www.verkoulenroermond.nl",
+      "status": "ok",
+      "final": "https://verkoulenroermond.nl/",
+      "checked_at": "2026-10-04T14:42:32Z",
+      "source": "http://www.verkoulenroermond.nl"
+    },
+    {
+      "id": 1312284,
+      "naam": "Geilen Dakwerken",
+      "website": "http://www.dwjg.nl",
+      "status": "ok",
+      "final": "https://www.dwjg.nl/",
+      "checked_at": "2026-10-04T14:42:33Z",
+      "source": "http://www.dwjg.nl"
+    },
+    {
+      "id": 1312152,
+      "naam": "Schatorie Reuver Dakbedekkingen BV",
+      "website": "http://www.schatoriedakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://www.schatoriedakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:33Z",
+      "source": "http://www.schatoriedakbedekkingen.nl"
+    },
+    {
+      "id": 1312158,
+      "naam": "DGV Services",
+      "website": "http://www.dgv-services.nl",
+      "status": "ok",
+      "final": "http://www.dgv-services.nl",
+      "checked_at": "2026-10-04T14:42:33Z",
+      "source": "http://www.dgv-services.nl"
+    },
+    {
+      "id": 1312180,
+      "naam": "Koppen Dakwerken Mat",
+      "website": "http://www.matkoppendakwerken.nl",
+      "status": "spam",
+      "final": "https://movingclassics.tv/classicpeople/austin-farwell/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:33Z",
+      "source": "http://www.matkoppendakwerken.nl"
+    },
+    {
+      "id": 1312149,
+      "naam": "Breman Dakdekkers Limburg BV",
+      "website": "http://www.bremangeelen.nl",
+      "status": "verhuisd",
+      "url": "https://www.breman.nl/zakelijk/",
+      "final": "https://www.breman.nl/zakelijk/",
+      "reason": "bremangeelen.nl → breman.nl",
+      "checked_at": "2026-10-04T14:42:34Z",
+      "source": "http://www.bremangeelen.nl"
+    },
+    {
+      "id": 1312256,
+      "naam": "Dautzenberg Dakbedekkingen",
+      "website": "http://www.dautzenbergdakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://www.dautzenbergdakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:34Z",
+      "source": "http://www.dautzenbergdakbedekkingen.nl"
+    },
+    {
+      "id": 1312161,
+      "naam": "Wiro Dakwerken BV",
+      "website": "http://www.wirodakwerken.nl",
+      "status": "ok",
+      "final": "https://www.wirodakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:34Z",
+      "source": "http://www.wirodakwerken.nl"
+    },
+    {
+      "id": 1312163,
+      "naam": "Menten Dakwerken",
+      "website": "http://www.mentendakwerken.nl",
+      "status": "ok",
+      "final": "https://mentendakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:35Z",
+      "source": "http://www.mentendakwerken.nl"
+    },
+    {
+      "id": 1312239,
+      "naam": "Meesterdak Venray VOF",
+      "website": "http://www.meesterdak.nl",
+      "status": "ok",
+      "final": "https://www.meesterdak.nl/",
+      "checked_at": "2026-10-04T14:42:35Z",
+      "source": "http://www.meesterdak.nl"
+    },
+    {
+      "id": 1312178,
+      "naam": "Bas Bosch Dakkapellen/Dakwerken",
+      "website": "http://www.basbosch.nl",
+      "status": "verhuisd",
+      "url": "https://dakkapel-venlo.com/",
+      "final": "https://dakkapel-venlo.com/",
+      "reason": "basbosch.nl → dakkapel-venlo.com",
+      "checked_at": "2026-10-04T14:42:35Z",
+      "source": "http://www.basbosch.nl"
+    },
+    {
+      "id": 1312216,
+      "naam": "Martens vd Wallen Dakwerken BV",
+      "website": "http://www.dak-werken.nl",
+      "status": "ok",
+      "final": "https://www.dak-werken.nl/",
+      "checked_at": "2026-10-04T14:42:35Z",
+      "source": "http://www.dak-werken.nl"
+    },
+    {
+      "id": 1312228,
+      "naam": "Cai Dakwerken",
+      "website": "http://www.caidak.nl",
+      "status": "ok",
+      "final": "https://www.caidak.nl/",
+      "checked_at": "2026-10-04T14:42:36Z",
+      "source": "http://www.caidak.nl"
+    },
+    {
+      "id": 1312541,
+      "naam": "Aannemersbedrijf Wilco van Oirschot",
+      "website": "http://www.wilcovanoirschot.nl",
+      "status": "ok",
+      "final": "https://www.wilcovanoirschot.nl/",
+      "checked_at": "2026-10-04T14:42:36Z",
+      "source": "http://www.wilcovanoirschot.nl"
+    },
+    {
+      "id": 1312632,
+      "naam": "Zwarte Zwaan Schoorsteenveegbedrijf de",
+      "website": "http://www.dezwartezwaan.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.dezwartezwaan.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:42:36Z",
+      "source": "http://www.dezwartezwaan.nl"
+    },
+    {
+      "id": 1312238,
+      "naam": "Tuhman Dakbedekkingen",
+      "website": "http://www.tuhmandakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://tuhmandakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:36Z",
+      "source": "http://www.tuhmandakbedekkingen.nl"
+    },
+    {
+      "id": 1312082,
+      "naam": "Antiroet Schoorsteenveegbedrijf",
+      "website": "http://www.antiroet.nl",
+      "status": "ok",
+      "final": "http://www.antiroet.nl",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.antiroet.nl"
+    },
+    {
+      "id": 1312507,
+      "naam": "Nieuwenhoven Schoorsteenveegbedrijf Van",
+      "website": "http://www.schoorsteenveegbedrijfvannieuwenhoven.nl",
+      "status": "dood",
+      "final": "https://www.schoorsteenveegbedrijfvannieuwenhoven.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.schoorsteenveegbedrijfvannieuwenhoven.nl"
+    },
+    {
+      "id": 1312091,
+      "naam": "Denito Schoorsteentechniek BV",
+      "website": "http://www.denitoschoorsteen.nl",
+      "status": "twijfel",
+      "final": "http://www.denitoschoorsteen.nl",
+      "reason": "HTTP 503",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.denitoschoorsteen.nl"
+    },
+    {
+      "id": 1312628,
+      "naam": "Schouwenier Schoorsteenvegers Servicebedrijf De",
+      "website": "http://www.deschouwenier.nl",
+      "status": "ok",
+      "final": "https://deschouwenier.nl/",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.deschouwenier.nl"
+    },
+    {
+      "id": 1312249,
+      "naam": "Stolwerk Sloopwerken BV A C",
+      "website": "http://www.stolwerk.nl",
+      "status": "ok",
+      "final": "https://stolwerk.nl/",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.stolwerk.nl"
+    },
+    {
+      "id": 1312098,
+      "naam": "Roetman Schoorsteenveegbedrijf De",
+      "website": "http://www.deroetman.nl",
+      "status": "ok",
+      "final": "https://www.deroetman.nl/",
+      "checked_at": "2026-10-04T14:42:37Z",
+      "source": "http://www.deroetman.nl"
+    },
+    {
+      "id": 1312600,
+      "naam": "Schoorsteenveegbedrijf Dakservice Totaal",
+      "website": "http://www.dakservicetotaal.nl",
+      "status": "dood",
+      "final": "https://www.dakservicetotaal.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:38Z",
+      "source": "http://www.dakservicetotaal.nl"
+    },
+    {
+      "id": 1312077,
+      "naam": "Pro Sweep",
+      "website": "http://www.pro-sweep.nl",
+      "status": "spam",
+      "final": "https://bolaspaintball.top/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:38Z",
+      "source": "http://www.pro-sweep.nl"
+    },
+    {
+      "id": 1312593,
+      "naam": "Europa Schoorsteenveegbedrijf",
+      "website": "http://www.svb-europa.nl",
+      "status": "ok",
+      "final": "https://www.svb-europa.nl/",
+      "checked_at": "2026-10-04T14:42:38Z",
+      "source": "http://www.svb-europa.nl"
+    },
+    {
+      "id": 1312597,
+      "naam": "Greven Dakbedekkingsbedrijf H",
+      "website": "http://www.permanentwaterdicht.nl",
+      "status": "ok",
+      "final": "https://www.permanentwaterdicht.nl/",
+      "checked_at": "2026-10-04T14:42:39Z",
+      "source": "http://www.permanentwaterdicht.nl"
+    },
+    {
+      "id": 1312219,
+      "naam": "Open Haarden Vorst Hans van der",
+      "website": "http://www.openhaardenwerk.nl",
+      "status": "dood",
+      "final": "https://www.openhaardenwerk.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:39Z",
+      "source": "http://www.openhaardenwerk.nl"
+    },
+    {
+      "id": 1312094,
+      "naam": "Haard & Huis Schoorsteenveegtechniek",
+      "website": "http://www.haardhuis.nl",
+      "status": "ok",
+      "final": "http://haardhuis.nl/",
+      "checked_at": "2026-10-04T14:42:39Z",
+      "source": "http://www.haardhuis.nl"
+    },
+    {
+      "id": 1312601,
+      "naam": "Bongers Pannendekkers",
+      "website": "http://www.bongersdakwerken.nl",
+      "status": "ok",
+      "final": "https://www.bongersdakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:40Z",
+      "source": "http://www.bongersdakwerken.nl"
+    },
+    {
+      "id": 1312576,
+      "naam": "Aannemer Dakwerken Goirle BV ADG",
+      "website": "http://www.adg-goirle.nl",
+      "status": "ok",
+      "final": "https://www.adg-goirle.nl/",
+      "checked_at": "2026-10-04T14:42:41Z",
+      "source": "http://www.adg-goirle.nl"
+    },
+    {
+      "id": 1312101,
+      "naam": "Schoorsteenveegbedrijf Hendriks",
+      "website": "http://www.hendriksvegers.nl",
+      "status": "ok",
+      "final": "https://hendriksvegers.nl/",
+      "checked_at": "2026-10-04T14:42:41Z",
+      "source": "http://www.hendriksvegers.nl"
+    },
+    {
+      "id": 1312596,
+      "naam": "Hezemans Dakwerken",
+      "website": "http://www.hezemansdakwerken.nl",
+      "status": "ok",
+      "final": "https://www.hezemansdakwerken.nl/",
+      "checked_at": "2026-10-04T14:42:41Z",
+      "source": "http://www.hezemansdakwerken.nl"
+    },
+    {
+      "id": 1312602,
+      "naam": "Dakbedekkersbedrijf Hurk-Doezé BV vd",
+      "website": "http://www.hurkdoeze.nl",
+      "status": "ok",
+      "final": "https://www.hurkdoeze.nl/",
+      "checked_at": "2026-10-04T14:42:42Z",
+      "source": "http://www.hurkdoeze.nl"
+    },
+    {
+      "id": 1312623,
+      "naam": "Dakdekkersbedrijf Beterdak Helmond",
+      "website": "http://www.beterdakhelmond.nl",
+      "status": "ok",
+      "final": "https://www.beterdakhelmond.nl/",
+      "checked_at": "2026-10-04T14:42:42Z",
+      "source": "http://www.beterdakhelmond.nl"
+    },
+    {
+      "id": 1312244,
+      "naam": "Benedict Lasbedrijf B",
+      "website": "http://www.benedict.nl",
+      "status": "ander_domein",
+      "final": "https://nl.linkedin.com/in/roelbenedict/nl",
+      "reason": "unrelated redirect benedict.nl → nl.linkedin.com",
+      "checked_at": "2026-10-04T14:42:42Z",
+      "source": "http://www.benedict.nl"
+    },
+    {
+      "id": 1312251,
+      "naam": "Esveld Technisch Installatiebedrijf J D A van",
+      "website": "http://www.esveldinstallatie.nl",
+      "status": "ok",
+      "final": "https://esveldinstallatie.nl/",
+      "checked_at": "2026-10-04T14:42:44Z",
+      "source": "http://www.esveldinstallatie.nl"
+    },
+    {
+      "id": 1312321,
+      "naam": "Technisch Installatiebedrijf J D A van Esveld",
+      "website": "http://www.esveldinstallatie.nl",
+      "status": "ok",
+      "final": "https://esveldinstallatie.nl/",
+      "checked_at": "2026-10-04T14:42:44Z",
+      "source": "http://www.esveldinstallatie.nl"
+    },
+    {
+      "id": 1312610,
+      "naam": "Schoorsteenvegersbedrijf Wivon",
+      "website": "http://www.wivon.nl",
+      "status": "ok",
+      "final": "https://www.wivon.nl/",
+      "checked_at": "2026-10-04T14:42:45Z",
+      "source": "http://www.wivon.nl"
+    },
+    {
+      "id": 1312342,
+      "naam": "D & T Bouw",
+      "website": "http://www.dentbouw.nl",
+      "status": "dood",
+      "final": "https://www.dentbouw.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:45Z",
+      "source": "http://www.dentbouw.nl"
+    },
+    {
+      "id": 1312065,
+      "naam": "Wivon",
+      "website": "http://www.wivon.nl",
+      "status": "ok",
+      "final": "https://www.wivon.nl/",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.wivon.nl"
+    },
+    {
+      "id": 1312608,
+      "naam": "Jonkers Rioleringswerken BV",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312607,
+      "naam": "Jonkers Onderhoudsbedrijf BV",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312606,
+      "naam": "Jonkers Schoorsteenvegers BV",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312337,
+      "naam": "KMT Ter Apel BV",
+      "website": "http://www.kmtterapel.nl",
+      "status": "ok",
+      "final": "https://www.kmtterapel.nl",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.kmtterapel.nl"
+    },
+    {
+      "id": 1312172,
+      "naam": "Bevers Bouwmaterialen BV",
+      "website": "http://www.bevers-bouwmaterialen.nl",
+      "status": "ok",
+      "final": "http://www.bevers-bouwmaterialen.nl",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.bevers-bouwmaterialen.nl"
+    },
+    {
+      "id": 1312273,
+      "naam": "Clean Sweep",
+      "website": "http://www.clean-sweep.nl",
+      "status": "ok",
+      "final": "http://www.clean-sweep.nl",
+      "checked_at": "2026-10-04T14:42:46Z",
+      "source": "http://www.clean-sweep.nl"
+    },
+    {
+      "id": 1312246,
+      "naam": "Geraeds Pannendekkersbedrijf regio Prinsenbeek / Breda e.o.",
+      "website": "http://www.geraedsenzoon.nl",
+      "status": "ander_domein",
+      "final": "https://agenjudipremium.com/",
+      "reason": "unrelated redirect geraedsenzoon.nl → agenjudipremium.com",
+      "checked_at": "2026-10-04T14:42:47Z",
+      "source": "http://www.geraedsenzoon.nl"
+    },
+    {
+      "id": 1312665,
+      "naam": "Co-Dak",
+      "website": "http://www.co-dak.nl",
+      "status": "ok",
+      "final": "https://www.co-dak.nl/",
+      "checked_at": "2026-10-04T14:42:47Z",
+      "source": "http://www.co-dak.nl"
+    },
+    {
+      "id": 1312064,
+      "naam": "Wivon",
+      "website": "http://www.wivon.nl",
+      "status": "ok",
+      "final": "https://www.wivon.nl/",
+      "checked_at": "2026-10-04T14:42:47Z",
+      "source": "http://www.wivon.nl"
+    },
+    {
+      "id": 1312248,
+      "naam": "Aa Afvoerreiniging Jonkers BV",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:47Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312612,
+      "naam": "Walter Verhoeven BV Loodgieters- en Leidekkersbedrijf",
+      "website": "http://www.walterverhoeven.nl",
+      "status": "ok",
+      "final": "https://www.walterverhoeven.nl/",
+      "checked_at": "2026-10-04T14:42:48Z",
+      "source": "http://www.walterverhoeven.nl"
+    },
+    {
+      "id": 1312213,
+      "naam": "Witlox & Zn Schoorsteenvegersbedrijf",
+      "website": "http://www.witlox-riool.nl",
+      "status": "ok",
+      "final": "http://witlox-riool.nl/",
+      "checked_at": "2026-10-04T14:42:48Z",
+      "source": "http://www.witlox-riool.nl"
+    },
+    {
+      "id": 1312141,
+      "naam": "Antoinette Oost BV Schoorsteenveegbedrijf",
+      "website": "http://www.antoinette-oost.nl",
+      "status": "ok",
+      "final": "https://antoinette-oost.nl/",
+      "checked_at": "2026-10-04T14:42:48Z",
+      "source": "http://www.antoinette-oost.nl"
+    },
+    {
+      "id": 1312166,
+      "naam": "AA Jonkers BV Schoorsteenvegersbedrijf",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:48Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312171,
+      "naam": "Aa Jonkers Rioleringswerken BV",
+      "website": "http://www.jonkers-bv.com",
+      "status": "ok",
+      "final": "https://www.jonkers-bv.com/",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.jonkers-bv.com"
+    },
+    {
+      "id": 1312215,
+      "naam": "Vereijken Dakwerken",
+      "website": "http://www.vereijkendakwerken.com",
+      "status": "spam",
+      "final": "https://viersprongwijchen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.vereijkendakwerken.com"
+    },
+    {
+      "id": 1312603,
+      "naam": "Schoorsteenveegbedrijf Het Ambacht",
+      "website": "http://www.hetambacht-west.nl",
+      "status": "verhuisd",
+      "url": "http://www.hetambachtonderhoud.nl/",
+      "final": "http://www.hetambachtonderhoud.nl/",
+      "reason": "hetambacht-west.nl → hetambachtonderhoud.nl",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.hetambacht-west.nl"
+    },
+    {
+      "id": 1312170,
+      "naam": "Rietdekkersbedrijf Dolstra",
+      "website": "http://www.rietdekkersbedrijfdolstra.nl",
+      "status": "ok",
+      "final": "https://rietdekkersbedrijfdolstra.nl/",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.rietdekkersbedrijfdolstra.nl"
+    },
+    {
+      "id": 1312464,
+      "naam": "Emwé Schoorsteenservice",
+      "website": "http://www.emwe-schoorsteenservice.nl",
+      "status": "dood",
+      "final": "https://www.emwe-schoorsteenservice.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.emwe-schoorsteenservice.nl"
+    },
+    {
+      "id": 1312604,
+      "naam": "Schoorsteenveegbedrijf Het Ambacht Zuid",
+      "website": "http://www.hetambacht.nl",
+      "status": "ok",
+      "final": "https://www.hetambacht.nl/",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.hetambacht.nl"
+    },
+    {
+      "id": 1312175,
+      "naam": "All Repair",
+      "website": "http://www.all-repair.nl",
+      "status": "ander_domein",
+      "final": "https://www.deklusvrouw.nl/",
+      "reason": "unrelated redirect all-repair.nl → deklusvrouw.nl",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.all-repair.nl"
+    },
+    {
+      "id": 1312131,
+      "naam": "Suijkerbuijk & Zn BV Installatiebedrijf",
+      "website": "http://www.dmsuijkerbuijk.nl",
+      "status": "dood",
+      "final": "https://www.dmsuijkerbuijk.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.dmsuijkerbuijk.nl"
+    },
+    {
+      "id": 1312380,
+      "naam": "Timmerman's IJzerhandel BV A",
+      "website": "http://www.timmerman-alkmaar.nl",
+      "status": "ok",
+      "final": "https://www.timmerman-alkmaar.nl/",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.timmerman-alkmaar.nl"
+    },
+    {
+      "id": 1312370,
+      "naam": "Buddingh Dakbedekking BV",
+      "website": "http://www.buddingh-dak.nl",
+      "status": "ok",
+      "final": "http://www.buddingh-dak.nl",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.buddingh-dak.nl"
+    },
+    {
+      "id": 1312383,
+      "naam": "B van Erve Uw Installateur",
+      "website": "http://www.bvanerve.nl",
+      "status": "ok",
+      "final": "https://www.bvanerve.nl/",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.bvanerve.nl"
+    },
+    {
+      "id": 1312382,
+      "naam": "Reuvers-Donkersloot Schoorsteenveegbedrijf",
+      "website": "http://www.reuversdonkersloot.nl",
+      "status": "ok",
+      "final": "https://www.reuversdonkersloot.nl/",
+      "checked_at": "2026-10-04T14:42:51Z",
+      "source": "http://www.reuversdonkersloot.nl"
+    },
+    {
+      "id": 1312390,
+      "naam": "Reuvers-Donkersloot Centrale Verwarming en Onderhoud",
+      "website": "http://www.reuversdonkersloot.nl",
+      "status": "ok",
+      "final": "https://www.reuversdonkersloot.nl/",
+      "checked_at": "2026-10-04T14:42:51Z",
+      "source": "http://www.reuversdonkersloot.nl"
+    },
+    {
+      "id": 1312619,
+      "naam": "Schellen Dakbedekkingen",
+      "website": "http://www.schellendakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://schellendakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:42:51Z",
+      "source": "http://www.schellendakbedekkingen.nl"
+    },
+    {
+      "id": 1312384,
+      "naam": "Rohof Metselwerken en Gevelrenovatie",
+      "website": "http://www.rohofmetselwerken.nl",
+      "status": "ok",
+      "final": "http://www.rohofmetselwerken.nl",
+      "checked_at": "2026-10-04T14:42:51Z",
+      "source": "http://www.rohofmetselwerken.nl"
+    },
+    {
+      "id": 1312318,
+      "naam": "W & S Schoorsteenveegbedrijf",
+      "website": "http://www.wens.info",
+      "status": "ok",
+      "final": "http://www.wens.info",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.wens.info"
+    },
+    {
+      "id": 1312381,
+      "naam": "ABSO Alkmaar Betonboorbedrijf",
+      "website": "http://www.abso-alkmaar.nl",
+      "status": "ok",
+      "final": "https://www.abso-alkmaar.nl/",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.abso-alkmaar.nl"
+    },
+    {
+      "id": 1312314,
+      "naam": "ABSO Alkmaar Schoorsteenveegbedrijf",
+      "website": "http://www.abso-alkmaar.nl",
+      "status": "ok",
+      "final": "https://www.abso-alkmaar.nl/",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.abso-alkmaar.nl"
+    },
+    {
+      "id": 1312368,
+      "naam": "De Warmtespecialist Ruud van Erve",
+      "website": "http://www.aspb.nl",
+      "status": "ander_domein",
+      "final": "https://www.schoorsteenveger.nl/",
+      "reason": "unrelated redirect aspb.nl → schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.aspb.nl"
+    },
+    {
+      "id": 1312412,
+      "naam": "Olphen Gevelonderhoud Buitenstucwerk J P van",
+      "website": "http://www.pjvanolphen.nl",
+      "status": "spam",
+      "final": "https://pjvanolphen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.pjvanolphen.nl"
+    },
+    {
+      "id": 1312402,
+      "naam": "Olphen Gevelreiniging en Voegwerken J P van",
+      "website": "http://www.pjvanolphen.nl",
+      "status": "spam",
+      "final": "https://pjvanolphen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.pjvanolphen.nl"
+    },
+    {
+      "id": 1312385,
+      "naam": "Vittali VOF",
+      "website": "http://www.vittali.nl",
+      "status": "ok",
+      "final": "https://vittali.nl/",
+      "checked_at": "2026-10-04T14:42:53Z",
+      "source": "http://www.vittali.nl"
+    },
+    {
+      "id": 1312399,
+      "naam": "Schoorsteenveger Kuiper",
+      "website": "http://www.schoorsteenveger-kuiper.nl",
+      "status": "verhuisd",
+      "url": "https://www.schoorsteenvegerkuiper.nl/",
+      "final": "https://www.schoorsteenvegerkuiper.nl/",
+      "reason": "schoorsteenveger-kuiper.nl → schoorsteenvegerkuiper.nl",
+      "checked_at": "2026-10-04T14:42:53Z",
+      "source": "http://www.schoorsteenveger-kuiper.nl"
+    },
+    {
+      "id": 1312404,
+      "naam": "Stylschouwen BV Haarlem",
+      "website": "http://www.stylschouwen-haarlem.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.stylschouwen-haarlem.nl/",
+      "reason": "HTTP 429",
+      "checked_at": "2026-10-04T14:42:53Z",
+      "source": "http://www.stylschouwen-haarlem.nl"
+    },
+    {
+      "id": 1312168,
+      "naam": "Schmidt Schoorsteenwerken BV",
+      "website": "http://www.openvuur.nl",
+      "status": "verhuisd",
+      "url": "https://www.schmidt-schoorsteenwerken.nl/",
+      "final": "https://www.schmidt-schoorsteenwerken.nl/",
+      "reason": "openvuur.nl → schmidt-schoorsteenwerken.nl",
+      "checked_at": "2026-10-04T14:42:54Z",
+      "source": "http://www.openvuur.nl"
+    },
+    {
+      "id": 1312387,
+      "naam": "AAS Schoorsteenvegers",
+      "website": "http://www.schoorsteenveger-amsterdam.nl",
+      "status": "ok",
+      "final": "https://schoorsteenveger-amsterdam.nl/",
+      "checked_at": "2026-10-04T14:42:54Z",
+      "source": "http://www.schoorsteenveger-amsterdam.nl"
+    },
+    {
+      "id": 1312416,
+      "naam": "Firemaster Schoorsteenkappen",
+      "website": "http://www.firemaster.nl",
+      "status": "ok",
+      "final": "https://www.firemaster.nl/",
+      "checked_at": "2026-10-04T14:42:55Z",
+      "source": "http://www.firemaster.nl"
+    },
+    {
+      "id": 1312415,
+      "naam": "Schoorsteenveegbedrijf IJmond Content",
+      "website": "http://www.de-schoorsteenveger.nl",
+      "status": "ok",
+      "final": "http://www.de-schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:42:55Z",
+      "source": "http://www.de-schoorsteenveger.nl"
+    },
+    {
+      "id": 1312417,
+      "naam": "Firemaster Schoorsteenservice",
+      "website": "http://www.firemaster.nl",
+      "status": "ok",
+      "final": "https://www.firemaster.nl/",
+      "checked_at": "2026-10-04T14:42:55Z",
+      "source": "http://www.firemaster.nl"
+    },
+    {
+      "id": 1312431,
+      "naam": "Dakdekkersbedrijf Warmerdam",
+      "website": "http://www.dedakenmaker.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.dedakenmaker.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:42:55Z",
+      "source": "http://www.dedakenmaker.nl"
+    },
+    {
+      "id": 1312434,
+      "naam": "Beemsterboer Rietdekker Dakdekker Interieurbouw",
+      "website": "http://www.andrebeemsterboer.nl",
+      "status": "ok",
+      "final": "http://www.andrebeemsterboer.nl",
+      "checked_at": "2026-10-04T14:42:55Z",
+      "source": "http://www.andrebeemsterboer.nl"
+    },
+    {
+      "id": 1312413,
+      "naam": "Molenaar Rietdekbedrijf BV",
+      "website": "http://www.molenaarrietdekbedrijf.nl",
+      "status": "ok",
+      "final": "https://molenaarrietdekbedrijf.nl/",
+      "checked_at": "2026-10-04T14:42:56Z",
+      "source": "http://www.molenaarrietdekbedrijf.nl"
+    },
+    {
+      "id": 1312369,
+      "naam": "Wijkers Schoorsteenveegbedrijf De",
+      "website": "http://www.dewijkers.nl",
+      "status": "ok",
+      "final": "https://www.dewijkers.nl/",
+      "checked_at": "2026-10-04T14:42:56Z",
+      "source": "http://www.dewijkers.nl"
+    },
+    {
+      "id": 1312375,
+      "naam": "Mart Muijs BV Voegbedrijf & Restauratiebedrijf",
+      "website": "http://www.martmuijs.nl",
+      "status": "verhuisd",
+      "url": "https://muijs.nl/",
+      "final": "https://muijs.nl/",
+      "reason": "martmuijs.nl → muijs.nl",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.martmuijs.nl"
+    },
+    {
+      "id": 1312252,
+      "naam": "Hollandse Schoorsteenvegers",
+      "website": "http://www.hollandseschoorsteenvegers.nl",
+      "status": "ok",
+      "final": "https://www.hollandseschoorsteenvegers.nl/",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.hollandseschoorsteenvegers.nl"
+    },
+    {
+      "id": 1312426,
+      "naam": "MAFO Installatiebedrijf",
+      "website": "http://www.mafo-dakwerk.nl",
+      "status": "dood",
+      "final": "https://www.mafo-dakwerk.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.mafo-dakwerk.nl"
+    },
+    {
+      "id": 1312432,
+      "naam": "Baas Loodgietersbedrijf BV H",
+      "website": "http://www.hbaas.nl",
+      "status": "ok",
+      "final": "https://hbaas.nl/",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.hbaas.nl"
+    },
+    {
+      "id": 1312420,
+      "naam": "ABO Schoorsteenveegbedrijf",
+      "website": "http://www.schoorsteenveger.nu",
+      "status": "ok",
+      "final": "http://www.schoorsteenveger.nu",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.schoorsteenveger.nu"
+    },
+    {
+      "id": 1312438,
+      "naam": "Jak VOF Loodgieters- en Installatiebedrijf",
+      "website": "http://www.jak-limmen.nl",
+      "status": "ok",
+      "final": "https://www.jak-limmen.nl/",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.jak-limmen.nl"
+    },
+    {
+      "id": 1312289,
+      "naam": "Gerrits Fa Erkend Schoorsteenveegbedrijf en Klussenbedrijf",
+      "website": "http://www.fa-gerrits.nl",
+      "status": "ok",
+      "final": "https://www.fa-gerrits.nl/",
+      "checked_at": "2026-10-04T14:42:57Z",
+      "source": "http://www.fa-gerrits.nl"
+    },
+    {
+      "id": 1312317,
+      "naam": "Buter J S",
+      "website": "http://www.schoorsteendokter.nl",
+      "status": "ok",
+      "final": "https://www.schoorsteendokter.nl/",
+      "checked_at": "2026-10-04T14:42:58Z",
+      "source": "http://www.schoorsteendokter.nl"
+    },
+    {
+      "id": 1312396,
+      "naam": "Smederij Van Riessen",
+      "website": "http://www.smederijvanriessen.nl",
+      "status": "ok",
+      "final": "https://www.smederijvanriessen.nl/",
+      "checked_at": "2026-10-04T14:42:58Z",
+      "source": "http://www.smederijvanriessen.nl"
+    },
+    {
+      "id": 1312442,
+      "naam": "KroonTechniek BV",
+      "website": "http://www.kroontechniek.nl",
+      "status": "geparkeerd",
+      "final": "https://www.mooiedomeinnaam.nl/aanbod/kroontechniek.nl",
+      "reason": "parked host mooiedomeinnaam.nl",
+      "checked_at": "2026-10-04T14:42:58Z",
+      "source": "http://www.kroontechniek.nl"
+    },
+    {
+      "id": 1312373,
+      "naam": "DRS - P de Lange",
+      "website": "http://www.drs-delange.nl",
+      "status": "ok",
+      "final": "https://drs-delange.nl/",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.drs-delange.nl"
+    },
+    {
+      "id": 1312444,
+      "naam": "Lange Dakbedekkersbedrijf DRS de",
+      "website": "http://www.drs-delange.nl",
+      "status": "ok",
+      "final": "https://drs-delange.nl/",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.drs-delange.nl"
+    },
+    {
+      "id": 1312392,
+      "naam": "Gevelreinigingsbedrijf vd Meer Dienstengroep BV",
+      "website": "http://www.vandermeerdienstengroep.nl",
+      "status": "ok",
+      "final": "https://vandermeerdienstengroep.nl/",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.vandermeerdienstengroep.nl"
+    },
+    {
+      "id": 1312443,
+      "naam": "Zantingh BV",
+      "website": "http://www.zantingh.com",
+      "status": "ok",
+      "final": "https://zantingh.com/",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.zantingh.com"
+    },
+    {
+      "id": 1591633,
+      "naam": "Donkersloot Schoorsteenvegers",
+      "website": "http://www.donkerslootschoorsteenvegers.nl",
+      "status": "ok",
+      "final": "https://www.donkerslootschoorsteenvegers.nl/",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.donkerslootschoorsteenvegers.nl"
+    },
+    {
+      "id": 1312445,
+      "naam": "Steenbakker Schoorsteenvegerij",
+      "website": "http://www.firmasteenbakker.nl",
+      "status": "dood",
+      "final": "https://www.firmasteenbakker.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.firmasteenbakker.nl"
+    },
+    {
+      "id": 1312446,
+      "naam": "Steenbakker Schoorsteenvegerij & Bouwbedrijf",
+      "website": "http://www.firmasteenbakker.nl",
+      "status": "dood",
+      "final": "https://www.firmasteenbakker.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:42:59Z",
+      "source": "http://www.firmasteenbakker.nl"
+    },
+    {
+      "id": 1312594,
+      "naam": "Braat BV Schoorsteenvegers",
+      "website": "http://www.braatbv.nl",
+      "status": "ok",
+      "final": "https://braatbv.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.braatbv.nl"
+    },
+    {
+      "id": 1312315,
+      "naam": "Uitendaal R h/o N Mehagnoul Schoorsteenvegersbedrijf",
+      "website": "http://www.robuitendaal.nl",
+      "status": "dood",
+      "final": "https://www.robuitendaal.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.robuitendaal.nl"
+    },
+    {
+      "id": 1312447,
+      "naam": "Volckerijck Loodgieter & Installatietechniek",
+      "website": "http://www.volckerijck.nl",
+      "status": "ok",
+      "final": "https://volckerijck.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.volckerijck.nl"
+    },
+    {
+      "id": 1312271,
+      "naam": "Glans Schoorsteenveegbedrijf BV",
+      "website": "http://www.glans-bv.nl",
+      "status": "dood",
+      "final": "https://www.glans-bv.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.glans-bv.nl"
+    },
+    {
+      "id": 1312233,
+      "naam": "Kalshoven Schoonmaak Dienstverlening",
+      "website": "http://www.kalshovendalfsen.nl",
+      "status": "ok",
+      "final": "https://www.kalshovendalfsen.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.kalshovendalfsen.nl"
+    },
+    {
+      "id": 1312376,
+      "naam": "Metalas Zaandam BV",
+      "website": "http://www.metalaszaandambv.nl",
+      "status": "ok",
+      "final": "https://www.metalaszaandambv.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.metalaszaandambv.nl"
+    },
+    {
+      "id": 1312231,
+      "naam": "Kalshoven Spec Reinigingen BV",
+      "website": "http://www.kalshovendalfsen.nl",
+      "status": "ok",
+      "final": "https://www.kalshovendalfsen.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.kalshovendalfsen.nl"
+    },
+    {
+      "id": 1312449,
+      "naam": "Hoekstra Schoorsteen",
+      "website": "http://www.hoekstraschoorsteen.nl",
+      "status": "ok",
+      "final": "https://hoekstraschoorsteen.nl/",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.hoekstraschoorsteen.nl"
+    },
+    {
+      "id": 1312448,
+      "naam": "De Baan schoorsteenvegersbedrijf",
+      "website": "http://www.aspb.nl",
+      "status": "ander_domein",
+      "final": "https://www.schoorsteenveger.nl/",
+      "reason": "unrelated redirect aspb.nl → schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.aspb.nl"
+    },
+    {
+      "id": 1312165,
+      "naam": "De Back Metaalconservering",
+      "website": "http://www.back.nl",
+      "status": "verhuisd",
+      "url": "https://deback.nl/",
+      "final": "https://deback.nl/",
+      "reason": "back.nl → deback.nl",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.back.nl"
+    },
+    {
+      "id": 1312517,
+      "naam": "Smit Multiservice",
+      "website": "http://www.smitmultiservice.nl",
+      "status": "ok",
+      "final": "https://www.smitmultiservice.nl/",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.smitmultiservice.nl"
+    },
+    {
+      "id": 1312242,
+      "naam": "Jacosta Dakbedekkingsbedrijf",
+      "website": "http://www.jacosta.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.jacosta.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.jacosta.nl"
+    },
+    {
+      "id": 1312143,
+      "naam": "Jacosta Schoorsteenveegbedrijf",
+      "website": "http://www.jacosta.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.jacosta.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.jacosta.nl"
+    },
+    {
+      "id": 1312340,
+      "naam": "Vegt Rietdekkersbedrijf Van der",
+      "website": "http://www.vandervegtrietdekkers.nl",
+      "status": "geblokkeerd",
+      "final": "http://www.vandervegtrietdekkers.nl",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.vandervegtrietdekkers.nl"
+    },
+    {
+      "id": 1312184,
+      "naam": "JACOSTA",
+      "website": "http://www.jacosta.nl",
+      "status": "geblokkeerd",
+      "final": "https://www.jacosta.nl/",
+      "reason": "HTTP 403",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.jacosta.nl"
+    },
+    {
+      "id": 1312636,
+      "naam": "Isotal-Isolatie Talman",
+      "website": "http://www.isotal.nl",
+      "status": "ok",
+      "final": "https://www.isotal.nl/",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.isotal.nl"
+    },
+    {
+      "id": 1312581,
+      "naam": "ASPB Schoorsteenvegersbedrijf Wilmink",
+      "website": "http://www.schoorsteenvegen.net",
+      "status": "dood",
+      "final": "https://www.schoorsteenvegen.net",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:01Z",
+      "source": "http://www.schoorsteenvegen.net"
+    },
+    {
+      "id": 1312614,
+      "naam": "Pol Pannendekkers J",
+      "website": "http://www.polpannendekkers.nl",
+      "status": "ok",
+      "final": "http://www.polpannendekkers.nl",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.polpannendekkers.nl"
+    },
+    {
+      "id": 1312230,
+      "naam": "Alukan BV",
+      "website": "http://www.alukan.nl",
+      "status": "ok",
+      "final": "https://www.alukan.nl/",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.alukan.nl"
+    },
+    {
+      "id": 1312226,
+      "naam": "Spijker Techniek",
+      "website": "http://www.spijkertechniek.nl",
+      "status": "dood",
+      "final": "https://www.spijkertechniek.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.spijkertechniek.nl"
+    },
+    {
+      "id": 1312641,
+      "naam": "Rietdekkersbedrijf Ben vd Berg",
+      "website": "http://www.benvandenbergrietdekkersbedrijf.nl",
+      "status": "dood",
+      "final": "https://www.benvandenbergrietdekkersbedrijf.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.benvandenbergrietdekkersbedrijf.nl"
+    },
+    {
+      "id": 1312668,
+      "naam": "schoorsteenveegbedrijf de roetmeester",
+      "website": "http://www.deroetmeester.nl",
+      "status": "ok",
+      "final": "https://www.deroetmeester.nl/",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.deroetmeester.nl"
+    },
+    {
+      "id": 1312302,
+      "naam": "Schoorsteenveegbedrijf Braat",
+      "website": "http://www.vegerij.nl",
+      "status": "ok",
+      "final": "https://www.vegerij.nl/",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.vegerij.nl"
+    },
+    {
+      "id": 1312634,
+      "naam": "Installatiebedrijf Veldwachter",
+      "website": "http://www.veldwachter-bathmen.nl",
+      "status": "ok",
+      "final": "https://www.veldwachter-bathmen.nl/",
+      "checked_at": "2026-10-04T14:43:02Z",
+      "source": "http://www.veldwachter-bathmen.nl"
+    },
+    {
+      "id": 1312583,
+      "naam": "Doldersum Schoorstenen-Kachels-Haarden VOF",
+      "website": "http://www.doldersumvof.nl",
+      "status": "spam",
+      "final": "https://slotozal77.top/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:03Z",
+      "source": "http://www.doldersumvof.nl"
+    },
+    {
+      "id": 1312105,
+      "naam": "Braakman Vogelsangh Schoorsteenbedrijf G",
+      "website": "http://www.devogelsangh.nl/",
+      "status": "ok",
+      "final": "https://www.devogelsangh.nl/",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.devogelsangh.nl/"
+    },
+    {
+      "id": 1312673,
+      "naam": "De Zwolse Schoorsteenveger",
+      "website": "http://zwolseschoorsteenveger.com",
+      "status": "dood",
+      "final": "https://zwolseschoorsteenveger.com",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://zwolseschoorsteenveger.com"
+    },
+    {
+      "id": 1312106,
+      "naam": "Wetering Vogelsangh Schoorsteenbedrijf H",
+      "website": "http://www.devogelsangh.nl/",
+      "status": "ok",
+      "final": "https://www.devogelsangh.nl/",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.devogelsangh.nl/"
+    },
+    {
+      "id": 1312240,
+      "naam": "Haardhuys Kachelspeciaalzaak",
+      "website": "http://www.haardhuys.nl",
+      "status": "verhuisd",
+      "url": "https://folbert-haardhuys.nl/",
+      "final": "https://folbert-haardhuys.nl/",
+      "reason": "haardhuys.nl → folbert-haardhuys.nl",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.haardhuys.nl"
+    },
+    {
+      "id": 1312203,
+      "naam": "Lever Schoorsteenveegbedrijf",
+      "website": "http://www.schoonmaakbedrijflever.nl",
+      "status": "ok",
+      "final": "http://www.schoonmaakbedrijflever.nl",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.schoonmaakbedrijflever.nl"
+    },
+    {
+      "id": 1312204,
+      "naam": "AAD Amersfoortse Algemene Dakbedekkingen",
+      "website": "http://www.aad-dakbedekkingen.nl",
+      "status": "ok",
+      "final": "https://www.aad-dakbedekkingen.nl/",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.aad-dakbedekkingen.nl"
+    },
+    {
+      "id": 1312205,
+      "naam": "Klusr",
+      "website": "http://www.klusr.nl",
+      "status": "ok",
+      "final": "http://www.klusr.nl",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.klusr.nl"
+    },
+    {
+      "id": 1312177,
+      "naam": "Elbertse Open Haarden",
+      "website": "http://www.elbertseopenhaarden.nl",
+      "status": "dood",
+      "final": "https://www.elbertseopenhaarden.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:04Z",
+      "source": "http://www.elbertseopenhaarden.nl"
+    },
+    {
+      "id": 1312243,
+      "naam": "D Sluijer Rietdekkersbedrijf",
+      "website": "http://www.sluyerrietdekkers.nl",
+      "status": "ok",
+      "final": "https://www.sluyerrietdekkers.nl/",
+      "checked_at": "2026-10-04T14:43:05Z",
+      "source": "http://www.sluyerrietdekkers.nl"
+    },
+    {
+      "id": 1312647,
+      "naam": "Persoon Schoorsteen - Geveltechniek BV",
+      "website": "http://www.persoonschoorsteentechniek.nl",
+      "status": "ok",
+      "final": "https://www.persoonschoorsteentechniek.nl/",
+      "checked_at": "2026-10-04T14:43:05Z",
+      "source": "http://www.persoonschoorsteentechniek.nl"
+    },
+    {
+      "id": 1312293,
+      "naam": "Rietdekkersbedrijf L Blom",
+      "website": "http://www.rietdekkersbedrijfblom.nl",
+      "status": "ok",
+      "final": "https://www.rietdekkersbedrijfblom.nl/",
+      "checked_at": "2026-10-04T14:43:06Z",
+      "source": "http://www.rietdekkersbedrijfblom.nl"
+    },
+    {
+      "id": 1312235,
+      "naam": "Combidak BV Timmer/Dakdekkerbedrijf",
+      "website": "http://www.combidak.nl",
+      "status": "ok",
+      "final": "https://combidak.nl/",
+      "checked_at": "2026-10-04T14:43:06Z",
+      "source": "http://www.combidak.nl"
+    },
+    {
+      "id": 1312659,
+      "naam": "Rietdekkersbedrijf E Schut",
+      "website": "http://www.schut-rietdekker.nl",
+      "status": "ok",
+      "final": "https://www.schut-rietdekker.nl/",
+      "checked_at": "2026-10-04T14:43:06Z",
+      "source": "http://www.schut-rietdekker.nl"
+    },
+    {
+      "id": 1312258,
+      "naam": "Mensink Dakdekkers- en Renovatiebedrijf",
+      "website": "http://www.pannendakenvernieuwen.nl",
+      "status": "ok",
+      "final": "https://pannendakenvernieuwen.nl/",
+      "checked_at": "2026-10-04T14:43:06Z",
+      "source": "http://www.pannendakenvernieuwen.nl"
+    },
+    {
+      "id": 1312200,
+      "naam": "Schoppenboer Schoorsteentechniek",
+      "website": "http://www.schoppenboer.com",
+      "status": "dood",
+      "final": "https://www.schoppenboer.com",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:07Z",
+      "source": "http://www.schoppenboer.com"
+    },
+    {
+      "id": 1312658,
+      "naam": "Schut Rietdekkersbedrijf E",
+      "website": "http://www.schut-rietdekker.nl",
+      "status": "ok",
+      "final": "https://www.schut-rietdekker.nl/",
+      "checked_at": "2026-10-04T14:43:07Z",
+      "source": "http://www.schut-rietdekker.nl"
+    },
+    {
+      "id": 1312206,
+      "naam": "Max Frakking Timmerwerken",
+      "website": "http://www.maxfrakkingtimmerwerken.nl",
+      "status": "ok",
+      "final": "http://www.maxfrakkingtimmerwerken.nl",
+      "checked_at": "2026-10-04T14:43:07Z",
+      "source": "http://www.maxfrakkingtimmerwerken.nl"
+    },
+    {
+      "id": 1312660,
+      "naam": "Multysyst BV",
+      "website": "http://www.multysyst.nl",
+      "status": "ok",
+      "final": "http://www.multysyst.nl",
+      "checked_at": "2026-10-04T14:43:07Z",
+      "source": "http://www.multysyst.nl"
+    },
+    {
+      "id": 1312591,
+      "naam": "Deurhof & Boere",
+      "website": "http://www.deurhof-boere.nl",
+      "status": "dood",
+      "final": "https://www.deurhof-boere.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:07Z",
+      "source": "http://www.deurhof-boere.nl"
+    },
+    {
+      "id": 1312622,
+      "naam": "Vermunt BV",
+      "website": "http://www.vermuntwagenberg.nl",
+      "status": "ok",
+      "final": "https://www.vermuntwagenberg.nl",
+      "checked_at": "2026-10-04T14:43:08Z",
+      "source": "http://www.vermuntwagenberg.nl"
+    },
+    {
+      "id": 1312642,
+      "naam": "Altor",
+      "website": "http://www.altor-schoorsteenveger.nl",
+      "status": "ok",
+      "final": "https://altor-schoorsteenveger.nl/",
+      "checked_at": "2026-10-04T14:43:08Z",
+      "source": "http://www.altor-schoorsteenveger.nl"
+    },
+    {
+      "id": 1312657,
+      "naam": "Rossen Lei-Dakdekkersbedrijf",
+      "website": "http://www.leien-dak.nl",
+      "status": "ok",
+      "final": "https://www.leien-dak.nl/",
+      "checked_at": "2026-10-04T14:43:08Z",
+      "source": "http://www.leien-dak.nl"
+    },
+    {
+      "id": 1312329,
+      "naam": "Schoonmaakbedrijf SOM",
+      "website": "http://www.smb-som.com",
+      "status": "ok",
+      "final": "https://www.smb-som.com/",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.smb-som.com"
+    },
+    {
+      "id": 1312328,
+      "naam": "Schoorsteenveger Zeeland",
+      "website": "http://www.schoorsteenveger-zeeland.nl",
+      "status": "ander_domein",
+      "final": "https://ple4.info/",
+      "reason": "unrelated redirect schoorsteenveger-zeeland.nl → ple4.info",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.schoorsteenveger-zeeland.nl"
+    },
+    {
+      "id": 1312365,
+      "naam": "Rietdekbedrijf Bergambacht",
+      "website": "http://www.rietdekbedrijfbergambacht.nl",
+      "status": "dood",
+      "final": "https://www.rietdekbedrijfbergambacht.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.rietdekbedrijfbergambacht.nl"
+    },
+    {
+      "id": 1312661,
+      "naam": "Ben vd Meijden BV Bouw- en Montagebedrijf",
+      "website": "http://www.benvandermeijden.nl",
+      "status": "ok",
+      "final": "https://benvandermeijden.nl/",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.benvandermeijden.nl"
+    },
+    {
+      "id": 1312193,
+      "naam": "Dakbedekkingsbedrijf Zanten BV T M van",
+      "website": "http://www.tmvanzantenbv.nl",
+      "status": "ok",
+      "final": "http://www.tmvanzantenbv.nl",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.tmvanzantenbv.nl"
+    },
+    {
+      "id": 1312553,
+      "naam": "Rietdekkersbedrijf Velthuizen G J van",
+      "website": "http://www.velthuizenrietdekkers.nl",
+      "status": "spam",
+      "final": "https://www.velthuizenrietdekkers.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.velthuizenrietdekkers.nl"
+    },
+    {
+      "id": 1312458,
+      "naam": "Degenaar Gevelonderhoud BV / DGR-ABC",
+      "website": "http://www.degenaar.nl",
+      "status": "ok",
+      "final": "http://www.degenaar.nl",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.degenaar.nl"
+    },
+    {
+      "id": 1312484,
+      "naam": "Dekkers Steigerverhuur",
+      "website": "http://www.rmdekkers.nl",
+      "status": "dood",
+      "final": "https://www.rmdekkers.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.rmdekkers.nl"
+    },
+    {
+      "id": 1312485,
+      "naam": "Dekkers Voegersbedrijf",
+      "website": "http://www.rmdekkers.nl",
+      "status": "dood",
+      "final": "https://www.rmdekkers.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.rmdekkers.nl"
+    },
+    {
+      "id": 1312292,
+      "naam": "Radder Dakservice",
+      "website": "http://www.radderdakservice.nl",
+      "status": "spam",
+      "final": "https://bakeryproduction.net/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.radderdakservice.nl"
+    },
+    {
+      "id": 1312325,
+      "naam": "Zanddorp Schoorsteenveegbedrijf 't",
+      "website": "http://www.zanddorp.nl",
+      "status": "ok",
+      "final": "https://zanddorp.nl/",
+      "checked_at": "2026-10-04T14:43:10Z",
+      "source": "http://www.zanddorp.nl"
+    },
+    {
+      "id": 1312176,
+      "naam": "Schoorsteenveegbedrijf Joop van Leeuwen",
+      "website": "http://www.joopvanleeuwen.nl",
+      "status": "ok",
+      "final": "https://www.joopvanleeuwen.nl/",
+      "checked_at": "2026-10-04T14:43:10Z",
+      "source": "http://www.joopvanleeuwen.nl"
+    },
+    {
+      "id": 1312454,
+      "naam": "Eshadak",
+      "website": "http://www.eshadak.nl",
+      "status": "ok",
+      "final": "https://www.eshadak.nl/",
+      "checked_at": "2026-10-04T14:43:11Z",
+      "source": "http://www.eshadak.nl"
+    },
+    {
+      "id": 1312202,
+      "naam": "ESS Eerste Soester Schoonmaakbedrijf",
+      "website": "http://www.eerstesoester.nl",
+      "status": "ok",
+      "final": "https://eerstesoester.nl/",
+      "checked_at": "2026-10-04T14:43:12Z",
+      "source": "http://www.eerstesoester.nl"
+    },
+    {
+      "id": 1312457,
+      "naam": "Firma Westenberg",
+      "website": "http://www.dehoutkachel.nl",
+      "status": "ok",
+      "final": "https://dehoutkachel.nl/",
+      "checked_at": "2026-10-04T14:43:12Z",
+      "source": "http://www.dehoutkachel.nl"
+    },
+    {
+      "id": 1312405,
+      "naam": "Feije Schoorsteenvegerij",
+      "website": "http://www.feije.nl",
+      "status": "dood",
+      "final": "https://www.feije.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:12Z",
+      "source": "http://www.feije.nl"
+    },
+    {
+      "id": 1312107,
+      "naam": "Groenehuizen Dakwerken BV",
+      "website": "http://www.groenehuizen.nl",
+      "status": "ok",
+      "final": "http://www.groenehuizen.nl",
+      "checked_at": "2026-10-04T14:43:12Z",
+      "source": "http://www.groenehuizen.nl"
+    },
+    {
+      "id": 1312480,
+      "naam": "Duinoord Schoorsteentechniek",
+      "website": "http://www.duinoord-schoorsteentechniek.nl",
+      "status": "ok",
+      "final": "https://duinoord-schoorsteentechniek.nl/",
+      "checked_at": "2026-10-04T14:43:13Z",
+      "source": "http://www.duinoord-schoorsteentechniek.nl"
+    },
+    {
+      "id": 1312479,
+      "naam": "Duinoord Gebr Knops",
+      "website": "http://www.duinoord-schoorsteentechniek.nl",
+      "status": "ok",
+      "final": "https://duinoord-schoorsteentechniek.nl/",
+      "checked_at": "2026-10-04T14:43:13Z",
+      "source": "http://www.duinoord-schoorsteentechniek.nl"
+    },
+    {
+      "id": 1312229,
+      "naam": "Busch Schoorsteentechniek",
+      "website": "http://www.buschschoorsteentechniek.nl",
+      "status": "dood",
+      "final": "https://www.buschschoorsteentechniek.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:13Z",
+      "source": "http://www.buschschoorsteentechniek.nl"
+    },
+    {
+      "id": 1312463,
+      "naam": "Rook Alert Schoorsteenveegbedrijf",
+      "website": "http://www.rookalert.nl",
+      "status": "ok",
+      "final": "https://www.rookalert.nl/",
+      "checked_at": "2026-10-04T14:43:14Z",
+      "source": "http://www.rookalert.nl"
+    },
+    {
+      "id": 1312481,
+      "naam": "Hennink Installatietechniek BV W M",
+      "website": "http://www.hennink.info",
+      "status": "ok",
+      "final": "https://hennink.info/",
+      "checked_at": "2026-10-04T14:43:14Z",
+      "source": "http://www.hennink.info"
+    },
+    {
+      "id": 1312363,
+      "naam": "Schoorsteenvegerij Bezuidenhout",
+      "website": "http://www.schoorsteenvegerij.nl",
+      "status": "ok",
+      "final": "https://schoorsteenvegerij.nl/",
+      "checked_at": "2026-10-04T14:43:14Z",
+      "source": "http://www.schoorsteenvegerij.nl"
+    },
+    {
+      "id": 1312490,
+      "naam": "Wijk Loodgietersbedrijf BV Van",
+      "website": "http://www.vanwijkbv.nl",
+      "status": "ander_domein",
+      "final": "https://www.hoppenbrouwerstechniek.nl/",
+      "reason": "unrelated redirect vanwijkbv.nl → hoppenbrouwerstechniek.nl",
+      "checked_at": "2026-10-04T14:43:14Z",
+      "source": "http://www.vanwijkbv.nl"
+    },
+    {
+      "id": 1312491,
+      "naam": "Frielink Schoorsteencontrole",
+      "website": "http://www.schoorsteencontrole.nl",
+      "status": "ok",
+      "final": "http://www.schoorsteencontrole.nl",
+      "checked_at": "2026-10-04T14:43:15Z",
+      "source": "http://www.schoorsteencontrole.nl"
+    },
+    {
+      "id": 1312080,
+      "naam": "Gebroeders Rijgersberg",
+      "website": "http://www.rijgersbergdakwerken.nl",
+      "status": "ok",
+      "final": "https://www.rijgersbergdakwerken.nl/",
+      "checked_at": "2026-10-04T14:43:15Z",
+      "source": "http://www.rijgersbergdakwerken.nl"
+    },
+    {
+      "id": 1312469,
+      "naam": "Rias BV",
+      "website": "http://www.riasbv.nl",
+      "status": "verhuisd",
+      "url": "https://www.rias-bv.com/",
+      "final": "https://www.rias-bv.com/",
+      "reason": "riasbv.nl → rias-bv.com",
+      "checked_at": "2026-10-04T14:43:15Z",
+      "source": "http://www.riasbv.nl"
+    },
+    {
+      "id": 1312489,
+      "naam": "Dakdekkers- en Timmerbedrijf Wasserthal",
+      "website": "http://www.dakdekkersdordrecht.nl",
+      "status": "ok",
+      "final": "https://www.dakdekkersdordrecht.nl/",
+      "checked_at": "2026-10-04T14:43:16Z",
+      "source": "http://www.dakdekkersdordrecht.nl"
+    },
+    {
+      "id": 1312460,
+      "naam": "Overgaag BV Loodgietersbedrijf Ben",
+      "website": "http://www.benovergaag.nl",
+      "status": "ok",
+      "final": "https://www.benovergaag.nl/",
+      "checked_at": "2026-10-04T14:43:16Z",
+      "source": "http://www.benovergaag.nl"
+    },
+    {
+      "id": 1312498,
+      "naam": "Plas Dakbedekking Lood en Zinkwerk Van der",
+      "website": "http://www.plasdak.nl",
+      "status": "ok",
+      "final": "https://www.plasdak.nl/",
+      "checked_at": "2026-10-04T14:43:16Z",
+      "source": "http://www.plasdak.nl"
+    },
+    {
+      "id": 1312459,
+      "naam": "Baggerman Den Haag",
+      "website": "http://www.baggermandenhaag.nl",
+      "status": "ok",
+      "final": "https://baggermandenhaag.nl/",
+      "checked_at": "2026-10-04T14:43:16Z",
+      "source": "http://www.baggermandenhaag.nl"
+    },
+    {
+      "id": 1312504,
+      "naam": "Rog Onderhoudsbedrijf VOF",
+      "website": "http://www.rogvof.nl",
+      "status": "dood",
+      "final": "https://www.rogvof.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:16Z",
+      "source": "http://www.rogvof.nl"
+    },
+    {
+      "id": 1312290,
+      "naam": "Zirkzee Dakwerken",
+      "website": "http://www.zirkzeebouw.nl",
+      "status": "ok",
+      "final": "https://www.zirkzeebouw.nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.zirkzeebouw.nl"
+    },
+    {
+      "id": 1312160,
+      "naam": "Den Hartog Riet BV Rietdekkersbedrijf",
+      "website": "http://www.hartogriet.nl",
+      "status": "ok",
+      "final": "https://www.hartogriet.nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.hartogriet.nl"
+    },
+    {
+      "id": 1312500,
+      "naam": "Install Tech BV",
+      "website": "http://www.installtech.nl",
+      "status": "ok",
+      "final": "https://www.installtech.nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.installtech.nl"
+    },
+    {
+      "id": 1312066,
+      "naam": "Steevens Schoorsteenvegersbedrijf",
+      "website": "http://www.schoorsteenveger-steevens.nl",
+      "status": "ok",
+      "final": "https://schoorsteenveger-steevens.nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.schoorsteenveger-steevens.nl"
+    },
+    {
+      "id": 1312086,
+      "naam": "Array Industries",
+      "website": "http://www.arrayindustries.com",
+      "status": "ok",
+      "final": "https://arrayindustries.com/nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.arrayindustries.com"
+    },
+    {
+      "id": 1312367,
+      "naam": "Dako Dakbedekkingen",
+      "website": "http://www.dakodak.nl",
+      "status": "ok",
+      "final": "https://www.dakodak.nl/",
+      "checked_at": "2026-10-04T14:43:17Z",
+      "source": "http://www.dakodak.nl"
+    },
+    {
+      "id": 1312288,
+      "naam": "Baggerman Fa",
+      "website": "http://www.fabaggerman.nl",
+      "status": "ok",
+      "final": "https://www.fabaggerman.nl/",
+      "checked_at": "2026-10-04T14:43:18Z",
+      "source": "http://www.fabaggerman.nl"
+    },
+    {
+      "id": 1312455,
+      "naam": "Reroofing Van der Spiegel",
+      "website": "http://www.reroofing.eu",
+      "status": "ok",
+      "final": "https://www.reroofing.eu/",
+      "checked_at": "2026-10-04T14:43:18Z",
+      "source": "http://www.reroofing.eu"
+    },
+    {
+      "id": 1312359,
+      "naam": "Boomgaardshoek Schoorsteenveegbedrijf",
+      "website": "http://www.boomgaardshoek.nl",
+      "status": "ander_domein",
+      "final": "https://www.wivon.nl/boomgaardshoek/",
+      "reason": "unrelated redirect boomgaardshoek.nl → wivon.nl",
+      "checked_at": "2026-10-04T14:43:18Z",
+      "source": "http://www.boomgaardshoek.nl"
+    },
+    {
+      "id": 1312468,
+      "naam": "Schouw Schoorsteenveegbedrijf De",
+      "website": "http://www.de-schouw.nl",
+      "status": "ok",
+      "final": "https://www.de-schouw.nl/",
+      "checked_at": "2026-10-04T14:43:18Z",
+      "source": "http://www.de-schouw.nl"
+    },
+    {
+      "id": 1312088,
+      "naam": "Kenro Dakbedekkingen",
+      "website": "http://www.kenro.nl",
+      "status": "ok",
+      "final": "https://www.kenro.nl/home.html",
+      "checked_at": "2026-10-04T14:43:19Z",
+      "source": "http://www.kenro.nl"
+    },
+    {
+      "id": 1312362,
+      "naam": "Berg Rijnmond Schoorsteenvegersbedrijf",
+      "website": "http://www.berg-rijnmond.nl",
+      "status": "ok",
+      "final": "https://www.berg-rijnmond.nl/",
+      "checked_at": "2026-10-04T14:43:19Z",
+      "source": "http://www.berg-rijnmond.nl"
+    },
+    {
+      "id": 1312083,
+      "naam": "Berg-Rijnmond",
+      "website": "http://www.berg-rijnmond.nl",
+      "status": "ok",
+      "final": "https://www.berg-rijnmond.nl/",
+      "checked_at": "2026-10-04T14:43:19Z",
+      "source": "http://www.berg-rijnmond.nl"
+    },
+    {
+      "id": 1312087,
+      "naam": "Berg Schoorsteenbouw BV Van den",
+      "website": "http://www.arrayindustries.com",
+      "status": "ok",
+      "final": "https://arrayindustries.com/nl/",
+      "checked_at": "2026-10-04T14:43:19Z",
+      "source": "http://www.arrayindustries.com"
+    },
+    {
+      "id": 1312461,
+      "naam": "Berghout Loodgietersbedrijf Arnold",
+      "website": "http://www.arnoldberghout.nl",
+      "status": "ok",
+      "final": "http://www.arnoldberghout.nl",
+      "checked_at": "2026-10-04T14:43:19Z",
+      "source": "http://www.arnoldberghout.nl"
+    },
+    {
+      "id": 1312085,
+      "naam": "Waakvlam Schoorsteenvegersbedrijf De",
+      "website": "http://www.dewaakvlam.com",
+      "status": "ok",
+      "final": "http://www.dewaakvlam.com",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.dewaakvlam.com"
+    },
+    {
+      "id": 1312366,
+      "naam": "Griffioen De Openhaardencentrum",
+      "website": "http://www.griffioenrotterdam.nl",
+      "status": "ok",
+      "final": "https://www.griffioenrotterdam.nl/nl/home",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.griffioenrotterdam.nl"
+    },
+    {
+      "id": 1312473,
+      "naam": "Griffioen Schoorsteenvegersbedrijf De",
+      "website": "http://www.griffioenrotterdam.nl",
+      "status": "ok",
+      "final": "https://www.griffioenrotterdam.nl/nl/home",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.griffioenrotterdam.nl"
+    },
+    {
+      "id": 1312508,
+      "naam": "Kreemer Schoorsteenveegbedrijf",
+      "website": "http://www.svbkreemer.nl",
+      "status": "ok",
+      "final": "https://www.svbkreemer.nl/",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.svbkreemer.nl"
+    },
+    {
+      "id": 1312332,
+      "naam": "Dako Dakbedekking",
+      "website": "http://www.dakodak.nl",
+      "status": "ok",
+      "final": "https://www.dakodak.nl/",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.dakodak.nl"
+    },
+    {
+      "id": 1312476,
+      "naam": "Dakbedekkersbedrijf Schroevers BV",
+      "website": "http://www.mschroevers.nl",
+      "status": "ok",
+      "final": "https://www.mschroevers.nl/",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.mschroevers.nl"
+    },
+    {
+      "id": 1312472,
+      "naam": "Loodgietersbedrijf Schroevers BV",
+      "website": "http://www.mschroevers.nl",
+      "status": "ok",
+      "final": "https://www.mschroevers.nl/",
+      "checked_at": "2026-10-04T14:43:20Z",
+      "source": "http://www.mschroevers.nl"
+    },
+    {
+      "id": 1312470,
+      "naam": "Dak- en Gotenservice Mierop",
+      "website": "http://www.mierop.nl",
+      "status": "ok",
+      "final": "https://www.mierop.nl/",
+      "checked_at": "2026-10-04T14:43:21Z",
+      "source": "http://www.mierop.nl"
+    },
+    {
+      "id": 1312475,
+      "naam": "SVDM Dakbedekkingen BV",
+      "website": "http://www.dakonderhoud.nl",
+      "status": "dood",
+      "final": "https://www.dakonderhoud.nl",
+      "reason": " ",
+      "checked_at": "2026-10-04T14:43:21Z",
+      "source": "http://www.dakonderhoud.nl"
+    },
+    {
+      "id": 1312467,
+      "naam": "Schoorsteenvegerij De Populier",
+      "website": "http://www.de-populier.nl",
+      "status": "ok",
+      "final": "https://de-populier.nl/",
+      "checked_at": "2026-10-04T14:43:22Z",
+      "source": "http://www.de-populier.nl"
+    },
+    {
+      "id": 1312492,
+      "naam": "Elton - de Jong",
+      "website": "http://www.elton-schoorsteenvegen.nl",
+      "status": "ok",
+      "final": "https://www.elton-schoorsteenvegen.nl/",
+      "checked_at": "2026-10-04T14:43:22Z",
+      "source": "http://www.elton-schoorsteenvegen.nl"
+    },
+    {
+      "id": 1312488,
+      "naam": "Mulder en Zoon Th J",
+      "website": "http://www.thjmulder.nl",
+      "status": "ok",
+      "final": "https://thjmulder.nl/",
+      "checked_at": "2026-10-04T14:43:22Z",
+      "source": "http://www.thjmulder.nl"
+    },
+    {
+      "id": 1312456,
+      "naam": "Boom Onderhouds- & Servicebedrijf J & A",
+      "website": "http://www.jaboom.nl",
+      "status": "verhuisd",
+      "url": "https://boom-griffijn.nl/",
+      "final": "https://boom-griffijn.nl/",
+      "reason": "jaboom.nl → boom-griffijn.nl",
+      "checked_at": "2026-10-04T14:43:23Z",
+      "source": "http://www.jaboom.nl"
+    },
+    {
+      "id": 1312482,
+      "naam": "Riodak",
+      "website": "http://www.riodak.nl",
+      "status": "twijfel",
+      "final": "https://www.riodak.nl/",
+      "reason": "HTTP 503",
+      "checked_at": "2026-10-04T14:43:24Z",
+      "source": "http://www.riodak.nl"
+    }
+  ],
+  "by_status": {
+    "dood": 38,
+    "ok": 224,
+    "twijfel": 5,
+    "ander_domein": 13,
+    "spam": 9,
+    "verhuisd": 14,
+    "geblokkeerd": 8,
+    "geparkeerd": 1
+  },
+  "spam": [
+    {
+      "id": 1312572,
+      "naam": "Schippers Gevelrenovatie H J",
+      "website": "http://www.stucsteen.nl",
+      "status": "spam",
+      "final": "https://www.stucsteen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.stucsteen.nl"
+    },
+    {
+      "id": 1312180,
+      "naam": "Koppen Dakwerken Mat",
+      "website": "http://www.matkoppendakwerken.nl",
+      "status": "spam",
+      "final": "https://movingclassics.tv/classicpeople/austin-farwell/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:33Z",
+      "source": "http://www.matkoppendakwerken.nl"
+    },
+    {
+      "id": 1312077,
+      "naam": "Pro Sweep",
+      "website": "http://www.pro-sweep.nl",
+      "status": "spam",
+      "final": "https://bolaspaintball.top/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:38Z",
+      "source": "http://www.pro-sweep.nl"
+    },
+    {
+      "id": 1312215,
+      "naam": "Vereijken Dakwerken",
+      "website": "http://www.vereijkendakwerken.com",
+      "status": "spam",
+      "final": "https://viersprongwijchen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:49Z",
+      "source": "http://www.vereijkendakwerken.com"
+    },
+    {
+      "id": 1312412,
+      "naam": "Olphen Gevelonderhoud Buitenstucwerk J P van",
+      "website": "http://www.pjvanolphen.nl",
+      "status": "spam",
+      "final": "https://pjvanolphen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.pjvanolphen.nl"
+    },
+    {
+      "id": 1312402,
+      "naam": "Olphen Gevelreiniging en Voegwerken J P van",
+      "website": "http://www.pjvanolphen.nl",
+      "status": "spam",
+      "final": "https://pjvanolphen.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.pjvanolphen.nl"
+    },
+    {
+      "id": 1312583,
+      "naam": "Doldersum Schoorstenen-Kachels-Haarden VOF",
+      "website": "http://www.doldersumvof.nl",
+      "status": "spam",
+      "final": "https://slotozal77.top/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:03Z",
+      "source": "http://www.doldersumvof.nl"
+    },
+    {
+      "id": 1312553,
+      "naam": "Rietdekkersbedrijf Velthuizen G J van",
+      "website": "http://www.velthuizenrietdekkers.nl",
+      "status": "spam",
+      "final": "https://www.velthuizenrietdekkers.nl/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.velthuizenrietdekkers.nl"
+    },
+    {
+      "id": 1312292,
+      "naam": "Radder Dakservice",
+      "website": "http://www.radderdakservice.nl",
+      "status": "spam",
+      "final": "https://bakeryproduction.net/",
+      "reason": "gambling/adult/pharma signals",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.radderdakservice.nl"
+    }
+  ],
+  "geparkeerd": [
+    {
+      "id": 1312442,
+      "naam": "KroonTechniek BV",
+      "website": "http://www.kroontechniek.nl",
+      "status": "geparkeerd",
+      "final": "https://www.mooiedomeinnaam.nl/aanbod/kroontechniek.nl",
+      "reason": "parked host mooiedomeinnaam.nl",
+      "checked_at": "2026-10-04T14:42:58Z",
+      "source": "http://www.kroontechniek.nl"
+    }
+  ],
+  "ander_domein": [
+    {
+      "id": 1312232,
+      "naam": "Harskamp Daken BV",
+      "website": "http://www.harskampdaken.nl",
+      "status": "ander_domein",
+      "final": "https://www.daktecdolfsma.nl/",
+      "reason": "unrelated redirect harskampdaken.nl → daktecdolfsma.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.harskampdaken.nl"
+    },
+    {
+      "id": 1312516,
+      "naam": "Luinge Schoonmaakbedrijf BV",
+      "website": "http://www.luinge.nl",
+      "status": "ander_domein",
+      "final": "https://www.effektief.nl/",
+      "reason": "unrelated redirect luinge.nl → effektief.nl",
+      "checked_at": "2026-10-04T14:42:13Z",
+      "source": "http://www.luinge.nl"
+    },
+    {
+      "id": 1312283,
+      "naam": "Cekadak Beilen BV",
+      "website": "http://www.cekadak.nl",
+      "status": "ander_domein",
+      "final": "https://jalving.nl/",
+      "reason": "unrelated redirect cekadak.nl → jalving.nl",
+      "checked_at": "2026-10-04T14:42:14Z",
+      "source": "http://www.cekadak.nl"
+    },
+    {
+      "id": 1312569,
+      "naam": "Huitema Schoorsteen- en Kacheltechniek",
+      "website": "http://www.huitema-kachels.nl",
+      "status": "ander_domein",
+      "final": "https://www.speksteenkachel.nl/",
+      "reason": "unrelated redirect huitema-kachels.nl → speksteenkachel.nl",
+      "checked_at": "2026-10-04T14:42:15Z",
+      "source": "http://www.huitema-kachels.nl"
+    },
+    {
+      "id": 1312109,
+      "naam": "Hafkamp Installatietechniek BV",
+      "website": "http://www.hafkamp.nu",
+      "status": "ander_domein",
+      "final": "https://www.drmtechniek.com/",
+      "reason": "unrelated redirect hafkamp.nu → drmtechniek.com",
+      "checked_at": "2026-10-04T14:42:18Z",
+      "source": "http://www.hafkamp.nu"
+    },
+    {
+      "id": 1312244,
+      "naam": "Benedict Lasbedrijf B",
+      "website": "http://www.benedict.nl",
+      "status": "ander_domein",
+      "final": "https://nl.linkedin.com/in/roelbenedict/nl",
+      "reason": "unrelated redirect benedict.nl → nl.linkedin.com",
+      "checked_at": "2026-10-04T14:42:42Z",
+      "source": "http://www.benedict.nl"
+    },
+    {
+      "id": 1312246,
+      "naam": "Geraeds Pannendekkersbedrijf regio Prinsenbeek / Breda e.o.",
+      "website": "http://www.geraedsenzoon.nl",
+      "status": "ander_domein",
+      "final": "https://agenjudipremium.com/",
+      "reason": "unrelated redirect geraedsenzoon.nl → agenjudipremium.com",
+      "checked_at": "2026-10-04T14:42:47Z",
+      "source": "http://www.geraedsenzoon.nl"
+    },
+    {
+      "id": 1312175,
+      "naam": "All Repair",
+      "website": "http://www.all-repair.nl",
+      "status": "ander_domein",
+      "final": "https://www.deklusvrouw.nl/",
+      "reason": "unrelated redirect all-repair.nl → deklusvrouw.nl",
+      "checked_at": "2026-10-04T14:42:50Z",
+      "source": "http://www.all-repair.nl"
+    },
+    {
+      "id": 1312368,
+      "naam": "De Warmtespecialist Ruud van Erve",
+      "website": "http://www.aspb.nl",
+      "status": "ander_domein",
+      "final": "https://www.schoorsteenveger.nl/",
+      "reason": "unrelated redirect aspb.nl → schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:42:52Z",
+      "source": "http://www.aspb.nl"
+    },
+    {
+      "id": 1312448,
+      "naam": "De Baan schoorsteenvegersbedrijf",
+      "website": "http://www.aspb.nl",
+      "status": "ander_domein",
+      "final": "https://www.schoorsteenveger.nl/",
+      "reason": "unrelated redirect aspb.nl → schoorsteenveger.nl",
+      "checked_at": "2026-10-04T14:43:00Z",
+      "source": "http://www.aspb.nl"
+    },
+    {
+      "id": 1312328,
+      "naam": "Schoorsteenveger Zeeland",
+      "website": "http://www.schoorsteenveger-zeeland.nl",
+      "status": "ander_domein",
+      "final": "https://ple4.info/",
+      "reason": "unrelated redirect schoorsteenveger-zeeland.nl → ple4.info",
+      "checked_at": "2026-10-04T14:43:09Z",
+      "source": "http://www.schoorsteenveger-zeeland.nl"
+    },
+    {
+      "id": 1312490,
+      "naam": "Wijk Loodgietersbedrijf BV Van",
+      "website": "http://www.vanwijkbv.nl",
+      "status": "ander_domein",
+      "final": "https://www.hoppenbrouwerstechniek.nl/",
+      "reason": "unrelated redirect vanwijkbv.nl → hoppenbrouwerstechniek.nl",
+      "checked_at": "2026-10-04T14:43:14Z",
+      "source": "http://www.vanwijkbv.nl"
+    },
+    {
+      "id": 1312359,
+      "naam": "Boomgaardshoek Schoorsteenveegbedrijf",
+      "website": "http://www.boomgaardshoek.nl",
+      "status": "ander_domein",
+      "final": "https://www.wivon.nl/boomgaardshoek/",
+      "reason": "unrelated redirect boomgaardshoek.nl → wivon.nl",
+      "checked_at": "2026-10-04T14:43:18Z",
+      "source": "http://www.boomgaardshoek.nl"
+    }
+  ]
+}

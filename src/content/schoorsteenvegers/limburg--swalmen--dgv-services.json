@@ -11,8 +11,12 @@
   "website": "http://www.dgv-services.nl",
   "lat": 51.234465,
   "lon": 6.032852,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/swalmen/dgv-services/",
   "meta_title": "DGV Services 0475-785697",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Swalmen? ✅  DGV Services"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Swalmen? ✅  DGV Services",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

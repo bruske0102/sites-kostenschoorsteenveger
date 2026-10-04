@@ -10,8 +10,12 @@
   "telefoon": "078-6765414",
   "lat": 51.783803,
   "lon": 4.518849,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/maasdam/kranendonk-p/",
   "meta_title": "Kranendonk P 078-6765414",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maasdam? ✅  Kranendonk P"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Maasdam? ✅  Kranendonk P",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

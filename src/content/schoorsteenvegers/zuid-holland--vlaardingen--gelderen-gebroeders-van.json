@@ -10,8 +10,12 @@
   "telefoon": "010-4742858",
   "lat": 51.927065,
   "lon": 4.345056,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/vlaardingen/gelderen-gebroeders-van/",
   "meta_title": "Gelderen Gebroeders Van 010-4742858",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Gelderen Gebroeders Van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Vlaardingen? ✅  Gelderen Gebroeders Van",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

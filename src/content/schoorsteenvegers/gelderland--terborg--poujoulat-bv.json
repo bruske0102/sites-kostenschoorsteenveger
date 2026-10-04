@@ -10,8 +10,12 @@
   "telefoon": "0315-340050",
   "lat": 51.917129,
   "lon": 6.34933,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/terborg/poujoulat-bv/",
   "meta_title": "Poujoulat BV 0315-340050",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Terborg? ✅  Poujoulat BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Terborg? ✅  Poujoulat BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "0341-561094",
   "lat": 52.290168,
   "lon": 5.609374,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/ermelo/stoutenbourg-bv/",
   "meta_title": "Stoutenbourg BV 0341-561094",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ermelo? ✅  Stoutenbourg BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ermelo? ✅  Stoutenbourg BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -10,8 +10,12 @@
   "telefoon": "06-14016233",
   "lat": 52.035135,
   "lon": 4.275077,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/den-haag/haaglanden-onderhoudsgroep-bv/",
   "meta_title": "Haaglanden Onderhoudsgroep BV 06-14016233",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Haaglanden Onderhoudsgroep BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Haaglanden Onderhoudsgroep BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

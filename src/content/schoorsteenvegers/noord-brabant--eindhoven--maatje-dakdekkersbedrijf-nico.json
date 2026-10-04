@@ -10,7 +10,7 @@
   "telefoon": "040-2623080",
   "lat": 51.4792,
   "lon": 5.42244,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/eindhoven/maatje-dakdekkersbedrijf-nico/",
   "email": "info@nicomaatjedakwerken.nl",
   "omschrijving": "Gespecialiseerd in pannendakken\n\n Wat wij doen:\nNico Maatje Dak- en Isolatiewerken is gestart in 1985 als eenmansbedrijf en is door de jaren heen gegroeid tot een organisatie die zich hoofdzakelijk bezig houdt met enerzijds nieuwbouw vrije sector woningen en anderzijds met al dan niet grootschalige renovatieprojecten van pannendaken, zinken goten, schoorstenen (bovendaks), geïsoleerde dakelementen en dakvensters.\n\nOok bitumineuze dakwerken voeren wij uit, zowel kleinschalig als projectmatig, doch wel de kleinere segmenten, zoals bergingen carports dakkapellen e.d.\nBezoek onze website: http://nicomaatjedakwerken.nl/ Service :\nhttp://nicomaatjedakwerken.nl/\n\n Doelgroep :\nBedrijven, Particulieren\n\n Diensten :\nDakafwerking, Dakdekken, Dakinspectie, Daklekkage, Dakonderhoud, Dakrenovatie, Dakreparatie\n\n Specialisatie :\nBitumen dakbedekking, Boeidelen, Dakgoot, Dakisolatie, Dakplaten, Dakraam, Kleisteen / schalie dakbedekking, Kunststof dakbedekking (EPDM / PVC / TPE), Loodwerk en zinkwerk, Pannendak, Plat dak, Schoorsteen, Geïsoleerde dakelementen en dakvensters\n\n Aangesloten bij / Certificering :\nHet Hellende Dak (HHD), KOMO procescertificaat (IKOB-BKB), Stichting Dakmeester promoot en bevordert de kwaliteit van het Hellende Dak.",
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Maatje Dakdekkersbedrijf Nico 040-2623080 info@nicomaatjedakwerken.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Maatje Dakdekkersbedrijf Nico"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Maatje Dakdekkersbedrijf Nico",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

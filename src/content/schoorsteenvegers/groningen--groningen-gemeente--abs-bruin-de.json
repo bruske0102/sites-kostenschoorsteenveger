@@ -10,8 +10,12 @@
   "telefoon": "050-5412186",
   "lat": 53.245929,
   "lon": 6.597676,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/groningen-gemeente/abs-bruin-de/",
   "meta_title": "ABS Bruin De 050-5412186",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  ABS Bruin De"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Groningen (gemeente)? ✅  ABS Bruin De",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/eindhoven/greven-dakbedekkingsbedrijf-h/",
   "meta_title": "Greven Dakbedekkingsbedrijf H 040-8482150",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Eindhoven? ✅  Greven Dakbedekkingsbedrijf H",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

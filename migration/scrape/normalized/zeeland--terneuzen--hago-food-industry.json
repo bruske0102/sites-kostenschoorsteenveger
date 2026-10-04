@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/terneuzen/hago-food-industry/",
   "meta_title": "Hago food & industry 0115-687470",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Terneuzen? ✅  Hago food & industry",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

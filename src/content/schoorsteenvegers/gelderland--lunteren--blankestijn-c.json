@@ -10,8 +10,12 @@
   "telefoon": "0318-302342",
   "lat": 52.085196,
   "lon": 5.620041,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/lunteren/blankestijn-c/",
   "meta_title": "Blankestijn C 0318-302342",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Lunteren? ✅  Blankestijn C"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Lunteren? ✅  Blankestijn C",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

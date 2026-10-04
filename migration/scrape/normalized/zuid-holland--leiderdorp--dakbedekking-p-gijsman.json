@@ -21,7 +21,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/leiderdorp/dakbedekking-p-gijsman/",
   "meta_title": "Dakbedekking P Gijsman 071-5820521 gijsmandakbedekking@live.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leiderdorp? ✅  Dakbedekking P Gijsman",
@@ -30,5 +30,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

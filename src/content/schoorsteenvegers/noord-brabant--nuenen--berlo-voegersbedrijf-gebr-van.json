@@ -10,7 +10,7 @@
   "telefoon": "06-53286992",
   "lat": 51.465198,
   "lon": 5.533856,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/nuenen/berlo-voegersbedrijf-gebr-van/",
   "omschrijving": "- Gevelrestauratie - Voegwerken\n- Renovatie - Gevelreiniging\n- Impregneren\n\n bgg : 040-2831679\n\n Wat wij doen:\nvoegwerken zowel nieuwbouw als restauratie al meer dan 30 jaar ervaring!! Openingstijden:\n Met Feestdagen Gesloten : 09:00 - 18:00 Service :\nAlleen op afspraak, Geen voorrijkosten, Gratis offerte\n\n Diensten :\nGevelreiniging\n\n Specialisme :\ninpregneren van gevels, ook nieuwbouw projecten.!, restauratie gevel, restauratie van schoorstenen, restauratie voegwerk",
   "kenmerken": {
@@ -19,5 +19,9 @@
     ]
   },
   "meta_title": "Berlo Voegersbedrijf Gebr Van 06-53286992",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nuenen? ✅  Berlo Voegersbedrijf Gebr Van"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nuenen? ✅  Berlo Voegersbedrijf Gebr Van",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

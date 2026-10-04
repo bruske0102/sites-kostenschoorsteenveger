@@ -24,7 +24,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/overijssel/nieuwleusen/rietdekkersbedrijf-ben-vd-berg/",
   "meta_title": "Rietdekkersbedrijf Ben vd Berg 0529-481123",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwleusen? ✅  Rietdekkersbedrijf Ben vd Berg",
@@ -33,5 +33,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

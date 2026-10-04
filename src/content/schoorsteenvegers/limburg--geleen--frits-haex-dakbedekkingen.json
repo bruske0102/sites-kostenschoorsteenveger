@@ -10,8 +10,12 @@
   "telefoon": "046-4744514",
   "lat": 50.967645,
   "lon": 5.839086,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/geleen/frits-haex-dakbedekkingen/",
   "meta_title": "Frits Haex Dakbedekkingen 046-4744514",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geleen? ✅  Frits Haex Dakbedekkingen"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Geleen? ✅  Frits Haex Dakbedekkingen",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

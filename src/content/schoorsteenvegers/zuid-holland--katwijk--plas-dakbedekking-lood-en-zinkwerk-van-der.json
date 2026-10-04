@@ -11,9 +11,13 @@
   "website": "http://www.plasdak.nl",
   "lat": 52.198215,
   "lon": 4.408789,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/katwijk/plas-dakbedekking-lood-en-zinkwerk-van-der/",
   "omschrijving": "Specialisatie :\nSchoorsteen",
   "meta_title": "Plas Dakbedekking Lood en Zinkwerk Van der 06-12880392",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Katwijk? ✅  Plas Dakbedekking Lood en Zinkwerk Van der"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Katwijk? ✅  Plas Dakbedekking Lood en Zinkwerk Van der",
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
+  }
 }

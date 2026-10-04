@@ -11,9 +11,13 @@
   "website": "http://www.dezwartewolf.nl",
   "lat": 53.07335119999999,
   "lon": 6.960726700000009,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/nieuwe-pekela/de-zwarte-wolf/",
   "email": "Maurice@dezwartewolf.nl",
   "meta_title": "De Zwarte Wolf 0653524217 Maurice@dezwartewolf.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwe Pekela? ✅  De Zwarte Wolf"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Nieuwe Pekela? ✅  De Zwarte Wolf",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

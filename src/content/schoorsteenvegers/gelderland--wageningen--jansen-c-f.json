@@ -10,8 +10,12 @@
   "telefoon": "0317-424304",
   "lat": 51.98531,
   "lon": 5.646365,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/wageningen/jansen-c-f/",
   "meta_title": "Jansen C F 0317-424304",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  Jansen C F"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Wageningen? ✅  Jansen C F",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

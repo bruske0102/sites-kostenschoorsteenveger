@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/amersfoort/aad-amersfoortse-algemene-dakbedekkingen/",
   "meta_title": "AAD Amersfoortse Algemene Dakbedekkingen 06-55345641 a.a.d.amersfoort@casema.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amersfoort? ✅  AAD Amersfoortse Algemene Dakbedekkingen",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

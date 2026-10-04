@@ -23,7 +23,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/hendrik-ido-ambacht/svdm-dakbedekkingen-bv/",
   "meta_title": "SVDM Dakbedekkingen BV 078-6823042",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Hendrik-Ido-Ambacht? ✅  SVDM Dakbedekkingen BV",
@@ -32,5 +32,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

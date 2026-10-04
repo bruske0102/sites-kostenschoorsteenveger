@@ -1,1 +1,1120 @@
-{}
+{
+"1312117": {
+"status": "dood",
+"final": "https://www.schoorsteenvegerij.com",
+"reason": " "
+},
+"1312335": {
+"status": "ok"
+},
+"1312182": {
+"status": "ok"
+},
+"1312338": {
+"status": "twijfel",
+"final": "http://www.kernebeekmetselwerken.nl",
+"reason": "HTTP 502"
+},
+"1312521": {
+"status": "dood",
+"final": "https://www.rietdekkersbedrijf-lugtmeijer.nl",
+"reason": " "
+},
+"2409154": {
+"status": "ok"
+},
+"1312075": {
+"status": "ok"
+},
+"1312232": {
+"status": "ander_domein",
+"final": "https://www.daktecdolfsma.nl/",
+"reason": "unrelated redirect harskampdaken.nl → daktecdolfsma.nl"
+},
+"1312425": {
+"status": "ok"
+},
+"1312115": {
+"status": "ok"
+},
+"1312516": {
+"status": "ander_domein",
+"final": "https://www.effektief.nl/",
+"reason": "unrelated redirect luinge.nl → effektief.nl"
+},
+"1312669": {
+"status": "ok"
+},
+"1312522": {
+"status": "ok"
+},
+"1312570": {
+"status": "ok"
+},
+"1312283": {
+"status": "ander_domein",
+"final": "https://jalving.nl/",
+"reason": "unrelated redirect cekadak.nl → jalving.nl"
+},
+"1312572": {
+"status": "spam",
+"final": "https://www.stucsteen.nl/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312118": {
+"status": "ok"
+},
+"1312663": {
+"status": "ok"
+},
+"1312208": {
+"status": "ok"
+},
+"1312666": {
+"status": "dood",
+"final": "https://www.edplanting.nl",
+"reason": " "
+},
+"1312212": {
+"status": "ok"
+},
+"1312181": {
+"status": "ok"
+},
+"1312307": {
+"status": "ok"
+},
+"1312569": {
+"status": "ander_domein",
+"final": "https://www.speksteenkachel.nl/",
+"reason": "unrelated redirect huitema-kachels.nl → speksteenkachel.nl"
+},
+"1312209": {
+"status": "ok"
+},
+"1312116": {
+"status": "ok"
+},
+"1312210": {
+"status": "ok"
+},
+"1312574": {
+"status": "ok"
+},
+"2409485": {
+"status": "ok"
+},
+"2409484": {
+"status": "ok"
+},
+"1312523": {
+"status": "ok"
+},
+"1312348": {
+"status": "ok"
+},
+"1312573": {
+"status": "ok"
+},
+"1312563": {
+"status": "ok"
+},
+"1312268": {
+"status": "ok"
+},
+"1312276": {
+"status": "dood",
+"final": "https://www.gelderseschoorsteenveegcentrale.nl",
+"reason": " "
+},
+"1312192": {
+"status": "ok"
+},
+"1312531": {
+"status": "ok"
+},
+"1312534": {
+"status": "ok"
+},
+"1312113": {
+"status": "ok"
+},
+"1312109": {
+"status": "ander_domein",
+"final": "https://www.drmtechniek.com/",
+"reason": "unrelated redirect hafkamp.nu → drmtechniek.com"
+},
+"1312546": {
+"status": "ok"
+},
+"1312227": {
+"status": "verhuisd",
+"url": "https://www.schoorsteenveegbedrijf.nl/",
+"final": "https://www.schoorsteenveegbedrijf.nl/",
+"reason": "schoorsteenveegbedrijfengels.nl → schoorsteenveegbedrijf.nl"
+},
+"1312538": {
+"status": "ok"
+},
+"1312270": {
+"status": "ok"
+},
+"1312262": {
+"status": "ok"
+},
+"1312552": {
+"status": "dood",
+"final": "https://www.schoorsteenveegbedrijfvdhoorn.nl",
+"reason": " "
+},
+"1312547": {
+"status": "ok"
+},
+"1312304": {
+"status": "ok"
+},
+"1312305": {
+"status": "ok"
+},
+"1312551": {
+"status": "ok"
+},
+"1312579": {
+"status": "ok"
+},
+"1312584": {
+"status": "dood",
+"final": "https://www.schoorsteenveger.af.nl",
+"reason": " "
+},
+"1312555": {
+"status": "ok"
+},
+"1312358": {
+"status": "ok"
+},
+"1312536": {
+"status": "ok"
+},
+"1312414": {
+"status": "ok"
+},
+"1312127": {
+"status": "ok"
+},
+"1312549": {
+"status": "verhuisd",
+"url": "https://www.blokkerdaksystemen.nl/",
+"final": "https://www.blokkerdaksystemen.nl/",
+"reason": "dakdenker.nl → blokkerdaksystemen.nl"
+},
+"1312253": {
+"status": "ok"
+},
+"1312261": {
+"status": "ok"
+},
+"1312556": {
+"status": "ok"
+},
+"1312670": {
+"status": "ok"
+},
+"1312466": {
+"status": "dood",
+"final": "https://www.trompenvaneck.nl",
+"reason": " "
+},
+"1312554": {
+"status": "ok"
+},
+"1312589": {
+"status": "ok"
+},
+"1312190": {
+"status": "ok"
+},
+"1312592": {
+"status": "verhuisd",
+"url": "https://www.ekogras.info/",
+"final": "https://www.ekogras.info/",
+"reason": "ekogras.com → ekogras.info"
+},
+"1312346": {
+"status": "ok"
+},
+"1312306": {
+"status": "ok"
+},
+"1312067": {
+"status": "dood",
+"final": "https://www.dezwartewolf.nl",
+"reason": " "
+},
+"1312299": {
+"status": "ok"
+},
+"1312530": {
+"status": "ok"
+},
+"1312072": {
+"status": "verhuisd",
+"url": "https://www.brandtonderhoudreparatie.nl/",
+"final": "https://www.brandtonderhoudreparatie.nl/",
+"reason": "bdto.nl → brandtonderhoudreparatie.nl"
+},
+"1312351": {
+"status": "ok"
+},
+"1312324": {
+"status": "ok"
+},
+"1312187": {
+"status": "ok"
+},
+"1312298": {
+"status": "dood",
+"final": "http://www.klusschoorsteenveegbedrijfjd.nl",
+"reason": "HTTP 404"
+},
+"1312355": {
+"status": "twijfel",
+"final": "http://www.vanharenschoorsteenveegbedrijf.nl",
+"reason": "HTTP 500"
+},
+"1312580": {
+"status": "ok"
+},
+"1312354": {
+"status": "ok"
+},
+"1312186": {
+"status": "ok"
+},
+"1312345": {
+"status": "dood",
+"final": "https://koster-installatietechniek.nl/",
+"reason": "HTTP 410"
+},
+"1312361": {
+"status": "ok"
+},
+"1312183": {
+"status": "ok"
+},
+"1312157": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312197": {
+"status": "dood",
+"final": "https://www.rogersoonsdakservice.nl",
+"reason": " "
+},
+"1312336": {
+"status": "ok"
+},
+"1312147": {
+"status": "ok"
+},
+"1312356": {
+"status": "ok"
+},
+"1312146": {
+"status": "ok"
+},
+"1312151": {
+"status": "twijfel",
+"final": "http://www.bijlmakers.nl",
+"reason": "bijna lege response"
+},
+"1312265": {
+"status": "ok"
+},
+"1312154": {
+"status": "ok"
+},
+"1312150": {
+"status": "dood",
+"final": "https://www.bergenhuizendakwerken.nl",
+"reason": " "
+},
+"1312142": {
+"status": "dood",
+"final": "https://www.dakrdepauw.nl",
+"reason": " "
+},
+"1312260": {
+"status": "ok"
+},
+"1312144": {
+"status": "ok"
+},
+"1312155": {
+"status": "ok"
+},
+"1312671": {
+"status": "ok"
+},
+"1312263": {
+"status": "ok"
+},
+"1312284": {
+"status": "ok"
+},
+"1312152": {
+"status": "ok"
+},
+"1312158": {
+"status": "ok"
+},
+"1312180": {
+"status": "spam",
+"final": "https://movingclassics.tv/classicpeople/austin-farwell/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312149": {
+"status": "verhuisd",
+"url": "https://www.breman.nl/zakelijk/",
+"final": "https://www.breman.nl/zakelijk/",
+"reason": "bremangeelen.nl → breman.nl"
+},
+"1312256": {
+"status": "ok"
+},
+"1312161": {
+"status": "ok"
+},
+"1312163": {
+"status": "ok"
+},
+"1312239": {
+"status": "ok"
+},
+"1312178": {
+"status": "verhuisd",
+"url": "https://dakkapel-venlo.com/",
+"final": "https://dakkapel-venlo.com/",
+"reason": "basbosch.nl → dakkapel-venlo.com"
+},
+"1312216": {
+"status": "ok"
+},
+"1312228": {
+"status": "ok"
+},
+"1312541": {
+"status": "ok"
+},
+"1312632": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312238": {
+"status": "ok"
+},
+"1312082": {
+"status": "ok"
+},
+"1312507": {
+"status": "dood",
+"final": "https://www.schoorsteenveegbedrijfvannieuwenhoven.nl",
+"reason": " "
+},
+"1312091": {
+"status": "twijfel",
+"final": "http://www.denitoschoorsteen.nl",
+"reason": "HTTP 503"
+},
+"1312628": {
+"status": "ok"
+},
+"1312249": {
+"status": "ok"
+},
+"1312098": {
+"status": "ok"
+},
+"1312600": {
+"status": "dood",
+"final": "https://www.dakservicetotaal.nl",
+"reason": " "
+},
+"1312077": {
+"status": "spam",
+"final": "https://bolaspaintball.top/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312593": {
+"status": "ok"
+},
+"1312597": {
+"status": "ok"
+},
+"1312219": {
+"status": "dood",
+"final": "https://www.openhaardenwerk.nl",
+"reason": " "
+},
+"1312094": {
+"status": "ok"
+},
+"1312601": {
+"status": "ok"
+},
+"1312576": {
+"status": "ok"
+},
+"1312101": {
+"status": "ok"
+},
+"1312596": {
+"status": "ok"
+},
+"1312602": {
+"status": "ok"
+},
+"1312623": {
+"status": "ok"
+},
+"1312244": {
+"status": "ander_domein",
+"final": "https://nl.linkedin.com/in/roelbenedict/nl",
+"reason": "unrelated redirect benedict.nl → nl.linkedin.com"
+},
+"1312251": {
+"status": "ok"
+},
+"1312321": {
+"status": "ok"
+},
+"1312610": {
+"status": "ok"
+},
+"1312342": {
+"status": "dood",
+"final": "https://www.dentbouw.nl",
+"reason": " "
+},
+"1312065": {
+"status": "ok"
+},
+"1312608": {
+"status": "ok"
+},
+"1312607": {
+"status": "ok"
+},
+"1312606": {
+"status": "ok"
+},
+"1312337": {
+"status": "ok"
+},
+"1312172": {
+"status": "ok"
+},
+"1312273": {
+"status": "ok"
+},
+"1312246": {
+"status": "ander_domein",
+"final": "https://agenjudipremium.com/",
+"reason": "unrelated redirect geraedsenzoon.nl → agenjudipremium.com"
+},
+"1312665": {
+"status": "ok"
+},
+"1312064": {
+"status": "ok"
+},
+"1312248": {
+"status": "ok"
+},
+"1312612": {
+"status": "ok"
+},
+"1312213": {
+"status": "ok"
+},
+"1312141": {
+"status": "ok"
+},
+"1312166": {
+"status": "ok"
+},
+"1312171": {
+"status": "ok"
+},
+"1312215": {
+"status": "spam",
+"final": "https://viersprongwijchen.nl/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312603": {
+"status": "verhuisd",
+"url": "http://www.hetambachtonderhoud.nl/",
+"final": "http://www.hetambachtonderhoud.nl/",
+"reason": "hetambacht-west.nl → hetambachtonderhoud.nl"
+},
+"1312170": {
+"status": "ok"
+},
+"1312464": {
+"status": "dood",
+"final": "https://www.emwe-schoorsteenservice.nl",
+"reason": " "
+},
+"1312604": {
+"status": "ok"
+},
+"1312175": {
+"status": "ander_domein",
+"final": "https://www.deklusvrouw.nl/",
+"reason": "unrelated redirect all-repair.nl → deklusvrouw.nl"
+},
+"1312131": {
+"status": "dood",
+"final": "https://www.dmsuijkerbuijk.nl",
+"reason": " "
+},
+"1312380": {
+"status": "ok"
+},
+"1312370": {
+"status": "ok"
+},
+"1312383": {
+"status": "ok"
+},
+"1312382": {
+"status": "ok"
+},
+"1312390": {
+"status": "ok"
+},
+"1312619": {
+"status": "ok"
+},
+"1312384": {
+"status": "ok"
+},
+"1312318": {
+"status": "ok"
+},
+"1312381": {
+"status": "ok"
+},
+"1312314": {
+"status": "ok"
+},
+"1312368": {
+"status": "ander_domein",
+"final": "https://www.schoorsteenveger.nl/",
+"reason": "unrelated redirect aspb.nl → schoorsteenveger.nl"
+},
+"1312412": {
+"status": "spam",
+"final": "https://pjvanolphen.nl/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312402": {
+"status": "spam",
+"final": "https://pjvanolphen.nl/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312385": {
+"status": "ok"
+},
+"1312399": {
+"status": "verhuisd",
+"url": "https://www.schoorsteenvegerkuiper.nl/",
+"final": "https://www.schoorsteenvegerkuiper.nl/",
+"reason": "schoorsteenveger-kuiper.nl → schoorsteenvegerkuiper.nl"
+},
+"1312404": {
+"status": "geblokkeerd",
+"reason": "HTTP 429"
+},
+"1312168": {
+"status": "verhuisd",
+"url": "https://www.schmidt-schoorsteenwerken.nl/",
+"final": "https://www.schmidt-schoorsteenwerken.nl/",
+"reason": "openvuur.nl → schmidt-schoorsteenwerken.nl"
+},
+"1312387": {
+"status": "ok"
+},
+"1312416": {
+"status": "ok"
+},
+"1312415": {
+"status": "ok"
+},
+"1312417": {
+"status": "ok"
+},
+"1312431": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312434": {
+"status": "ok"
+},
+"1312413": {
+"status": "ok"
+},
+"1312369": {
+"status": "ok"
+},
+"1312375": {
+"status": "verhuisd",
+"url": "https://muijs.nl/",
+"final": "https://muijs.nl/",
+"reason": "martmuijs.nl → muijs.nl"
+},
+"1312252": {
+"status": "ok"
+},
+"1312426": {
+"status": "dood",
+"final": "https://www.mafo-dakwerk.nl",
+"reason": " "
+},
+"1312432": {
+"status": "ok"
+},
+"1312420": {
+"status": "ok"
+},
+"1312438": {
+"status": "ok"
+},
+"1312289": {
+"status": "ok"
+},
+"1312317": {
+"status": "ok"
+},
+"1312396": {
+"status": "ok"
+},
+"1312442": {
+"status": "geparkeerd",
+"final": "https://www.mooiedomeinnaam.nl/aanbod/kroontechniek.nl",
+"reason": "parked host mooiedomeinnaam.nl"
+},
+"1312373": {
+"status": "ok"
+},
+"1312444": {
+"status": "ok"
+},
+"1312392": {
+"status": "ok"
+},
+"1312443": {
+"status": "ok"
+},
+"1591633": {
+"status": "ok"
+},
+"1312445": {
+"status": "dood",
+"final": "https://www.firmasteenbakker.nl",
+"reason": " "
+},
+"1312446": {
+"status": "dood",
+"final": "https://www.firmasteenbakker.nl",
+"reason": " "
+},
+"1312594": {
+"status": "ok"
+},
+"1312315": {
+"status": "dood",
+"final": "https://www.robuitendaal.nl",
+"reason": " "
+},
+"1312447": {
+"status": "ok"
+},
+"1312271": {
+"status": "dood",
+"final": "https://www.glans-bv.nl",
+"reason": " "
+},
+"1312233": {
+"status": "ok"
+},
+"1312376": {
+"status": "ok"
+},
+"1312231": {
+"status": "ok"
+},
+"1312449": {
+"status": "ok"
+},
+"1312448": {
+"status": "ander_domein",
+"final": "https://www.schoorsteenveger.nl/",
+"reason": "unrelated redirect aspb.nl → schoorsteenveger.nl"
+},
+"1312165": {
+"status": "verhuisd",
+"url": "https://deback.nl/",
+"final": "https://deback.nl/",
+"reason": "back.nl → deback.nl"
+},
+"1312517": {
+"status": "ok"
+},
+"1312242": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312143": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312340": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312184": {
+"status": "geblokkeerd",
+"reason": "HTTP 403"
+},
+"1312636": {
+"status": "ok"
+},
+"1312581": {
+"status": "dood",
+"final": "https://www.schoorsteenvegen.net",
+"reason": " "
+},
+"1312614": {
+"status": "ok"
+},
+"1312230": {
+"status": "ok"
+},
+"1312226": {
+"status": "dood",
+"final": "https://www.spijkertechniek.nl",
+"reason": " "
+},
+"1312641": {
+"status": "dood",
+"final": "https://www.benvandenbergrietdekkersbedrijf.nl",
+"reason": " "
+},
+"1312668": {
+"status": "ok"
+},
+"1312302": {
+"status": "ok"
+},
+"1312634": {
+"status": "ok"
+},
+"1312583": {
+"status": "spam",
+"final": "https://slotozal77.top/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312105": {
+"status": "ok"
+},
+"1312673": {
+"status": "dood",
+"final": "https://zwolseschoorsteenveger.com",
+"reason": " "
+},
+"1312106": {
+"status": "ok"
+},
+"1312240": {
+"status": "verhuisd",
+"url": "https://folbert-haardhuys.nl/",
+"final": "https://folbert-haardhuys.nl/",
+"reason": "haardhuys.nl → folbert-haardhuys.nl"
+},
+"1312203": {
+"status": "ok"
+},
+"1312204": {
+"status": "ok"
+},
+"1312205": {
+"status": "ok"
+},
+"1312177": {
+"status": "dood",
+"final": "https://www.elbertseopenhaarden.nl",
+"reason": " "
+},
+"1312243": {
+"status": "ok"
+},
+"1312647": {
+"status": "ok"
+},
+"1312293": {
+"status": "ok"
+},
+"1312235": {
+"status": "ok"
+},
+"1312659": {
+"status": "ok"
+},
+"1312258": {
+"status": "ok"
+},
+"1312200": {
+"status": "dood",
+"final": "https://www.schoppenboer.com",
+"reason": " "
+},
+"1312658": {
+"status": "ok"
+},
+"1312206": {
+"status": "ok"
+},
+"1312660": {
+"status": "ok"
+},
+"1312591": {
+"status": "dood",
+"final": "https://www.deurhof-boere.nl",
+"reason": " "
+},
+"1312622": {
+"status": "ok"
+},
+"1312642": {
+"status": "ok"
+},
+"1312657": {
+"status": "ok"
+},
+"1312329": {
+"status": "ok"
+},
+"1312328": {
+"status": "ander_domein",
+"final": "https://ple4.info/",
+"reason": "unrelated redirect schoorsteenveger-zeeland.nl → ple4.info"
+},
+"1312365": {
+"status": "dood",
+"final": "https://www.rietdekbedrijfbergambacht.nl",
+"reason": " "
+},
+"1312661": {
+"status": "ok"
+},
+"1312193": {
+"status": "ok"
+},
+"1312553": {
+"status": "spam",
+"final": "https://www.velthuizenrietdekkers.nl/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312458": {
+"status": "ok"
+},
+"1312484": {
+"status": "dood",
+"final": "https://www.rmdekkers.nl",
+"reason": " "
+},
+"1312485": {
+"status": "dood",
+"final": "https://www.rmdekkers.nl",
+"reason": " "
+},
+"1312292": {
+"status": "spam",
+"final": "https://bakeryproduction.net/",
+"reason": "gambling/adult/pharma signals"
+},
+"1312325": {
+"status": "ok"
+},
+"1312176": {
+"status": "ok"
+},
+"1312454": {
+"status": "ok"
+},
+"1312202": {
+"status": "ok"
+},
+"1312457": {
+"status": "ok"
+},
+"1312405": {
+"status": "dood",
+"final": "https://www.feije.nl",
+"reason": " "
+},
+"1312107": {
+"status": "ok"
+},
+"1312480": {
+"status": "ok"
+},
+"1312479": {
+"status": "ok"
+},
+"1312229": {
+"status": "dood",
+"final": "https://www.buschschoorsteentechniek.nl",
+"reason": " "
+},
+"1312463": {
+"status": "ok"
+},
+"1312481": {
+"status": "ok"
+},
+"1312363": {
+"status": "ok"
+},
+"1312490": {
+"status": "ander_domein",
+"final": "https://www.hoppenbrouwerstechniek.nl/",
+"reason": "unrelated redirect vanwijkbv.nl → hoppenbrouwerstechniek.nl"
+},
+"1312491": {
+"status": "ok"
+},
+"1312080": {
+"status": "ok"
+},
+"1312469": {
+"status": "verhuisd",
+"url": "https://www.rias-bv.com/",
+"final": "https://www.rias-bv.com/",
+"reason": "riasbv.nl → rias-bv.com"
+},
+"1312489": {
+"status": "ok"
+},
+"1312460": {
+"status": "ok"
+},
+"1312498": {
+"status": "ok"
+},
+"1312459": {
+"status": "ok"
+},
+"1312504": {
+"status": "dood",
+"final": "https://www.rogvof.nl",
+"reason": " "
+},
+"1312290": {
+"status": "ok"
+},
+"1312160": {
+"status": "ok"
+},
+"1312500": {
+"status": "ok"
+},
+"1312066": {
+"status": "ok"
+},
+"1312086": {
+"status": "ok"
+},
+"1312367": {
+"status": "ok"
+},
+"1312288": {
+"status": "ok"
+},
+"1312455": {
+"status": "ok"
+},
+"1312359": {
+"status": "ander_domein",
+"final": "https://www.wivon.nl/boomgaardshoek/",
+"reason": "unrelated redirect boomgaardshoek.nl → wivon.nl"
+},
+"1312468": {
+"status": "ok"
+},
+"1312088": {
+"status": "ok"
+},
+"1312362": {
+"status": "ok"
+},
+"1312083": {
+"status": "ok"
+},
+"1312087": {
+"status": "ok"
+},
+"1312461": {
+"status": "ok"
+},
+"1312085": {
+"status": "ok"
+},
+"1312366": {
+"status": "ok"
+},
+"1312473": {
+"status": "ok"
+},
+"1312508": {
+"status": "ok"
+},
+"1312332": {
+"status": "ok"
+},
+"1312476": {
+"status": "ok"
+},
+"1312472": {
+"status": "ok"
+},
+"1312470": {
+"status": "ok"
+},
+"1312475": {
+"status": "dood",
+"final": "https://www.dakonderhoud.nl",
+"reason": " "
+},
+"1312467": {
+"status": "ok"
+},
+"1312492": {
+"status": "ok"
+},
+"1312488": {
+"status": "ok"
+},
+"1312456": {
+"status": "verhuisd",
+"url": "https://boom-griffijn.nl/",
+"final": "https://boom-griffijn.nl/",
+"reason": "jaboom.nl → boom-griffijn.nl"
+},
+"1312482": {
+"status": "twijfel",
+"final": "https://www.riodak.nl/",
+"reason": "HTTP 503"
+}
+}

@@ -10,8 +10,12 @@
   "telefoon": "0344-611867",
   "lat": 51.888198,
   "lon": 5.435544,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/tiel/vegu-onderhoud/",
   "meta_title": "Vegu Onderhoud 0344-611867",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tiel? ✅  Vegu Onderhoud"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tiel? ✅  Vegu Onderhoud",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

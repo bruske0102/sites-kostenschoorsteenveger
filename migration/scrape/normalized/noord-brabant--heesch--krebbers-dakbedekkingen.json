@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-brabant/heesch/krebbers-dakbedekkingen/",
   "meta_title": "Krebbers Dakbedekkingen 06-24291955",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heesch? ✅  Krebbers Dakbedekkingen",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

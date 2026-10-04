@@ -10,8 +10,12 @@
   "telefoon": "06-53335250",
   "lat": 52.420315,
   "lon": 4.65096,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/haarlem/wijckelsma-firma/",
   "meta_title": "Wijckelsma Firma 06-53335250",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Wijckelsma Firma"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlem? ✅  Wijckelsma Firma",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

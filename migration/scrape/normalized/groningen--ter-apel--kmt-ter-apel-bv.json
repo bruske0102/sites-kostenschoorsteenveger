@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/ter-apel/kmt-ter-apel-bv/",
   "meta_title": "KMT Ter Apel BV 0599-587085",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Ter Apel? ✅  KMT Ter Apel BV",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

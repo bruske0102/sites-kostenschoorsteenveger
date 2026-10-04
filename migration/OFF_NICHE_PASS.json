@@ -1,0 +1,173 @@
+{
+  "counts": {
+    "twijfel": 0,
+    "closed": 201,
+    "actief": 411
+  },
+  "reasons": {
+    "hard junk name": 92,
+    "twijfel → gesloten (no schoorsteen/veeg signal)": 109
+  },
+  "samples": [
+    {
+      "naam": "24-uurs Dakdekkersservice Drenthe",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Luinge Schoonmaakbedrijf BV",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Cekadak Beilen BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Harskamp Daken BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Handelsonderneming Langerak J",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Aardema Schilder/Stucadoor/Schoorsteenveg",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Lugtmeijer Rietdekkersbedrijf",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "24-uurs Dakdekkersservice Almere",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Boer-Alkema Schoonmaakbedrijf T de",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Boon H J vd",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "24-uurs Dakdekkersservice Friesland",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Jaap Derks",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Braaksma Gevelrenovatie",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Voegbedrijf ten Boom",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Spijksma Installatie Servicebedrijf",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Haan Rietdekkersbedrijf De",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "24-uurs Dakdekkersservice Apeldoorn",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "24-uurs Dakdekkersservice Arnhem",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Abondi Sciaroni",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Dakbedekking Heuveling",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Kamp Dakbedekking BV Bob vd",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "MCB Moors Constructie Bergharen BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Rietdekker Hietkamp H J",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "24-uurs Dakdekkersservice Doetinchem",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Dakdekkersbedrijf Rick van der Wal",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Bosch Intro vd",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Heide Smid BV De",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Gebr Schimmel",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Veldhuizen Installatiebedrijf BV H J van",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Rietdekkerij De",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Rietdekkersbedrijf Dijkerman",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Vuurke 't",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Dakdekkersbedrijf Tesse-Daken BV",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Stoutenbourg BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Vliek Rietdekker H J",
+      "reason": "hard junk name"
+    },
+    {
+      "naam": "Heide Smid BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Veggelers Sfeerverwarming D",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Blankestijn C",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "ThermAll BV",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    },
+    {
+      "naam": "Wetering Dienstverlening",
+      "reason": "twijfel → gesloten (no schoorsteen/veeg signal)"
+    }
+  ]
+}

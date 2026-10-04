@@ -11,9 +11,13 @@
   "website": "http://www.berg-rijnmond.nl",
   "lat": 51.891997,
   "lon": 4.50861,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/rotterdam/berg-rijnmond/",
   "email": "info@berg-rijnmond.nl",
   "meta_title": "Berg-Rijnmond 010-4846332 info@berg-rijnmond.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Berg-Rijnmond"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Rotterdam? ✅  Berg-Rijnmond",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

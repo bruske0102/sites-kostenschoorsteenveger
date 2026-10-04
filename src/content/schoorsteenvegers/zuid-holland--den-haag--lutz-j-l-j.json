@@ -10,8 +10,12 @@
   "telefoon": "070-3834086",
   "lat": 52.062202,
   "lon": 4.277146,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/den-haag/lutz-j-l-j/",
   "meta_title": "Lutz J L J 070-3834086",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Lutz J L J"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Lutz J L J",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

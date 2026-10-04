@@ -19,7 +19,7 @@
     "gemiddeld": 3.97,
     "aantal": 31
   },
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/amsterdam/emo-daktechniek-schoorstenen-pannen-nieuw-reparatie-h/",
   "meta_title": "Emo Daktechniek Schoorstenen-pannen Nieuw & Reparatie H 020-6938153",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Amsterdam? ✅  Emo Daktechniek Schoorstenen-pannen Nieuw & Reparatie H",
@@ -28,5 +28,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

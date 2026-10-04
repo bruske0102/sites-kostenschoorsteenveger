@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/utrecht/soest/ess-eerste-soester-schoonmaakbedrijf/",
   "meta_title": "ESS Eerste Soester Schoonmaakbedrijf 035-6013995",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Soest? ✅  ESS Eerste Soester Schoonmaakbedrijf",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

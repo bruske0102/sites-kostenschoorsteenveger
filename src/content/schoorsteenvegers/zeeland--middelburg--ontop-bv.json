@@ -10,7 +10,7 @@
   "telefoon": "0118-689900",
   "lat": 51.502019,
   "lon": 3.631191,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zeeland/middelburg/ontop-bv/",
   "email": "info.nl@metaloterm.com",
   "omschrijving": "RVS schoorstenen en rookgasafvoeren\n\nPostbus135, 4330AC, Middelburg\nhttp://www.metaloterm.com\n\nhttp://www.metaloterm.com\n\n [email protected]\n\n Wat wij doen:\nOntop B.V. is de Europese specialist op het gebied van rookgasafvoeren. Wij bieden u:\n\nmeer dan 40 jaar ervaring met het ontwerpen, produceren en distribueren van prefab modulaire rookgasafvoersystemen, moderne productiefaciliteiten, ISO 9001 gecertificeerd en producten voorzien van CE markering.\nEn meer... Specialiteiten :\nadvies, cad-tekeningen, rookgasafvoeren, rookgasafvoersystemen, testfaciliteiten\n\n Aangesloten bij / Certificering :\n9001",
@@ -20,5 +20,9 @@
     ]
   },
   "meta_title": "Ontop BV 0118-689900",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middelburg? ✅  Ontop BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Middelburg? ✅  Ontop BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

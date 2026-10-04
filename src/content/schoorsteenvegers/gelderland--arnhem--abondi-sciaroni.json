@@ -10,8 +10,12 @@
   "telefoon": "026-4421758",
   "lat": 51.980949,
   "lon": 5.921185,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/arnhem/abondi-sciaroni/",
   "meta_title": "Abondi Sciaroni 026-4421758",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Arnhem? ✅  Abondi Sciaroni"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Arnhem? ✅  Abondi Sciaroni",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

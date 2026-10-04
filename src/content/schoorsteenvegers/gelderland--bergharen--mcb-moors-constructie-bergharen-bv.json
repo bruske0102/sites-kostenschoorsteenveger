@@ -10,9 +10,13 @@
   "telefoon": "0487-531487",
   "lat": 51.850512,
   "lon": 5.658433,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/bergharen/mcb-moors-constructie-bergharen-bv/",
   "omschrijving": "Postbus10, 6617ZG, Bergharen\nhttp://www.moors.nl\n\n Wat wij doen:\nMoors Constructie en Machinebouw Bergharen BV. Een meer dan 100 jaar jong familiebedrijf met een enorm actieve vierde generatie Moors aan het roer. MCB is een dynamische, innovatieve en vooral toonaangevende factor in de staalverwerkingsbranche. Specialiteiten :\nEngineering, Staalconstructies, Hefdeuren, Speciale machinebouw, Transportbanden, Hefovenframes, Transportsystemen, Opslagsystemen, Schoorstenen, Bruggen\n\n Aangesloten bij / Certificering :\nKoninklijke Metaalunie, 9001:2000, VCA",
   "meta_title": "MCB Moors Constructie Bergharen BV 0487-531487",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Bergharen? ✅  MCB Moors Constructie Bergharen BV"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Bergharen? ✅  MCB Moors Constructie Bergharen BV",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

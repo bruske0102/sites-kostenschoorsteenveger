@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/groningen/leermens/bouwbedrijf-henk-slagter/",
   "meta_title": "Bouwbedrijf Henk Slagter 0596-623170 henk@bouwbedrijfhenkslagter.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leermens? ✅  Bouwbedrijf Henk Slagter",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

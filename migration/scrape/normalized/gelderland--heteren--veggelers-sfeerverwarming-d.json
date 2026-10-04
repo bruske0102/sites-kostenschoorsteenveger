@@ -16,7 +16,7 @@
   "openingstijden": null,
   "kenmerken": null,
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/gelderland/heteren/veggelers-sfeerverwarming-d/",
   "meta_title": "Veggelers Sfeerverwarming D 026-4723030",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Heteren? ✅  Veggelers Sfeerverwarming D",
@@ -25,5 +25,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

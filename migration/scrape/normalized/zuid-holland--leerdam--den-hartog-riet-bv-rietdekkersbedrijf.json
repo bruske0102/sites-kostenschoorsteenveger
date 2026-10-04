@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/leerdam/den-hartog-riet-bv-rietdekkersbedrijf/",
   "meta_title": "Den Hartog Riet BV Rietdekkersbedrijf 0345-549433 info@hartogriet.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Leerdam? ✅  Den Hartog Riet BV Rietdekkersbedrijf",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "hard junk name",
+    "pass": "off-niche-1c"
   }
 }

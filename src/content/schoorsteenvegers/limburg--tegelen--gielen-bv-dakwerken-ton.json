@@ -10,10 +10,14 @@
   "telefoon": "077-7119155",
   "lat": 51.340393,
   "lon": 6.128984,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/limburg/tegelen/gielen-bv-dakwerken-ton/",
   "email": "info@dakwerkentongielen.nl",
   "omschrijving": "Wat wij doen:\nGielen BV Dakwerken Ton",
   "meta_title": "Gielen BV Dakwerken Ton 077-7119155 info@dakwerkentongielen.nl",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tegelen? ✅  Gielen BV Dakwerken Ton"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Tegelen? ✅  Gielen BV Dakwerken Ton",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }

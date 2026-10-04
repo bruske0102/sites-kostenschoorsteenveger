@@ -20,7 +20,7 @@
     ]
   },
   "beoordeling": null,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/noord-holland/haarlemmerliede/molenaar-rietdekbedrijf-bv/",
   "meta_title": "Molenaar Rietdekbedrijf BV 023-5327583 molenaar.rietdekkers@ziggo.nl",
   "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Haarlemmerliede? ✅  Molenaar Rietdekbedrijf BV",
@@ -29,5 +29,9 @@
     "http_status": 200,
     "parsed_ok": true,
     "has_coords": true
+  },
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
   }
 }

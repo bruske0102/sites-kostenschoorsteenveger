@@ -11,10 +11,14 @@
   "website": "http://www.eshadak.nl",
   "lat": 52.05491,
   "lon": 4.317658,
-  "status": "actief",
+  "status": "gesloten",
   "oude_url": "/zuid-holland/den-haag/eshadak/",
   "email": "esha-dak@hotmail.com",
   "omschrijving": "[email protected]\n\n Wat wij doen:\nEshadak, voor al uw dakbdekkingen. Wij zijn specialist in lekkage en reparatie. Bel ons voor een vrijblijvend advies of voor het aanvragen van een offerte. Service :\nGratis advies, Gratis offerte\n\n Doelgroep :\nBedrijven, Particulieren",
   "meta_title": "Eshadak 06-48742445 esha-dak@hotmail.com",
-  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Eshadak"
+  "meta_description": "Op zoek naar een 🧹 Schoorsteenveger in Den Haag? ✅  Eshadak",
+  "_triage": {
+    "reason": "twijfel → gesloten (no schoorsteen/veeg signal)",
+    "pass": "off-niche-1c"
+  }
 }
