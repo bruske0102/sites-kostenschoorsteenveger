@@ -1,0 +1,44 @@
+{
+  "slug": "schoorsteenbrand-voorkomen",
+  "title": "Schoorsteenbrand voorkomen",
+  "meta_title": "Schoorsteenbrand voorkomen: vegen, droog hout & signalen",
+  "meta_description": "Schoorsteenbrand voorkomen: waarom creosoot gevaarlijk is, hoe vaak vegen, en welke signalen je serieus neemt.",
+  "author": "Redactie Kostenschoorsteenveger",
+  "excerpt": "Schoorsteenbrand ontstaat vaak door aanslag in het kanaal. Preventie is vegen plus goed stoken.",
+  "primary_keyword": "schoorsteenbrand",
+  "secondary_keywords": [
+    "schoorsteen vegen",
+    "hoe vaak schoorsteen vegen",
+    "co melder"
+  ],
+  "semrush": {
+    "database": "nl",
+    "volume": 390,
+    "kd": 18,
+    "support": "co melder 2900/33; schoorsteen vegen 720/26",
+    "note": "phrase_these 2026-10-05"
+  },
+  "faq": [
+    {
+      "q": "Wat doe ik bij een schoorsteenbrand?",
+      "a": "Bel 112, verlaat zo nodig de woning, sluit luchttoevoer volgens instructies van hulpdiensten. Dit is geen doe-het-zelf klus."
+    },
+    {
+      "q": "Helpt alleen een CO-melder?",
+      "a": "Een CO-melder is belangrijk, maar voorkomt geen schoorsteenbrand. Combineer met vegen en droog stoken."
+    },
+    {
+      "q": "Mag ik na een brand meteen weer stoken?",
+      "a": "Eerst laten inspecteren. Het kanaal kan beschadigd zijn."
+    }
+  ],
+  "content_html": "<p><strong>Schoorsteenbrand</strong> ontstaat wanneer afzettingen in het rookkanal ontbranden. Preventie: goed stoken en op tijd vegen.</p>\n\n<h2>Preventiechecklist</h2>\n<ul>\n<li>Droog, geschikt hout (of juiste pellets)</li>\n<li>Regelmatig <strong>schoorsteen vegen</strong></li>\n<li>CO-melder op de juiste plekken</li>\n<li>Geen natte resten of afval verbranden</li>\n</ul>\n\n<section class=\"faq\"><h2>Veelgestelde vragen</h2>\n<details><summary>Wat doe ik bij een schoorsteenbrand?</summary><p>Bel 112, verlaat zo nodig de woning, sluit luchttoevoer volgens instructies van hulpdiensten. Dit is geen doe-het-zelf klus.</p></details>\n<details><summary>Helpt alleen een CO-melder?</summary><p>Een CO-melder is belangrijk, maar voorkomt geen schoorsteenbrand. Combineer met vegen en droog stoken.</p></details>\n<details><summary>Mag ik na een brand meteen weer stoken?</summary><p>Eerst laten inspecteren. Het kanaal kan beschadigd zijn.</p></details>\n</section>\n\n<aside class=\"cta\">\n  <h2>Laat preventief vegen</h2>\n  <p>Zoek een schoorsteenveger vóór het stookseizoen.</p>\n  <p class=\"cta-links\"><a href=\"/zuid-holland/den-haag/\">Den Haag</a> · <a href=\"/noord-brabant/eindhoven/\">Eindhoven</a> · <a href=\"/noord-holland/haarlem/\">Haarlem</a> · <a href=\"/noord-holland/amsterdam/\">Amsterdam</a> · <a href=\"/zoeken/\">Zoeken</a></p>\n</aside>\n",
+  "date": "2026-10-05",
+  "modified": "2026-10-05",
+  "_status": "published",
+  "redirects_from": [],
+  "hero": {
+    "src": "schoorsteenbrand-voorkomen.jpg",
+    "alt": "Schoorsteenbrand voorkomen"
+  }
+}
