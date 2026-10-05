@@ -86,4 +86,27 @@ for (const p of m.plaatsenA.slice(0, 3)) {
   console.log(`${ok ? "OK" : "FAIL"} plaats ${pathStr} → ${r.code}`);
 }
 
+
+// Disclaimer: utility page only — noindex + not in sitemap (all niches / future scaffolds)
+{
+  const discPath = path.join(root, "src/pages/p/disclaimer/index.astro");
+  const redirPath = path.join(root, "src/integrations/redirects.mjs");
+  const disc = fs.readFileSync(discPath, "utf8");
+  const redir = fs.readFileSync(redirPath, "utf8");
+  const hasNoindex = /\bnoindex\b/.test(disc);
+  const inSitemap = /\$\{site\}\/p\/disclaimer\//.test(redir);
+  if (!hasNoindex) fail++;
+  console.log(`${hasNoindex ? "OK" : "FAIL"} disclaimer Layout noindex`);
+  if (inSitemap) fail++;
+  console.log(`${inSitemap ? "FAIL" : "OK"} disclaimer out of sitemap`);
+  const r = await probe("/p/disclaimer/");
+  if (r.code === 200) {
+    const html = await fetch(base + "/p/disclaimer/").then((x) => x.text());
+    const robots = /name=["']robots["'][^>]*content=["']noindex/i.test(html)
+      || /content=["']noindex[^"']*["'][^>]*name=["']robots["']/i.test(html);
+    if (!robots) fail++;
+    console.log(`${robots ? "OK" : "FAIL"} /p/disclaimer/ robots noindex,follow`);
+  }
+}
+
 process.exit(fail ? 1 : 0);
