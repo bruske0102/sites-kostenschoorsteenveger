@@ -39,13 +39,12 @@ export default function redirects() {
         logger.info(`towns: A ${m.plaatsenA.length}, B ${m.plaatsenB.length}`);
 
         const site = "https://kostenschoorsteenveger.nl";
-        // Indexable hubs only — skip /zoeken/ and form helpers (noindex).
+        // Indexable hubs only: skip /zoeken/, forms, and /p/disclaimer/ (noindex).
         const urls = new Set([
           `${site}/`,
           `${site}/blog/`,
           `${site}/contact/`,
           `${site}/bedrijf/toevoegen/`,
-          `${site}/p/disclaimer/`,
         ]);
         for (const p of m.plaatsenA) urls.add(`${site}${plaatsPad(p)}`);
         for (const p of m.plaatsenB) urls.add(`${site}${plaatsPad(p)}`);
