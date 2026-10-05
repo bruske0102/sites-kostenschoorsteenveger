@@ -55,6 +55,7 @@ const seoStad = p.naam;
 const title = isA
   ? cityPageTitle({ stad: seoStad, plaatsSlug: p.slug, n, aPlus })
   : `Schoorsteenveger ${seoStad}? ${listingCount(p.buren.length)} dichtbij`;
+const nearestBuren = !isA ? p.buren?.[0] : undefined;
 const description = isA
   ? cityPageDescription({
       stad: seoStad,
@@ -63,7 +64,9 @@ const description = isA
       provincieNaam: p.provincieNaam,
       aPlus,
     })
-  : `Geen schoorsteenveger in ${seoStad} zelf? De dichtstbijzijnde schoorsteenveger zit op ${p.buren[0].km < 10 ? p.buren[0].km.toFixed(1) : Math.round(p.buren[0].km)} km. Bekijk ${listingCount(p.buren.length)} in de buurt.`;
+  : nearestBuren
+    ? `Geen schoorsteenveger in ${seoStad} zelf? De dichtstbijzijnde schoorsteenveger zit op ${nearestBuren.km < 10 ? nearestBuren.km.toFixed(1) : Math.round(nearestBuren.km)} km. Bekijk ${listingCount(p.buren.length)} in de buurt.`
+    : `Geen schoorsteenveger in ${seoStad} zelf in onze gids. Bekijk plaatsen in de omgeving of zoek landelijk.`;
 
 const lead = isA
   ? `In ${tn} ${n === 1 ? "staat 1 schoorsteenveger" : `staan ${n} schoorsteenvegers`} in onze gids — met adres en telefoonnummer.`
@@ -123,11 +126,15 @@ const listItems = listings.map((s) => ({
       ) : (
         <section class="section" aria-labelledby="dichtbij">
           <h2 id="dichtbij">Dichtstbijzijnde schoorsteenvegers</h2>
-          <div class="stack">
-            {p.buren.map((b) => (
-              <SchoolCard s={b.shop} km={b.km} toonPlaats actions={false} />
-            ))}
-          </div>
+          {p.buren.length > 0 ? (
+            <div class="stack">
+              {p.buren.map((b) => (
+                <SchoolCard s={b.shop} km={b.km} toonPlaats actions={false} />
+              ))}
+            </div>
+          ) : (
+            <p class="note">Nog geen vestigingen binnen bereik in onze gids. Bekijk plaatsen in de omgeving of zoek landelijk.</p>
+          )}
           {p.dichtstbijePlaatsen?.length > 0 && (
             <p class="note" style="margin-top:1rem">
               Plaatsen met een eigen overzicht:
