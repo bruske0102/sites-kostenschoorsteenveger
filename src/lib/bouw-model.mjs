@@ -172,11 +172,14 @@ export function bouwModel({ listings, plaatsen, instellingen, websites = {}, cit
       continue;
     }
     const punt = { key, lat: p.lat, lon: p.lon };
+    const forceB = new Set(instellingen.groepB?.forcePlaatsen || []);
     const isB =
-      (p.adressen ?? 0) >= instellingen.groepB.minAdressen &&
-      (p.zoekvolume == null || p.zoekvolume >= instellingen.groepB.minZoekvolume);
+      forceB.has(key) ||
+      ((p.adressen ?? 0) >= instellingen.groepB.minAdressen &&
+        (p.zoekvolume == null || p.zoekvolume >= instellingen.groepB.minZoekvolume));
     const buren = dichtstbijShops(punt, instellingen.groepB.aantal, instellingen.groepB.maxKm);
-    if (isB && buren.length) {
+    // Bing URL continuity: forcePlaatsen keep a Group B hub even if no shops within maxKm.
+    if (isB && (buren.length || forceB.has(key))) {
       plaatsenB.push({
         groep: "B",
         key,

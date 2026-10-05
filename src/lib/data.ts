@@ -12,7 +12,7 @@ export const cities = citiesJson as City[];
 export const websites = websitesJson as Record<string, WebsiteCheck>;
 export const instellingen = instellingenJson as {
   site: { naam: string; url: string; email: string };
-  groepB: { minAdressen: number; minZoekvolume: number; aantal: number; maxKm: number };
+  groepB: { minAdressen: number; minZoekvolume: number; aantal: number; maxKm: number; forcePlaatsen?: string[]; _forcePlaatsen_uitleg?: string };
   omgeving: { max: number };
   redirects: Record<string, string>;
   samenvoegen: Record<string, string>;
