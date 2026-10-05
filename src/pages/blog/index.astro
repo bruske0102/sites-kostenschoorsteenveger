@@ -9,25 +9,33 @@ const posts = fs.existsSync(dir)
       .readdirSync(dir)
       .filter((f) => f.endsWith(".json"))
       .map((f) => JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")))
-      .sort((a, b) => String(a.title).localeCompare(String(b.title), "nl"))
+      .sort((a: { title: string }, b: { title: string }) =>
+        a.title.localeCompare(b.title, "nl"),
+      )
   : [];
 ---
 <Layout
-  title="Blog — Kostenschoorsteenveger.nl"
-  description="Gidsen over schoorsteenveger kiezen, specialisatie, diensten, extra diensten, praktische info en adressen in de buurt."
+  title="Blog & gidsen | Kostenschoorsteenveger.nl"
+  description="Gidsen over schoorsteenveger kiezen en kosten."
 >
   <header class="page-intro">
-    <h1>Blog</h1>
+    <h1 class="page-title">Blog &amp; gidsen</h1>
     <p class="lead">
-      Praktische uitleg over schoorsteenvegers in Nederland: specialisaties, intake en oriëntatie.
+      Praktische uitleg over schoorsteenvegers in Nederland.
     </p>
   </header>
-  <ul class="linklist">
-    {posts.map((p) => (
-      <li>
-        <a href={`/blog/${p.slug}/`}>{p.title}</a>
-        <span class="muted">{p.excerpt}</span>
-      </li>
-    ))}
-  </ul>
+  {posts.length > 0 ? (
+    <ul class="linklist">
+      {posts.map((p: { slug: string; title: string }) => (
+        <li>
+          <a href={`/blog/${p.slug}/`}>{p.title}</a>
+          <span class="count">gids</span>
+        </li>
+      ))}
+    </ul>
+  ) : (
+    <p class="note">
+      Nog geen artikelen. Zoek een <a href="/zoeken/">schoorsteenveger bij jou in de buurt</a>.
+    </p>
+  )}
 </Layout>
