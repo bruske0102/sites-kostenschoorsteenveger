@@ -89,9 +89,9 @@ const schema = [
             <span class="shop-btn__emoji" aria-hidden="true">📍</span> Route
           </a>
         )}
-        {website && (
-          <a class="shop-btn shop-btn--secondary" href={website} rel="nofollow noopener" target="_blank">Website</a>
-        )}
+        <a class="shop-btn shop-btn--offerte" href="/offerte/">
+          <span class="shop-btn__emoji" aria-hidden="true">📝</span> Offerte
+        </a>
         <a
           class="shop-btn shop-btn--wa"
           href={`https://wa.me/?text=${encodeURIComponent(`${title}\n${siteOrigin}${path}`)}`}
