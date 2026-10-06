@@ -8,13 +8,40 @@ import Layout from "../../layouts/Layout.astro";
   zoekbaar={false}
 >
   <p class="crumbs"><a href="/">Home</a> / Bedankt</p>
-  <h1>Je offerteaanvraag is ontvangen!</h1>
-  <p class="lead">
-    Bedankt voor je aanvraag. De schoorsteenvegers nemen zo snel mogelijk contact met je
-    op met gratis informatie en aanbiedingen.
-  </p>
-  <p class="hero-actions">
-    <a class="btn" href="/#provincies">Zoek een schoorsteenveger</a>
-    <a class="btn btn-ghost" href="/">Terug naar home</a>
-  </p>
+
+  <article class="offerte-thanks" data-pagefind-ignore>
+    <header class="page-intro">
+      <p class="offerte-kicker">Aanvraag ontvangen</p>
+      <h1 class="page-title">Bedankt, we zetten je klus uit</h1>
+      <p class="lead">
+        Schoorsteenvegers in jouw regio nemen zo snel mogelijk contact op met informatie
+        en vrijblijvende aanbiedingen.
+      </p>
+    </header>
+    <p class="hero-actions">
+      <a class="btn" href="/#provincies">Zoek een schoorsteenveger</a>
+      <a class="btn btn-ghost" href="/">Terug naar home</a>
+    </p>
+  </article>
 </Layout>
+
+<style>
+  .offerte-thanks {
+    max-width: 38rem;
+    margin: 0 auto 3rem;
+    animation: rise-in 0.45s ease-out both;
+  }
+
+  .offerte-kicker {
+    margin: 0 0 0.65rem;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .offerte-thanks .hero-actions {
+    margin-top: 1.5rem;
+  }
+</style>
