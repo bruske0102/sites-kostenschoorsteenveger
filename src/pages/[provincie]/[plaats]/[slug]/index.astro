@@ -7,6 +7,7 @@ import { listingCount } from "../../../../lib/nl-count";
 import SchoolCard from "../../../../components/SchoolCard.astro";
 import AffiliateTip from "../../../../components/AffiliateTip.astro";
 import AdSense from "../../../../components/AdSense.astro";
+import OfferteCta from "../../../../components/OfferteCta.astro";
 
 export function getStaticPaths() {
   const m = getModel();
@@ -171,6 +172,8 @@ const schema = [
           </div>
         </section>
       )}
+
+      <OfferteCta compact />
 
       {buren.length > 0 && (
         <section class="section" aria-labelledby="buurt">

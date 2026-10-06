@@ -1,0 +1,47 @@
+---
+/**
+ * Soft CTA to /offerte/ — city + listing pages.
+ */
+interface Props {
+  /** compact = single-line strip before a section */
+  compact?: boolean;
+}
+const { compact = false } = Astro.props;
+const label = "Vergelijk schoorsteenvegers of prijs";
+---
+{compact ? (
+  <p class="offerte-cta offerte-cta--compact">
+    <a class="btn" href="/offerte/">{label}</a>
+  </p>
+) : (
+  <aside class="offerte-cta" aria-label="Offertes vergelijken">
+    <p class="offerte-cta__lead">Gratis en vrijblijvend · binnen 2 minuten</p>
+    <a class="btn" href="/offerte/">{label}</a>
+  </aside>
+)}
+
+<style>
+  .offerte-cta {
+    margin: 1.25rem 0 1.5rem;
+    padding: 1.1rem 1.15rem;
+    background: color-mix(in srgb, var(--panel) 92%, var(--accent-soft));
+    border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+    border-radius: var(--radius);
+    max-width: 36rem;
+  }
+  .offerte-cta__lead {
+    margin: 0 0 0.65rem;
+    font-size: 0.92rem;
+    color: var(--muted);
+  }
+  .offerte-cta .btn {
+    display: inline-flex;
+  }
+  .offerte-cta--compact {
+    margin: 0 0 1.15rem;
+    padding: 0;
+    background: none;
+    border: 0;
+    max-width: none;
+  }
+</style>
