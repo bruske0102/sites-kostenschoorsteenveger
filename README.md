@@ -36,7 +36,7 @@ Blue CSS tokens (porcelain + cobalt) in `src/styles/global.css`. Brand mark: **Z
 ## Hosting
 
 GitHub: `bruske0102/sites-kostenschoorsteenveger` (site-only push at repo root). Worker name: `kostenschoorsteenveger`.  
-CF **Root directory = empty**. See `migration/GO_LIVE_NOW.md` for CF Worker + Builds, Email Routing, domain, GSC+Bing.
+**Live:** `https://kostenschoorsteenveger.nl/` — CF **Root directory = empty**. See `migration/GO_LIVE_NOW.md` for Email/GSC/Bing confirm.
 
 ## Locked decisions
 

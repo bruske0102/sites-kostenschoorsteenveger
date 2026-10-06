@@ -1,19 +1,19 @@
 # Kostenschoorsteenveger.nl — GO LIVE NOW
 
-Thomas: scrape + Semrush + heroes + Phase 1b when ready.  
-Agent has **no** Cloudflare / wrangler login → domain cutover is **your CF clicks**.
-
 | Gate | Status |
 |------|--------|
-| Niche scrub | **In progress** |
+| Niche scrub | **Done** — Semrush NL ship gate + junk 1c re-pass 2026-10-04 |
 | AdSense | **Done** — `ca-pub-1164977516474335` |
 | Email in config | **Done** — `info@kostenschoorsteenveger.nl` |
-| Scrape | **Running** — 1524 listing URLs |
-| Off-niche / Phase 1b / Semrush / heroes | Pending after scrape |
-| GitHub site-only | **Done** | `bruske0102/sites-kostenschoorsteenveger` `main` |
+| Scrape + 1c/1b + Semrush + heroes | **Done** |
+| GitHub site-only | **Done** — `bruske0102/sites-kostenschoorsteenveger` `main` |
 | CF Worker | `kostenschoorsteenveger` |
+| Custom domain | **Live** — `kostenschoorsteenveger.nl` (Thomas) |
 | Dev preview | `http://127.0.0.1:43861/` |
 
-Same CF click path as psycholoog1: Builds → Email Routing → custom domain → GSC + Bing.
+## Thomas — after domain
 
-Psych leftovers scrubbed; Semrush NL ship gate + junk 1c re-pass done 2026-10-04.
+- [ ] Cloudflare Email Routing → `info@kostenschoorsteenveger.nl`
+- [ ] Google Search Console property + sitemap submit
+- [ ] Bing Webmaster Tools sitemap submit
+- [ ] Confirm `https://kostenschoorsteenveger.nl/ads.txt` → **200** (AdSense)
