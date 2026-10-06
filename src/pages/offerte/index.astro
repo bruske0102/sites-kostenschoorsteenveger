@@ -5,9 +5,9 @@ import Layout from "../../layouts/Layout.astro";
   title="Gratis Schoorsteenveger Offertes Vergelijken"
   description="Vraag gratis en vrijblijvend offertes aan bij schoorsteenvegers in jouw regio. Beantwoord een paar korte vragen, binnen 2 minuten klaar."
   zoekbaar={false}
+  focus
+  ads={false}
 >
-  <p class="crumbs"><a href="/">Home</a> / Offerte</p>
-
   <article class="offerte-page" data-pagefind-ignore aria-labelledby="offerte-h1">
     <header class="page-intro offerte-intro">
       <p class="offerte-kicker">Gratis · Vrijblijvend</p>
@@ -61,8 +61,20 @@ import Layout from "../../layouts/Layout.astro";
 <style>
   .offerte-page {
     max-width: 42rem;
-    margin: 0 auto 3rem;
+    margin: 1.25rem auto 2.5rem;
     animation: rise-in 0.45s ease-out both;
+  }
+
+  :global(.focus-header .wrap) {
+    justify-content: center;
+  }
+
+  :global(.focus-header .brand) {
+    font-size: clamp(1.05rem, 2.2vw, 1.2rem);
+  }
+
+  :global(body.focus-page) {
+    min-height: 100vh;
   }
 
   .offerte-intro {

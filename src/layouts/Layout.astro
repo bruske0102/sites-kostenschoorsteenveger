@@ -17,6 +17,8 @@ interface Props {
   deelPrompt?: boolean;
   /** Load AdSense (Auto ads). Default on for indexable pages. */
   ads?: boolean;
+  /** Conversion focus: brand only, no nav/footer (e.g. /offerte/). */
+  focus?: boolean;
 }
 const {
   title,
@@ -26,7 +28,9 @@ const {
   zoekbaar = true,
   deelPrompt = false,
   ads = !noindex,
+  focus = false,
 } = Astro.props;
+const showAds = focus ? false : ads;
 const adsenseClient =
   instellingen.monetization?.adsense?.client || "ca-pub-1164977516474335";
 const siteNaam = instellingen.site.naam;
@@ -67,7 +71,7 @@ const nav = [
     {schema.length > 0 && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     )}
-    {ads && (
+    {showAds && (
       <script is:inline define:vars={{ adsenseClient }}>
         // Defer AdSense until idle so first paint stays fast
         const loadAds = () => {
@@ -90,78 +94,90 @@ const nav = [
     )}
     <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
   </head>
-  <body>
+  <body class={focus ? "focus-page" : undefined}>
     <a class="skip" href="#main">Naar de inhoud</a>
-    <header class="site-header">
-      <div class="wrap">
-        <a class="brand" href="/" aria-label={`${siteNaam}, naar home`}>
-          <span class="b-strong">Kosten</span><span class="b-mark">schoorsteenveger</span><span class="b-tld">.nl</span>
-        </a>
-        <nav class="nav" aria-label="Hoofdmenu">
-          {nav.map((item) => (
+    {focus ? (
+      <header class="site-header focus-header">
+        <div class="wrap">
+          <a class="brand" href="/" aria-label={`${siteNaam}, naar home`}>
+            <span class="b-strong">Kosten</span><span class="b-mark">schoorsteenveger</span><span class="b-tld">.nl</span>
+          </a>
+        </div>
+      </header>
+    ) : (
+      <header class="site-header">
+        <div class="wrap">
+          <a class="brand" href="/" aria-label={`${siteNaam}, naar home`}>
+            <span class="b-strong">Kosten</span><span class="b-mark">schoorsteenveger</span><span class="b-tld">.nl</span>
+          </a>
+          <nav class="nav" aria-label="Hoofdmenu">
+            {nav.map((item) => (
+              <a
+                href={item.href}
+                aria-current={
+                  ("home" in item && item.home && path === "/") ||
+                  (item.match && path.startsWith(item.match))
+                    ? "page"
+                    : undefined
+                }
+              >
+                {item.label}
+              </a>
+            ))}
             <a
-              href={item.href}
-              aria-current={
-                ("home" in item && item.home && path === "/") ||
-                (item.match && path.startsWith(item.match))
-                  ? "page"
-                  : undefined
-              }
-            >
-              {item.label}
-            </a>
-          ))}
-          <a
-            class="nav-cta"
-            href="/offerte/"
-            aria-current={path.startsWith("/offerte") ? "page" : undefined}
-          >Offerte</a>
-        </nav>
-      </div>
-    </header>
+              class="nav-cta"
+              href="/offerte/"
+              aria-current={path.startsWith("/offerte") ? "page" : undefined}
+            >Offerte</a>
+          </nav>
+        </div>
+      </header>
+    )}
     <div class="wrap">
       <main id="main" data-pagefind-body={zoekbaar ? "" : undefined}>
         <slot />
       </main>
     </div>
-    <footer class="site-footer">
-      <div class="wrap">
-        <div class="footer-top">
-          <div class="footer-brand">
-            <a class="brand" href="/">
-              <span class="b-strong">Kosten</span><span class="b-mark">schoorsteenveger</span><span class="b-tld">.nl</span>
-            </a>
-            <p>Vind een schoorsteenveger bij jou in de buurt — met adres, telefoon en route.</p>
+    {!focus && (
+      <footer class="site-footer">
+        <div class="wrap">
+          <div class="footer-top">
+            <div class="footer-brand">
+              <a class="brand" href="/">
+                <span class="b-strong">Kosten</span><span class="b-mark">schoorsteenveger</span><span class="b-tld">.nl</span>
+              </a>
+              <p>Vind een schoorsteenveger bij jou in de buurt — met adres, telefoon en route.</p>
+            </div>
+            <div class="footer-col">
+              <h2>Ontdekken</h2>
+              <ul>
+                <li><a href="/zoeken/">Zoeken</a></li>
+                <li><a href="/#provincies">Provincies</a></li>
+                <li><a href="/blog/">Blog &amp; gidsen</a></li>
+                <li><a href="/offerte/">Gratis offertes vergelijken</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h2>Voor praktijken</h2>
+              <ul>
+                <li><a href="/bedrijf/toevoegen/">Schoorsteenveger toevoegen</a></li>
+                <li><a href="/contact/">Contact</a></li>
+              </ul>
+            </div>
+            <div class="footer-col">
+              <h2>Info</h2>
+              <ul>
+                <li><a href="/p/disclaimer/">Privacy &amp; disclaimer</a></li>
+                <li><a href={`mailto:${siteEmail}`}>{siteEmail}</a></li>
+              </ul>
+            </div>
           </div>
-          <div class="footer-col">
-            <h2>Ontdekken</h2>
-            <ul>
-              <li><a href="/zoeken/">Zoeken</a></li>
-              <li><a href="/#provincies">Provincies</a></li>
-              <li><a href="/blog/">Blog &amp; gidsen</a></li>
-              <li><a href="/offerte/">Gratis offertes vergelijken</a></li>
-            </ul>
-          </div>
-          <div class="footer-col">
-            <h2>Voor praktijken</h2>
-            <ul>
-              <li><a href="/bedrijf/toevoegen/">Schoorsteenveger toevoegen</a></li>
-              <li><a href="/contact/">Contact</a></li>
-            </ul>
-          </div>
-          <div class="footer-col">
-            <h2>Info</h2>
-            <ul>
-              <li><a href="/p/disclaimer/">Privacy &amp; disclaimer</a></li>
-              <li><a href={`mailto:${siteEmail}`}>{siteEmail}</a></li>
-            </ul>
-          </div>
+          <p class="footer-legal">
+            © {new Date().getFullYear()} {siteNaam} · Onafhankelijke gids · Geen betaalde ranking
+          </p>
         </div>
-        <p class="footer-legal">
-          © {new Date().getFullYear()} {siteNaam} · Onafhankelijke gids · Geen betaalde ranking
-        </p>
-      </div>
-    </footer>
-    {deelPrompt && <ShareChip />}
+      </footer>
+    )}
+    {deelPrompt && !focus && <ShareChip />}
   </body>
 </html>
