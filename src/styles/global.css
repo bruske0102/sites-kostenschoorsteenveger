@@ -436,6 +436,26 @@ h3 { font-size: 1.12rem; font-weight: 700; }
   box-shadow: none;
 }
 .btn-ghost:hover { border-color: var(--accent); color: var(--accent-dark); background: #fff; }
+
+/* Amazon-style offerte CTA: #FFA41C × dark ink (~9:1) */
+.btn-offerte,
+a.btn-offerte {
+  background: #ffa41c;
+  color: #0f1111;
+  border-color: #e89512;
+  border-radius: 8px;
+  box-shadow: 0 2px 0 rgba(15, 17, 17, 0.12);
+  font-weight: 700;
+}
+.btn-offerte:hover,
+a.btn-offerte:hover {
+  background: #f3a012;
+  color: #0f1111;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px -4px rgba(255, 164, 28, 0.65);
+}
+.aside-card .btn-offerte { width: 100%; margin-top: 0.5rem; }
+
 .aside-card .btn { width: 100%; margin-top: 0.5rem; }
 .form .btn { width: auto; box-shadow: none; }
 

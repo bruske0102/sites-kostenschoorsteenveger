@@ -1,6 +1,7 @@
 ---
 /**
- * Soft CTA to /offerte/ — city + listing pages.
+ * Soft CTA to /offerte/ — city aside + listing pages.
+ * Amazon-style buy button: #FFA41C on dark ink (~9:1).
  */
 interface Props {
   /** compact = single-line strip before a section */
@@ -11,12 +12,12 @@ const label = "Vergelijk schoorsteenvegers of prijs";
 ---
 {compact ? (
   <p class="offerte-cta offerte-cta--compact">
-    <a class="btn" href="/offerte/">{label}</a>
+    <a class="btn btn-offerte" href="/offerte/">{label}</a>
   </p>
 ) : (
   <aside class="offerte-cta" aria-label="Offertes vergelijken">
     <p class="offerte-cta__lead">Gratis en vrijblijvend · binnen 2 minuten</p>
-    <a class="btn" href="/offerte/">{label}</a>
+    <a class="btn btn-offerte" href="/offerte/">{label}</a>
   </aside>
 )}
 
@@ -24,8 +25,8 @@ const label = "Vergelijk schoorsteenvegers of prijs";
   .offerte-cta {
     margin: 1.25rem 0 1.5rem;
     padding: 1.1rem 1.15rem;
-    background: color-mix(in srgb, var(--panel) 92%, var(--accent-soft));
-    border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+    background: color-mix(in srgb, var(--panel) 92%, #fff4e0);
+    border: 1px solid color-mix(in srgb, var(--line) 80%, #ffd89a);
     border-radius: var(--radius);
     max-width: 36rem;
   }
@@ -34,7 +35,7 @@ const label = "Vergelijk schoorsteenvegers of prijs";
     font-size: 0.92rem;
     color: var(--muted);
   }
-  .offerte-cta .btn {
+  .offerte-cta .btn-offerte {
     display: inline-flex;
   }
   .offerte-cta--compact {
