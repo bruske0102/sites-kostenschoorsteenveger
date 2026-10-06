@@ -12,6 +12,8 @@ export default defineConfig({
   // Static preview needs this; Worker also 301s via redirects.json / instellingen.redirects
   redirects: {
     "/cookies/": "/p/disclaimer/",
+    "/p/Gratis-Schoorsteenveger-Offertes-Vergelijken/": "/offerte/",
+    "/p/bedankt/": "/bedankt/",
   },
   integrations: [redirects()],
   server: {

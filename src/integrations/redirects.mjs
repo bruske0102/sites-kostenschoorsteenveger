@@ -45,6 +45,7 @@ export default function redirects() {
           `${site}/blog/`,
           `${site}/contact/`,
           `${site}/bedrijf/toevoegen/`,
+          `${site}/offerte/`,
         ]);
         for (const p of m.plaatsenA) urls.add(`${site}${plaatsPad(p)}`);
         for (const p of m.plaatsenB) urls.add(`${site}${plaatsPad(p)}`);

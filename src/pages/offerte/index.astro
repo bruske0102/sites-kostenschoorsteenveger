@@ -1,0 +1,40 @@
+---
+import Layout from "../../layouts/Layout.astro";
+---
+<Layout
+  title="Gratis schoorsteenveger offertes vergelijken"
+  description="Vraag gratis en vrijblijvend offertes aan bij schoorsteenvegers in jouw regio. Beantwoord een paar korte vragen, binnen 2 minuten klaar."
+  zoekbaar={false}
+>
+  <p class="crumbs"><a href="/">Home</a> / Offerte</p>
+  <section class="section" aria-labelledby="offerte-h1" data-pagefind-ignore>
+    <div class="section-head">
+      <h1 id="offerte-h1">Vergelijk gratis schoorsteenveger-offertes</h1>
+      <p>
+        Beantwoord een paar korte vragen over je klus. Je ontvangt daarna vrijblijvend
+        offertes van schoorsteenvegers uit jouw regio.
+      </p>
+    </div>
+    <p class="muted" style="margin: 0 0 1.25rem">Gratis · Vrijblijvend · Binnen 2 minuten klaar</p>
+    <>
+      <script
+        is:inline
+        src="https://slimster.nl/embed/7ddf31c3-0ad3-11ea-a8a7-56169779ad4b/embed.js"
+        type="application/javascript"></script>
+      <div id="slimster-form-container" style="width:100%;height: 400px"></div>
+      <script is:inline>
+        var slimster = new SlimsterEmbed(
+          "Roofing",
+          "https://kostenschoorsteenveger.nl/bedankt",
+          true,
+          true,
+        );
+        slimster.embed("slimster-form-container");
+      </script>
+    </>
+    <p class="muted small" style="margin-top: 1rem">
+      Beveiligde verbinding. Je aanvraag wordt verwerkt door onze partner Slimster en
+      alleen gedeeld met schoorsteenvegers die bij je klus passen.
+    </p>
+  </section>
+</Layout>

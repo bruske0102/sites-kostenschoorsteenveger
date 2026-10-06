@@ -19,7 +19,9 @@
   "redirects": {
     "/cookies/": "/p/disclaimer/",
     "/sitemap.xml": "/sitemap-index.xml",
-    "/sitemap.xml/": "/sitemap-index.xml"
+    "/sitemap.xml/": "/sitemap-index.xml",
+    "/p/Gratis-Schoorsteenveger-Offertes-Vergelijken/": "/offerte/",
+    "/p/bedankt/": "/bedankt/"
   },
   "samenvoegen": {},
   "web3forms": {
